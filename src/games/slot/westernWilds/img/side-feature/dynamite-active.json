@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "dynamite-active_00024.png",
+	"frame": {"x":1,"y":1,"w":101,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":113},
+	"sourceSize": {"w":101,"h":113},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "dynamite-active_00025.png",
+	"frame": {"x":104,"y":1,"w":101,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":113},
+	"sourceSize": {"w":101,"h":113},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "dynamite-active_00026.png",
+	"frame": {"x":207,"y":1,"w":101,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":113},
+	"sourceSize": {"w":101,"h":113},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "dynamite-active_00027.png",
+	"frame": {"x":310,"y":1,"w":101,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":113},
+	"sourceSize": {"w":101,"h":113},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "dynamite-active_00028.png",
+	"frame": {"x":413,"y":1,"w":101,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":113},
+	"sourceSize": {"w":101,"h":113},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "dynamite-active_00029.png",
+	"frame": {"x":516,"y":1,"w":101,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":113},
+	"sourceSize": {"w":101,"h":113},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "dynamite-active_00030.png",
+	"frame": {"x":619,"y":1,"w":101,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":113},
+	"sourceSize": {"w":101,"h":113},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "dynamite-active_00031.png",
+	"frame": {"x":722,"y":1,"w":101,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":113},
+	"sourceSize": {"w":101,"h":113},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dynamite-active.png",
+	"format": "RGBA8888",
+	"size": {"w":824,"h":115},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:789bbd1b89484af2af9ccb9fc71d4ba5:9e7d40e291e85449cac1d03fbb12cf65:d3941aa1f575fa90e9f92919a7769466$"
+}
+}

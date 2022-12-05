@@ -1,0 +1,229 @@
+
+tension.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/tension/tension_000
+  rotate: false
+  xy: 3, 1288
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_030
+  rotate: false
+  xy: 3, 1288
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_001
+  rotate: false
+  xy: 3, 590
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_002
+  rotate: true
+  xy: 3, 333
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_003
+  rotate: true
+  xy: 3, 76
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_004
+  rotate: true
+  xy: 701, 1729
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_005
+  rotate: false
+  xy: 260, 1288
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_006
+  rotate: false
+  xy: 260, 590
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_007
+  rotate: false
+  xy: 1399, 1288
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_008
+  rotate: false
+  xy: 517, 590
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_009
+  rotate: false
+  xy: 1656, 1288
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_010
+  rotate: true
+  xy: 517, 1472
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_011
+  rotate: false
+  xy: 774, 774
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_012
+  rotate: false
+  xy: 1031, 774
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_013
+  rotate: true
+  xy: 1288, 1031
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_014
+  rotate: true
+  xy: 1288, 774
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_015
+  rotate: false
+  xy: 774, 76
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_016
+  rotate: false
+  xy: 1031, 76
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_017
+  rotate: true
+  xy: 1288, 517
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_018
+  rotate: true
+  xy: 1288, 260
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_019
+  rotate: true
+  xy: 1288, 3
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+
+tension2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/tension/tension_020
+  rotate: false
+  xy: 3, 1215
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_021
+  rotate: false
+  xy: 3, 517
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_022
+  rotate: false
+  xy: 260, 1215
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_023
+  rotate: false
+  xy: 260, 517
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_024
+  rotate: false
+  xy: 517, 1215
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_025
+  rotate: false
+  xy: 517, 517
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_026
+  rotate: true
+  xy: 3, 260
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_027
+  rotate: false
+  xy: 774, 1215
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_028
+  rotate: true
+  xy: 3, 3
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1
+Images/tension/tension_029
+  rotate: false
+  xy: 774, 517
+  size: 254, 695
+  orig: 254, 695
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+symbol_10.png
+size: 462,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol_10/beard
+  rotate: true
+  xy: 396, 183
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+symbol_10/bgSmall
+  rotate: true
+  xy: 245, 175
+  size: 92, 150
+  orig: 92, 150
+  offset: 0, 0
+  index: -1
+symbol_10/body1
+  rotate: false
+  xy: 123, 25
+  size: 121, 242
+  orig: 121, 242
+  offset: 0, 0
+  index: -1
+symbol_10/body2
+  rotate: false
+  xy: 0, 14
+  size: 122, 253
+  orig: 122, 253
+  offset: 0, 0
+  index: -1
+symbol_10/eye
+  rotate: false
+  xy: 137, 1
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+symbol_10/frameBottom
+  rotate: true
+  xy: 396, 84
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+symbol_10/frameSide
+  rotate: true
+  xy: 0, 0
+  size: 13, 136
+  orig: 13, 136
+  offset: 0, 0
+  index: -1
+symbol_10/frameTop
+  rotate: true
+  xy: 427, 84
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+symbol_10/head
+  rotate: false
+  xy: 245, 101
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+symbol_10/mouth
+  rotate: false
+  xy: 345, 120
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+symbol_10/tongue
+  rotate: false
+  xy: 423, 55
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+symbol_10/txtWild
+  rotate: false
+  xy: 245, 8
+  size: 177, 75
+  orig: 177, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+{"frames": [
+
+{
+	"filename": "valkyrie_00000.png",
+	"frame": {"x":1,"y":1,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00001.png",
+	"frame": {"x":383,"y":1,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00002.png",
+	"frame": {"x":765,"y":1,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00003.png",
+	"frame": {"x":1147,"y":1,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00004.png",
+	"frame": {"x":1529,"y":1,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00005.png",
+	"frame": {"x":1,"y":403,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00006.png",
+	"frame": {"x":383,"y":403,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00007.png",
+	"frame": {"x":765,"y":403,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00008.png",
+	"frame": {"x":1147,"y":403,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00009.png",
+	"frame": {"x":1529,"y":403,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00010.png",
+	"frame": {"x":1,"y":805,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00011.png",
+	"frame": {"x":383,"y":805,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00012.png",
+	"frame": {"x":765,"y":805,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00013.png",
+	"frame": {"x":1147,"y":805,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00014.png",
+	"frame": {"x":1529,"y":805,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00015.png",
+	"frame": {"x":1,"y":1207,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00016.png",
+	"frame": {"x":383,"y":1207,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00017.png",
+	"frame": {"x":765,"y":1207,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00018.png",
+	"frame": {"x":1147,"y":1207,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00019.png",
+	"frame": {"x":1529,"y":1207,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00020.png",
+	"frame": {"x":1,"y":1609,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00021.png",
+	"frame": {"x":383,"y":1609,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00022.png",
+	"frame": {"x":765,"y":1609,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00023.png",
+	"frame": {"x":1147,"y":1609,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie_00024.png",
+	"frame": {"x":1529,"y":1609,"w":380,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":380,"h":400},
+	"sourceSize": {"w":380,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "valkyrie-anim-01.png",
+	"format": "RGBA8888",
+	"size": {"w":1910,"h":2010},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8d9f1f685c797cb08f098f70d2b796e2:09636e691d3cd7a0557b13cd7d98a7de:15b5241d3a3b082c8b00a71133638773$"
+}
+}

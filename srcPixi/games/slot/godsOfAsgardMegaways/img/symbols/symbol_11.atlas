@@ -1,0 +1,349 @@
+
+symbol_11.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2183, 1825
+  size: 190, 316
+  orig: 190, 316
+  offset: 0, 0
+  index: -1
+Corners_glow_bottom_add
+  rotate: false
+  xy: 2021, 1462
+  size: 185, 36
+  orig: 185, 36
+  offset: 0, 0
+  index: -1
+Corners_glow_top_add
+  rotate: false
+  xy: 612, 185
+  size: 185, 37
+  orig: 185, 37
+  offset: 0, 0
+  index: -1
+Wild
+  rotate: false
+  xy: 1220, 532
+  size: 165, 50
+  orig: 165, 50
+  offset: 0, 0
+  index: -1
+Wild_shadow_multi
+  rotate: false
+  xy: 1828, 1327
+  size: 176, 62
+  orig: 176, 62
+  offset: 0, 0
+  index: -1
+frame_1
+  rotate: true
+  xy: 2503, 1826
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+frame_2
+  rotate: true
+  xy: 2822, 1826
+  size: 189, 210
+  orig: 189, 210
+  offset: 0, 0
+  index: -1
+frame_3
+  rotate: false
+  xy: 1220, 702
+  size: 189, 158
+  orig: 189, 158
+  offset: 0, 0
+  index: -1
+frame_4
+  rotate: false
+  xy: 1524, 1053
+  size: 189, 126
+  orig: 189, 126
+  offset: 0, 0
+  index: -1
+frame_5
+  rotate: false
+  xy: 1828, 1393
+  size: 189, 105
+  orig: 189, 105
+  offset: 0, 0
+  index: -1
+frame_6
+  rotate: true
+  xy: 3993, 1826
+  size: 189, 90
+  orig: 189, 90
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_00
+  rotate: false
+  xy: 4, 1139
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_01
+  rotate: false
+  xy: 452, 1502
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_02
+  rotate: false
+  xy: 4, 820
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_03
+  rotate: false
+  xy: 756, 1502
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_04
+  rotate: false
+  xy: 4, 501
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_05
+  rotate: false
+  xy: 1060, 1502
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_06
+  rotate: false
+  xy: 4, 182
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_07
+  rotate: false
+  xy: 1364, 1502
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_08
+  rotate: false
+  xy: 1668, 1502
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_09
+  rotate: false
+  xy: 1972, 1502
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_10
+  rotate: false
+  xy: 2276, 1506
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_11
+  rotate: false
+  xy: 2580, 1507
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_12
+  rotate: true
+  xy: 3036, 1715
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_13
+  rotate: true
+  xy: 3355, 1715
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_14
+  rotate: true
+  xy: 3674, 1715
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_15
+  rotate: false
+  xy: 308, 1139
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_16
+  rotate: false
+  xy: 308, 820
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_17
+  rotate: false
+  xy: 308, 501
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_18
+  rotate: false
+  xy: 308, 182
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_19
+  rotate: false
+  xy: 612, 1183
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_20
+  rotate: false
+  xy: 612, 864
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_21
+  rotate: false
+  xy: 916, 1183
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_22
+  rotate: false
+  xy: 612, 545
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_23
+  rotate: false
+  xy: 916, 864
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_24
+  rotate: false
+  xy: 1220, 1183
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_25
+  rotate: false
+  xy: 612, 226
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_26
+  rotate: false
+  xy: 916, 545
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_27
+  rotate: false
+  xy: 1220, 864
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_28
+  rotate: false
+  xy: 1524, 1183
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+green_eefect/Crows_29
+  rotate: false
+  xy: 916, 226
+  size: 300, 315
+  orig: 300, 315
+  offset: 0, 0
+  index: -1
+ravens
+  rotate: false
+  xy: 4, 1458
+  size: 444, 359
+  orig: 444, 359
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 4, 4
+  size: 174, 300
+  orig: 174, 300
+  offset: 0, 0
+  index: -1
+shadow_2
+  rotate: true
+  xy: 308, 4
+  size: 174, 196
+  orig: 174, 196
+  offset: 0, 0
+  index: -1
+shadow_3
+  rotate: true
+  xy: 2884, 1648
+  size: 174, 144
+  orig: 174, 144
+  offset: 0, 0
+  index: -1
+shadow_4
+  rotate: false
+  xy: 1220, 586
+  size: 174, 112
+  orig: 174, 112
+  offset: 0, 0
+  index: -1
+shadow_5
+  rotate: true
+  xy: 508, 4
+  size: 174, 91
+  orig: 174, 91
+  offset: 0, 0
+  index: -1
+shadow_6
+  rotate: false
+  xy: 1524, 973
+  size: 174, 76
+  orig: 174, 76
+  offset: 0, 0
+  index: -1
+white-blur-line
+  rotate: true
+  xy: 4, 1821
+  size: 194, 2175
+  orig: 194, 2175
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+<html>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui" />
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-touch-fullscreen" content="yes" />
+<meta name="msapplication-tap-highlight" content="no" />
+<meta name="touch-event-mode" content="native"/>
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<!--
+<link rel="apple-touch-startup-image" href="img/splash2.png">
+-->
+<link rel="shortcut icon" href="img/favicon.ico">
+
+<!-- iPhone ICON -->
+<link href="img/apple-touch-icon-57x57.png" sizes="57x57" rel="apple-touch-icon">
+<!-- iPad ICON-->
+<link href="img/apple-touch-icon-72x72.png" sizes="72x72" rel="apple-touch-icon">
+<!-- iPhone (Retina) ICON-->
+<link href="img/apple-touch-icon-114x114.png" sizes="114x114" rel="apple-touch-icon">
+<!-- iPad (Retina) ICON-->
+<link href="img/apple-touch-icon-144x144.png" sizes="144x144" rel="apple-touch-icon">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+
+<body>
+<div id="debug">
+    <input class="debugTxt" type="text" name="d00" value="#"><input class="debugTxt" type="text" name="d10" value="#"><input class="debugTxt" type="text" name="d20" value="#"><input class="debugTxt" type="text" name="d30" value="#"><input class="debugTxt" type="text" name="d40" value="#"><br>
+    <input class="debugTxt" type="text" name="d01" value="#"><input class="debugTxt" type="text" name="d11" value="#"><input class="debugTxt" type="text" name="d21" value="#"><input class="debugTxt" type="text" name="d31" value="#"><input class="debugTxt" type="text" name="d41" value="#"><br>
+    <input class="debugTxt" type="text" name="d02" value="#"><input class="debugTxt" type="text" name="d12" value="#"><input class="debugTxt" type="text" name="d22" value="#"><input class="debugTxt" type="text" name="d32" value="#"><input class="debugTxt" type="text" name="d42" value="#"><br>
+</div>
+<div id="mainDiv" style="z-index:30">
+    <div id="gameContainer"></div>
+    <div id="bet">
+        <div id="selectionW"></div>
+        <div id="betContainer">
+            <div id="betCtrl">
+                <div id="values">
+                    <div class="betValues" id ="v1">0.01£ </div>
+                    <div class="betValues" id ="v2">0.02£ </div>
+                    <div class="betValues" id ="v3">0.05£ </div>
+                    <div class="betValues" id ="v4">0.10£ </div>
+                    <div class="betValues" id ="v5">0.25£ </div>
+                    <div class="betValues" id ="v6">0.50£ </div>
+                    <div class="betValues" id ="v7">1.00£ </div>
+                    <div class="betValues" id ="v8">2.00£ </div>
+                    <div class="betValues" id ="v9">5.00£ </div>
+                    <div class="betValues" id ="v10">10.00£ </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="wait">Loading images please wait...</div>
+    <script src="../lib/jquery-2.1.4.min.js"></script>
+    <script src="../lib/TweenMax.js"></script>
+    <script src="../lib/Draggable.min.js"></script>
+    <script src="../lib/CSSPlugin.min.js"></script>
+    <script src="../lib/screenfull.min.js"></script>
+    <script src="../lib/ScrollToPlugin.min.js"></script>
+    <script src="../lib/phaser.js"></script>
+    <script src="../lib/plugin/box2d-html5.js"></script>
+    <script src="../lib/plugin/box2d-plugin.js"></script>
+    <script src="../lib/EPSY.js"></script>
+    <script src="../lib/EPSY.Phaser.js"></script>
+    <script src="../lib/ThrowPropsPlugin.min.js"></script>
+    <script src="../lib/phaser.checkbox.js"></script>
+    <script src="../js/utils/eventManager.js"></script>
+    <script src="../js/slotUtils/buttons/buttonStateManager.js"></script>
+    <script src="paint/config.js"></script>
+    <script src="../js/slotUtils/spin/reel.js"></script>
+    <script src="../js/utils/tween.js"></script>
+    <script src="../js/core/displayManager.js"></script>
+    <script src="../js/core/autoPlay.js"></script>
+    <script src="../js/core/messageBox.js"></script>
+    <script src="../js/core/comm/communication.js"></script>
+    <script src="../js/core/comm/LaunchParams.js"></script>
+    <script src="../js/slotUtils/paytable/paytableManager.js"></script>
+    <script src="../js/slotUtils/freeSpins/freeSpinsManager.js"></script>
+    <script src="../js/slotUtils/freeSpins/freeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/reSpin.js"></script>
+    <script src="../js/slotUtils/freeRounds/freeRoundsManager.js"></script>
+    <script src="../js/slotUtils/freeRounds/freeRounds.js"></script>
+    <script src="../js/slotUtils/winning/winManager.js"></script>
+    <script src="../js/slotUtils/lines/lineImage.js"></script>
+    <script src="../js/slotUtils/lines/lineManager.js"></script>
+    <script src="../js/slotUtils/lines/Drawing/lineDraw.js"></script>
+    <script src="../js/slotUtils/lines/Drawing/curveDraw.js"></script>
+    <script src="../js/slotUtils/lines/Drawing/particleLineDraw.js"></script>
+    <script src="../js/slotUtils/lines/linePaint.js"></script>
+    <script src="../js/slotUtils/lines/Drawing/shaderLineDraw.js"></script>
+    <script src="../js/slotUtils/lines/noLines/highLight.js"></script>
+    <script src="../js/slotUtils/lines/coinWinning/lineWinAmtManager.js"></script>
+    <script src="../js/slotUtils/lines/coinWinning/centralWinWithSimbols.js"></script>
+    <script src="../js/slotUtils/lines/coinWinning/normalLineWinAmount.js"></script>
+    <script src="../js/slotUtils/lines/coinWinning/allInOneLineWinAmount.js"></script>
+    <script src="../js/slotUtils/spin/spinManager.js"></script>
+    <script src="../js/slotUtils/spin/spin.js"></script>
+    <script src="../js/slotUtils/spin/orizontalSpin.js"></script>
+    <script src="../js/slotUtils/spin/rotatingSpin.js"></script>
+    <script src="../js/slotUtils/spin/bubbleRandomSpin.js"></script>
+    <script src="../js/slotUtils/spin/tumblingSpin.js"></script>
+    <script src="../js/slotUtils/spin/singleIconReelSpin.js"></script>
+    <script src="../js/slotUtils/winning/winAmtManager.js"></script>
+    <script src="../js/slotUtils/winning/simpleWin.js"></script>
+    <script src="../js/slotUtils/winning/bounceWin.js"></script>
+    <script src="../js/slotUtils/winning/bigWin.js"></script>
+    <script src="../js/slotUtils/winning/stagesBigWin.js"></script>
+    <script src="../js/slotUtils/winning/centralSimpleWin.js"></script>
+    <script src="../js/slotUtils/winning/centralStagesWin.js"></script>
+    <script src="../js/slotUtils/winning/centralAllLinesPanelWin.js"></script>
+    <script src="../js/core/sounds/soundManager.js"></script>
+    <script src="../js/core/sounds/sound.js"></script>
+    <script src="../js/core/sounds/music.js"></script>
+    <script src="../js/slotUtils/multipliers/multiplierManager.js"></script>
+    <script src="../js/slotUtils/multipliers/multipliers.js"></script>
+    <script src="../js/slotUtils/wilds/wildManager.js"></script>
+    <script src="../js/slotUtils/wilds/wild.js"></script>
+    <script src="../js/slotUtils/wilds/wildReel.js"></script>
+    <script src="../js/slotUtils/scatters/scatterManager.js"></script>
+    <script src="../js/slotUtils/scatters/fsMultiplierScatter.js"></script>
+    <script src="../js/slotUtils/bonus/bonusManager.js"></script>
+    <script src="../js/slotUtils/bonus/chestBonus.js"></script>
+    <script src="../js/slotUtils/bonus/wheelBonus.js"></script>
+    <script src="../js/slotUtils/bonus/gambleBonus.js"></script>
+    <script src="../js/slotUtils/preview/previewManager.js"></script>
+    <script src="../js/utils/findSmoothPath.js"></script>
+    <script src="../js/slotUtils/buttons/button.js"></script>
+    <script src="../js/utils/idleManager.js"></script>
+    <script src="../js/core/globalVars.js"></script>
+    <script src="../js/core/loader.js"></script>
+    <script src="../js/launcherTest.js"></script>
+    <script src="../js/core/guiFullScreen.js"></script>
+    <script src="../js/slotUtils/graphicUserInterface/bottomBar.js"></script>
+    <script src="paint/game.js"></script>
+    <script src="../js/utils/timeUpdater.js"></script>
+    <script src="../js/staticClasses/util.js"></script>
+    <script src="../js/staticClasses/translations.js"></script>
+    <script src="../js/core/messageBox.js"></script>
+    <script src="../js/slotUtils/graphicUserInterface/betControl.js"></script>
+    <script src="../js/core/balance/balanceManager.js"></script>
+    <script src="../js/core/balance/cashCreditsDIsplay.js"></script>
+    <script src="../js/slotUtils/spin/twinReels/twinReelsManager.js"></script>
+    <script src="../js/slotUtils/spin/twinReels/twinReels.js"></script>
+</body>
+
+</html>
+

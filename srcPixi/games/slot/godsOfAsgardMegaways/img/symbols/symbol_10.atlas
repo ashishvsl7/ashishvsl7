@@ -1,0 +1,195 @@
+
+symbol_10.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: true
+  xy: 893, 64
+  size: 252, 316
+  orig: 252, 316
+  offset: 0, 0
+  index: -1
+Wild
+  rotate: false
+  xy: 1385, 75
+  size: 165, 50
+  orig: 165, 50
+  offset: 0, 0
+  index: -1
+back_glow_high
+  rotate: true
+  xy: 2623, 211
+  size: 300, 350
+  orig: 300, 350
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2177, 195
+  size: 445, 316
+  orig: 445, 316
+  offset: 0, 0
+  index: -1
+corners_bottom_glow
+  rotate: false
+  xy: 1006, 27
+  size: 185, 36
+  orig: 185, 36
+  offset: 0, 0
+  index: -1
+corners_top_glow
+  rotate: true
+  xy: 3356, 189
+  size: 185, 37
+  orig: 185, 37
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 829, 105
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+frame_1
+  rotate: true
+  xy: 1210, 126
+  size: 190, 316
+  orig: 190, 316
+  offset: 0, 0
+  index: -1
+frame_2
+  rotate: true
+  xy: 1828, 126
+  size: 190, 211
+  orig: 190, 211
+  offset: 0, 0
+  index: -1
+frame_3
+  rotate: false
+  xy: 3420, 352
+  size: 190, 159
+  orig: 190, 159
+  offset: 0, 0
+  index: -1
+frame_4
+  rotate: true
+  xy: 2040, 126
+  size: 190, 127
+  orig: 190, 127
+  offset: 0, 0
+  index: -1
+frame_5
+  rotate: false
+  xy: 447, 29
+  size: 190, 106
+  orig: 190, 106
+  offset: 0, 0
+  index: -1
+frame_6
+  rotate: false
+  xy: 638, 44
+  size: 190, 91
+  orig: 190, 91
+  offset: 0, 0
+  index: -1
+moon
+  rotate: false
+  xy: 3786, 384
+  size: 173, 127
+  orig: 173, 127
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: true
+  xy: 1527, 142
+  size: 174, 300
+  orig: 174, 300
+  offset: 0, 0
+  index: -1
+shadow_2
+  rotate: false
+  xy: 3181, 178
+  size: 174, 196
+  orig: 174, 196
+  offset: 0, 0
+  index: -1
+shadow_3
+  rotate: false
+  xy: 3611, 367
+  size: 174, 144
+  orig: 174, 144
+  offset: 0, 0
+  index: -1
+shadow_4
+  rotate: false
+  xy: 1210, 13
+  size: 174, 112
+  orig: 174, 112
+  offset: 0, 0
+  index: -1
+shadow_5
+  rotate: false
+  xy: 2168, 103
+  size: 174, 91
+  orig: 174, 91
+  offset: 0, 0
+  index: -1
+shadow_6
+  rotate: false
+  xy: 2343, 118
+  size: 174, 76
+  orig: 174, 76
+  offset: 0, 0
+  index: -1
+stars
+  rotate: false
+  xy: 1, 31
+  size: 445, 285
+  orig: 445, 285
+  offset: 0, 0
+  index: -1
+trees
+  rotate: false
+  xy: 447, 136
+  size: 445, 180
+  orig: 445, 180
+  offset: 0, 0
+  index: -1
+vignete
+  rotate: false
+  xy: 2974, 375
+  size: 445, 136
+  orig: 445, 136
+  offset: 0, 0
+  index: -1
+white-blur-line
+  rotate: true
+  xy: 1, 317
+  size: 194, 2175
+  orig: 194, 2175
+  offset: 0, 0
+  index: -1
+wild_shadow
+  rotate: false
+  xy: 829, 1
+  size: 176, 62
+  orig: 176, 62
+  offset: 0, 0
+  index: -1
+wolf_back_glow
+  rotate: false
+  xy: 2974, 174
+  size: 206, 200
+  orig: 206, 200
+  offset: 0, 0
+  index: -1
+wolf_blue_decor
+  rotate: true
+  xy: 3960, 366
+  size: 145, 118
+  orig: 145, 118
+  offset: 0, 0
+  index: -1

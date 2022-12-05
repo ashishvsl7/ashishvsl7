@@ -1,0 +1,775 @@
+
+symbol_16.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame_extreme
+  rotate: false
+  xy: 4, 642
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Odin
+  rotate: false
+  xy: 4, 961
+  size: 354, 506
+  orig: 354, 506
+  offset: 0, 0
+  index: -1
+Odin_extreme
+  rotate: false
+  xy: 562, 1538
+  size: 284, 473
+  orig: 284, 473
+  offset: 0, 0
+  index: -1
+Odin_frame/Odin FRAME expanding_00
+  rotate: false
+  xy: 362, 1152
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Odin_frame/Odin FRAME expanding_01
+  rotate: false
+  xy: 850, 1696
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Odin_frame/Odin FRAME expanding_02
+  rotate: false
+  xy: 4, 323
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Odin_frame/Odin FRAME expanding_03
+  rotate: false
+  xy: 1043, 1696
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Odin_frame/Odin FRAME expanding_04
+  rotate: false
+  xy: 4, 4
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Odin_frame/Odin FRAME expanding_05
+  rotate: false
+  xy: 1236, 1696
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Odin_frame/Odin FRAME expanding_06
+  rotate: false
+  xy: 1429, 1696
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Odin_frame/Odin FRAME expanding_07
+  rotate: false
+  xy: 1622, 1696
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Odin_frame/Odin FRAME expanding_08
+  rotate: false
+  xy: 1815, 1696
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Odin_frame/Odin FRAME expanding_09
+  rotate: false
+  xy: 197, 642
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Sparkle_v01
+  rotate: false
+  xy: 4, 1471
+  size: 554, 540
+  orig: 554, 540
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00000
+  rotate: false
+  xy: 197, 323
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00001
+  rotate: false
+  xy: 197, 4
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00002
+  rotate: false
+  xy: 850, 1377
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00003
+  rotate: false
+  xy: 1043, 1377
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00004
+  rotate: false
+  xy: 1236, 1377
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00005
+  rotate: false
+  xy: 1429, 1377
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00006
+  rotate: false
+  xy: 1622, 1377
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00007
+  rotate: false
+  xy: 1815, 1377
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00008
+  rotate: false
+  xy: 555, 1152
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00009
+  rotate: false
+  xy: 390, 833
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00010
+  rotate: false
+  xy: 390, 514
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00011
+  rotate: false
+  xy: 390, 195
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00012
+  rotate: false
+  xy: 583, 833
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00013
+  rotate: false
+  xy: 583, 514
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00014
+  rotate: false
+  xy: 583, 195
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00015
+  rotate: false
+  xy: 776, 1058
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00016
+  rotate: false
+  xy: 776, 739
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00017
+  rotate: false
+  xy: 969, 1058
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00018
+  rotate: false
+  xy: 776, 420
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00019
+  rotate: false
+  xy: 969, 739
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00020
+  rotate: false
+  xy: 1162, 1058
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00021
+  rotate: false
+  xy: 969, 420
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00022
+  rotate: false
+  xy: 1162, 739
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00023
+  rotate: false
+  xy: 1355, 1058
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00024
+  rotate: false
+  xy: 1162, 420
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00025
+  rotate: false
+  xy: 1355, 739
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00026
+  rotate: false
+  xy: 1548, 1058
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00027
+  rotate: false
+  xy: 1355, 420
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00028
+  rotate: false
+  xy: 1548, 739
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_bg_effect]/Odin_bg_effect_00029
+  rotate: false
+  xy: 1741, 1058
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_00
+  rotate: false
+  xy: 1548, 420
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_01
+  rotate: false
+  xy: 1548, 420
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_02
+  rotate: false
+  xy: 1741, 739
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_03
+  rotate: false
+  xy: 1741, 420
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_04
+  rotate: false
+  xy: 776, 101
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_05
+  rotate: false
+  xy: 969, 101
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_06
+  rotate: false
+  xy: 1162, 101
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_07
+  rotate: false
+  xy: 1355, 101
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_08
+  rotate: false
+  xy: 1548, 101
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_09
+  rotate: false
+  xy: 1741, 101
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+
+symbol_162.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Odin_frame/Odin FRAME expanding_10
+  rotate: false
+  xy: 1162, 4
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_10
+  rotate: false
+  xy: 4, 1599
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_11
+  rotate: false
+  xy: 4, 1280
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_12
+  rotate: false
+  xy: 197, 1599
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_13
+  rotate: false
+  xy: 4, 961
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_14
+  rotate: false
+  xy: 197, 1280
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_15
+  rotate: false
+  xy: 390, 1599
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_16
+  rotate: false
+  xy: 4, 642
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_17
+  rotate: false
+  xy: 197, 961
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_18
+  rotate: false
+  xy: 390, 1280
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_19
+  rotate: false
+  xy: 583, 1599
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_20
+  rotate: false
+  xy: 4, 323
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_21
+  rotate: false
+  xy: 197, 642
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_22
+  rotate: false
+  xy: 390, 961
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_23
+  rotate: false
+  xy: 583, 1280
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_24
+  rotate: false
+  xy: 776, 1599
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_25
+  rotate: false
+  xy: 4, 4
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_26
+  rotate: false
+  xy: 197, 323
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_27
+  rotate: false
+  xy: 390, 642
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_28
+  rotate: false
+  xy: 583, 961
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_29
+  rotate: false
+  xy: 776, 1280
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_30
+  rotate: false
+  xy: 969, 1599
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_31
+  rotate: false
+  xy: 197, 4
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_32
+  rotate: false
+  xy: 390, 323
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_33
+  rotate: false
+  xy: 583, 642
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_34
+  rotate: false
+  xy: 776, 961
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_35
+  rotate: false
+  xy: 969, 1280
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_36
+  rotate: false
+  xy: 1162, 1599
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_37
+  rotate: false
+  xy: 390, 4
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_38
+  rotate: false
+  xy: 583, 323
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_39
+  rotate: false
+  xy: 776, 642
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_40
+  rotate: false
+  xy: 969, 961
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_41
+  rotate: false
+  xy: 1162, 1280
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_42
+  rotate: false
+  xy: 1355, 1599
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_43
+  rotate: false
+  xy: 583, 4
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_44
+  rotate: false
+  xy: 776, 323
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_45
+  rotate: false
+  xy: 969, 642
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_46
+  rotate: false
+  xy: 1162, 961
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_47
+  rotate: false
+  xy: 1355, 1280
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_48
+  rotate: false
+  xy: 1548, 1599
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_49
+  rotate: false
+  xy: 776, 4
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_50
+  rotate: false
+  xy: 969, 323
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_51
+  rotate: false
+  xy: 1162, 642
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_52
+  rotate: false
+  xy: 1355, 961
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_53
+  rotate: false
+  xy: 1548, 1280
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_54
+  rotate: false
+  xy: 1741, 1599
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_55
+  rotate: false
+  xy: 969, 4
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_56
+  rotate: false
+  xy: 1162, 323
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_57
+  rotate: false
+  xy: 1355, 642
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_58
+  rotate: false
+  xy: 1548, 961
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Odin_gold_effect]/Gold_59
+  rotate: false
+  xy: 1741, 1280
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+bg_with_light
+  rotate: false
+  xy: 1355, 65
+  size: 189, 254
+  orig: 189, 254
+  offset: 0, 0
+  index: -1
+frame_gold
+  rotate: false
+  xy: 1355, 323
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+frame_red_1
+  rotate: false
+  xy: 1548, 649
+  size: 180, 308
+  orig: 180, 308
+  offset: 0, 0
+  index: -1
+frame_shadow
+  rotate: false
+  xy: 1741, 976
+  size: 174, 300
+  orig: 174, 300
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,444 @@
+{"frames": [
+
+{
+	"filename": "leprechaun_00000.png",
+	"frame": {"x":1,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00001.png",
+	"frame": {"x":125,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00002.png",
+	"frame": {"x":249,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00003.png",
+	"frame": {"x":373,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00004.png",
+	"frame": {"x":497,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00005.png",
+	"frame": {"x":621,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00006.png",
+	"frame": {"x":745,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00007.png",
+	"frame": {"x":869,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00008.png",
+	"frame": {"x":993,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00009.png",
+	"frame": {"x":1117,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00010.png",
+	"frame": {"x":1241,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00011.png",
+	"frame": {"x":1365,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00012.png",
+	"frame": {"x":1489,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00013.png",
+	"frame": {"x":1613,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00014.png",
+	"frame": {"x":1737,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00015.png",
+	"frame": {"x":1861,"y":1,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00016.png",
+	"frame": {"x":1,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00017.png",
+	"frame": {"x":125,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00018.png",
+	"frame": {"x":249,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00019.png",
+	"frame": {"x":373,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00020.png",
+	"frame": {"x":497,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00021.png",
+	"frame": {"x":621,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00022.png",
+	"frame": {"x":745,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00023.png",
+	"frame": {"x":869,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00024.png",
+	"frame": {"x":993,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00025.png",
+	"frame": {"x":1117,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00026.png",
+	"frame": {"x":1241,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00027.png",
+	"frame": {"x":1365,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00028.png",
+	"frame": {"x":1489,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00029.png",
+	"frame": {"x":1613,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00030.png",
+	"frame": {"x":1737,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00031.png",
+	"frame": {"x":1861,"y":230,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00032.png",
+	"frame": {"x":1,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00033.png",
+	"frame": {"x":125,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00034.png",
+	"frame": {"x":249,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00035.png",
+	"frame": {"x":373,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00036.png",
+	"frame": {"x":497,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00037.png",
+	"frame": {"x":621,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00038.png",
+	"frame": {"x":745,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00039.png",
+	"frame": {"x":869,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00040.png",
+	"frame": {"x":993,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00041.png",
+	"frame": {"x":1117,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00042.png",
+	"frame": {"x":1241,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00043.png",
+	"frame": {"x":1365,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00044.png",
+	"frame": {"x":1489,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00045.png",
+	"frame": {"x":1613,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00046.png",
+	"frame": {"x":1737,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun_00047.png",
+	"frame": {"x":1861,"y":459,"w":122,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":227},
+	"sourceSize": {"w":122,"h":227},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "leprechaun-01.png",
+	"format": "RGBA8888",
+	"size": {"w":1984,"h":687},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f1b61833d473dcfdd49fd88eade020ba:4de1c9ad1b4eb50863074d8600568bad:4b0ff7e5485eff2ecf0aa7a69e24727f$"
+}
+}

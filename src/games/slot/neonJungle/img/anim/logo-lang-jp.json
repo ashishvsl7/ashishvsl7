@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "logo-lang-jp_00000.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00001.png",
+	"frame": {"x":303,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00002.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00003.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00004.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00005.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00006.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00007.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00008.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00009.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00010.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00011.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00012.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00013.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00014.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00015.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00016.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00017.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00018.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00019.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00020.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00021.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00022.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-jp_00023.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "logo-lang-jp.png",
+	"format": "RGBA8888",
+	"size": {"w":906,"h":122},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4f5ee51bc8e586c706ffae4165113b64:d3d8a96484eac6f4dbe638c87e7b5e9e:6be98953cd6a775072b39423d8a94e43$"
+}
+}

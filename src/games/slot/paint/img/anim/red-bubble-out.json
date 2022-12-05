@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "red-bubble_037.png",
+	"frame": {"x":0,"y":0,"w":176,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":200},
+	"sourceSize": {"w":176,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "red-bubble_038.png",
+	"frame": {"x":176,"y":0,"w":176,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":200},
+	"sourceSize": {"w":176,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "red-bubble_039.png",
+	"frame": {"x":352,"y":0,"w":176,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":200},
+	"sourceSize": {"w":176,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "red-bubble_040.png",
+	"frame": {"x":528,"y":0,"w":176,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":200},
+	"sourceSize": {"w":176,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "red-bubble_041.png",
+	"frame": {"x":704,"y":0,"w":176,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":200},
+	"sourceSize": {"w":176,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "red-bubble_042.png",
+	"frame": {"x":880,"y":0,"w":176,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":200},
+	"sourceSize": {"w":176,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "red-bubble_043.png",
+	"frame": {"x":1056,"y":0,"w":176,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":200},
+	"sourceSize": {"w":176,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "red-bubble_044.png",
+	"frame": {"x":1232,"y":0,"w":176,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":200},
+	"sourceSize": {"w":176,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "red-bubble-out.png",
+	"format": "RGBA8888",
+	"size": {"w":1408,"h":200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ec75b94be7c6ff52220dd17c3c0109ae:334e0a700e276252f46522a6d9ef114f:1f78c4aa7fa764aaa7fa276dccd2b6ed$"
+}
+}

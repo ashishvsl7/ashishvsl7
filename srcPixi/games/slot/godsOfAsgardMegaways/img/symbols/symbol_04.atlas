@@ -1,0 +1,104 @@
+
+symbol_04.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_Base
+  rotate: false
+  xy: 1637, 1
+  size: 90, 143
+  orig: 90, 143
+  offset: 0, 0
+  index: -1
+A_Base_Outer_Glow
+  rotate: true
+  xy: 1800, 148
+  size: 107, 158
+  orig: 107, 158
+  offset: 0, 0
+  index: -1
+A_Base_Shadow
+  rotate: true
+  xy: 845, 31
+  size: 96, 148
+  orig: 96, 148
+  offset: 0, 0
+  index: -1
+A_Middle
+  rotate: true
+  xy: 690, 25
+  size: 102, 154
+  orig: 102, 154
+  offset: 0, 0
+  index: -1
+A_Outline
+  rotate: true
+  xy: 1637, 145
+  size: 110, 162
+  orig: 110, 162
+  offset: 0, 0
+  index: -1
+A_Outline_Shadow
+  rotate: true
+  xy: 1467, 138
+  size: 117, 169
+  orig: 117, 169
+  offset: 0, 0
+  index: -1
+A_Shine
+  rotate: true
+  xy: 905, 128
+  size: 127, 179
+  orig: 127, 179
+  offset: 0, 0
+  index: -1
+Tile_s1
+  rotate: true
+  xy: 1, 65
+  size: 190, 316
+  orig: 190, 316
+  offset: 0, 0
+  index: -1
+Tile_s2
+  rotate: true
+  xy: 318, 25
+  size: 190, 211
+  orig: 190, 211
+  offset: 0, 0
+  index: -1
+Tile_s3
+  rotate: true
+  xy: 530, 25
+  size: 190, 159
+  orig: 190, 159
+  offset: 0, 0
+  index: -1
+Tile_s4
+  rotate: false
+  xy: 714, 128
+  size: 190, 127
+  orig: 190, 127
+  offset: 0, 0
+  index: -1
+Tile_s5
+  rotate: false
+  xy: 1085, 149
+  size: 190, 106
+  orig: 190, 106
+  offset: 0, 0
+  index: -1
+Tile_s6
+  rotate: false
+  xy: 1276, 164
+  size: 190, 91
+  orig: 190, 91
+  offset: 0, 0
+  index: -1
+white-blur-line
+  rotate: true
+  xy: 318, 216
+  size: 39, 395
+  orig: 39, 395
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+symbol_03.png
+size: 646,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgBottom
+  rotate: true
+  xy: 477, 0
+  size: 196, 83
+  orig: 196, 83
+  offset: 0, 0
+  index: -1
+bgCenter
+  rotate: true
+  xy: 0, 0
+  size: 196, 254
+  orig: 196, 254
+  offset: 0, 0
+  index: -1
+bgTop
+  rotate: true
+  xy: 389, 0
+  size: 196, 87
+  orig: 196, 87
+  offset: 0, 0
+  index: -1
+symbol_03/K
+  rotate: true
+  xy: 561, 92
+  size: 104, 85
+  orig: 104, 85
+  offset: 0, 0
+  index: -1
+symbol_03/KBg
+  rotate: true
+  xy: 255, 45
+  size: 151, 133
+  orig: 151, 133
+  offset: 0, 0
+  index: -1

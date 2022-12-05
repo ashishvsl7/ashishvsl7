@@ -1,0 +1,444 @@
+{"frames": [
+
+{
+	"filename": "buy-free-spins-btn_00000.png",
+	"frame": {"x":1,"y":1,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00001.png",
+	"frame": {"x":216,"y":1,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00002.png",
+	"frame": {"x":431,"y":1,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00003.png",
+	"frame": {"x":646,"y":1,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00004.png",
+	"frame": {"x":861,"y":1,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00005.png",
+	"frame": {"x":1076,"y":1,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00006.png",
+	"frame": {"x":1291,"y":1,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00007.png",
+	"frame": {"x":1506,"y":1,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00008.png",
+	"frame": {"x":1721,"y":1,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00009.png",
+	"frame": {"x":1,"y":46,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00010.png",
+	"frame": {"x":216,"y":46,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00011.png",
+	"frame": {"x":431,"y":46,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00012.png",
+	"frame": {"x":646,"y":46,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00013.png",
+	"frame": {"x":861,"y":46,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00014.png",
+	"frame": {"x":1076,"y":46,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00015.png",
+	"frame": {"x":1291,"y":46,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00016.png",
+	"frame": {"x":1506,"y":46,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00017.png",
+	"frame": {"x":1721,"y":46,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00018.png",
+	"frame": {"x":1,"y":91,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00019.png",
+	"frame": {"x":216,"y":91,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00020.png",
+	"frame": {"x":431,"y":91,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00021.png",
+	"frame": {"x":646,"y":91,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00022.png",
+	"frame": {"x":861,"y":91,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00023.png",
+	"frame": {"x":1076,"y":91,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00024.png",
+	"frame": {"x":1291,"y":91,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00025.png",
+	"frame": {"x":1506,"y":91,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00026.png",
+	"frame": {"x":1721,"y":91,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00027.png",
+	"frame": {"x":1,"y":136,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00028.png",
+	"frame": {"x":216,"y":136,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00029.png",
+	"frame": {"x":431,"y":136,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00030.png",
+	"frame": {"x":646,"y":136,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00031.png",
+	"frame": {"x":861,"y":136,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00032.png",
+	"frame": {"x":1076,"y":136,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00033.png",
+	"frame": {"x":1291,"y":136,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00034.png",
+	"frame": {"x":1506,"y":136,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00035.png",
+	"frame": {"x":861,"y":46,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00036.png",
+	"frame": {"x":646,"y":46,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00037.png",
+	"frame": {"x":1721,"y":136,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00038.png",
+	"frame": {"x":1,"y":181,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00039.png",
+	"frame": {"x":216,"y":181,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00040.png",
+	"frame": {"x":431,"y":181,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00041.png",
+	"frame": {"x":646,"y":181,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00042.png",
+	"frame": {"x":861,"y":181,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00043.png",
+	"frame": {"x":1076,"y":181,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00044.png",
+	"frame": {"x":1291,"y":181,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00045.png",
+	"frame": {"x":1506,"y":181,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00046.png",
+	"frame": {"x":1721,"y":181,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "buy-free-spins-btn_00047.png",
+	"frame": {"x":1,"y":1,"w":213,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":43},
+	"sourceSize": {"w":213,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "buy-free-spins-btn.png",
+	"format": "RGBA8888",
+	"size": {"w":1935,"h":225},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0cd4d9bbbbacb489921e252b97499753:2e151375a7f1664d859b5100ca8c60d5:4814e34888324362e8d9e816640a9f69$"
+}
+}

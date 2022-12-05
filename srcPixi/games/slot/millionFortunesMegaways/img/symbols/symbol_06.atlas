@@ -1,0 +1,90 @@
+
+symbol_06.png
+size: 393,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol_06/bgSmall
+  rotate: true
+  xy: 217, 49
+  size: 92, 150
+  orig: 92, 150
+  offset: 0, 0
+  index: -1
+symbol_06/coin
+  rotate: false
+  xy: 0, 1
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+symbol_06/cornerShadow
+  rotate: false
+  xy: 180, 3
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+symbol_06/frameBottom
+  rotate: true
+  xy: 155, 43
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+symbol_06/frameSide
+  rotate: false
+  xy: 141, 5
+  size: 13, 136
+  orig: 13, 136
+  offset: 0, 0
+  index: -1
+symbol_06/frameTop
+  rotate: true
+  xy: 186, 43
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+symbol_06/shadow
+  rotate: false
+  xy: 368, 106
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+symbol_06/shadowLight
+  rotate: false
+  xy: 368, 116
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+symbol_06/sideShadow
+  rotate: true
+  xy: 141, 3
+  size: 1, 17
+  orig: 1, 17
+  offset: 0, 0
+  index: -1
+symbol_06/tape1
+  rotate: true
+  xy: 220, 0
+  size: 48, 90
+  orig: 48, 90
+  offset: 0, 0
+  index: -1
+symbol_06/tape2
+  rotate: true
+  xy: 155, 7
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+symbol_06/tape3
+  rotate: true
+  xy: 311, 18
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,936 @@
+
+activate_purple.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/activate_purple_02/activate_purple_02_00000
+  rotate: false
+  xy: 0, 1640
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00001
+  rotate: false
+  xy: 0, 1240
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00002
+  rotate: false
+  xy: 240, 1640
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00003
+  rotate: false
+  xy: 0, 840
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00004
+  rotate: false
+  xy: 240, 1240
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00005
+  rotate: false
+  xy: 480, 1640
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00006
+  rotate: false
+  xy: 0, 440
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00007
+  rotate: false
+  xy: 240, 840
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00008
+  rotate: false
+  xy: 480, 1240
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00009
+  rotate: false
+  xy: 720, 1640
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00010
+  rotate: false
+  xy: 0, 40
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00011
+  rotate: false
+  xy: 240, 440
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00012
+  rotate: false
+  xy: 480, 840
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00013
+  rotate: false
+  xy: 720, 1240
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00014
+  rotate: false
+  xy: 960, 1640
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00015
+  rotate: false
+  xy: 240, 40
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00016
+  rotate: false
+  xy: 480, 440
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00017
+  rotate: false
+  xy: 720, 840
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00018
+  rotate: false
+  xy: 960, 1240
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00019
+  rotate: false
+  xy: 1200, 1640
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00020
+  rotate: false
+  xy: 480, 40
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_02/activate_purple_02_00021
+  rotate: false
+  xy: 720, 440
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00000
+  rotate: false
+  xy: 960, 965
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00001
+  rotate: false
+  xy: 1200, 1365
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00002
+  rotate: false
+  xy: 1440, 1765
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00003
+  rotate: false
+  xy: 720, 165
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00004
+  rotate: false
+  xy: 960, 690
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00005
+  rotate: false
+  xy: 1200, 1090
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00006
+  rotate: false
+  xy: 1440, 1490
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00007
+  rotate: false
+  xy: 1680, 1765
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00008
+  rotate: false
+  xy: 960, 415
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00009
+  rotate: false
+  xy: 1200, 815
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00010
+  rotate: false
+  xy: 1440, 1215
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00011
+  rotate: false
+  xy: 1680, 1490
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00012
+  rotate: false
+  xy: 1200, 540
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00013
+  rotate: false
+  xy: 1440, 940
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00014
+  rotate: false
+  xy: 1680, 1215
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00015
+  rotate: false
+  xy: 1440, 665
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00016
+  rotate: false
+  xy: 1680, 940
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00017
+  rotate: false
+  xy: 1680, 665
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00018
+  rotate: false
+  xy: 960, 140
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00019
+  rotate: false
+  xy: 1200, 265
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00020
+  rotate: false
+  xy: 1440, 390
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_03/activate_purple_03_00021
+  rotate: false
+  xy: 1680, 390
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00000
+  rotate: true
+  xy: 1690, 150
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00021
+  rotate: false
+  xy: 1200, 90
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00000
+  rotate: false
+  xy: 1440, 240
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00001
+  rotate: false
+  xy: 1440, 90
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00002
+  rotate: false
+  xy: 1690, 0
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00000
+  rotate: true
+  xy: 1920, 1790
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00001
+  rotate: true
+  xy: 1920, 1540
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00002
+  rotate: true
+  xy: 1920, 1290
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00003
+  rotate: true
+  xy: 1920, 1040
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00004
+  rotate: true
+  xy: 1920, 790
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00005
+  rotate: true
+  xy: 1920, 540
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00006
+  rotate: true
+  xy: 1920, 290
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00007
+  rotate: false
+  xy: 720, 15
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+
+activate_purple2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/activate_purple_04/activate_purple_04_00001
+  rotate: false
+  xy: 0, 1800
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00002
+  rotate: false
+  xy: 0, 1575
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00003
+  rotate: false
+  xy: 240, 1800
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00004
+  rotate: false
+  xy: 0, 1350
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00005
+  rotate: false
+  xy: 240, 1575
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00006
+  rotate: false
+  xy: 480, 1800
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00007
+  rotate: false
+  xy: 0, 1125
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00008
+  rotate: false
+  xy: 240, 1350
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00009
+  rotate: false
+  xy: 480, 1575
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00010
+  rotate: false
+  xy: 720, 1800
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00011
+  rotate: false
+  xy: 0, 900
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00012
+  rotate: false
+  xy: 240, 1125
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00013
+  rotate: false
+  xy: 480, 1350
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00014
+  rotate: false
+  xy: 720, 1575
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00015
+  rotate: false
+  xy: 960, 1800
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00016
+  rotate: false
+  xy: 0, 675
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00017
+  rotate: false
+  xy: 240, 900
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00018
+  rotate: false
+  xy: 480, 1125
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00019
+  rotate: false
+  xy: 720, 1350
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00020
+  rotate: false
+  xy: 960, 1575
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_04/activate_purple_04_00021
+  rotate: false
+  xy: 1200, 1800
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00000
+  rotate: false
+  xy: 0, 500
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00001
+  rotate: false
+  xy: 240, 725
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00002
+  rotate: false
+  xy: 480, 950
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00003
+  rotate: false
+  xy: 720, 1175
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00004
+  rotate: false
+  xy: 960, 1400
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00005
+  rotate: false
+  xy: 1200, 1625
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00006
+  rotate: false
+  xy: 1440, 1850
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00007
+  rotate: false
+  xy: 0, 325
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00008
+  rotate: false
+  xy: 240, 550
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00009
+  rotate: false
+  xy: 480, 775
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00010
+  rotate: false
+  xy: 720, 1000
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00011
+  rotate: false
+  xy: 960, 1225
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00012
+  rotate: false
+  xy: 1200, 1450
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00013
+  rotate: false
+  xy: 1440, 1675
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00014
+  rotate: false
+  xy: 1680, 1850
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00015
+  rotate: false
+  xy: 0, 150
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00016
+  rotate: false
+  xy: 240, 375
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00017
+  rotate: false
+  xy: 480, 600
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00018
+  rotate: false
+  xy: 720, 825
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00019
+  rotate: false
+  xy: 960, 1050
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_05/activate_purple_05_00020
+  rotate: false
+  xy: 1200, 1275
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00003
+  rotate: true
+  xy: 1440, 1425
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00004
+  rotate: false
+  xy: 1680, 1700
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00005
+  rotate: false
+  xy: 0, 0
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00006
+  rotate: false
+  xy: 480, 450
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00007
+  rotate: false
+  xy: 960, 900
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00008
+  rotate: false
+  xy: 240, 225
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00009
+  rotate: false
+  xy: 720, 675
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00010
+  rotate: false
+  xy: 1200, 1125
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00011
+  rotate: true
+  xy: 1590, 1425
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00012
+  rotate: false
+  xy: 1440, 1275
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00013
+  rotate: false
+  xy: 1450, 1125
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00014
+  rotate: true
+  xy: 1740, 1450
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00015
+  rotate: false
+  xy: 1210, 975
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00016
+  rotate: false
+  xy: 1460, 975
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00017
+  rotate: false
+  xy: 1210, 825
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00018
+  rotate: false
+  xy: 1460, 825
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00019
+  rotate: false
+  xy: 250, 75
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00020
+  rotate: false
+  xy: 730, 525
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_06/activate_purple_06_00021
+  rotate: false
+  xy: 730, 375
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00008
+  rotate: true
+  xy: 1890, 1450
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00009
+  rotate: false
+  xy: 1740, 1325
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00010
+  rotate: false
+  xy: 1700, 1200
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00011
+  rotate: true
+  xy: 1710, 950
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00012
+  rotate: true
+  xy: 1835, 950
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00013
+  rotate: false
+  xy: 1710, 825
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00014
+  rotate: true
+  xy: 980, 650
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00015
+  rotate: true
+  xy: 980, 400
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00016
+  rotate: false
+  xy: 1105, 700
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00017
+  rotate: false
+  xy: 1105, 575
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00018
+  rotate: false
+  xy: 1355, 700
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00019
+  rotate: false
+  xy: 1105, 450
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00020
+  rotate: false
+  xy: 1355, 575
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_purple_07/activate_purple_07_00021
+  rotate: false
+  xy: 1605, 700
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1

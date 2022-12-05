@@ -1,0 +1,128 @@
+/**
+ * KiS Framework, Created by Tom on 14/07/2016.
+ */
+function MenuMobile(frameworkRef, autoPlayBox, betValueBox) {
+
+    MainMenu.call(this);
+
+    var this_ = this;
+
+    var framework_ = frameworkRef;
+    var autoPlayBox_ = autoPlayBox;
+    var betValueBox_ = betValueBox;
+
+    function initClass_() {
+
+        this_.menuTab = new MenuTabSet($("#menuMobile footer li"), $("#menuMobile .mobile__sub__section"));
+
+        $("#menuButton").on('touchstart mousedown', function(e) {
+            e.stopPropagation();
+            e.preventDefault();
+            //custom code here
+            this_.toggleMenu(false, $("#menuMobile"), $(this));
+
+
+        });
+        //prevnts scrolling of document
+        /*$(document).on('touchmove', function(evt) {
+            evt.preventDefault();
+        });*/
+
+        //bouncefix.add('scrollable__content');
+
+        /*add the radio switch buttons to the mobile menu*/
+        var soundEffectSwitch = new RadioSwitch(Translate.do("Sound Effects"), true, framework_.getSettings().setSoundEffects, $("#soundPage .switch__list"));
+        var backgroundSwitch = new RadioSwitch(Translate.do("Background Music"), true, framework_.getSettings().setBackgroundMusic, $("#soundPage .switch__list"));
+
+        //spin
+        var switchBet = new RadioSwitch(Translate.do("Left Handed Spin"), false, switchSpinBet, $("#spinPage .switch__list"));
+
+        //bet settings
+
+        var dispCoins = new RadioSwitch(Translate.do("Display in Coins"), false, balanceManager_.toggleCredits, $("#betPage .switch__list"));
+
+        //auto play
+        var stopOnAnyWin = new RadioSwitch(Translate.do("Stop on any win"), false, autoPlayManager_.toggleStopOnAnyWin, $("#autoPage .switch__list"));
+        var stopOnWin = new RadioSwitch(Translate.do("Stop on win of"), false, autoPlayManager_.toggleStopOnSingleWin, $("#autoPage .switch__list"));
+        var stopOnCashUp = new RadioSwitch(Translate.do("Stop if cash increases by"), false, autoPlayManager_.toggleStopOnWin, $("#autoPage .switch__list"));
+        var stopOncashDown = new RadioSwitch(Translate.do("Stop if cash decreases by"), false, autoPlayManager_.toggleStopOnLose, $("#autoPage .switch__list"));
+        var stopOnFeature = new RadioSwitch(Translate.do("Stop when feature entered"), false, autoPlayManager_.toggleStopOnFeature, $("#autoPage .switch__list"));
+
+        //autoplay inputs
+
+
+        //Draggable.create(".scrollable__content__touch", {type:"scrollTop", edgeResistance:0.5, throwProps:true, lockAxis:true});
+        $("#gameHistoryMob").on('touchstart mousedown', function(e) {
+            e.stopPropagation();
+            e.preventDefault();
+
+            this_.requestBetHistory();
+
+        });
+
+        /*do fullscreen request*/
+
+        /*if (screenfull.enabled) {
+
+            document.addEventListener(screenfull.raw.fullscreenchange, function() {
+                //logger('Am I fullscreen? ' + (screenfull.isFullscreen ? 'Yes' : 'No'));
+                TweenMax.delayedCall(.1, framework_.resize, [false], framework_);
+            });
+
+            document.body.addEventListener('click', function(e) { //make sure we stay in full!!!
+
+                if (!screenfull.isFullscreen) {
+
+                    screenfull.request(document.body);
+
+                }
+
+            }, false);
+
+        }*/
+		
+		//Mobile paytable button click
+		$('#paytableMobile').on('touchstart', function() {
+			framework.openPayTable(); //Show/hide paytable
+		});
+
+    }
+
+    function toggleCoin_(){
+        balanceManager_.toggleCredits();
+
+        if (balanceManager_ != null) {
+            framework.setBetValue(balanceManager_.getCoinValue());
+        }
+
+    }
+
+
+    function switchSpinBet(isChecked) {
+
+        logger("switch spin");
+    }
+
+
+    var me = {
+
+        getAutoPlay: function() {
+            return autoPlayBox_;
+        },
+        getBetBox: function() {
+            return betValueBox_;
+        },
+        showReplay:function(json){
+            this_.showReplay(json);
+        }
+
+    }
+
+    initClass_();
+
+    return me;
+}
+
+
+MenuMobile.prototype = Object.create(MainMenu.prototype);
+MenuMobile.prototype.constructor = MenuMobile;

@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "lakshmi-win_00024.png",
+	"frame": {"x":1,"y":1,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00025.png",
+	"frame": {"x":237,"y":1,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00026.png",
+	"frame": {"x":473,"y":1,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00027.png",
+	"frame": {"x":709,"y":1,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00028.png",
+	"frame": {"x":945,"y":1,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00029.png",
+	"frame": {"x":1181,"y":1,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00030.png",
+	"frame": {"x":1417,"y":1,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00031.png",
+	"frame": {"x":1653,"y":1,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00032.png",
+	"frame": {"x":1,"y":299,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00033.png",
+	"frame": {"x":237,"y":299,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00034.png",
+	"frame": {"x":473,"y":299,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00035.png",
+	"frame": {"x":709,"y":299,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00036.png",
+	"frame": {"x":945,"y":299,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00037.png",
+	"frame": {"x":1181,"y":299,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00038.png",
+	"frame": {"x":1417,"y":299,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00039.png",
+	"frame": {"x":1653,"y":299,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00040.png",
+	"frame": {"x":1,"y":597,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00041.png",
+	"frame": {"x":237,"y":597,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00042.png",
+	"frame": {"x":473,"y":597,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00043.png",
+	"frame": {"x":709,"y":597,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00044.png",
+	"frame": {"x":945,"y":597,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00045.png",
+	"frame": {"x":1181,"y":597,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00046.png",
+	"frame": {"x":1417,"y":597,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lakshmi-win_00047.png",
+	"frame": {"x":1653,"y":597,"w":234,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":296},
+	"sourceSize": {"w":234,"h":296},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lakshmi-win.png",
+	"format": "RGBA8888",
+	"size": {"w":1888,"h":894},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bbbc9881d0aa2f1a02742bc0f7f77e88:42f6700836c714ec42920b36a73fd0ce:1324b5961cc6ad66b315850db71a2e1a$"
+}
+}

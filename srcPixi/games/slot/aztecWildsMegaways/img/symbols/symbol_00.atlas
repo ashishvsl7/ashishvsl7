@@ -1,0 +1,41 @@
+
+symbol_00.png
+size: 681,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgBottom
+  rotate: false
+  xy: 485, 0
+  size: 196, 83
+  orig: 196, 83
+  offset: 0, 0
+  index: -1
+bgCenter
+  rotate: true
+  xy: 0, 0
+  size: 196, 254
+  orig: 196, 254
+  offset: 0, 0
+  index: -1
+bgTop
+  rotate: true
+  xy: 397, 0
+  size: 196, 87
+  orig: 196, 87
+  offset: 0, 0
+  index: -1
+symbol_00/10
+  rotate: false
+  xy: 485, 84
+  size: 148, 112
+  orig: 148, 112
+  offset: 0, 0
+  index: -1
+symbol_00/10bg
+  rotate: true
+  xy: 255, 33
+  size: 163, 141
+  orig: 163, 141
+  offset: 0, 0
+  index: -1

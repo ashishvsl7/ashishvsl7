@@ -1,0 +1,30 @@
+{"frames": [
+
+{
+	"filename": "off-btn.png",
+	"frame": {"x":1,"y":1,"w":41,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":25},
+	"sourceSize": {"w":41,"h":25},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "on-btn.png",
+	"frame": {"x":44,"y":1,"w":41,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":25},
+	"sourceSize": {"w":41,"h":25},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "on-off-btn.png",
+	"format": "RGBA8888",
+	"size": {"w":86,"h":27},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7e0ad86f329a196d67df117f4b3c33ef:2f7820856a74828ba12d07a3c51754b3:559f2c7a0421092e72a987eee1a4a7ea$"
+}
+}

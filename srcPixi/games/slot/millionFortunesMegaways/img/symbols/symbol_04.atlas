@@ -1,0 +1,41 @@
+
+symbol_04.png
+size: 205,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 0, 0
+  size: 150, 125
+  orig: 150, 125
+  offset: 0, 0
+  index: -1
+Ashadow
+  rotate: false
+  xy: 151, 75
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+blackGradient
+  rotate: false
+  xy: 202, 105
+  size: 1, 20
+  orig: 1, 20
+  offset: 0, 0
+  index: -1
+square
+  rotate: false
+  xy: 204, 124
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+whiteGradient
+  rotate: false
+  xy: 151, 66
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1

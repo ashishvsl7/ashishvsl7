@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, shrink-to-fit=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-touch-fullscreen" content="yes" />
+<meta name="msapplication-tap-highlight" content="no" />
+<meta name="touch-event-mode" content="native" />
+<meta name="mobile-web-app-capable" content="yes">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!--
+<link rel="apple-touch-startup-image" href="img/splash2.png">
+-->
+<link rel="shortcut icon" href="img/favicon.ico">
+
+<!-- iPhone ICON -->
+<link href="img/apple-touch-icon-57x57.png" sizes="57x57" rel="apple-touch-icon">
+<!-- iPad ICON-->
+<link href="img/apple-touch-icon-72x72.png" sizes="72x72" rel="apple-touch-icon">
+<!-- iPhone (Retina) ICON-->
+<link href="img/apple-touch-icon-114x114.png" sizes="114x114" rel="apple-touch-icon">
+<!-- iPad (Retina) ICON-->
+<link href="img/apple-touch-icon-144x144.png" sizes="144x144" rel="apple-touch-icon">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+
+<body>
+<header class="aams__container">
+    <ul class="aams__ids">
+        <li> <span id="aams_part_id_name">ID PARTECIPAZIONE: </span> <span id="aams_part_id">8888888888888888</span></li>
+        <li><span id="aams_sess_id_name">ID SESSIONE: </span><span id="aams_sess_id">8888888888888888</span></li>
+    </ul>
+    <ul class="aams__logos_Sisal">
+        <li>
+            <a class="resp__link" href="" title="gioca moderato"><img src="gui/generic/img/aams/gioca_il_giusto.png" alt="gioca il giusto"></a>
+        </li>
+        <li><img src="gui/generic/img/aams/18.png" alt="18 plus"></li>
+        <li>
+            <a class="aams__link" href="https://www.agenziadoganemonopoli.gov.it/portale/monopoli/giochi" title="ADM" target="_blank"><img src="gui/generic/img/aams/aams_2020.png" alt="ADM" target="_blank"></a>
+        </li>
+    </ul>
+    <ul class="aams__logos">
+        <li>
+            <a class="resp__link" href="" title="gioca moderato"><img src="gui/generic/img/aams/gioca_moderato.png" alt="gioca moderato"></a>
+        </li>
+        <li><img src="gui/generic/img/aams/18plus.png" alt="18 plus"></li>
+        <li>
+            <a class="aams__link" href="https://www.agenziadoganemonopoli.gov.it/portale/monopoli/giochi" title="ADM" target="_blank"><img src="gui/generic/img/aams/aams_2020.png" alt="ADM" target="_blank"></a>
+        </li>
+    </ul>
+</header>
+
+<header class="dertp__container">
+    <ul class="dertp__ids">
+        <li> <span id="dertp_msg"></span></li>
+    </ul>
+</header>
+<div id="hideDebug" name="hideDebug">
+    <label>-</label>
+</div>
+
+<div id="debug">
+    <label class="seedTxt"> Seed</label><br>
+    <input class="debugTxt" type="text" name="seed" value="" style="width: 306px; color: #1E1E1E"><br>
+    <label class="seedTxt"> Last Seed</label><br>
+    <input class="debugTxt" type="text" name="lastSeed" value="" style="width: 306px; color: #1E1E1E"><br>
+
+    <input style="visibility:hidden" type="checkbox" name="ch1" value=""><label style="visibility:hidden">Not used</label><br>
+    <input style="visibility:hidden" type="checkbox" name="ch2" value=""><label style="visibility:hidden">Not used</label><br>
+    <input style="visibility:hidden" type="checkbox" name="ch3" value=""><label style="visibility:hidden">Not used</label><br>
+    <input style="visibility:hidden" type="checkbox" name="ch4" value=""><label style="visibility:hidden">Not used</label><br>
+    <input style="visibility:hidden" type="checkbox" name="ch5" value=""><label style="visibility:hidden">Not used</label><br>
+    <input style="visibility:hidden" type="checkbox" name="ch6" value=""><label style="visibility:hidden">Not used</label><br>
+    <input style="visibility:hidden" type="checkbox" name="ch7" value=""><label style="visibility:hidden">Not used</label><br>
+    <input style="visibility:hidden" type="checkbox" name="ch8" value=""><label style="visibility:hidden">Not used</label><br>
+    <input style="visibility:hidden" type="checkbox" name="ch9" value=""><label style="visibility:hidden">Not used</label><br>
+    <input style="visibility:hidden" type="checkbox" name="ch10" value=""><label style="visibility:hidden">Not used</label><br>
+
+
+    <input class="debugTxtSingle" type="text" name="d00" value="r">
+    <input class="debugTxtSingle" type="text" name="d10" value="r">
+    <input class="debugTxtSingle" type="text" name="d20" value="r">
+    <input class="debugTxtSingle" type="text" name="d30" value="r">
+    <input class="debugTxtSingle" type="text" name="d40" value="r">
+    <input class="debugTxtSingle" type="text" name="d50" value="r">
+    <input class="debugTxtSingle" type="text" name="d60" value="r">
+    <input class="debugTxtSingle" type="text" name="sideFeature" value="-1">
+    <br>
+    <input class="debugTxtSingle" type="text" name="d01" value="r">
+    <input class="debugTxtSingle" type="text" name="d11" value="r">
+    <input class="debugTxtSingle" type="text" name="d21" value="r">
+    <input class="debugTxtSingle" type="text" name="d31" value="r">
+    <input class="debugTxtSingle" type="text" name="d41" value="r">
+    <input class="debugTxtSingle" type="text" name="d51" value="r">
+    <input class="debugTxtSingle" type="text" name="d61" value="r">
+    <br>
+    <input class="debugTxtSingle" type="text" name="d02" value="r">
+    <input class="debugTxtSingle" type="text" name="d12" value="r">
+    <input class="debugTxtSingle" type="text" name="d22" value="r">
+    <input class="debugTxtSingle" type="text" name="d32" value="r">
+    <input class="debugTxtSingle" type="text" name="d42" value="r">
+    <input class="debugTxtSingle" type="text" name="d52" value="r">
+    <input class="debugTxtSingle" type="text" name="d62" value="r">
+    <br>
+    <input class="debugTxtSingle" type="text" name="d03" value="r">
+    <input class="debugTxtSingle" type="text" name="d13" value="r">
+    <input class="debugTxtSingle" type="text" name="d23" value="r">
+    <input class="debugTxtSingle" type="text" name="d33" value="r">
+    <input class="debugTxtSingle" type="text" name="d43" value="r">
+    <input class="debugTxtSingle" type="text" name="d53" value="r">
+    <input class="debugTxtSingle" type="text" name="d63" value="r">
+    <br>
+    <input class="debugTxtSingle" type="text" name="d04" value="r">
+    <input class="debugTxtSingle" type="text" name="d14" value="r">
+    <input class="debugTxtSingle" type="text" name="d24" value="r">
+    <input class="debugTxtSingle" type="text" name="d34" value="r">
+    <input class="debugTxtSingle" type="text" name="d44" value="r">
+    <input class="debugTxtSingle" type="text" name="d54" value="r">
+    <input class="debugTxtSingle" type="text" name="d64" value="r">
+    <br>
+    <input class="debugTxtSingle" type="text" name="d05" value="r">
+    <input class="debugTxtSingle" type="text" name="d15" value="r">
+    <input class="debugTxtSingle" type="text" name="d25" value="r">
+    <input class="debugTxtSingle" type="text" name="d35" value="r">
+    <input class="debugTxtSingle" type="text" name="d45" value="r">
+    <input class="debugTxtSingle" type="text" name="d55" value="r">
+    <input class="debugTxtSingle" type="text" name="d65" value="r">
+    <br>
+    <input class="debugTxtSingle" type="text" name="d06" value="r">
+    <input class="debugTxtSingle" type="text" name="d16" value="r">
+    <input class="debugTxtSingle" type="text" name="d26" value="r">
+    <input class="debugTxtSingle" type="text" name="d36" value="r">
+    <input class="debugTxtSingle" type="text" name="d46" value="r">
+    <input class="debugTxtSingle" type="text" name="d56" value="r">
+    <input class="debugTxtSingle" type="text" name="d66" value="r">
+
+    <br>
+    <br>
+    <input style="visibility:hidden" type="checkbox" name="chForceEnable" value=""><label style="visibility:hidden">Enable</label><br>
+</div>
+    <div class="scrollable__content" id="swipe__up__to__hide">
+        <img src="gui/generic/img/mobile/png/swipe.png">
+    </div>
+<div class="turnLandscape hidden" id="turnPage">
+    <img src="gui/generic/img/mobile/png/turn.jpg" width="400" style="display:block;margin-left:auto; margin-right:auto;vertical-align: middle">
+    <h3 id="loadingTip" class="loadingTip" style="text-align: center">Please Load on Landscape</h3>
+</div>
+<div id="mainViewport" width="1280" height="720">
+    <div id="gameFramework" class="game__screen hidden">
+        <div id="menuMobile" class="hidden">
+            <div class="menu__content">
+                <header class="menu__header">
+                    <h2>Menu</h2>
+                </header>
+
+                <section class="mobile__menu__section">
+                    <div class="mobile__sub__section" id="soundPage">
+                        <h2>Sounds</h2>
+                        <ul class="switch__list">
+                        </ul>
+                    </div>
+
+                    <div class="mobile__sub__section hidden" id="spinPage">
+                        <h2>Spin Settings </h2>
+                        <ul class="switch__list">
+                        </ul>
+                    </div>
+                    <div class="mobile__sub__section hidden" id="autoPage">
+                        <h2>Stop Autoplay</h2>
+                        <ul class="switch__list scrollable__switch__list scrollable__content">
+                        </ul>
+                    </div>
+                    <div class="mobile__sub__section hidden" id="historyPage">
+                        <h2>Game History</h2>
+                            <img class="loadingSpinner" src="gui/loader.svg" alt="Loading Icon" />
+                        <ul class="game__history__list scrollable__content">
+                            <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                            <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                            <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                            <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                            <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                            <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                        </ul>
+                            <h3 id="gameHistoryTip" class="game__history__tip">List of Bets Click One To Replay Spin</h3>
+                        <div class="game__history__replay hidden">
+                            <div class="__details">
+                                <p></p>
+                                <button>X</button>
+                            </div>
+                            <div class="__content scrollable__content">
+                                <table>
+                                    <tr>
+                                            <td>Status</td>
+                                            <td>Channel</td>
+                                            <td>Placed</td>
+                                            <td>Settled</td>
+                                        <td>Bet</td>
+                                        <td>Lines</td>
+                                        <td>Bet/Lines</td>
+                                        <td>Total Win</td>
+                                    </tr>
+                                    <tr class="__data"></tr>
+                                </table>
+                                <div class="__reel"></div>
+                                <nav class="__lines__nav">
+                                    <a target=".__wins" class="active">Winning Lines - Total: <span></span></a>
+                                    <a target=".__losses">Losing Lines</a>
+                                </nav>
+                                <div class="__lines">
+                                    <ul class="__wins show"></ul>
+                                    <ul class="__losses"></ul>
+                                </div>
+                                <div class="__scatters"></div>
+                                <div class="__bonus"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mobile__sub__section hidden" id="betPage">
+                        <h2>Bet Settings</h2>
+                        <ul class="switch__list">
+                        </ul>
+                    </div>
+                </section>
+            </div>
+            <footer>
+                <ul>
+                    <li class="active"><img src="gui/generic/img/mobile/svg/mb-btn-sound.svg"></li>
+                    <li><img src="gui/generic/img/mobile/svg/mb-btn-spin.svg"></li>
+                    <li><img src="gui/generic/img/mobile/svg/mb-btn-auto-spin.svg"></li>
+                    <li id="gameHistoryMob"><img src="gui/generic/img/mobile/svg/mb-btn-history.svg"></li>
+                    <li><img src="gui/generic/img/mobile/svg/mb-btn-bet.svg"></li>
+                        <li id="goBackToLobby"><img src="gui/generic/img/mobile/svg/mb-btn-home.svg"></li>
+                </ul>
+            </footer>
+            <footer class="menu__footer__background"></footer>
+        </div>
+        <div id="betConsoleMobile">
+            <div class="circular__selector" id="bet">
+                <div class="button__back button__center"></div>
+                <div id="betButtonSelect" class="button__center">
+                    <div class="button__background"></div>
+                    <span class="bet__amount"></span>
+                </div>
+                <div class="select__container">
+                    <div class="circular__control hidden" id="betControl">
+                        <div class="rotational__div">
+                            <ul class="selection__values left">
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="circular__selector" id="spin">
+                <div class="button__back button__center"></div>
+                <div id="autoButtonSelect" class="button__center">
+                    <div class="button__background"></div>
+                    <span></span>
+                    <div id="holdText"></div>
+                </div>
+                <div id="spinButtonSelect" class="button__center">
+                    <div class="button__background"></div>
+                </div>
+                <div id="stopButtonSelect" class="button__center">
+                    <div class="button__background"></div>
+                </div>
+                <div class="select__container">
+                    <div class="circular__control hidden" id="spinCtrl">
+                        <div class="rotational__div">
+                            <ul class="selection__values right">
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                                <li>
+                                    <div class="selection__value"></div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="button__touch__wrapper">
+            </div>
+            <div id="autoPlayMobileInput">
+                <h4>Stop Autoplay</h4>
+                <li>
+                    <label class="switch">
+                            <input id="autoplayStopOnCashDownMobile" type="checkbox" checked="checked">
+                        <div class="slider round"></div>
+                    </label>
+                    <label class="switch__name">If cash decrease by </label>
+                        <div class="auto__input" id="autoPlayCashDownLimitMobile"></div>
+                        <div class="autoplayStopOnCashDownTooltip">Switch off or set to a value</div>
+                        <div class="autoplayStopOnCashDownAmountTooltip">Must be greater than current stake</div>
+                        <div class="autoplayLowerThanCashDownAmountTooltip">Must be lower than balance</div>
+                </li>
+            </div>
+        </div>
+        <div id="betconsole">
+            <div class="console console__left">
+                <div class="button__wrapper">
+                    <button id="helpButton">
+                        <div class="button__background">
+                    </button>
+                </div>
+                <div class="button__wrapper">
+                    <button id="betOptions">
+                        <div class="button__background">
+                            <span class="bet__amount"></span>
+                        </div>
+                    </button>
+                </div>
+                <div id="betValueContainer" class="hidden">
+                    <div id="cashOptions" class="value__box">
+                        <ul class="cash__options__list slider__small">
+                            <li>
+                                <label>Coins</label>
+                                <label class="switch">
+                                    <input id="useCoins" type="checkbox">
+                                    <div class="slider round"></div>
+                                </label>
+                            </li>
+                            <li>
+                                <label>Cash</label>
+                                <label class="switch">
+                                    <input id="useCash" type="checkbox">
+                                    <div class="slider round"></div>
+                                </label>
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="betMaxBox" class="value__box">
+                        <span class="box__value">Bet Max</span>
+                    </div>
+                    <div id="betValueBox" class="value__box">
+                        <span class="box__left side__box"><img src=""></span>
+                        <span class="box__value">1.00</span>
+                        <span class="box__right side__box"><img src=""></span>
+                    </div>
+                </div>
+            </div>
+            <div id="messageBig" class="hidden">Won $20.00</div>
+            <div class="console console__right">
+                <div class="button__wrapper">
+                    <button id="autoPlay">
+                        <div class="button__background"></div><span id="auto_amount">100</span></button>
+                </div>
+                <div id="autoPlaySettings" class="hidden">
+                    <section id="autoPlayOptions" class="scrollable__content">
+                        <h5>Stop Autoplay</h5>
+                        <ul class="auto__list slider__small">
+                            <li>
+                                <label class="switch">
+                                    <input id="autoplayStopOnAnyWin" type="checkbox">
+                                    <div class="slider round"></div>
+                                </label>
+                                <label class="switch__name">On any win </label>
+                            </li>
+                            <li>
+                                <label class="switch">
+                                    <input id="autoplayStopOnWin" type="checkbox">
+                                    <div class="slider round"></div>
+                                </label>
+                                <label class="switch__name">On single win of </label>
+                                            <input class="auto__input" type="text" min="0" name="autoPlayWinLimit">
+                            </li>
+                            <li>
+                                <label class="switch">
+                                    <input id="autoplayStopOnCashUp" type="checkbox">
+                                    <div class="slider round"></div>
+                                </label>
+                                <label class="switch__name">If cash increase by </label>
+                                            <input class="auto__input" type="text" min="0" name="autoPlayCashLimit">
+                            </li>
+                            <li>
+                                <label class="switch">
+                                                <input id="autoplayStopOnCashDown" type="checkbox" checked="checked">
+                                    <div class="slider round"></div>
+                                </label>
+                                <label class="switch__name">If cash decrease by </label>
+                                            <input class="auto__input" type="text" min="0" name="autoPlayCashDownLimit">
+                                            <div class="autoplayStopOnCashDownTooltip">Switch off or set to a value</div>
+                                            <div class="autoplayStopOnCashDownAmountTooltip">Amount must be greater than current stake</div>
+                                            <div class="autoplayLowerThanCashDownAmountTooltip">Must be lower than balance</div>
+                            </li>
+                            <li>
+                                <label class="switch">
+                                    <input id="autoplayFeatureStop" type="checkbox">
+                                    <div class="slider round"></div>
+                                </label>
+                                <label class="switch__name">When entering any feature</label>
+                            </li>
+                        </ul>
+                    </section>
+                    <div id="autoPlayNumber" class="value__box">
+                        <span class="box__left side__box"><img src=""></span>
+                        <span class="box__value">10</span>
+                        <span class="box__right side__box"><img src=""></span>
+                    </div>
+                </div>
+                <div class="button__wrapper">
+                    <img id="spinBack" src="gui/generic/img/desktop/png/cp-btn-spin-bg.png">
+                    <button id="spinButton">
+                        <div class="button__background">
+                    </button>
+                    <button id="stopButton">
+                        <div class="button__background">
+                    </button>
+                </div>
+            </div>
+            <div class="overlay__image"></div>
+        </div>
+        <div id="paytableContainer" class="menu__content hidden">
+            <div class="paytable__button"></div>
+            <section id="paytable">
+                <ul id="pages"></ul>
+            </section>
+        </div>
+        <div id="menuContainer" class="hidden">
+            <section class="menu__content">
+                <header class="menu__header">
+                    <h2>Menu</h2>
+                </header>
+                <section>
+                    <nav id="menu__desktop__nav">
+                        <a class='active'>Settings <img src="gui/generic/img/desktop/svg/menu-settings-btn.svg"> </a>
+                        <a id="gameHistory">Game History <img src="gui/generic/img/desktop/svg/menu-history-btn.svg"> </a>
+                    </nav>
+                    <section class="menu__section">
+                        <ul class="switch__list">
+                        </ul>
+                    </section>
+                    <section class="menu__section hidden">
+                                            <img class="loadingSpinner" src="gui/loader.svg" alt="Loading Icon" />
+                        <ul class="game__history__list">
+                            <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                            <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                            <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                            <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                            <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                            <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                        </ul>
+                                            <h2 id="gameHistoryTip" class="game__history__tip">List of Bets Click One To See Spin</h2>
+                        <div class="game__history__replay hidden">
+                            <div class="__details">
+                                <p></p>
+                                <button>X</button>
+                            </div>
+                            <div class="__content">
+                                <table>
+                                    <tr>
+                                                            <td>Status</td>
+                                                            <td>Channel</td>
+                                                            <td>Placed</td>
+                                                            <td>Settled</td>
+                                        <td>Bet</td>
+                                        <td>Lines</td>
+                                        <td>Bet/Lines</td>
+                                        <td>Total Win</td>
+                                    </tr>
+                                    <tr class="__data"></tr>
+                                </table>
+                                <div class="__reel"></div>
+                                <nav class="__lines__nav">
+                                    <a target=".__wins" class="active">Winning Lines - Total: <span></span></a>
+                                    <a target=".__losses">Losing Lines</a>
+                                </nav>
+                                <div class="__lines">
+                                    <ul class="__wins show"></ul>
+                                    <ul class="__losses"></ul>
+                                </div>
+                                <div class="__scatters"></div>
+                                <div class="__bonus"></div>
+                            </div>
+                        </div>
+                    </section>
+                </section>
+            </section>
+        </div>
+        <header class="game__header">
+
+                                <div class="menu__button__content">
+
+            <div class="menu__icon" id="menuButton"><img src="gui/generic/img/desktop/svg/menu-btn.svg"></div>
+            <div class="sub__menu hidden">
+                <div class="sub__menu__icon"><img src="gui/generic/img/desktop/svg/menu-settings-btn.svg"></div>
+                <div class="sub__menu__icon"><img src="gui/generic/img/desktop/svg/menu-history-btn.svg"></div>
+                <div class="sub__menu__icon HomeButton"><img src="gui/generic/img/desktop/svg/menu-home-btn.svg"></div>
+            </div>
+
+                                </div>
+
+            <div class="menu__icon" id="soundButton"><img src="gui/generic/img/desktop/svg/menu-sound-btn.svg"></div>
+            <div class="menu__icon" id="paytableMobile"><img src="gui/generic/img/mobile/svg/mb-btn-paytable.svg"></div>
+        </header>
+
+    </div>
+</div>
+<div id="mainDiv" >
+    <div id="gameContainer">
+        <!--canvas sits here-->
+    </div>
+</div>
+<script type="text/javascript" src="../js/main.min.js"></script>
+</body>
+
+    <script src="../js/core/framework/console/consoleValueBox.js"></script>
+    <script src="../lib/jquery-2.1.4.min.js"></script>
+    <script src="../lib/TweenMax.js"></script>
+    <script src="../lib/Draggable.min.js"></script>
+    <script src="../lib/CSSPlugin.min.js"></script>
+    <script src="../lib/ScrollToPlugin.min.js"></script>
+    <script src="../lib/phaser.js"></script>
+    <script src="../lib/EPSY.js"></script>
+    <script src="../lib/EPSY.Phaser.js"></script>
+    <script src="../lib/ThrowPropsPlugin.min.js"></script>
+    <script src="../lib/gameiom.js"></script>
+    <script src="../lib/gcm.min.js"></script>
+    <script src="../lib/client-wrapper.game.min.js"></script>
+    <script src="../lib/session-bar.game.min.js"></script>
+    <script src="../lib/message-handler.game.min.js"></script>
+    <script src="../new-ui-js/main-ui.min.js"></script>
+    <script src="../js/core/framework/compliance/sessionTimers.js"></script>
+    <script src="../js/core/framework/console/gridInput.js"></script>
+    <script src="../js/core/framework/console/betControl.js"></script>
+    <script src="../js/core/framework/console/betConsoleValueBox.js"></script>
+    <script src="../js/core/framework/console/circularSelector.js"></script>
+    <script src="../js/core/framework/console/autoPanelValueBox.js"></script>
+    <script src="../js/core/framework/settings/betSettings.js"></script>
+    <script src="../js/core/framework/settings/autoplaySettings.js"></script>
+    <script src="../js/core/framework/settings/frameworkSettings.js"></script>
+    <script src="../js/core/framework/settings/setup.js"></script>
+    <script src="../js/core/framework/ui/radioSwitch.js"></script>
+    <script src="../js/core/framework/ui/messageScreen.js"></script>
+    <script src="../js/core/framework/ui/fadeElement.js"></script>
+    <script src="../js/core/framework/translator.js"></script>
+    <script src="../lib/screenfull.min.js"></script>
+    <script src="../lib/phaser.checkbox.js"></script>
+    <script src="../lib/taphold.js"></script>
+    <script src="../lib/NoSleep.min.js"></script>
+
+    <script src="../js/utils/eventManager.js"></script>
+    <script src="../js/utils/eventManagerCheck.js"></script>
+    <script src="../js/utils/debounce.js"></script>
+    <script src="../js/slotUtils/buttons/buttonStateManager.js"></script>
+    <script src="../js/slotUtils/spin/reel.js"></script>
+    <script src="../js/slotUtils/spin/reelBubbles.js"></script>
+    <script src="../js/slotUtils/spin/substituteSymbolSpin.js"></script>
+    <script src="../js/slotUtils/spin/substituteSymbolSpinTOH.js"></script>
+    <script src="../js/slotUtils/spin/ostaraSpin.js"></script>
+    <script src="../js/slotUtils/spin/cabinetSpin.js"></script>
+    <script src="../js/slotUtils/spin/sBBTmblingReel.js"></script>
+    <script src="../js/slotUtils/spin/sBBTumblingSpin.js"></script>
+    <script src="../js/slotUtils/spin/megaWayTumblingSpin.js"></script>
+    <script src="../js/slotUtils/spin/megaWaysTumblingReel.js"></script>
+    <script src="../js/slotUtils/spin/megawayTumblingSpinDice.js"></script>
+    <script src="../js/slotUtils/spin/megaWaysTumblingReelDice.js"></script>
+    <script src="../js/slotUtils/spin/megaWayBasicTumblingSpin.js"></script>
+    <script src="../js/slotUtils/spin/megawaysBasicTmblingReels.js"></script>
+    <script src="../js/slotUtils/spin/megaWaySplitTumblingSpin.js"></script>
+    <script src="../js/slotUtils/spin/megaWaysSplitTumblingReel.js"></script>
+    <script src="../js/slotUtils/spin/megaWaysRRTumblingReel.js"></script>
+    <script src="../js/slotUtils/spin/megaWayRRTumblingSpin.js"></script>
+    <script src="../js/slotUtils/spin/millionMWSpin.js"></script>
+    <script src="../js/slotUtils/spin/millionMWReel.js"></script>
+    <script src="../js/utils/tween.js"></script>
+    <script src="../js/utils/isBSTinEffect.js"></script>
+    <script src="../js/utils/sendCustomEvent.js"></script>
+    <script src="../js/core/displayManager.js"></script>
+    <script src="../js/core/autoPlay.js"></script>
+    <script src="../js/core/messageBox.js"></script>
+    <script src="../js/core/comm/communication.js"></script>
+    <script src="../js/core/comm/LaunchParams.js"></script>
+    <script src="../js/slotUtils/paytable/paytableManager.js"></script>
+    <script src="../js/slotUtils/freeSpins/freeSpinsManager.js"></script>
+    <script src="../js/slotUtils/freeSpins/freeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/freeSpinsRichie.js"></script>
+    <script src="../js/slotUtils/freeSpins/reSpin.js"></script>
+    <script src="../js/slotUtils/freeSpins/accumFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/sideaccumFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/TOHFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/neonFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/typeChoiceFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/barbarianFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/IrishFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/waiFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/moiraiFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/vikingFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/westernFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/cabinetFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/pirKinMwFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/millionMwFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/megaJackMwFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/RainbowMwFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/AstroNewtsMwFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/bookOfFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/RRMwFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeSpins/sBBMwFreeSpins.js"></script>
+    <script src="../js/slotUtils/freeRounds/freeRoundsManager.js"></script>
+    <script src="../js/slotUtils/freeRounds/freeRounds.js"></script>
+    <script src="../js/slotUtils/winning/winManager.js"></script>
+    <script src="../js/slotUtils/lines/lineImage.js"></script>
+    <script src="../js/slotUtils/lines/lineManager.js"></script>
+    <script src="../js/slotUtils/lines/Drawing/aggregateLineDraw.js"></script>
+    <script src="../js/slotUtils/lines/Drawing/lineDraw.js"></script>
+    <script src="../js/slotUtils/lines/Drawing/curveDraw.js"></script>
+    <script src="../js/slotUtils/lines/Drawing/realCurveDraw.js"></script>
+    <script src="../js/slotUtils/lines/Drawing/realRopeDraw.js"></script>
+    <script src="../js/slotUtils/lines/Drawing/particleLineDraw.js"></script>
+    <script src="../js/slotUtils/lines/linePaint.js"></script>
+    <script src="../js/slotUtils/lines/lineTOH.js"></script>
+    <script src="../js/slotUtils/lines/lineCherryBlast.js"></script>
+    <script src="../js/slotUtils/lines/tumblingWinnings.js"></script>
+    <script src="../js/slotUtils/lines/moiraiTumblingWinning.js"></script>
+    <script src="../js/slotUtils/lines/vikingTumbling.js"></script>
+    <script src="../js/slotUtils/lines/westernTumbling.js"></script>
+    <script src="../js/slotUtils/lines/megaWayTumblingWinning.js"></script>
+    <script src="../js/slotUtils/lines/megaWayTumblingWinningDice.js"></script>
+    <script src="../js/slotUtils/lines/megawaysBasicTumblingWinning.js"></script>
+    <script src="../js/slotUtils/lines/megaWayTumblingWinJack.js"></script>
+    <script src="../js/slotUtils/lines/megaWayTumblingWinSBB.js"></script>
+    <script src="../js/slotUtils/lines/megaWayTumblingWinRainbow.js"></script>
+    <script src="../js/slotUtils/lines/megawaySplitTumblingWin.js"></script>
+    <script src="../js/slotUtils/lines/megaWayRRTumblingWin.js"></script>
+    <script src="../js/slotUtils/lines/millionWayTumblWinning.js"></script>
+    <script src="../js/slotUtils/lines/allLineWinningFist.js"></script>
+    <script src="../js/slotUtils/lines/allLineWinningsFirstLoop.js"></script>
+    <script src="../js/slotUtils/lines/allLineWinningWaikiki.js"></script>
+    <script src="../js/slotUtils/lines/lineCabinet.js"></script>
+    <script src="../js/slotUtils/lines/lineOstara.js"></script>
+    <script src="../js/slotUtils/lines/Drawing/shaderLineDraw.js"></script>
+    <script src="../js/slotUtils/lines/noLines/highLight.js"></script>
+    <script src="../js/slotUtils/lines/coinWinning/lineWinAmtManager.js"></script>
+    <script src="../js/slotUtils/lines/coinWinning/centralWinWithSimbols.js"></script>
+    <script src="../js/slotUtils/lines/coinWinning/normalLineWinAmount.js"></script>
+    <script src="../js/slotUtils/lines/coinWinning/allInOneLineWinAmount.js"></script>
+    <script src="../js/slotUtils/lines/allLineWinningsFirst4Smb.js"></script>
+    <script src="../js/slotUtils/lines/lineBookOf.js"></script>
+    <script src="../js/slotUtils/spin/tumblingReel.js"></script>
+    <script src="../js/slotUtils/spin/spinManager.js"></script>
+    <script src="../js/slotUtils/spin/spin.js"></script>
+    <script src="../js/slotUtils/spin/orizontalSpin.js"></script>
+    <script src="../js/slotUtils/spin/rotatingSpin.js"></script>
+    <script src="../js/slotUtils/spin/tumblingSpin.js"></script>
+    <script src="../js/slotUtils/spin/totallyTumblingSpin.js"></script>
+    <script src="../js/slotUtils/spin/westernTumblingSpin.js"></script>
+    <script src="../js/slotUtils/spin/vikingTumblingSpin.js"></script>
+    <script src="../js/slotUtils/spin/singleIconReelSpin.js"></script>
+    <script src="../js/slotUtils/spin/bubbleRandomSpin.js"></script>
+    <script src="../js/slotUtils/winning/winAmtManager.js"></script>
+    <script src="../js/slotUtils/winning/simpleWin.js"></script>
+    <script src="../js/slotUtils/winning/bounceWin.js"></script>
+    <script src="../js/slotUtils/winning/newUIbounceWin.js"></script>
+    <script src="../js/slotUtils/winning/bigWin.js"></script>
+    <script src="../js/slotUtils/winning/stagesBigWin.js"></script>
+    <script src="../js/slotUtils/winning/centralSimpleWin.js"></script>
+    <script src="../js/slotUtils/winning/centralStagesWin.js"></script>
+    <script src="../js/slotUtils/winning/centralAllLinesPanelWin.js"></script>
+    <script src="../js/core/sounds/soundManager.js"></script>
+    <script src="../js/core/sounds/sound.js"></script>
+    <script src="../js/core/sounds/music.js"></script>
+    <script src="../js/slotUtils/multipliers/multiplierManager.js"></script>
+    <script src="../js/slotUtils/multipliers/multipliers.js"></script>
+    <script src="../js/slotUtils/wilds/wildManager.js"></script>
+    <script src="../js/slotUtils/wilds/wild.js"></script>
+    <script src="../js/slotUtils/wilds/wildReel.js"></script>
+    <script src="../js/slotUtils/wilds/multipleWildsReel.js"></script>
+    <script src="../js/slotUtils/wilds/fadingWildReel.js"></script>
+    <script src="../js/slotUtils/wilds/vikingTumblingWildReel.js"></script>
+    <script src="../js/slotUtils/wilds/externalWildReel.js"></script>
+    <script src="../js/slotUtils/wilds/wildShiftingReel.js"></script>
+    <script src="../js/slotUtils/wilds/expandingStickyWild.js"></script>
+    <script src="../js/slotUtils/wilds/expandingLStickyWild.js"></script>
+    <script src="../js/slotUtils/wilds/expanding4BeastsStickyWild.js"></script>
+    <script src="../js/slotUtils/wilds/tumblingWildReel.js"></script>
+    <script src="../js/slotUtils/wilds/waikikiPopUpWild.js"></script>
+    <script src="../js/slotUtils/wilds/megawaysWildReel.js"></script>
+    <script src="../js/slotUtils/jackpots/jackpotManager.js"></script>
+    <script src="../js/slotUtils/jackpots/jackpot.js"></script>
+    <script src="../js/slotUtils/jackpots/multiLevelJackpot.js"></script>
+    <script src="../js/slotUtils/scatters/scatterManager.js"></script>
+    <script src="../js/slotUtils/scatters/fsMultiplierScatter.js"></script>
+    <script src="../js/slotUtils/scatters/substScatter.js"></script>
+    <script src="../js/slotUtils/scatters/scatter.js"></script>
+    <script src="../js/slotUtils/bonus/bonusManager.js"></script>
+    <script src="../js/slotUtils/bonus/chestBonus.js"></script>
+    <script src="../js/slotUtils/bonus/bubblePickBonus.js"></script>
+    <script src="../js/slotUtils/bonus/cherryBlastBonus.js"></script>
+    <script src="../js/slotUtils/bonus/kenoBonus.js"></script>
+    <script src="../js/slotUtils/bonus/gambleBonus.js"></script>
+    <script src="../js/slotUtils/bonus/wheelOfFortune.js"></script>
+    <script src="../js/slotUtils/preview/previewManager.js"></script>
+    <script src="../js/utils/findSmoothPath.js"></script>
+    <script src="../js/slotUtils/buttons/button.js"></script>
+    <script src="../js/slotUtils/buttons/buttonHtml.js"></script>
+    <script src="../js/utils/idleManager.js"></script>
+    <script src="../js/core/globalVars.js"></script>
+    <script src="../js/core/comm/communication.js"></script>
+    <script src="../js/core/comm/currencyManager.js"></script>
+    <script src="../js/core/comm/LaunchParams.js"></script>
+    <script src="../js/core/comm/login.js"></script>
+    <script src="../js/core/framework/framework.js"></script>
+    <script src="../js/core/framework/menu/mainMenu.js"></script>
+    <script src="../js/core/framework/menu/NeonJungleBonusTable.js"></script>
+    <script src="../js/core/framework/menu/CherryBlastBonusTable.js"></script>
+    <script src="../js/core/framework/menu/PaintBonusTable.js"></script>
+    <script src="../js/core/framework/menu/RainbowWildFreespin.js"></script>
+    <script src="../js/core/framework/menu/VikingWildsFreespin.js"></script>
+    <script src="../js/core/framework/menu/MoiraiBlazeFreespin.js"></script>
+    <script src="../js/core/framework/menu/WaiKikiBonusTable.js"></script>
+    <script src="../js/core/framework/menu/menuDesktop.js"></script>
+    <script src="../js/core/framework/menu/menuMobile.js"></script>
+    <script src="../js/core/framework/menu/menuTabSet.js"></script>
+    <script src="../js/core/framework/menu/paytable.js"></script>
+    <script src="../js/core/framework/menu/CuriousCabinetFreespin.js"></script>
+    <script src="../js/core/guiFullScreen.js"></script>
+    <script src="../js/core/loader.js"></script>
+    <script src="../js/slotUtils/graphicUserInterface/bottomBar.js"></script>
+    <script src="../js/utils/timeUpdater.js"></script>
+    <script src="../js/staticClasses/util.js"></script>
+    <script src="../js/staticClasses/translations.js"></script>
+    <script src="../js/core/messageBox.js"></script>
+    <script src="../js/core/freeRoundsReqBox.js"></script>
+    <script src="../js/core/buyFeatureReqBox.js"></script>
+    <script src="../js/slotUtils/graphicUserInterface/betControl.js"></script>
+    <script src="../js/core/balance/balanceManager.js"></script>
+    <script src="../js/core/balance/cashCreditsDIsplay.js"></script>
+    <script src="../js/slotUtils/spin/twinReels/twinReelsManager.js"></script>
+    <script src="../js/slotUtils/spin/twinReels/twinReels.js"></script>
+    <script src="../js/launcher.js"></script>
+
+
+</body>
+
+</html>
+

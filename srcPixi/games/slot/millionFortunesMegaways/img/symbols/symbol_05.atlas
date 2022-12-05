@@ -1,0 +1,83 @@
+
+symbol_05.png
+size: 488,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol_05/bgSmall
+  rotate: true
+  xy: 209, 1
+  size: 92, 150
+  orig: 92, 150
+  offset: 0, 0
+  index: -1
+symbol_05/cornerShadow
+  rotate: false
+  xy: 432, 31
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+symbol_05/flower
+  rotate: false
+  xy: 0, 6
+  size: 208, 166
+  orig: 208, 166
+  offset: 0, 0
+  index: -1
+symbol_05/frameBottom
+  rotate: false
+  xy: 376, 142
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+symbol_05/frameSide
+  rotate: false
+  xy: 475, 36
+  size: 13, 136
+  orig: 13, 136
+  offset: 0, 0
+  index: -1
+symbol_05/frameTop
+  rotate: false
+  xy: 376, 111
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+symbol_05/leafBig
+  rotate: false
+  xy: 209, 94
+  size: 166, 78
+  orig: 166, 78
+  offset: 0, 0
+  index: -1
+symbol_05/leafSmall
+  rotate: false
+  xy: 376, 71
+  size: 83, 39
+  orig: 83, 39
+  offset: 0, 0
+  index: -1
+symbol_05/pistil
+  rotate: false
+  xy: 360, 18
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+symbol_05/ripple
+  rotate: false
+  xy: 472, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+symbol_05/sideShadow
+  rotate: false
+  xy: 360, 0
+  size: 1, 17
+  orig: 1, 17
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+symbol_05.png
+size: 345,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+end
+  rotate: true
+  xy: 322, 0
+  size: 196, 23
+  orig: 196, 23
+  offset: 0, 0
+  index: -1
+symbol_05/symbol_5
+  rotate: true
+  xy: 0, 0
+  size: 196, 321
+  orig: 196, 321
+  offset: 0, 0
+  index: -1

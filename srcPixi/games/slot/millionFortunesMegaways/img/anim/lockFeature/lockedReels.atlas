@@ -1,0 +1,13 @@
+
+lockedReels.png
+size: 225,700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lockReel
+  rotate: false
+  xy: 0, 0
+  size: 225, 700
+  orig: 225, 700
+  offset: 0, 0
+  index: -1

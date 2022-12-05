@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "scarab-anim_00024.png",
+	"frame": {"x":1,"y":1,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00025.png",
+	"frame": {"x":428,"y":1,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00026.png",
+	"frame": {"x":855,"y":1,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00027.png",
+	"frame": {"x":1282,"y":1,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00028.png",
+	"frame": {"x":1,"y":203,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00029.png",
+	"frame": {"x":428,"y":203,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00030.png",
+	"frame": {"x":855,"y":203,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00031.png",
+	"frame": {"x":1282,"y":203,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00032.png",
+	"frame": {"x":1,"y":405,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00033.png",
+	"frame": {"x":428,"y":405,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00034.png",
+	"frame": {"x":855,"y":405,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00035.png",
+	"frame": {"x":1282,"y":405,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00036.png",
+	"frame": {"x":1,"y":607,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00037.png",
+	"frame": {"x":428,"y":607,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00038.png",
+	"frame": {"x":855,"y":607,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00039.png",
+	"frame": {"x":1282,"y":607,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00040.png",
+	"frame": {"x":1,"y":809,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00041.png",
+	"frame": {"x":428,"y":809,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00042.png",
+	"frame": {"x":855,"y":809,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00043.png",
+	"frame": {"x":1282,"y":809,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00044.png",
+	"frame": {"x":1,"y":1011,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00045.png",
+	"frame": {"x":428,"y":1011,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00046.png",
+	"frame": {"x":855,"y":1011,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-anim_00047.png",
+	"frame": {"x":1282,"y":1011,"w":425,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":200},
+	"sourceSize": {"w":425,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "scarab-anim.png",
+	"format": "RGBA8888",
+	"size": {"w":1708,"h":1212},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:272b64325c1c52d4bd91983539a4a01e:86ec30bacf9ff3ad281911a9fc32e3c2:ef0d3919180343a083a633570da1663b$"
+}
+}

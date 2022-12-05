@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "symbol-bomb-active_00000.png",
+	"frame": {"x":482,"y":1,"w":114,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":0,"w":114,"h":168},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00001.png",
+	"frame": {"x":1165,"y":1,"w":109,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":8,"w":109,"h":160},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00002.png",
+	"frame": {"x":363,"y":1,"w":117,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":0,"w":117,"h":168},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00003.png",
+	"frame": {"x":832,"y":1,"w":109,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":3,"w":109,"h":165},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00004.png",
+	"frame": {"x":1276,"y":1,"w":109,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":8,"w":109,"h":160},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00005.png",
+	"frame": {"x":123,"y":1,"w":118,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":0,"w":118,"h":168},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00006.png",
+	"frame": {"x":1720,"y":1,"w":109,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":10,"w":109,"h":158},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00007.png",
+	"frame": {"x":598,"y":1,"w":118,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":2,"w":118,"h":166},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00008.png",
+	"frame": {"x":1,"y":1,"w":120,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":0,"w":120,"h":168},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00009.png",
+	"frame": {"x":1609,"y":1,"w":109,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":9,"w":109,"h":159},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00010.png",
+	"frame": {"x":243,"y":1,"w":118,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":0,"w":118,"h":168},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00011.png",
+	"frame": {"x":1387,"y":1,"w":109,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":8,"w":109,"h":160},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00012.png",
+	"frame": {"x":943,"y":1,"w":109,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":7,"w":109,"h":161},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00013.png",
+	"frame": {"x":1498,"y":1,"w":109,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":8,"w":109,"h":160},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00014.png",
+	"frame": {"x":1054,"y":1,"w":109,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":7,"w":109,"h":161},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-bomb-active_00015.png",
+	"frame": {"x":718,"y":1,"w":112,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":3,"w":112,"h":165},
+	"sourceSize": {"w":176,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbol-bomb-active.png",
+	"format": "RGBA5555",
+	"size": {"w":1830,"h":170},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:36bb416ead88150af8141feb49da1995:4d44b3d5b0995dab908c9cc540183d28:eceb316a25c6fdccdddcd390b2269a5f$"
+}
+}

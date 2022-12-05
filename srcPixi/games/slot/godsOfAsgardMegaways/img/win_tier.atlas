@@ -1,0 +1,27 @@
+
+win_tier.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Big win
+  rotate: false
+  xy: 1288, 386
+  size: 538, 381
+  orig: 538, 381
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1288, 101
+  size: 448, 281
+  orig: 448, 281
+  offset: 0, 0
+  index: -1
+rays
+  rotate: false
+  xy: 4, 4
+  size: 1280, 763
+  orig: 1280, 763
+  offset: 0, 0
+  index: -1

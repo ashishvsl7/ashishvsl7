@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "leaves_00000.png",
+	"frame": {"x":1,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00001.png",
+	"frame": {"x":73,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00002.png",
+	"frame": {"x":145,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00003.png",
+	"frame": {"x":217,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00004.png",
+	"frame": {"x":289,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00005.png",
+	"frame": {"x":361,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00006.png",
+	"frame": {"x":433,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00007.png",
+	"frame": {"x":505,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00008.png",
+	"frame": {"x":577,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00009.png",
+	"frame": {"x":649,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00010.png",
+	"frame": {"x":721,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00011.png",
+	"frame": {"x":793,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00012.png",
+	"frame": {"x":865,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00013.png",
+	"frame": {"x":937,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00014.png",
+	"frame": {"x":1009,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00015.png",
+	"frame": {"x":1081,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00016.png",
+	"frame": {"x":1153,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00017.png",
+	"frame": {"x":1225,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00018.png",
+	"frame": {"x":1297,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00019.png",
+	"frame": {"x":1369,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00020.png",
+	"frame": {"x":1441,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00021.png",
+	"frame": {"x":1513,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00022.png",
+	"frame": {"x":1585,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leaves_00023.png",
+	"frame": {"x":1657,"y":1,"w":70,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":72},
+	"sourceSize": {"w":70,"h":72},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "shield-leaves.png",
+	"format": "RGBA8888",
+	"size": {"w":1728,"h":74},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2fdf338f48811efdaa558e9b6ffad9fe:c83fa82c715f1ed57301dcaf1131cb7e:12a1932ed6be2442d2820fc03e689183$"
+}
+}

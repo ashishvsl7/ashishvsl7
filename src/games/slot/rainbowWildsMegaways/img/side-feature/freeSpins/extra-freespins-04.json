@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "extra-freespins-04_00072.png",
+	"frame": {"x":0,"y":0,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00073.png",
+	"frame": {"x":0,"y":69,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00074.png",
+	"frame": {"x":0,"y":138,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00075.png",
+	"frame": {"x":0,"y":207,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00076.png",
+	"frame": {"x":0,"y":276,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00077.png",
+	"frame": {"x":0,"y":345,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00078.png",
+	"frame": {"x":0,"y":414,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00079.png",
+	"frame": {"x":0,"y":483,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00080.png",
+	"frame": {"x":0,"y":552,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00081.png",
+	"frame": {"x":0,"y":621,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00082.png",
+	"frame": {"x":0,"y":690,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00083.png",
+	"frame": {"x":0,"y":759,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00084.png",
+	"frame": {"x":0,"y":828,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00085.png",
+	"frame": {"x":0,"y":897,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00086.png",
+	"frame": {"x":0,"y":966,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00087.png",
+	"frame": {"x":0,"y":1035,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00088.png",
+	"frame": {"x":0,"y":1104,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00089.png",
+	"frame": {"x":0,"y":1173,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00090.png",
+	"frame": {"x":0,"y":1242,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00091.png",
+	"frame": {"x":0,"y":1311,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00092.png",
+	"frame": {"x":0,"y":1380,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00093.png",
+	"frame": {"x":0,"y":1449,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00094.png",
+	"frame": {"x":0,"y":1518,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "extra-freespins-04_00095.png",
+	"frame": {"x":0,"y":1587,"w":191,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":69},
+	"sourceSize": {"w":191,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "extra-freespins-04.png",
+	"format": "RGBA8888",
+	"size": {"w":191,"h":1656},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c94b6e8d895bebba36eed8eb1937d149:f49ecf8cb056d4d2b4145ca1003ba5d0:819cafbe6d507f66d6c5589ae00553e3$"
+}
+}

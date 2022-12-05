@@ -1,0 +1,83 @@
+
+symbol_07.png
+size: 204,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol_07/bgSmall
+  rotate: true
+  xy: 0, 14
+  size: 92, 150
+  orig: 92, 150
+  offset: 0, 0
+  index: -1
+symbol_07/body
+  rotate: false
+  xy: 0, 228
+  size: 173, 94
+  orig: 173, 94
+  offset: 0, 0
+  index: -1
+symbol_07/coins
+  rotate: false
+  xy: 0, 323
+  size: 195, 96
+  orig: 195, 96
+  offset: 0, 0
+  index: -1
+symbol_07/cornerShadow
+  rotate: false
+  xy: 151, 49
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+symbol_07/frameBottom
+  rotate: true
+  xy: 174, 224
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+symbol_07/frameSide
+  rotate: true
+  xy: 0, 0
+  size: 13, 136
+  orig: 13, 136
+  offset: 0, 0
+  index: -1
+symbol_07/frameTop
+  rotate: true
+  xy: 121, 129
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+symbol_07/head
+  rotate: false
+  xy: 0, 107
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+symbol_07/paw
+  rotate: false
+  xy: 151, 89
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+symbol_07/sideShadow
+  rotate: false
+  xy: 197, 503
+  size: 1, 17
+  orig: 1, 17
+  offset: 0, 0
+  index: -1
+symbol_07/symbolShadow
+  rotate: false
+  xy: 0, 420
+  size: 196, 100
+  orig: 196, 100
+  offset: 0, 0
+  index: -1

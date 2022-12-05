@@ -1,0 +1,49 @@
+{
+"skeleton": { "hash": "w4ahNnlbTr16poOGZgNGx/m0uIw", "spine": "3.7.94", "width": 900, "height": 2800, "images": "./components/", "audio": "" },
+"bones": [
+	{ "name": "lockedReels" }
+],
+"slots": [
+	{ "name": "lockReel", "bone": "lockedReels", "color": "ffffff00", "attachment": "lockReel" }
+],
+"skins": {
+	"default": {
+		"lockReel": {
+			"lockReel": { "y": -23.77, "width": 900, "height": 2800 }
+		}
+	}
+},
+"animations": {
+	"look-reel": {
+		"slots": {
+			"lockReel": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1333, "color": "ffffffff" },
+					{ "time": 0.2, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			}
+		}
+	},
+	"look-reel-expanded": {
+		"slots": {
+			"lockReel": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1333, "color": "ffffffff" },
+					{ "time": 0.2, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"lockedReels": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1.28 }
+				]
+			}
+		}
+	}
+}
+}

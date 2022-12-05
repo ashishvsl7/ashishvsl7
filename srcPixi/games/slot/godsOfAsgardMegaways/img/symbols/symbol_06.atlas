@@ -1,0 +1,300 @@
+
+symbol_06.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gold
+  rotate: false
+  xy: 1881, 326
+  size: 122, 157
+  orig: 122, 157
+  offset: 0, 0
+  index: -1
+Magic
+  rotate: false
+  xy: 951, 1
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+Particles
+  rotate: false
+  xy: 1052, 1
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 1902, 669
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+Tile_s1
+  rotate: false
+  xy: 1, 707
+  size: 190, 316
+  orig: 190, 316
+  offset: 0, 0
+  index: -1
+Tile_s2
+  rotate: false
+  xy: 1323, 496
+  size: 190, 211
+  orig: 190, 211
+  offset: 0, 0
+  index: -1
+Tile_s3
+  rotate: false
+  xy: 1323, 336
+  size: 190, 159
+  orig: 190, 159
+  offset: 0, 0
+  index: -1
+Tile_s4
+  rotate: true
+  xy: 1902, 833
+  size: 190, 127
+  orig: 190, 127
+  offset: 0, 0
+  index: -1
+Tile_s5
+  rotate: false
+  xy: 1136, 88
+  size: 190, 106
+  orig: 190, 106
+  offset: 0, 0
+  index: -1
+Tile_s6
+  rotate: false
+  xy: 1323, 244
+  size: 190, 91
+  orig: 190, 91
+  offset: 0, 0
+  index: -1
+frame_extreme_01
+  rotate: false
+  xy: 951, 80
+  size: 184, 311
+  orig: 184, 311
+  offset: 0, 0
+  index: -1
+frame_extreme_02
+  rotate: false
+  xy: 1514, 501
+  size: 184, 206
+  orig: 184, 206
+  offset: 0, 0
+  index: -1
+frame_extreme_03
+  rotate: false
+  xy: 1514, 346
+  size: 184, 154
+  orig: 184, 154
+  offset: 0, 0
+  index: -1
+frame_extreme_04
+  rotate: true
+  xy: 1881, 484
+  size: 184, 122
+  orig: 184, 122
+  offset: 0, 0
+  index: -1
+frame_extreme_05
+  rotate: false
+  xy: 1514, 244
+  size: 184, 101
+  orig: 184, 101
+  offset: 0, 0
+  index: -1
+frame_extreme_06
+  rotate: false
+  xy: 1136, 1
+  size: 184, 86
+  orig: 184, 86
+  offset: 0, 0
+  index: -1
+gold_frame_s1
+  rotate: false
+  xy: 1141, 399
+  size: 181, 308
+  orig: 181, 308
+  offset: 0, 0
+  index: -1
+gold_frame_s2
+  rotate: false
+  xy: 1699, 504
+  size: 181, 203
+  orig: 181, 203
+  offset: 0, 0
+  index: -1
+gold_frame_s3
+  rotate: false
+  xy: 1699, 352
+  size: 181, 151
+  orig: 181, 151
+  offset: 0, 0
+  index: -1
+gold_frame_s4
+  rotate: false
+  xy: 1136, 195
+  size: 181, 119
+  orig: 181, 119
+  offset: 0, 0
+  index: -1
+gold_frame_s5
+  rotate: false
+  xy: 1699, 253
+  size: 181, 98
+  orig: 181, 98
+  offset: 0, 0
+  index: -1
+gold_frame_s6
+  rotate: false
+  xy: 1141, 315
+  size: 181, 83
+  orig: 181, 83
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00000
+  rotate: false
+  xy: 1, 391
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00001
+  rotate: false
+  xy: 192, 708
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00002
+  rotate: false
+  xy: 1, 75
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00003
+  rotate: false
+  xy: 382, 708
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00004
+  rotate: false
+  xy: 572, 708
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00005
+  rotate: false
+  xy: 762, 708
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00006
+  rotate: false
+  xy: 952, 708
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00007
+  rotate: false
+  xy: 1142, 708
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00008
+  rotate: false
+  xy: 1332, 708
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00009
+  rotate: false
+  xy: 1522, 708
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00010
+  rotate: false
+  xy: 1712, 708
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00011
+  rotate: false
+  xy: 191, 391
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00012
+  rotate: false
+  xy: 191, 75
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00013
+  rotate: false
+  xy: 381, 392
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00014
+  rotate: false
+  xy: 381, 76
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00015
+  rotate: false
+  xy: 571, 392
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00016
+  rotate: false
+  xy: 571, 76
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00017
+  rotate: false
+  xy: 761, 392
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00018
+  rotate: false
+  xy: 761, 76
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep/GOA_Mead_s1_00019
+  rotate: false
+  xy: 951, 392
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1

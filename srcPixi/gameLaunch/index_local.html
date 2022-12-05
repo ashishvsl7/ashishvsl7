@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-touch-fullscreen" content="yes" />
+<meta name="msapplication-tap-highlight" content="no" />
+<meta name="touch-event-mode" content="native" />
+<meta name="mobile-web-app-capable" content="yes">
+
+<head>
+    <style type="text/css">
+    body {
+        background: #eee;
+        font-family: arial;
+    }
+
+    #mainDiv{
+
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+    .game__icons{
+
+        margin-top: 50px;
+    }
+
+    .level3Params{
+        margin-top: 20px;
+    }
+
+    .standard__params select{
+
+        margin-left: 5px;
+        margin-bottom: 10px;
+    }
+
+    .game__icons a{
+        display: block;
+        margin-top: 10px;
+    }
+
+    </style>
+    <script type="text/javascript">
+
+    function openGame(gameid, folderName) {
+        var version = 1;
+        var lang = document.forms['searchOptions'].lang.value;
+        var user = document.forms['searchOptions'].acc_id.value;
+        var funreal = document.forms['searchOptions'].fun_real.value;
+        var installID = document.forms['searchOptions'].install.value;
+        var jurisdiction = document.forms['searchOptions'].jurisdiction.value;
+        var realitycheck_uk_elapsed = document.forms['searchOptions'].realitycheck_uk_elapsed.value;
+        var realitycheck_uk_limit = document.forms['searchOptions'].realitycheck_uk_limit.value;
+        var realitycheck_uk_proceed = document.forms['searchOptions'].realitycheck_uk_proceed.value;
+        var realitycheck_uk_exit = document.forms['searchOptions'].realitycheck_uk_exit.value;
+        var realitycheck_uk_history = document.forms['searchOptions'].realitycheck_uk_history.value;
+        var realitycheck_uk_autospin = document.forms['searchOptions'].realitycheck_uk_autospin.value;
+        var channel = document.forms['searchOptions'].channel.value;
+        var force= document.forms['searchOptions'].force.value;
+        var seeding= document.forms['searchOptions'].seeding.value;
+        var singleTexts= document.forms['searchOptions'].singleTexts.value;
+        var log= document.forms['searchOptions'].log.value;
+        var confType= document.forms['searchOptions'].launchType.value;
+        var site = document.forms['searchOptions'].site.value;
+        var clientName= document.forms['searchOptions'].clientName.value;
+        var lobbylocation = "../../index.html";
+
+
+        var target = '../games/slot/indexdg.html?';
+        if (gameid==7019 || gameid==7007  ){
+            target = '../games/slot/indexdg3.html?';
+        }
+
+
+        var games = [];
+        //all this comes from database when on server but to launch locally lets mock it up...
+        games[7001] = {
+            name:'Cosmic Crystals',
+            version:2
+        };
+        games[7002] =  {
+            name:'Paint',
+            version:3
+        };
+        games[7003] =  {
+            name:'Cherry Blast',
+            version:4
+        };
+        games[7004] =  {
+            name:'Gift Of Ostara',
+            version:5
+        };
+        games[7005] =  {
+            name:'Treasure Of Horus',
+            version:6
+        };
+        games[7006] =  {
+            name:'Neon Jungle',
+            version:7
+        };
+        games[7007] =  {
+            name:'Blood Queen',
+            version:8
+        };
+        games[7008] =  {
+            name:'Rainbow Gold',
+            version:9
+        };
+        games[7009] =  {
+            name:"Siren's Kingdom",
+            version:10
+        };
+        games[7010] =  {
+            name:"Wai Kiki",
+            version:11
+        };
+        games[7011] =  {
+            name:"Si Xiang",
+            version:12
+        };
+        games[7012] =  {
+            name:"Moirai Blaze",
+            version:13
+        };
+        games[7013] =  {
+            name:"The Curious Cabinet",
+            version:14
+        };
+        games[7014] =  {
+            name:"Viking Wilds",
+            version:15
+        };
+        games[7015] =  {
+            name:"Richie in Vegas",
+            version:16
+        };
+        games[7016] =  {
+            name:"MegaWays",
+            version:17
+        };
+        games[7017] =  {
+            name:"AztecWilds",
+            version:18
+        };
+        games[7018] =  {
+            name:"AvalonQuest",
+            version:19
+        };
+        games[7019] =  {
+            name:"Megaways Jack",
+            version:20
+        };
+        games[7020] =  {
+            name:"Jekyll & Hyde",
+            version:21
+        };
+        games[7021] =  {
+            name:"Barbarian Gold",
+            version:22
+        };
+        games[7022] =  {
+            name:"Branded Megaways",
+            version:23
+        };
+        games[7023] =  {
+            name:"1 Million Megaways",
+            version:24
+        };
+        games[7031] =  {
+            name:"GoA",
+            version:29
+        };
+        window.location.href = target+'acc_id='+user+'&language='+lang+'&gameID='+gameid+'&playMode='+funreal+'&gameVersion='+games[gameid].version+'&gameName='+games[gameid].name+'&gameType=PREMIUMSLOTS&installID=null&site='+site +'&jurisdiction=' + jurisdiction + '&channel=' + channel  + '&realitycheck_uk_elapsed=' + realitycheck_uk_elapsed + '&realitycheck_uk_limit=' + realitycheck_uk_limit + '&realitycheck_uk_proceed=' + realitycheck_uk_proceed + '&realitycheck_uk_exit=' + realitycheck_uk_exit + '&realitycheck_uk_history=' + realitycheck_uk_history + '&realitycheck_uk_autospin=' + realitycheck_uk_autospin+ '&folderName=' + folderName + '&force='+force+'&confType='+confType+'&log='+log+ '&clientName='+clientName+ '&seeding='+seeding+ '&singleTexts='+singleTexts+"&path=http%3A%2F%2F88.208.244.42%2Ff1x2games%2F/&pathCDN=http%3A%2F%2Fwww.1x2-cloud-1.com%2F";
+    }
+    </script>
+</head>
+
+<body>
+    <div class="main__div">
+
+    <h2>IDS</h2>
+
+        <form name="searchOptions">
+            <div id="optionsList" />
+            <div class="standard__params">
+            <select name="channel">
+                <option value="mobile">Mobile</option>
+                <option value="desktop" selected>Desktop</option>
+            </select>
+            <select name="fun_real">
+                <option value="real" selected>Real</option>
+                <option value="fun">Fun</option>
+            </select>
+            <select name="launchType">
+                <option value="1">97%</option>
+                <option value="2" selected>95%</option>
+                <option value="3">93%</option>
+            </select>
+
+            <select name="lang">
+                <option value="en" selected>English</option>
+                <option value="de">German</option>
+                <option value="it">Italian</option>
+                <option value="es">Spanish</option>
+                <option value="ru">Russian</option>
+                <option value="bg">Bulgarian</option>
+                <option value="tr">Turkish</option>
+                <option value="se">Swedish</option>
+                <option value="pt">Portugese</option>
+                <option value="gr">Greek</option>
+                <option value="dk">Danish</option>
+                <option value="pl">Polish</option>
+                <option value="ro">Romanian</option>
+                <option value="cz">Czech</option>
+                <option value="no">Norwegian</option>
+                <option value="su">Finnish</option>
+                <option value="hr">Croat</option>
+                <option value="br">Brazilian</option>
+                <option value="nl">Dutch</option>
+                <option value="fr">French</option>
+                <option value="zs">Chinese (Simplified)</option>
+                <option value="zh">Chinese (Traditional)</option>
+                <option value="vn">Vietnamese</option>
+                <option value="ko">Korean</option>
+                <option value="jp">Japanese</option>
+                <option value="th">Thai</option>
+                <option value="rs">Serbian</option>
+                <option value="hu">Hungarian</option>
+                <option value="uk">Ukranian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="at">German (at)</option>
+                <option value="us">English (us)</option>
+            </select>
+            <select name="acc_id" id="acc_id">
+                <option value="187346">GBP rich</option>
+                <option value="187347">GBP poor</option>
+                <option value="187348">EUR rich</option>
+                <option value="187349">EUR poor</option>
+                <option value="187350">USD rich</option>
+                <option value="187351">USD poor</option>
+                <option value="187354">Reach NOK</option>
+                <option value="15">HKD</option>
+                <option value="SGD">SGD</option>
+                <option value="16">INR</option>
+                <option value="17">ILS</option>
+                <option value="18">JPY</option>
+                <option value="19">NPR</option>
+                <option value="20">KRW</option>
+                <option value="21">THB</option>
+                <option value="43">testTRY</option>
+                <option value="44">testBGN</option>
+                <option value="45">testCAD</option>
+                <option value="46">testCHF</option>
+                <option value="47">testBRL</option>
+                <option value="48">testMXN</option>
+                <option value="49">testRUB</option>
+                <option value="test_VND">testVND</option>
+                <option value="2">Tom</option>
+                <option value="4">Lee</option>
+                <option value="10">Adam</option>
+                <option value="7">Brian</option>
+                <option value="8">Kev</option>
+                <option value="9">Chris</option>
+                <option value="3">Jack</option>
+                <option value="5">Dave</option>
+                <option value="6">Luke</option>
+                <option value="1">Scott</option>
+                <option value="60">Sean</option>
+                <option value="53">Louis</option>
+                <option value="112">Ant</option>
+                <option value="54">Margarita</option>
+                <option value="56">Donnie</option>
+                <option value="52">Fabry</option>
+                <option value="58">Callan</option>
+                <option value="101">Sam</option>
+                <option value="102">Will</option>
+                <option value="103">Keely</option>
+                <option value="104">Rukmini</option>
+                <option value="105">Paolo</option>
+                <option value="106">Ely</option>
+                <option value="107">Test1</option>
+                <option value="108">Test2</option>
+                <option value="109">Test3</option>
+                <option value="110">Test4</option>
+                <option value="111">Test5</option>
+                <option value="5%7C1x2test@SEK">NYX</option>
+                <option value="1%7C52@SEK">fabry NYX</option>
+                <option value="5%7C97999269-b69a-4336-adc9-205e02e2047c@GBP">testuser_GBP_1</option>
+                <option value="5%7C82fc2c36-5456-4630-b301-8a2b7a35c17c@GBP">Gaming1x2_GBP_test</option>
+
+            </select>
+            <select name="install">
+                <!--<option value="1">ladbrokes</option>
+                <option value="2">hills</option>
+                <option value="3">365</option>
+                <option value="4">nyx</option>
+                <option value="5">bwin</option>
+                <option value="6">rq</option>-->
+                <option value="7" selected>dev</option>
+                <!--<option value="8">"quick" fire</option>-->
+            </select>
+            <select name="force">
+                <option value="Enable">The Force will be with you. Always</option>
+                <option value="Disable" selected>The Force is weak on you</option>
+            </select>
+            <select name="seeding">
+                <option value="Enable" selected>Seeds enable</option>
+                <option value="Disable">No Seeds</option>
+            </select>
+
+            <select name="singleTexts">
+                <option value="Enable">Matrix enable</option>
+                <option value="Disable" selected >Matrix disabled</option>
+            </select>
+            <select name="log">
+                <option value="true">Log</option>
+                <option value="false" selected>No Log</option>
+            </select>
+                <select name="site">
+                    <option value="1" selected>Site 1</option>
+                    <option value="2">Site 2</option>
+                </select>
+
+            </div>
+            <table class="level3Params">
+                <tr>
+                    <td>Client Skin
+                    <td>
+                    <select name="clientName">
+                            <option value="null" selected>Default</option>
+                        <option value="BGO">BGO</option>
+                            <option value="Betfred">Betfred</option>
+                            <option value="redQueen">Red Queen</option>
+                            <option value="RoyalPanda">Royal Panda</option>
+                    </select>
+                </tr>
+                <tr>
+                    <td>Select jurisdiction
+                        <td>
+                            <select name="jurisdiction">
+                                <option value="uk">uk</option>
+                                <option value="it">it</option>
+                                <option value="es">es</option>
+                                <option value="se">se</option>
+                                <option value="co">co</option>
+                                <option value="none">rest of world</option>
+                            </select>
+                </tr>
+                <tr>
+                    <td>Select time elapsed
+                        <td>
+                            <input type="text" name="realitycheck_uk_elapsed" value="0">
+                </tr>
+                <tr>
+                    <td>Select time limit
+                        <td>
+                            <input type="text" name="realitycheck_uk_limit" value="0">
+                </tr>
+                <tr>
+                    <td>Select proceed URL
+                        <td>
+                            <input type="text" name="realitycheck_uk_proceed" value="">
+                </tr>
+                <tr>
+                    <td>Select exit URL
+                        <td>
+                            <input type="text" name="realitycheck_uk_exit" value="">
+                </tr>
+                <tr>
+                    <td>Select history URL
+                        <td>
+                            <input type="text" name="realitycheck_uk_history" value="">
+                </tr>
+                <tr>
+                    <td>Select autospin URL
+                        <td>
+                            <input type="text" name="realitycheck_uk_autospin" value="">
+                </tr>
+            </table>
+    </div>
+    </form>
+    <div class="game__icons">
+        <a href="javascript:openGame(7035, 'aztecWildsMegaways')">Aztec Wilds Megaways</a>
+        <a href="javascript:openGame(7031, 'rockTheReelsMegaways')">GoA</a>
+        <a href="javascript:openGame(7023, 'millionWaysBC')">1Million Megaways</a>
+        <a href="javascript:openGame(7022, 'brandedMegaWays')">Branded Megaways</a>
+        <a href="javascript:openGame(7021, 'barbarianGold')">Barbarian Gold</a>
+        <a href="javascript:openGame(7020, 'jekyllHyde')">Jekyll & Hyde</a>
+        <a href="javascript:openGame(7019, 'megaJack')">Megaways Jack</a>
+        <a href="javascript:openGame(7018, 'avalonQuest')">Avalon Quest</a>
+        <a href="javascript:openGame(7017, 'aztecWilds')">Aztec Wilds</a>
+        <a href="javascript:openGame(7016, 'megaWays')">MegaWays</a>
+        <a href="javascript:openGame(7015, 'richieInVegas')">Richie In Vegas</a>
+        <a href="javascript:openGame(7014, 'vikingWilds')">Viking Wilds</a>
+        <a href="javascript:openGame(7013, 'curiousCabinet')">The Curious Cabinet</a>
+        <a href="javascript:openGame(7012, 'moiraiBlaze')">Moirai Blaze</a>
+        <a href="javascript:openGame(7011, 'siXiang')">Sì Xiàng</a>
+        <a href="javascript:openGame(7010, 'waiKiki')">WaiKiki</a>
+        <a href="javascript:openGame(7009, 'sirensKingdom')">Siren's Kingdom</a>
+        <a href="javascript:openGame(7008, 'rainbowGold')">Rainbow Wilds</a>
+        <a href="javascript:openGame(7007, 'bloodQueen')">Blood Queen</a>
+        <a href="javascript:openGame(7006, 'neonJungle')">Neon Jungle</a>
+        <a href="javascript:openGame(7005, 'treasureOfHorus')">Treasure Of Horus</a>
+        <a href="javascript:openGame(7004, 'giftOfOstara')">Gift Of Ostara</a>
+        <a href="javascript:openGame(7003, 'cherryBlast')">Cherry Blast</a>
+        <a href="javascript:openGame(7002, 'paint')">Paint</a>
+        <a href="javascript:openGame(7001, 'cosmicCrystals')">Cosmic Crystals</a>
+    </div>
+    </div>
+</body>
+
+</html>

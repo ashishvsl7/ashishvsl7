@@ -1,0 +1,120 @@
+{"frames": [
+
+{
+	"filename": "small-scarab_00001.png",
+	"frame": {"x":1,"y":1,"w":121,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":50},
+	"sourceSize": {"w":121,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "small-scarab_00002.png",
+	"frame": {"x":124,"y":1,"w":121,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":50},
+	"sourceSize": {"w":121,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "small-scarab_00003.png",
+	"frame": {"x":247,"y":1,"w":121,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":50},
+	"sourceSize": {"w":121,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "small-scarab_00004.png",
+	"frame": {"x":370,"y":1,"w":121,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":50},
+	"sourceSize": {"w":121,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "small-scarab_00005.png",
+	"frame": {"x":493,"y":1,"w":121,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":50},
+	"sourceSize": {"w":121,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "small-scarab_00006.png",
+	"frame": {"x":616,"y":1,"w":121,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":50},
+	"sourceSize": {"w":121,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "small-scarab_00007.png",
+	"frame": {"x":739,"y":1,"w":121,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":50},
+	"sourceSize": {"w":121,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "small-scarab_00008.png",
+	"frame": {"x":862,"y":1,"w":121,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":50},
+	"sourceSize": {"w":121,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "small-scarab_00009.png",
+	"frame": {"x":985,"y":1,"w":121,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":50},
+	"sourceSize": {"w":121,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "small-scarab_00010.png",
+	"frame": {"x":1108,"y":1,"w":121,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":50},
+	"sourceSize": {"w":121,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "small-scarab_00011.png",
+	"frame": {"x":1231,"y":1,"w":121,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":50},
+	"sourceSize": {"w":121,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "small-scarab_00012.png",
+	"frame": {"x":1354,"y":1,"w":121,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":50},
+	"sourceSize": {"w":121,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "secondary-scarab.png",
+	"format": "RGBA8888",
+	"size": {"w":1476,"h":52},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7d664d6e761e6fffd8bc0cb734989a6a:cddf2eea6784322145d22a22c2586452:96d5221bdebc98f6e3bb520d6cff01c0$"
+}
+}

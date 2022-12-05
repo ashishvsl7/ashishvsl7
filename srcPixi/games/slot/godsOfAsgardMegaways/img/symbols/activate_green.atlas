@@ -1,0 +1,950 @@
+
+activate_green.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/activate_green_02/activate_green_02_00000
+  rotate: false
+  xy: 0, 1645
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00001
+  rotate: false
+  xy: 0, 1245
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00002
+  rotate: false
+  xy: 0, 845
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00003
+  rotate: false
+  xy: 0, 445
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00004
+  rotate: false
+  xy: 0, 45
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00005
+  rotate: true
+  xy: 240, 1805
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00006
+  rotate: true
+  xy: 640, 1805
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00007
+  rotate: true
+  xy: 1040, 1805
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00008
+  rotate: true
+  xy: 1440, 1805
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00009
+  rotate: false
+  xy: 240, 1405
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00010
+  rotate: false
+  xy: 240, 1005
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00011
+  rotate: false
+  xy: 240, 605
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00012
+  rotate: false
+  xy: 240, 205
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00013
+  rotate: true
+  xy: 480, 1565
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00014
+  rotate: true
+  xy: 880, 1565
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00015
+  rotate: true
+  xy: 1280, 1565
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00016
+  rotate: false
+  xy: 480, 1165
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00017
+  rotate: false
+  xy: 480, 765
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00018
+  rotate: false
+  xy: 480, 365
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00019
+  rotate: true
+  xy: 720, 1325
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00020
+  rotate: true
+  xy: 1120, 1325
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_02/activate_green_02_00021
+  rotate: true
+  xy: 1520, 1325
+  size: 240, 400
+  orig: 240, 400
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00000
+  rotate: true
+  xy: 1680, 1565
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00001
+  rotate: false
+  xy: 480, 90
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00002
+  rotate: true
+  xy: 720, 1085
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00003
+  rotate: true
+  xy: 995, 1085
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00004
+  rotate: true
+  xy: 1270, 1085
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00005
+  rotate: true
+  xy: 1545, 1085
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00006
+  rotate: false
+  xy: 720, 800
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00007
+  rotate: false
+  xy: 720, 525
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00008
+  rotate: false
+  xy: 720, 250
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00009
+  rotate: true
+  xy: 1020, 845
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00010
+  rotate: true
+  xy: 1295, 845
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00011
+  rotate: false
+  xy: 960, 320
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00012
+  rotate: true
+  xy: 1260, 605
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00013
+  rotate: true
+  xy: 1535, 545
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00014
+  rotate: true
+  xy: 1260, 365
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00015
+  rotate: true
+  xy: 1535, 305
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00016
+  rotate: false
+  xy: 1020, 30
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00017
+  rotate: true
+  xy: 1260, 125
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00018
+  rotate: true
+  xy: 1535, 65
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00000
+  rotate: true
+  xy: 1820, 1075
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00001
+  rotate: true
+  xy: 1820, 835
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00002
+  rotate: true
+  xy: 1820, 595
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00003
+  rotate: true
+  xy: 1810, 355
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00004
+  rotate: true
+  xy: 1810, 115
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00000
+  rotate: true
+  xy: 1840, 1805
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00001
+  rotate: false
+  xy: 240, 30
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00000
+  rotate: true
+  xy: 720, 0
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00001
+  rotate: true
+  xy: 870, 0
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00002
+  rotate: false
+  xy: 1570, 935
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00003
+  rotate: false
+  xy: 1570, 785
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00004
+  rotate: true
+  xy: 960, 595
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00005
+  rotate: true
+  xy: 1110, 595
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00000
+  rotate: false
+  xy: 1260, 0
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00021
+  rotate: true
+  xy: 1920, 1315
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+
+activate_green2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/activate_green_03/activate_green_03_00019
+  rotate: false
+  xy: 0, 1750
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00020
+  rotate: false
+  xy: 0, 1475
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00021
+  rotate: false
+  xy: 240, 1750
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00022
+  rotate: false
+  xy: 0, 1200
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_03/activate_green_03_00023
+  rotate: false
+  xy: 240, 1475
+  size: 240, 275
+  orig: 240, 275
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00005
+  rotate: false
+  xy: 480, 1800
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00006
+  rotate: false
+  xy: 0, 975
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00007
+  rotate: false
+  xy: 240, 1250
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00008
+  rotate: false
+  xy: 480, 1575
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00009
+  rotate: false
+  xy: 720, 1800
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00010
+  rotate: false
+  xy: 0, 750
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00011
+  rotate: false
+  xy: 240, 1025
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00012
+  rotate: false
+  xy: 480, 1350
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00013
+  rotate: false
+  xy: 720, 1575
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00014
+  rotate: false
+  xy: 960, 1800
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00015
+  rotate: false
+  xy: 0, 525
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00016
+  rotate: false
+  xy: 240, 800
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00017
+  rotate: false
+  xy: 480, 1125
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00018
+  rotate: false
+  xy: 720, 1350
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00019
+  rotate: false
+  xy: 960, 1575
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00020
+  rotate: false
+  xy: 1200, 1800
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_04/activate_green_04_00021
+  rotate: false
+  xy: 0, 300
+  size: 240, 225
+  orig: 240, 225
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00002
+  rotate: false
+  xy: 240, 625
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00003
+  rotate: false
+  xy: 480, 950
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00004
+  rotate: false
+  xy: 720, 1175
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00005
+  rotate: false
+  xy: 960, 1400
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00006
+  rotate: false
+  xy: 1200, 1625
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00007
+  rotate: false
+  xy: 1440, 1850
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00008
+  rotate: false
+  xy: 0, 125
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00009
+  rotate: false
+  xy: 240, 450
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00010
+  rotate: false
+  xy: 480, 775
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00011
+  rotate: false
+  xy: 720, 1000
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00012
+  rotate: false
+  xy: 960, 1225
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00013
+  rotate: false
+  xy: 1200, 1450
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00014
+  rotate: false
+  xy: 1440, 1675
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00015
+  rotate: false
+  xy: 1680, 1850
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00016
+  rotate: false
+  xy: 240, 275
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00017
+  rotate: false
+  xy: 480, 600
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00018
+  rotate: false
+  xy: 720, 825
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00019
+  rotate: false
+  xy: 960, 1050
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00020
+  rotate: false
+  xy: 1200, 1275
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_05/activate_green_05_00021
+  rotate: false
+  xy: 1440, 1500
+  size: 240, 175
+  orig: 240, 175
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00006
+  rotate: true
+  xy: 1680, 1600
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00007
+  rotate: true
+  xy: 480, 350
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00008
+  rotate: false
+  xy: 240, 125
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00009
+  rotate: false
+  xy: 720, 675
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00010
+  rotate: false
+  xy: 1200, 1125
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00011
+  rotate: false
+  xy: 960, 900
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00012
+  rotate: false
+  xy: 1440, 1350
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00013
+  rotate: true
+  xy: 1830, 1600
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00014
+  rotate: true
+  xy: 630, 350
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00015
+  rotate: false
+  xy: 490, 200
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00016
+  rotate: true
+  xy: 780, 425
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00017
+  rotate: false
+  xy: 970, 750
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00018
+  rotate: false
+  xy: 970, 600
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00019
+  rotate: false
+  xy: 930, 450
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00020
+  rotate: false
+  xy: 1450, 1200
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_06/activate_green_06_00021
+  rotate: false
+  xy: 1450, 1050
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00001
+  rotate: false
+  xy: 0, 0
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00002
+  rotate: false
+  xy: 250, 0
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00003
+  rotate: false
+  xy: 500, 75
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00004
+  rotate: true
+  xy: 1690, 1350
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00005
+  rotate: true
+  xy: 1815, 1350
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00006
+  rotate: true
+  xy: 1700, 1100
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00007
+  rotate: true
+  xy: 1825, 1100
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00008
+  rotate: false
+  xy: 1700, 975
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00009
+  rotate: false
+  xy: 930, 325
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00010
+  rotate: true
+  xy: 1180, 350
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00011
+  rotate: true
+  xy: 780, 175
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00012
+  rotate: false
+  xy: 905, 200
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00013
+  rotate: false
+  xy: 905, 75
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00014
+  rotate: true
+  xy: 1155, 75
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00015
+  rotate: true
+  xy: 1280, 100
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00016
+  rotate: false
+  xy: 1405, 925
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00017
+  rotate: false
+  xy: 1655, 850
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00018
+  rotate: true
+  xy: 1220, 600
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00019
+  rotate: true
+  xy: 1305, 350
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+images/activate_green_07/activate_green_07_00020
+  rotate: true
+  xy: 1345, 600
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1

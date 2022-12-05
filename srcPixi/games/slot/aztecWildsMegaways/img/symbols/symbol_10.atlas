@@ -1,0 +1,62 @@
+
+symbol_10.png
+size: 492,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol_10/bg
+  rotate: true
+  xy: 0, 101
+  size: 196, 321
+  orig: 196, 321
+  offset: 0, 0
+  index: -1
+symbol_10/body
+  rotate: true
+  xy: 322, 199
+  size: 98, 143
+  orig: 98, 143
+  offset: 0, 0
+  index: -1
+symbol_10/crown
+  rotate: true
+  xy: 218, 2
+  size: 98, 158
+  orig: 98, 158
+  offset: 0, 0
+  index: -1
+symbol_10/earring
+  rotate: false
+  xy: 322, 131
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+symbol_10/frameBottom
+  rotate: true
+  xy: 413, 2
+  size: 196, 33
+  orig: 196, 33
+  offset: 0, 0
+  index: -1
+symbol_10/frameSide
+  rotate: false
+  xy: 466, 0
+  size: 26, 297
+  orig: 26, 297
+  offset: 0, 0
+  index: -1
+symbol_10/frameTop
+  rotate: true
+  xy: 377, 2
+  size: 196, 35
+  orig: 196, 35
+  offset: 0, 0
+  index: -1
+symbol_10/head
+  rotate: true
+  xy: 0, 12
+  size: 88, 217
+  orig: 88, 217
+  offset: 0, 0
+  index: -1

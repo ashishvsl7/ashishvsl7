@@ -1,0 +1,388 @@
+{"frames": [
+
+{
+	"filename": "symbol-14-lighting_00000.png",
+	"frame": {"x":0,"y":0,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00001.png",
+	"frame": {"x":117,"y":0,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00002.png",
+	"frame": {"x":234,"y":0,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00003.png",
+	"frame": {"x":351,"y":0,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00004.png",
+	"frame": {"x":468,"y":0,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00005.png",
+	"frame": {"x":585,"y":0,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00006.png",
+	"frame": {"x":702,"y":0,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00007.png",
+	"frame": {"x":819,"y":0,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00008.png",
+	"frame": {"x":0,"y":305,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00009.png",
+	"frame": {"x":117,"y":305,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00010.png",
+	"frame": {"x":234,"y":305,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00011.png",
+	"frame": {"x":351,"y":305,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00012.png",
+	"frame": {"x":468,"y":305,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00013.png",
+	"frame": {"x":585,"y":305,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00014.png",
+	"frame": {"x":702,"y":305,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00015.png",
+	"frame": {"x":819,"y":305,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00016.png",
+	"frame": {"x":0,"y":610,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00017.png",
+	"frame": {"x":117,"y":610,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00018.png",
+	"frame": {"x":234,"y":610,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00019.png",
+	"frame": {"x":351,"y":610,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00020.png",
+	"frame": {"x":468,"y":610,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00021.png",
+	"frame": {"x":585,"y":610,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00022.png",
+	"frame": {"x":702,"y":610,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00023.png",
+	"frame": {"x":819,"y":610,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00024.png",
+	"frame": {"x":0,"y":915,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00025.png",
+	"frame": {"x":117,"y":915,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00026.png",
+	"frame": {"x":234,"y":915,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00027.png",
+	"frame": {"x":351,"y":915,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00028.png",
+	"frame": {"x":468,"y":915,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00029.png",
+	"frame": {"x":585,"y":915,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00030.png",
+	"frame": {"x":702,"y":915,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00031.png",
+	"frame": {"x":819,"y":915,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00032.png",
+	"frame": {"x":0,"y":1220,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00033.png",
+	"frame": {"x":117,"y":1220,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00034.png",
+	"frame": {"x":234,"y":1220,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00035.png",
+	"frame": {"x":351,"y":1220,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00036.png",
+	"frame": {"x":468,"y":1220,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00037.png",
+	"frame": {"x":585,"y":1220,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00038.png",
+	"frame": {"x":702,"y":1220,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00039.png",
+	"frame": {"x":819,"y":1220,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00040.png",
+	"frame": {"x":0,"y":1525,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00041.png",
+	"frame": {"x":117,"y":1525,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00042.png",
+	"frame": {"x":234,"y":1525,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00043.png",
+	"frame": {"x":351,"y":1525,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00044.png",
+	"frame": {"x":468,"y":1525,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00045.png",
+	"frame": {"x":585,"y":1525,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+},
+{
+	"filename": "symbol-14-lighting_00046.png",
+	"frame": {"x":702,"y":1525,"w":117,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":305},
+	"sourceSize": {"w":117,"h":305}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbol-14-lighting.png",
+	"format": "RGBA8888",
+	"size": {"w":936,"h":1830},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d069a84ffdb8228e2b177503bdd0aad8:8eeedf6b2658d98fc0cefe06e265b6d9:2fa0dea840688df453adf2b174a858c0$"
+}
+}

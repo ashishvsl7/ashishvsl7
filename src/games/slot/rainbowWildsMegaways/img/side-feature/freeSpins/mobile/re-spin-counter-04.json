@@ -1,0 +1,120 @@
+{"frames": [
+
+{
+	"filename": "re-spin-counter-04_00036.png",
+	"frame": {"x":0,"y":0,"w":246,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":89},
+	"sourceSize": {"w":246,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "re-spin-counter-04_00037.png",
+	"frame": {"x":0,"y":89,"w":246,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":89},
+	"sourceSize": {"w":246,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "re-spin-counter-04_00038.png",
+	"frame": {"x":0,"y":178,"w":246,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":89},
+	"sourceSize": {"w":246,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "re-spin-counter-04_00039.png",
+	"frame": {"x":0,"y":267,"w":246,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":89},
+	"sourceSize": {"w":246,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "re-spin-counter-04_00040.png",
+	"frame": {"x":0,"y":356,"w":246,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":89},
+	"sourceSize": {"w":246,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "re-spin-counter-04_00041.png",
+	"frame": {"x":0,"y":445,"w":246,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":89},
+	"sourceSize": {"w":246,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "re-spin-counter-04_00042.png",
+	"frame": {"x":0,"y":534,"w":246,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":89},
+	"sourceSize": {"w":246,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "re-spin-counter-04_00043.png",
+	"frame": {"x":0,"y":623,"w":246,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":89},
+	"sourceSize": {"w":246,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "re-spin-counter-04_00044.png",
+	"frame": {"x":0,"y":712,"w":246,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":89},
+	"sourceSize": {"w":246,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "re-spin-counter-04_00045.png",
+	"frame": {"x":0,"y":801,"w":246,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":89},
+	"sourceSize": {"w":246,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "re-spin-counter-04_00046.png",
+	"frame": {"x":0,"y":890,"w":246,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":89},
+	"sourceSize": {"w":246,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "re-spin-counter-04_00047.png",
+	"frame": {"x":0,"y":979,"w":246,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":89},
+	"sourceSize": {"w":246,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "re-spin-counter-04.png",
+	"format": "RGBA8888",
+	"size": {"w":246,"h":1068},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a8c8bca58f85166f14f38d76c00bc3a8:c1a19096a83055576912f805db55a8ce:ef7e7ef339367bf321d684b7952836a2$"
+}
+}

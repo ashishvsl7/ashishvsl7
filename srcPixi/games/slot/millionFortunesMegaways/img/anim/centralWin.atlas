@@ -1,0 +1,97 @@
+
+centralWin.png
+size: 1858,570
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 1
+  size: 284, 569
+  orig: 284, 569
+  offset: 0, 0
+  index: -1
+bgDecoration
+  rotate: false
+  xy: 1452, 24
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+bigTxt
+  rotate: true
+  xy: 767, 241
+  size: 329, 240
+  orig: 329, 240
+  offset: 0, 0
+  index: -1
+decoretion1
+  rotate: false
+  xy: 612, 39
+  size: 192, 87
+  orig: 192, 87
+  offset: 0, 0
+  index: -1
+decoretion2
+  rotate: false
+  xy: 476, 8
+  size: 135, 100
+  orig: 135, 100
+  offset: 0, 0
+  index: -1
+epicTxt
+  rotate: true
+  xy: 526, 127
+  size: 443, 240
+  orig: 443, 240
+  offset: 0, 0
+  index: -1
+frameCurl
+  rotate: false
+  xy: 1681, 2
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+lantern1
+  rotate: false
+  xy: 1681, 62
+  size: 152, 190
+  orig: 152, 190
+  offset: 0, 0
+  index: -1
+lantern2
+  rotate: true
+  xy: 285, 3
+  size: 105, 190
+  orig: 105, 190
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 1008, 253
+  size: 825, 165
+  orig: 825, 165
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 1008, 419
+  size: 850, 151
+  orig: 850, 151
+  offset: 0, 0
+  index: -1
+ultraTxt
+  rotate: false
+  xy: 805, 0
+  size: 646, 240
+  orig: 646, 240
+  offset: 0, 0
+  index: -1
+winTxt
+  rotate: true
+  xy: 285, 109
+  size: 461, 240
+  orig: 461, 240
+  offset: 0, 0
+  index: -1

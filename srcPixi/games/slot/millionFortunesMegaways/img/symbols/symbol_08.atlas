@@ -1,0 +1,76 @@
+
+symbol_08.png
+size: 219,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol_08/bar
+  rotate: false
+  xy: 197, 47
+  size: 15, 139
+  orig: 15, 139
+  offset: 0, 0
+  index: -1
+symbol_08/bgSmall
+  rotate: false
+  xy: 125, 187
+  size: 92, 150
+  orig: 92, 150
+  offset: 0, 0
+  index: -1
+symbol_08/boat
+  rotate: true
+  xy: 0, 141
+  size: 196, 124
+  orig: 196, 124
+  offset: 0, 0
+  index: -1
+symbol_08/flag
+  rotate: true
+  xy: 125, 156
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+symbol_08/frameBottom
+  rotate: false
+  xy: 0, 0
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+symbol_08/frameSide
+  rotate: false
+  xy: 206, 396
+  size: 13, 136
+  orig: 13, 136
+  offset: 0, 0
+  index: -1
+symbol_08/frameTop
+  rotate: false
+  xy: 99, 0
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+symbol_08/sail
+  rotate: false
+  xy: 0, 338
+  size: 150, 194
+  orig: 150, 194
+  offset: 0, 0
+  index: -1
+symbol_08/sailShadow
+  rotate: false
+  xy: 151, 426
+  size: 54, 106
+  orig: 54, 106
+  offset: 0, 0
+  index: -1
+symbol_08/waves
+  rotate: false
+  xy: 0, 31
+  size: 196, 109
+  orig: 196, 109
+  offset: 0, 0
+  index: -1

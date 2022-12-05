@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "tile-128x87_00000.png",
+	"frame": {"x":1,"y":1,"w":128,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":87},
+	"sourceSize": {"w":128,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tile-128x87_00001.png",
+	"frame": {"x":131,"y":1,"w":128,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":87},
+	"sourceSize": {"w":128,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tile-128x87_00002.png",
+	"frame": {"x":261,"y":1,"w":128,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":87},
+	"sourceSize": {"w":128,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tile-128x87_00003.png",
+	"frame": {"x":391,"y":1,"w":128,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":87},
+	"sourceSize": {"w":128,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tile-128x87_00004.png",
+	"frame": {"x":521,"y":1,"w":128,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":87},
+	"sourceSize": {"w":128,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tile-128x87_00005.png",
+	"frame": {"x":651,"y":1,"w":128,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":87},
+	"sourceSize": {"w":128,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tile-128x87_00006.png",
+	"frame": {"x":781,"y":1,"w":128,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":87},
+	"sourceSize": {"w":128,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tile-128x87_00007.png",
+	"frame": {"x":911,"y":1,"w":128,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":87},
+	"sourceSize": {"w":128,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "tile-128x87.png",
+	"format": "RGBA8888",
+	"size": {"w":1040,"h":89},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f0b47a7f0cefd697fc74da3cce7f5132:aee3f422bca23e5d6c88f121798446cf:dd9a0ea4e2921f85327b545af85ea401$"
+}
+}

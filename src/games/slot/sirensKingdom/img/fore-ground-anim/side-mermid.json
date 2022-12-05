@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "side-mermaid_00000.png",
+	"frame": {"x":1,"y":1,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00001.png",
+	"frame": {"x":303,"y":1,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00002.png",
+	"frame": {"x":605,"y":1,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00003.png",
+	"frame": {"x":907,"y":1,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00004.png",
+	"frame": {"x":1209,"y":1,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00005.png",
+	"frame": {"x":1511,"y":1,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00006.png",
+	"frame": {"x":1,"y":264,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00007.png",
+	"frame": {"x":303,"y":264,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00008.png",
+	"frame": {"x":605,"y":264,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00009.png",
+	"frame": {"x":907,"y":264,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00010.png",
+	"frame": {"x":1209,"y":264,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00011.png",
+	"frame": {"x":1511,"y":264,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00012.png",
+	"frame": {"x":1,"y":527,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00013.png",
+	"frame": {"x":303,"y":527,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00014.png",
+	"frame": {"x":605,"y":527,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00015.png",
+	"frame": {"x":907,"y":527,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00016.png",
+	"frame": {"x":1209,"y":527,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00017.png",
+	"frame": {"x":1511,"y":527,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00018.png",
+	"frame": {"x":1,"y":790,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00019.png",
+	"frame": {"x":303,"y":790,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00020.png",
+	"frame": {"x":605,"y":790,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00021.png",
+	"frame": {"x":907,"y":790,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00022.png",
+	"frame": {"x":1209,"y":790,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "side-mermaid_00023.png",
+	"frame": {"x":1511,"y":790,"w":300,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":261},
+	"sourceSize": {"w":300,"h":261},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "side-mermid.png",
+	"format": "RGBA8888",
+	"size": {"w":1812,"h":1052},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1f968b0549cdb6489dbe0dffa59fd9ee:df7e87991ae72c6d05c289e7b084fce1:abcead04f8c55093c25e6690aff1e92d$"
+}
+}

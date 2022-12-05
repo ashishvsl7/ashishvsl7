@@ -1,0 +1,34 @@
+{"frames":
+[
+{
+	"frame": {"x":1,"y":1,"w":249,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":249,"h":78},
+	"sourceSize": {"w":252,"h":83}
+},
+{
+	"frame": {"x":1,"y":81,"w":249,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":249,"h":78},
+	"sourceSize": {"w":252,"h":83}
+},
+{
+	"frame": {"x":1,"y":161,"w":249,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":249,"h":78},
+	"sourceSize": {"w":252,"h":83}
+}
+	],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "buy-fs-btn.png",
+	"format": "RGBA8888",
+	"size": {"w":251,"h":240},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5b88ff4c3d77b210f941d23e58f80716:2510d6f3b4c6f67552e3e2e4362ab9cb:c1fc499bb3a68cd035ebc5825a6681a0$"
+}
+}

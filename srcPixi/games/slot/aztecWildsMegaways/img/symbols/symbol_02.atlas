@@ -1,0 +1,41 @@
+
+symbol_02.png
+size: 713,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgBottom
+  rotate: true
+  xy: 630, 0
+  size: 196, 83
+  orig: 196, 83
+  offset: 0, 0
+  index: -1
+bgCenter
+  rotate: true
+  xy: 0, 0
+  size: 196, 254
+  orig: 196, 254
+  offset: 0, 0
+  index: -1
+bgTop
+  rotate: true
+  xy: 542, 0
+  size: 196, 87
+  orig: 196, 87
+  offset: 0, 0
+  index: -1
+symbol_02/Q
+  rotate: true
+  xy: 413, 59
+  size: 137, 128
+  orig: 137, 128
+  offset: 0, 0
+  index: -1
+symbol_02/Q_shadow
+  rotate: true
+  xy: 255, 34
+  size: 162, 157
+  orig: 162, 157
+  offset: 0, 0
+  index: -1

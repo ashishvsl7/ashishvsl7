@@ -1,0 +1,76 @@
+
+centralWin.png
+size: 1244,331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 160
+  size: 791, 171
+  orig: 791, 171
+  offset: 0, 0
+  index: -1
+big
+  rotate: false
+  xy: 569, 9
+  size: 212, 150
+  orig: 212, 150
+  offset: 0, 0
+  index: -1
+decoration
+  rotate: false
+  xy: 792, 191
+  size: 440, 140
+  orig: 440, 140
+  offset: 0, 0
+  index: -1
+epic
+  rotate: false
+  xy: 0, 6
+  size: 290, 153
+  orig: 290, 153
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: true
+  xy: 782, 0
+  size: 31, 123
+  orig: 31, 123
+  offset: 0, 0
+  index: -1
+frame2
+  rotate: true
+  xy: 906, 3
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+frame3
+  rotate: false
+  xy: 940, 5
+  size: 122, 26
+  orig: 122, 26
+  offset: 0, 0
+  index: -1
+frame4
+  rotate: true
+  xy: 1190, 2
+  size: 188, 54
+  orig: 188, 54
+  offset: 0, 0
+  index: -1
+ultra
+  rotate: false
+  xy: 792, 32
+  size: 397, 158
+  orig: 397, 158
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 291, 9
+  size: 277, 150
+  orig: 277, 150
+  offset: 0, 0
+  index: -1

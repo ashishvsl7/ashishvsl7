@@ -1,0 +1,336 @@
+{"frames": [
+
+{
+	"filename": "ganesha-powerball_00036.png",
+	"frame": {"x":1,"y":1,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00037.png",
+	"frame": {"x":253,"y":1,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00038.png",
+	"frame": {"x":505,"y":1,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00039.png",
+	"frame": {"x":757,"y":1,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00040.png",
+	"frame": {"x":1009,"y":1,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00041.png",
+	"frame": {"x":1261,"y":1,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00042.png",
+	"frame": {"x":1513,"y":1,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00043.png",
+	"frame": {"x":1765,"y":1,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00044.png",
+	"frame": {"x":1,"y":303,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00045.png",
+	"frame": {"x":253,"y":303,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00046.png",
+	"frame": {"x":505,"y":303,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00047.png",
+	"frame": {"x":757,"y":303,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00048.png",
+	"frame": {"x":1009,"y":303,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00049.png",
+	"frame": {"x":1261,"y":303,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00050.png",
+	"frame": {"x":1513,"y":303,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00051.png",
+	"frame": {"x":1765,"y":303,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00052.png",
+	"frame": {"x":1,"y":605,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00053.png",
+	"frame": {"x":253,"y":605,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00054.png",
+	"frame": {"x":505,"y":605,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00055.png",
+	"frame": {"x":757,"y":605,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00056.png",
+	"frame": {"x":1009,"y":605,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00057.png",
+	"frame": {"x":1261,"y":605,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00058.png",
+	"frame": {"x":1513,"y":605,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00059.png",
+	"frame": {"x":1765,"y":605,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00060.png",
+	"frame": {"x":1,"y":907,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00061.png",
+	"frame": {"x":253,"y":907,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00062.png",
+	"frame": {"x":505,"y":907,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00063.png",
+	"frame": {"x":757,"y":907,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00064.png",
+	"frame": {"x":1009,"y":907,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00065.png",
+	"frame": {"x":1261,"y":907,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00066.png",
+	"frame": {"x":1513,"y":907,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00067.png",
+	"frame": {"x":1765,"y":907,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00068.png",
+	"frame": {"x":1,"y":1209,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00069.png",
+	"frame": {"x":253,"y":1209,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00070.png",
+	"frame": {"x":505,"y":1209,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ganesha-powerball_00071.png",
+	"frame": {"x":757,"y":1209,"w":250,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":300},
+	"sourceSize": {"w":250,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ganesha-pb-part2.png",
+	"format": "RGBA8888",
+	"size": {"w":2016,"h":1510},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bba6dab56bbe20f44cb0d56ebfd0d5c3:d4a5d2810dc57e584abf9f83bdaa6d23:123aeb26ddda3ef14638c6a3411d4ccf$"
+}
+}

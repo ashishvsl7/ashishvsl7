@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "sea-flowers-left_00000.png",
+	"frame": {"x":1,"y":1,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00001.png",
+	"frame": {"x":240,"y":1,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00002.png",
+	"frame": {"x":479,"y":1,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00003.png",
+	"frame": {"x":718,"y":1,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00004.png",
+	"frame": {"x":957,"y":1,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00005.png",
+	"frame": {"x":1196,"y":1,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00006.png",
+	"frame": {"x":1435,"y":1,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00007.png",
+	"frame": {"x":1674,"y":1,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00008.png",
+	"frame": {"x":1,"y":214,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00009.png",
+	"frame": {"x":240,"y":214,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00010.png",
+	"frame": {"x":479,"y":214,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00011.png",
+	"frame": {"x":718,"y":214,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00012.png",
+	"frame": {"x":957,"y":214,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00013.png",
+	"frame": {"x":1196,"y":214,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00014.png",
+	"frame": {"x":1435,"y":214,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00015.png",
+	"frame": {"x":1674,"y":214,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00016.png",
+	"frame": {"x":1,"y":427,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00017.png",
+	"frame": {"x":240,"y":427,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00018.png",
+	"frame": {"x":479,"y":427,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00019.png",
+	"frame": {"x":718,"y":427,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00020.png",
+	"frame": {"x":957,"y":427,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00021.png",
+	"frame": {"x":1196,"y":427,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00022.png",
+	"frame": {"x":1435,"y":427,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sea-flowers-left_00023.png",
+	"frame": {"x":1,"y":1,"w":237,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":211},
+	"sourceSize": {"w":237,"h":211},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sea-flowers-left.png",
+	"format": "RGBA8888",
+	"size": {"w":1912,"h":639},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9ce72c631565862ac032e27a26cdd5b2:50c3ef3232d6cc859d591ad234d032a3:21d83a76ad8a898022d6887b0ea794a7$"
+}
+}

@@ -1,0 +1,93 @@
+{"frames": [
+
+{
+	"filename": "rainbow-reveal_00003.png",
+	"frame": {"x":1,"y":1,"w":496,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":496,"h":161},
+	"sourceSize": {"w":496,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "rainbow-reveal_00004.png",
+	"frame": {"x":1,"y":164,"w":496,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":496,"h":161},
+	"sourceSize": {"w":496,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "rainbow-reveal_00005.png",
+	"frame": {"x":1,"y":327,"w":496,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":496,"h":161},
+	"sourceSize": {"w":496,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "rainbow-reveal_00006.png",
+	"frame": {"x":1,"y":490,"w":496,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":496,"h":161},
+	"sourceSize": {"w":496,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "rainbow-reveal_00007.png",
+	"frame": {"x":1,"y":653,"w":496,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":496,"h":161},
+	"sourceSize": {"w":496,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "rainbow-reveal_00008.png",
+	"frame": {"x":1,"y":816,"w":496,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":496,"h":161},
+	"sourceSize": {"w":496,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "rainbow-reveal_00009.png",
+	"frame": {"x":1,"y":979,"w":496,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":496,"h":161},
+	"sourceSize": {"w":496,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "rainbow-reveal_00010.png",
+	"frame": {"x":1,"y":1142,"w":496,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":496,"h":161},
+	"sourceSize": {"w":496,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "rainbow-reveal_00011.png",
+	"frame": {"x":1,"y":1305,"w":496,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":496,"h":161},
+	"sourceSize": {"w":496,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "big-win-rainbow-reveal.png",
+	"format": "RGBA8888",
+	"size": {"w":498,"h":1467},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:57014fff13bd7e6a132e76503e8e673e:b23e1b06181380a5e4f5f012cb35a60e:be674b76fdcabfc1984cd105e818f648$"
+}
+}

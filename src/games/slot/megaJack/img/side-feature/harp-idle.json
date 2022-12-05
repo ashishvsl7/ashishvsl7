@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "harp_idle_00000.png",
+	"frame": {"x":1,"y":1,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00001.png",
+	"frame": {"x":186,"y":1,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00002.png",
+	"frame": {"x":371,"y":1,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00003.png",
+	"frame": {"x":556,"y":1,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00004.png",
+	"frame": {"x":741,"y":1,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00005.png",
+	"frame": {"x":1,"y":387,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00006.png",
+	"frame": {"x":186,"y":387,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00007.png",
+	"frame": {"x":371,"y":387,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00008.png",
+	"frame": {"x":556,"y":387,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00009.png",
+	"frame": {"x":741,"y":387,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00010.png",
+	"frame": {"x":1,"y":773,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00011.png",
+	"frame": {"x":186,"y":773,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00012.png",
+	"frame": {"x":371,"y":773,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00013.png",
+	"frame": {"x":556,"y":773,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00014.png",
+	"frame": {"x":741,"y":773,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00015.png",
+	"frame": {"x":1,"y":1159,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00016.png",
+	"frame": {"x":186,"y":1159,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00017.png",
+	"frame": {"x":371,"y":1159,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00018.png",
+	"frame": {"x":556,"y":1159,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00019.png",
+	"frame": {"x":741,"y":1159,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00020.png",
+	"frame": {"x":1,"y":1545,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00021.png",
+	"frame": {"x":186,"y":1545,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00022.png",
+	"frame": {"x":371,"y":1545,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "harp_idle_00023.png",
+	"frame": {"x":556,"y":1545,"w":183,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":384},
+	"sourceSize": {"w":183,"h":384},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "harp-idle.png",
+	"format": "RGBA8888",
+	"size": {"w":925,"h":1930},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3415026879f80d850b5d19f8c7b22a59:b847977cf85124e0ec006a091359111d:39ff8cf9cf6ce3b176a7985fe0352a26$"
+}
+}

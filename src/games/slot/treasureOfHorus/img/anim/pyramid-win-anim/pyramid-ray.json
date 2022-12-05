@@ -1,0 +1,192 @@
+{"frames": [
+
+{
+	"filename": "pyramid-ray_01104.png",
+	"frame": {"x":1,"y":1,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01105.png",
+	"frame": {"x":6,"y":1,"w":1030,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":1030,"h":51},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01106.png",
+	"frame": {"x":1,"y":54,"w":1030,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":1030,"h":54},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01107.png",
+	"frame": {"x":1,"y":110,"w":1031,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1031,"h":52},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01108.png",
+	"frame": {"x":1,"y":164,"w":1032,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":1032,"h":49},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01109.png",
+	"frame": {"x":1,"y":215,"w":1033,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1033,"h":49},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01110.png",
+	"frame": {"x":1,"y":266,"w":1032,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":1032,"h":53},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01111.png",
+	"frame": {"x":1,"y":321,"w":1032,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1032,"h":55},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01112.png",
+	"frame": {"x":1,"y":378,"w":1031,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":1031,"h":54},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01113.png",
+	"frame": {"x":1,"y":434,"w":1030,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1030,"h":55},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01114.png",
+	"frame": {"x":1,"y":491,"w":1030,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1030,"h":55},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01115.png",
+	"frame": {"x":1,"y":548,"w":1031,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":1031,"h":46},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01116.png",
+	"frame": {"x":1,"y":596,"w":1031,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":1031,"h":53},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01117.png",
+	"frame": {"x":1,"y":651,"w":1032,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":1032,"h":52},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01118.png",
+	"frame": {"x":1,"y":705,"w":1032,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1032,"h":55},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01119.png",
+	"frame": {"x":1,"y":762,"w":1031,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1031,"h":55},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01120.png",
+	"frame": {"x":1,"y":819,"w":1031,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":1031,"h":49},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01121.png",
+	"frame": {"x":1,"y":870,"w":1032,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1032,"h":54},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01122.png",
+	"frame": {"x":1,"y":926,"w":1031,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1031,"h":55},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pyramid-ray_01123.png",
+	"frame": {"x":1,"y":983,"w":1031,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":1031,"h":48},
+	"sourceSize": {"w":1052,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "pyramid-ray.png",
+	"format": "RGBA8888",
+	"size": {"w":1037,"h":1032},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7e89dc7a1cdc732c0e27cb2f1e1718fe:495f0a831d7f39d16235c11dc79ae1ec:0f09993cad17921dcf902355f1052374$"
+}
+}

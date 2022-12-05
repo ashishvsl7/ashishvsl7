@@ -1,0 +1,22 @@
+<font>
+  <info face="multiplyAztec" size="250" bold="0" italic="0" charset="" unicode="" stretchH="100" smooth="1" aa="1" padding="1,1,1,1" spacing="0,0" outline="0"/>
+  <common lineHeight="250" base="188" scaleW="844" scaleH="499" pages="1" packed="0"/>
+  <pages>
+    <page id="0" file="multiplyAztec.png"/>
+  </pages>
+  <chars count="11">
+    <char id="49" x="1" y="1" width="111" height="248" xoffset="-15" yoffset="0" xadvance="73" page="0" chnl="15"/>
+    <char id="50" x="1" y="250" width="139" height="248" xoffset="-15" yoffset="1" xadvance="101" page="0" chnl="15"/>
+    <char id="51" x="113" y="1" width="139" height="248" xoffset="-15" yoffset="0" xadvance="110" page="0" chnl="15"/>
+    <char id="52" x="141" y="250" width="154" height="248" xoffset="-15" yoffset="0" xadvance="108" page="0" chnl="15"/>
+    <char id="53" x="253" y="1" width="139" height="248" xoffset="-13" yoffset="0" xadvance="100" page="0" chnl="15"/>
+    <char id="54" x="296" y="250" width="139" height="248" xoffset="-10" yoffset="0" xadvance="103" page="0" chnl="15"/>
+    <char id="55" x="393" y="1" width="139" height="248" xoffset="-13" yoffset="0" xadvance="95" page="0" chnl="15"/>
+    <char id="56" x="436" y="250" width="139" height="248" xoffset="-11" yoffset="0" xadvance="97" page="0" chnl="15"/>
+    <char id="57" x="533" y="1" width="139" height="248" xoffset="-11" yoffset="0" xadvance="97" page="0" chnl="15"/>
+    <char id="48" x="576" y="250" width="139" height="248" xoffset="2" yoffset="0" xadvance="111" page="0" chnl="15"/>
+    <char id="120" x="673" y="1" width="170" height="175" xoffset="-15" yoffset="63" xadvance="125" page="0" chnl="15"/>
+    <char id="32" x="0" y="0" width="0" height="0" xoffset="-15" yoffset="63" xadvance="67" page="0" chnl="15"/>
+  </chars>
+  <kernings count="0"/>
+</font>

@@ -1,0 +1,25 @@
+<font>
+	<info face="/Users/donniesteyn/Desktop/slot-games/21.jack's-megaways/1280x720-side-feature-mw-jack-6x7/export/x1/multiplyer\multiplyer-export" size="166" />
+	<common lineHeight="166" scaleW="344" scaleH="353" pages="1" />
+	<pages>
+		<page id="0" file="/Users/donniesteyn/Desktop/slot-games/21.jack's-megaways/1280x720-side-feature-mw-jack-6x7/export/x1/multiplyer\multiplyer-export.png" />
+	</pages>
+	<chars count="14">
+		<char id="43" x="94" y="118" width="63" height="69" xoffset="0" yoffset="62" xadvance="72" /><!-- + -->
+		<char id="48" x="0" y="105" width="93" height="102" xoffset="0" yoffset="48" xadvance="102" /><!-- 0 -->
+		<char id="49" x="274" y="0" width="57" height="99" xoffset="0" yoffset="49" xadvance="66" /><!-- 1 -->
+		<char id="50" x="93" y="208" width="86" height="101" xoffset="0" yoffset="47" xadvance="95" /><!-- 2 -->
+		<char id="51" x="265" y="112" width="78" height="118" xoffset="0" yoffset="48" xadvance="87" /><!-- 3 -->
+		<char id="52" x="0" y="208" width="92" height="113" xoffset="0" yoffset="48" xadvance="101" /><!-- 4 -->
+		<char id="53" x="265" y="231" width="76" height="121" xoffset="0" yoffset="45" xadvance="85" /><!-- 5 -->
+		<char id="54" x="106" y="0" width="85" height="117" xoffset="0" yoffset="33" xadvance="94" /><!-- 6 -->
+		<char id="55" x="192" y="0" width="81" height="111" xoffset="0" yoffset="50" xadvance="90" /><!-- 7 -->
+		<char id="56" x="180" y="118" width="84" height="114" xoffset="0" yoffset="36" xadvance="93" /><!-- 8 -->
+		<char id="57" x="180" y="233" width="84" height="118" xoffset="0" yoffset="48" xadvance="93" /><!-- 9 -->
+		<char id="120" x="0" y="0" width="105" height="104" xoffset="0" yoffset="45" xadvance="114" /><!-- x -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="58" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="464" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

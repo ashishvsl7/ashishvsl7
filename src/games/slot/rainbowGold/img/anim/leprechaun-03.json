@@ -1,0 +1,444 @@
+{"frames": [
+
+{
+	"filename": "leprechaun-girl_00000.png",
+	"frame": {"x":0,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00001.png",
+	"frame": {"x":112,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00002.png",
+	"frame": {"x":224,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00003.png",
+	"frame": {"x":336,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00004.png",
+	"frame": {"x":448,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00005.png",
+	"frame": {"x":560,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00006.png",
+	"frame": {"x":672,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00007.png",
+	"frame": {"x":784,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00008.png",
+	"frame": {"x":896,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00009.png",
+	"frame": {"x":1008,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00010.png",
+	"frame": {"x":1120,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00011.png",
+	"frame": {"x":1232,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00012.png",
+	"frame": {"x":1344,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00013.png",
+	"frame": {"x":1456,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00014.png",
+	"frame": {"x":1568,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00015.png",
+	"frame": {"x":1680,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00016.png",
+	"frame": {"x":1792,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00017.png",
+	"frame": {"x":1904,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00018.png",
+	"frame": {"x":0,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00019.png",
+	"frame": {"x":112,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00020.png",
+	"frame": {"x":224,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00021.png",
+	"frame": {"x":336,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00022.png",
+	"frame": {"x":448,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00023.png",
+	"frame": {"x":560,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00024.png",
+	"frame": {"x":672,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00025.png",
+	"frame": {"x":784,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00026.png",
+	"frame": {"x":896,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00027.png",
+	"frame": {"x":1008,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00028.png",
+	"frame": {"x":1120,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00029.png",
+	"frame": {"x":1232,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00030.png",
+	"frame": {"x":1344,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00031.png",
+	"frame": {"x":1456,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00032.png",
+	"frame": {"x":1568,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00033.png",
+	"frame": {"x":1680,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00034.png",
+	"frame": {"x":1792,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00035.png",
+	"frame": {"x":1904,"y":174,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00036.png",
+	"frame": {"x":0,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00037.png",
+	"frame": {"x":0,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00038.png",
+	"frame": {"x":0,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00039.png",
+	"frame": {"x":0,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00040.png",
+	"frame": {"x":0,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00041.png",
+	"frame": {"x":0,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00042.png",
+	"frame": {"x":0,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00043.png",
+	"frame": {"x":0,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00044.png",
+	"frame": {"x":0,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00045.png",
+	"frame": {"x":0,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00046.png",
+	"frame": {"x":0,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-girl_00047.png",
+	"frame": {"x":0,"y":0,"w":112,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":174},
+	"sourceSize": {"w":112,"h":174},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "leprechaun-03.png",
+	"format": "RGBA8888",
+	"size": {"w":2016,"h":348},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0078c400e62ebfe4012be49438b1dbb9:1e53470265eee5eed1abda55577043ad:8359d66f292b0ac559d3c1b6235126ac$"
+}
+}

@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "leprechaun-alpha_00000.png",
+	"frame": {"x":1,"y":1,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00001.png",
+	"frame": {"x":121,"y":1,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00002.png",
+	"frame": {"x":241,"y":1,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00003.png",
+	"frame": {"x":361,"y":1,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00004.png",
+	"frame": {"x":1,"y":269,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00005.png",
+	"frame": {"x":121,"y":269,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00006.png",
+	"frame": {"x":241,"y":269,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00007.png",
+	"frame": {"x":361,"y":269,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00008.png",
+	"frame": {"x":1,"y":537,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00009.png",
+	"frame": {"x":121,"y":537,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00010.png",
+	"frame": {"x":241,"y":537,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00011.png",
+	"frame": {"x":361,"y":537,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00012.png",
+	"frame": {"x":1,"y":805,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00013.png",
+	"frame": {"x":121,"y":805,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00014.png",
+	"frame": {"x":241,"y":805,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00015.png",
+	"frame": {"x":361,"y":805,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00016.png",
+	"frame": {"x":1,"y":1073,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00017.png",
+	"frame": {"x":121,"y":1073,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00018.png",
+	"frame": {"x":241,"y":1073,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00019.png",
+	"frame": {"x":361,"y":1073,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00020.png",
+	"frame": {"x":1,"y":1341,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00021.png",
+	"frame": {"x":121,"y":1341,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00022.png",
+	"frame": {"x":241,"y":1341,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "leprechaun-alpha_00023.png",
+	"frame": {"x":361,"y":1341,"w":118,"h":266},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":266},
+	"sourceSize": {"w":118,"h":266},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "leprechaun-02.png",
+	"format": "RGBA8888",
+	"size": {"w":480,"h":1608},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2c03b0d64e939344a8113d57860e47e7:3cbe9d31a6cc3bdc98c2cdf69f11fbdf:8826cee32550afd7511e3d3350fa61b4$"
+}
+}

@@ -1,0 +1,174 @@
+{"frames": [
+
+{
+	"filename": "bonus-game-anim-intro_00000.png",
+	"frame": {"x":1,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00001.png",
+	"frame": {"x":303,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00002.png",
+	"frame": {"x":605,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00003.png",
+	"frame": {"x":907,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00004.png",
+	"frame": {"x":1209,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00005.png",
+	"frame": {"x":1511,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00006.png",
+	"frame": {"x":1,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00007.png",
+	"frame": {"x":303,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00008.png",
+	"frame": {"x":605,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00009.png",
+	"frame": {"x":907,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00010.png",
+	"frame": {"x":1209,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00011.png",
+	"frame": {"x":1511,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00012.png",
+	"frame": {"x":1,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00013.png",
+	"frame": {"x":303,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00014.png",
+	"frame": {"x":605,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00015.png",
+	"frame": {"x":907,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00016.png",
+	"frame": {"x":1209,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-intro_00017.png",
+	"frame": {"x":1511,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonus-game-intro.png",
+	"format": "RGBA8888",
+	"size": {"w":1812,"h":1590},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3110e9e46b2661b3db07250ddb981cbe:c1e47cb9c16f5c447a04a477ad23d7a7:a467872b532f2100f1127cc5ab936300$"
+}
+}

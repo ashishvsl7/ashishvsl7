@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "krishna-active_00000.png",
+	"frame": {"x":1,"y":1,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00001.png",
+	"frame": {"x":332,"y":1,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00002.png",
+	"frame": {"x":663,"y":1,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00003.png",
+	"frame": {"x":994,"y":1,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00004.png",
+	"frame": {"x":1325,"y":1,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00005.png",
+	"frame": {"x":1656,"y":1,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00006.png",
+	"frame": {"x":1,"y":367,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00007.png",
+	"frame": {"x":332,"y":367,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00008.png",
+	"frame": {"x":663,"y":367,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00009.png",
+	"frame": {"x":994,"y":367,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00010.png",
+	"frame": {"x":1325,"y":367,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00011.png",
+	"frame": {"x":1656,"y":367,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00012.png",
+	"frame": {"x":1,"y":733,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00013.png",
+	"frame": {"x":332,"y":733,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00014.png",
+	"frame": {"x":663,"y":733,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00015.png",
+	"frame": {"x":994,"y":733,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00016.png",
+	"frame": {"x":1325,"y":733,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00017.png",
+	"frame": {"x":1656,"y":733,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00018.png",
+	"frame": {"x":1,"y":1099,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00019.png",
+	"frame": {"x":332,"y":1099,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00020.png",
+	"frame": {"x":663,"y":1099,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00021.png",
+	"frame": {"x":994,"y":1099,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00022.png",
+	"frame": {"x":1325,"y":1099,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "krishna-active_00023.png",
+	"frame": {"x":1656,"y":1099,"w":329,"h":364},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":364},
+	"sourceSize": {"w":329,"h":364},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "krishna-activate.png",
+	"format": "RGBA8888",
+	"size": {"w":1986,"h":1464},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:175e61886eee29e6ab6871d361168552:080cc5349b877093344ec03bd8324c76:266ad5622d34426bd92fa3ff2ac525e3$"
+}
+}

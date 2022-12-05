@@ -1,0 +1,55 @@
+
+symbol_13.png
+size: 420,391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol_13/bg
+  rotate: false
+  xy: 0, 70
+  size: 196, 321
+  orig: 196, 321
+  offset: 0, 0
+  index: -1
+symbol_13/bgWild
+  rotate: false
+  xy: 197, 140
+  size: 196, 119
+  orig: 196, 119
+  offset: 0, 0
+  index: -1
+symbol_13/frameBottom
+  rotate: false
+  xy: 0, 0
+  size: 196, 33
+  orig: 196, 33
+  offset: 0, 0
+  index: -1
+symbol_13/frameSide
+  rotate: false
+  xy: 394, 94
+  size: 26, 297
+  orig: 26, 297
+  offset: 0, 0
+  index: -1
+symbol_13/frameTop
+  rotate: false
+  xy: 0, 34
+  size: 196, 35
+  orig: 196, 35
+  offset: 0, 0
+  index: -1
+symbol_13/mushrooms
+  rotate: false
+  xy: 197, 260
+  size: 196, 131
+  orig: 196, 131
+  offset: 0, 0
+  index: -1
+symbol_13/wild
+  rotate: false
+  xy: 197, 41
+  size: 196, 98
+  orig: 196, 98
+  offset: 0, 0
+  index: -1

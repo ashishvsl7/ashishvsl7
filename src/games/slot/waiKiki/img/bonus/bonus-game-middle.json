@@ -1,0 +1,174 @@
+{"frames": [
+
+{
+	"filename": "bonus-game-anim-middle_00019.png",
+	"frame": {"x":1,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00020.png",
+	"frame": {"x":303,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00021.png",
+	"frame": {"x":605,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00022.png",
+	"frame": {"x":907,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00023.png",
+	"frame": {"x":1209,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00024.png",
+	"frame": {"x":1511,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00025.png",
+	"frame": {"x":1,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00026.png",
+	"frame": {"x":303,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00027.png",
+	"frame": {"x":605,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00028.png",
+	"frame": {"x":907,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00029.png",
+	"frame": {"x":1209,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00030.png",
+	"frame": {"x":1511,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00031.png",
+	"frame": {"x":1,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00032.png",
+	"frame": {"x":303,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00033.png",
+	"frame": {"x":605,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00034.png",
+	"frame": {"x":907,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00035.png",
+	"frame": {"x":1209,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-anim-middle_00037.png",
+	"frame": {"x":1511,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonus-game-middle.png",
+	"format": "RGBA8888",
+	"size": {"w":1812,"h":1590},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b575131c3acbca21393eb4219f2169a0:314bea47d578584e78e9873c4e9ab2e4:6a84047da7d3476904ed2a88484fe262$"
+}
+}

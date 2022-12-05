@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "logo-chinese-zs_00000.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00001.png",
+	"frame": {"x":303,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00002.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00003.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00004.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00005.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00006.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00007.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00008.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00009.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00010.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00011.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00012.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00013.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00014.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00015.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00016.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00017.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00018.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00019.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00020.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00021.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00022.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-chinese-zs_00023.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "logo-lang-zs.png",
+	"format": "RGBA8888",
+	"size": {"w":906,"h":122},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:68928eac9fab78281d2a720475fae7ea:47a00ff1d3cffdd047bc168914288228:110530ffd1bf9a369296539a0b044204$"
+}
+}

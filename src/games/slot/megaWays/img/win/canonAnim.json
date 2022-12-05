@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "cannon_00000.png",
+	"frame": {"x":1,"y":1,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00001.png",
+	"frame": {"x":515,"y":1,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00002.png",
+	"frame": {"x":1029,"y":1,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00003.png",
+	"frame": {"x":1,"y":267,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00004.png",
+	"frame": {"x":515,"y":267,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00005.png",
+	"frame": {"x":1029,"y":267,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00006.png",
+	"frame": {"x":1,"y":533,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00007.png",
+	"frame": {"x":515,"y":533,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00008.png",
+	"frame": {"x":1029,"y":533,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00009.png",
+	"frame": {"x":1,"y":799,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00010.png",
+	"frame": {"x":515,"y":799,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00011.png",
+	"frame": {"x":1029,"y":799,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00012.png",
+	"frame": {"x":1,"y":1065,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00013.png",
+	"frame": {"x":1,"y":1065,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00014.png",
+	"frame": {"x":1,"y":1065,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00015.png",
+	"frame": {"x":1,"y":1065,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00016.png",
+	"frame": {"x":1,"y":1065,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00017.png",
+	"frame": {"x":1,"y":1065,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00018.png",
+	"frame": {"x":1,"y":1065,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00019.png",
+	"frame": {"x":1,"y":1065,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00020.png",
+	"frame": {"x":1,"y":1065,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00021.png",
+	"frame": {"x":1,"y":1065,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00022.png",
+	"frame": {"x":1,"y":1065,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannon_00023.png",
+	"frame": {"x":1,"y":1065,"w":512,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":264},
+	"sourceSize": {"w":512,"h":264},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "canon.png",
+	"format": "RGBA8888",
+	"size": {"w":1542,"h":1330},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7b57194133750915da746ec79631244e:b858526fdfbc7d204bf1221a20dd13c6:559cf4b2d72c2c6b9bb7f19117fa03ec$"
+}
+}

@@ -1,0 +1,684 @@
+
+tumble.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tumble_02/tumble_02_00000
+  rotate: false
+  xy: 0, 1550
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00001
+  rotate: false
+  xy: 0, 1070
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00002
+  rotate: false
+  xy: 290, 1550
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00003
+  rotate: false
+  xy: 0, 590
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00004
+  rotate: false
+  xy: 290, 1070
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00005
+  rotate: false
+  xy: 580, 1550
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00006
+  rotate: false
+  xy: 0, 110
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00007
+  rotate: false
+  xy: 290, 590
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00008
+  rotate: false
+  xy: 580, 1070
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00009
+  rotate: false
+  xy: 870, 1550
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00010
+  rotate: false
+  xy: 290, 110
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00011
+  rotate: false
+  xy: 580, 590
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00012
+  rotate: false
+  xy: 870, 1070
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00013
+  rotate: false
+  xy: 1160, 1550
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00014
+  rotate: false
+  xy: 580, 110
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_02/tumble_02_00015
+  rotate: false
+  xy: 870, 590
+  size: 290, 480
+  orig: 290, 480
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00000
+  rotate: false
+  xy: 1160, 1260
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00001
+  rotate: false
+  xy: 1450, 1740
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00002
+  rotate: false
+  xy: 870, 300
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00003
+  rotate: false
+  xy: 1160, 970
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00004
+  rotate: false
+  xy: 1450, 1450
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00005
+  rotate: false
+  xy: 1740, 1740
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00006
+  rotate: false
+  xy: 1160, 680
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00007
+  rotate: false
+  xy: 1450, 1160
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00008
+  rotate: false
+  xy: 1740, 1450
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00009
+  rotate: false
+  xy: 1160, 390
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00010
+  rotate: false
+  xy: 1450, 870
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00011
+  rotate: false
+  xy: 1740, 1160
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00012
+  rotate: false
+  xy: 1450, 580
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00013
+  rotate: false
+  xy: 1740, 870
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00014
+  rotate: false
+  xy: 1740, 580
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_03/tumble_03_00015
+  rotate: false
+  xy: 870, 10
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00000
+  rotate: false
+  xy: 1160, 150
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00001
+  rotate: false
+  xy: 1450, 340
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00002
+  rotate: false
+  xy: 1740, 340
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00003
+  rotate: false
+  xy: 1450, 100
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00004
+  rotate: false
+  xy: 1740, 100
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00000
+  rotate: false
+  xy: 1160, 0
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+
+tumble2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tumble_04/tumble_04_00005
+  rotate: false
+  xy: 0, 1765
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00006
+  rotate: false
+  xy: 0, 1525
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00007
+  rotate: false
+  xy: 290, 1765
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00008
+  rotate: false
+  xy: 0, 1285
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00009
+  rotate: false
+  xy: 290, 1525
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00010
+  rotate: false
+  xy: 580, 1765
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00011
+  rotate: false
+  xy: 0, 1045
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00012
+  rotate: false
+  xy: 290, 1285
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00013
+  rotate: false
+  xy: 580, 1525
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00014
+  rotate: false
+  xy: 870, 1765
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_04/tumble_04_00015
+  rotate: false
+  xy: 0, 805
+  size: 290, 240
+  orig: 290, 240
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00000
+  rotate: false
+  xy: 290, 1100
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00001
+  rotate: false
+  xy: 580, 1340
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00002
+  rotate: false
+  xy: 870, 1580
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00003
+  rotate: false
+  xy: 1160, 1820
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00004
+  rotate: false
+  xy: 0, 620
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00005
+  rotate: false
+  xy: 290, 915
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00006
+  rotate: false
+  xy: 580, 1155
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00007
+  rotate: false
+  xy: 870, 1395
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00008
+  rotate: false
+  xy: 1160, 1635
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00009
+  rotate: false
+  xy: 1450, 1820
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00010
+  rotate: false
+  xy: 0, 435
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00011
+  rotate: false
+  xy: 290, 730
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00012
+  rotate: false
+  xy: 580, 970
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00013
+  rotate: false
+  xy: 870, 1210
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00014
+  rotate: false
+  xy: 1160, 1450
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_05/tumble_05_00015
+  rotate: false
+  xy: 1450, 1635
+  size: 290, 185
+  orig: 290, 185
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00001
+  rotate: false
+  xy: 1740, 1855
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00002
+  rotate: false
+  xy: 0, 285
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00003
+  rotate: false
+  xy: 290, 580
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00004
+  rotate: false
+  xy: 580, 820
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00005
+  rotate: false
+  xy: 870, 1060
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00006
+  rotate: false
+  xy: 1160, 1300
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00007
+  rotate: false
+  xy: 1450, 1485
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00008
+  rotate: false
+  xy: 1740, 1705
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00009
+  rotate: false
+  xy: 0, 135
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00010
+  rotate: false
+  xy: 290, 430
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00011
+  rotate: false
+  xy: 580, 670
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00012
+  rotate: false
+  xy: 870, 910
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00013
+  rotate: false
+  xy: 1160, 1150
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00014
+  rotate: false
+  xy: 1450, 1335
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_06/tumble_06_00015
+  rotate: false
+  xy: 1740, 1555
+  size: 290, 150
+  orig: 290, 150
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00000
+  rotate: false
+  xy: 290, 295
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00001
+  rotate: false
+  xy: 580, 535
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00002
+  rotate: false
+  xy: 870, 775
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00003
+  rotate: false
+  xy: 1160, 1015
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00004
+  rotate: false
+  xy: 1450, 1200
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00005
+  rotate: false
+  xy: 1740, 1420
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00006
+  rotate: false
+  xy: 290, 160
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00007
+  rotate: false
+  xy: 580, 400
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00008
+  rotate: false
+  xy: 565, 265
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00009
+  rotate: false
+  xy: 870, 640
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00010
+  rotate: false
+  xy: 855, 505
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00011
+  rotate: false
+  xy: 1160, 880
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00012
+  rotate: false
+  xy: 1145, 745
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00013
+  rotate: false
+  xy: 565, 130
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00014
+  rotate: false
+  xy: 855, 370
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1
+images/tumble_07/tumble_07_00015
+  rotate: false
+  xy: 0, 0
+  size: 275, 135
+  orig: 275, 135
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,129 @@
+{"frames": [
+
+{
+	"filename": "wild-reel-exit_00047.png",
+	"frame": {"x":1,"y":1,"w":210,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":528},
+	"sourceSize": {"w":210,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wild-reel-exit_00048.png",
+	"frame": {"x":213,"y":1,"w":210,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":528},
+	"sourceSize": {"w":210,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wild-reel-exit_00049.png",
+	"frame": {"x":425,"y":1,"w":210,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":528},
+	"sourceSize": {"w":210,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wild-reel-exit_00050.png",
+	"frame": {"x":637,"y":1,"w":210,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":528},
+	"sourceSize": {"w":210,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wild-reel-exit_00051.png",
+	"frame": {"x":849,"y":1,"w":210,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":528},
+	"sourceSize": {"w":210,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wild-reel-exit_00052.png",
+	"frame": {"x":1061,"y":1,"w":210,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":528},
+	"sourceSize": {"w":210,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wild-reel-exit_00053.png",
+	"frame": {"x":1273,"y":1,"w":210,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":528},
+	"sourceSize": {"w":210,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wild-reel-exit_00054.png",
+	"frame": {"x":1,"y":531,"w":210,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":528},
+	"sourceSize": {"w":210,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wild-reel-exit_00055.png",
+	"frame": {"x":213,"y":531,"w":210,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":528},
+	"sourceSize": {"w":210,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wild-reel-exit_00056.png",
+	"frame": {"x":425,"y":531,"w":210,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":528},
+	"sourceSize": {"w":210,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wild-reel-exit_00057.png",
+	"frame": {"x":637,"y":531,"w":210,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":528},
+	"sourceSize": {"w":210,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wild-reel-exit_00058.png",
+	"frame": {"x":849,"y":531,"w":210,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":528},
+	"sourceSize": {"w":210,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wild-reel-exit_00059.png",
+	"frame": {"x":1061,"y":531,"w":210,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":528},
+	"sourceSize": {"w":210,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wild-reel-exit.png",
+	"format": "RGBA8888",
+	"size": {"w":1484,"h":1060},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:713da7019611a413070cbe0d86c547e8:a8320fc541fd68e04ab1b8297cb0054c:d48b2b62380e3d0aa5aacf4235e1f374$"
+}
+}

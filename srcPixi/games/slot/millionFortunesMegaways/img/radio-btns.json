@@ -1,0 +1,25 @@
+{"frames": [
+{
+	"frame": {"x":0,"y":0,"w":68,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":32},
+	"sourceSize": {"w":68,"h":32}
+},
+{
+	"frame": {"x":68,"y":0,"w":68,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":32},
+	"sourceSize": {"w":68,"h":32}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "radio-btns.png",
+	"format": "RGBA8888",
+	"size": {"w":136,"h":32},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c6e1c707384e7d809b832823cbd125cf:d8c48ba109dc2b87101749a6935093d4:084380a04fe88eb6b0e4616af572f696$"
+}
+}

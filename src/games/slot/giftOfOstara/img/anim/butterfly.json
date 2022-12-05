@@ -1,0 +1,687 @@
+{"frames": [
+
+{
+	"filename": "gold-butterfly_00003.png",
+	"frame": {"x":1,"y":1,"w":17,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":305,"w":17,"h":49},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00004.png",
+	"frame": {"x":20,"y":1,"w":37,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":229,"w":37,"h":127},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00005.png",
+	"frame": {"x":59,"y":1,"w":56,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":221,"w":56,"h":130},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00006.png",
+	"frame": {"x":117,"y":1,"w":74,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":217,"w":74,"h":124},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00007.png",
+	"frame": {"x":193,"y":1,"w":90,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":215,"w":90,"h":119},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00008.png",
+	"frame": {"x":285,"y":1,"w":104,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":212,"w":104,"h":116},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00009.png",
+	"frame": {"x":391,"y":1,"w":120,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":199,"w":120,"h":123},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00010.png",
+	"frame": {"x":513,"y":1,"w":131,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":190,"w":131,"h":127},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00011.png",
+	"frame": {"x":646,"y":1,"w":132,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":184,"w":132,"h":132},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00012.png",
+	"frame": {"x":780,"y":1,"w":131,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":180,"w":131,"h":131},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00013.png",
+	"frame": {"x":1,"y":135,"w":125,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":178,"w":125,"h":124},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00014.png",
+	"frame": {"x":128,"y":135,"w":117,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":176,"w":117,"h":115},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00015.png",
+	"frame": {"x":247,"y":135,"w":106,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":172,"w":106,"h":106},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00016.png",
+	"frame": {"x":355,"y":135,"w":91,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":167,"w":91,"h":96},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00017.png",
+	"frame": {"x":448,"y":135,"w":91,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":151,"w":91,"h":97},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00018.png",
+	"frame": {"x":541,"y":135,"w":102,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":135,"w":102,"h":105},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00019.png",
+	"frame": {"x":645,"y":135,"w":114,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":118,"w":114,"h":112},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00020.png",
+	"frame": {"x":761,"y":135,"w":124,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":102,"w":124,"h":117},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00021.png",
+	"frame": {"x":887,"y":135,"w":128,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":86,"w":128,"h":121},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00022.png",
+	"frame": {"x":1,"y":261,"w":130,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":70,"w":130,"h":123},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00023.png",
+	"frame": {"x":133,"y":261,"w":131,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":55,"w":131,"h":123},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00024.png",
+	"frame": {"x":266,"y":261,"w":127,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":43,"w":127,"h":119},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00025.png",
+	"frame": {"x":395,"y":261,"w":116,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":42,"w":116,"h":117},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00026.png",
+	"frame": {"x":513,"y":261,"w":106,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":41,"w":106,"h":118},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00027.png",
+	"frame": {"x":621,"y":261,"w":124,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":42,"w":124,"h":117},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00028.png",
+	"frame": {"x":747,"y":261,"w":133,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":44,"w":133,"h":115},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00029.png",
+	"frame": {"x":882,"y":261,"w":132,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":46,"w":132,"h":112},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00030.png",
+	"frame": {"x":1,"y":386,"w":125,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":49,"w":125,"h":108},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00031.png",
+	"frame": {"x":128,"y":386,"w":114,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":52,"w":114,"h":103},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00032.png",
+	"frame": {"x":244,"y":386,"w":100,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":55,"w":100,"h":98},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00033.png",
+	"frame": {"x":346,"y":386,"w":85,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":58,"w":85,"h":93},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00034.png",
+	"frame": {"x":433,"y":386,"w":88,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":58,"w":88,"h":92},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00035.png",
+	"frame": {"x":523,"y":386,"w":103,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":55,"w":103,"h":98},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00036.png",
+	"frame": {"x":628,"y":386,"w":118,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":52,"w":118,"h":103},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00037.png",
+	"frame": {"x":748,"y":386,"w":129,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":49,"w":129,"h":108},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00038.png",
+	"frame": {"x":879,"y":386,"w":133,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":46,"w":133,"h":112},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00039.png",
+	"frame": {"x":1,"y":500,"w":129,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":43,"w":129,"h":116},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00040.png",
+	"frame": {"x":132,"y":500,"w":116,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":42,"w":116,"h":117},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00041.png",
+	"frame": {"x":250,"y":500,"w":106,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":42,"w":106,"h":117},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00042.png",
+	"frame": {"x":358,"y":500,"w":124,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":42,"w":124,"h":117},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00043.png",
+	"frame": {"x":484,"y":500,"w":132,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":44,"w":132,"h":115},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00044.png",
+	"frame": {"x":618,"y":500,"w":132,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":47,"w":132,"h":112},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00045.png",
+	"frame": {"x":752,"y":500,"w":125,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":50,"w":125,"h":108},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00046.png",
+	"frame": {"x":879,"y":500,"w":116,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":53,"w":116,"h":104},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00047.png",
+	"frame": {"x":1,"y":619,"w":105,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":56,"w":105,"h":99},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00048.png",
+	"frame": {"x":108,"y":619,"w":92,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":58,"w":92,"h":95},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00049.png",
+	"frame": {"x":202,"y":619,"w":75,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":61,"w":75,"h":90},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00050.png",
+	"frame": {"x":279,"y":619,"w":76,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":59,"w":76,"h":90},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00051.png",
+	"frame": {"x":357,"y":619,"w":92,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":57,"w":92,"h":94},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00052.png",
+	"frame": {"x":451,"y":619,"w":105,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":54,"w":105,"h":99},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00053.png",
+	"frame": {"x":558,"y":619,"w":117,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":52,"w":117,"h":103},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00054.png",
+	"frame": {"x":677,"y":619,"w":127,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":49,"w":127,"h":108},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00055.png",
+	"frame": {"x":806,"y":619,"w":132,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":47,"w":132,"h":111},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00056.png",
+	"frame": {"x":1,"y":732,"w":132,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":44,"w":132,"h":115},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00057.png",
+	"frame": {"x":135,"y":732,"w":127,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":43,"w":127,"h":116},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00058.png",
+	"frame": {"x":264,"y":732,"w":116,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":42,"w":116,"h":117},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00059.png",
+	"frame": {"x":382,"y":732,"w":106,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":41,"w":106,"h":118},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00060.png",
+	"frame": {"x":490,"y":732,"w":124,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":42,"w":124,"h":117},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00061.png",
+	"frame": {"x":616,"y":732,"w":133,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":42,"w":133,"h":117},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00062.png",
+	"frame": {"x":751,"y":732,"w":133,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":37,"w":133,"h":113},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00063.png",
+	"frame": {"x":886,"y":732,"w":127,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":31,"w":127,"h":107},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00064.png",
+	"frame": {"x":1,"y":852,"w":114,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":26,"w":114,"h":101},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00065.png",
+	"frame": {"x":117,"y":852,"w":98,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":19,"w":98,"h":96},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00066.png",
+	"frame": {"x":217,"y":852,"w":80,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":13,"w":80,"h":91},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00067.png",
+	"frame": {"x":299,"y":852,"w":64,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":5,"w":64,"h":88},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00068.png",
+	"frame": {"x":365,"y":852,"w":86,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":0,"w":86,"h":84},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00069.png",
+	"frame": {"x":453,"y":852,"w":105,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":0,"w":105,"h":76},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00070.png",
+	"frame": {"x":560,"y":852,"w":117,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":0,"w":117,"h":68},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00071.png",
+	"frame": {"x":679,"y":852,"w":116,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":0,"w":116,"h":61},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00072.png",
+	"frame": {"x":797,"y":852,"w":106,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":0,"w":106,"h":54},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00073.png",
+	"frame": {"x":905,"y":852,"w":93,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":0,"w":93,"h":47},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00074.png",
+	"frame": {"x":1,"y":955,"w":77,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":0,"w":77,"h":38},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00075.png",
+	"frame": {"x":80,"y":955,"w":69,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":0,"w":69,"h":29},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00076.png",
+	"frame": {"x":151,"y":955,"w":64,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":0,"w":64,"h":20},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-butterfly_00077.png",
+	"frame": {"x":217,"y":955,"w":56,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":0,"w":56,"h":11},
+	"sourceSize": {"w":260,"h":361},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "butterflye.png",
+	"format": "RGBA8888",
+	"size": {"w":1016,"h":994},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:eb2df46300fcf9ff1d8652ec32958ef4:abca93c7222ee88a148df06c57fccafb:4973304e6f4ea3aa2aad06efd00e645b$"
+}
+}

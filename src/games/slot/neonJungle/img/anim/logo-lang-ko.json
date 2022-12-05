@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "logo-lang-ko_00000.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00001.png",
+	"frame": {"x":303,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00002.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00003.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00004.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00005.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00006.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00007.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00008.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00009.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00010.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00011.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00012.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00013.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00014.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00015.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00016.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00017.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00018.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00019.png",
+	"frame": {"x":605,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00020.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00021.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00022.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "logo-lang-ko_00023.png",
+	"frame": {"x":1,"y":1,"w":300,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":120},
+	"sourceSize": {"w":300,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "logo-lang-ko.png",
+	"format": "RGBA8888",
+	"size": {"w":906,"h":122},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9b82a0c65324e2b8fe59dedf86fdf1a7:4ae5463d4d7b3f2ad15cbb1235c6555b:d219b7bbb2de753f65788f0d2158eed1$"
+}
+}

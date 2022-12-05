@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "bonus-cherry-anim_00000.png",
+	"frame": {"x":1,"y":1,"w":63,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":63,"h":56},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-cherry-anim_00001.png",
+	"frame": {"x":1,"y":1,"w":63,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":63,"h":56},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-cherry-anim_00002.png",
+	"frame": {"x":1,"y":1,"w":63,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":63,"h":56},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-cherry-anim_00003.png",
+	"frame": {"x":1,"y":1,"w":63,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":63,"h":56},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-cherry-anim_00004.png",
+	"frame": {"x":1,"y":1,"w":63,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":63,"h":56},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-cherry-anim_00005.png",
+	"frame": {"x":66,"y":1,"w":63,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":63,"h":56},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-cherry-anim_00006.png",
+	"frame": {"x":66,"y":1,"w":63,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":63,"h":56},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-cherry-anim_00007.png",
+	"frame": {"x":66,"y":1,"w":63,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":63,"h":56},
+	"sourceSize": {"w":70,"h":70},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonus-game-cherry.png",
+	"format": "RGBA8888",
+	"size": {"w":130,"h":58},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:16675c53fea7b07585ca7fa40000f7fd:0747e49a54be894e3a6a2c8b87bb59f7:98d06e17db987d41bd2d20a250d52a28$"
+}
+}

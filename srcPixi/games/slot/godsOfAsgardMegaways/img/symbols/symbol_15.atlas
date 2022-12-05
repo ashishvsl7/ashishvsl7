@@ -1,0 +1,803 @@
+
+symbol_15.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard
+  rotate: false
+  xy: 1934, 179
+  size: 42, 160
+  orig: 42, 160
+  offset: 0, 0
+  index: -1
+Beard_e
+  rotate: false
+  xy: 1934, 15
+  size: 42, 160
+  orig: 42, 160
+  offset: 0, 0
+  index: -1
+Beard_shadow
+  rotate: false
+  xy: 1980, 179
+  size: 42, 160
+  orig: 42, 160
+  offset: 0, 0
+  index: -1
+Blue_gems
+  rotate: false
+  xy: 1741, 638
+  size: 176, 304
+  orig: 176, 304
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 583, 52
+  size: 189, 234
+  orig: 189, 234
+  offset: 0, 0
+  index: -1
+Body_e
+  rotate: false
+  xy: 776, 52
+  size: 189, 234
+  orig: 189, 234
+  offset: 0, 0
+  index: -1
+Braid_L
+  rotate: false
+  xy: 1919, 343
+  size: 40, 116
+  orig: 40, 116
+  offset: 0, 0
+  index: -1
+Braid_L_e
+  rotate: false
+  xy: 1963, 343
+  size: 40, 116
+  orig: 40, 116
+  offset: 0, 0
+  index: -1
+Braid_L_shadow
+  rotate: false
+  xy: 1166, 18
+  size: 40, 116
+  orig: 40, 116
+  offset: 0, 0
+  index: -1
+Braid_R
+  rotate: false
+  xy: 1025, 7
+  size: 43, 127
+  orig: 43, 127
+  offset: 0, 0
+  index: -1
+Braid_R_e
+  rotate: false
+  xy: 1072, 7
+  size: 43, 127
+  orig: 43, 127
+  offset: 0, 0
+  index: -1
+Braid_R_shadow
+  rotate: false
+  xy: 1119, 7
+  size: 43, 127
+  orig: 43, 127
+  offset: 0, 0
+  index: -1
+Frame_extreme
+  rotate: false
+  xy: 4, 1174
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Gems_back
+  rotate: false
+  xy: 1741, 1254
+  size: 180, 308
+  orig: 180, 308
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: false
+  xy: 1980, 45
+  size: 52, 130
+  orig: 52, 130
+  offset: 0, 0
+  index: -1
+Hair_L_e
+  rotate: false
+  xy: 969, 4
+  size: 52, 130
+  orig: 52, 130
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: false
+  xy: 1913, 1856
+  size: 103, 177
+  orig: 103, 177
+  offset: 0, 0
+  index: -1
+Hair_R_e
+  rotate: false
+  xy: 1913, 1675
+  size: 103, 177
+  orig: 103, 177
+  offset: 0, 0
+  index: -1
+Hair_R_shadow
+  rotate: false
+  xy: 1921, 765
+  size: 103, 177
+  orig: 103, 177
+  offset: 0, 0
+  index: -1
+Hammer
+  rotate: false
+  xy: 4, 65
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1921, 614
+  size: 87, 147
+  orig: 87, 147
+  offset: 0, 0
+  index: -1
+Head_e
+  rotate: false
+  xy: 1919, 463
+  size: 87, 147
+  orig: 87, 147
+  offset: 0, 0
+  index: -1
+Sparkle_v01
+  rotate: false
+  xy: 4, 1493
+  size: 554, 540
+  orig: 554, 540
+  offset: 0, 0
+  index: -1
+Strand_L
+  rotate: false
+  xy: 1318, 65
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+Strand_L_e
+  rotate: false
+  xy: 1381, 65
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+Strand_L_shadow
+  rotate: false
+  xy: 1444, 65
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+Strand_R
+  rotate: false
+  xy: 1913, 1587
+  size: 50, 84
+  orig: 50, 84
+  offset: 0, 0
+  index: -1
+Strand_R_e
+  rotate: false
+  xy: 1210, 50
+  size: 50, 84
+  orig: 50, 84
+  offset: 0, 0
+  index: -1
+Strand_R_shadow
+  rotate: false
+  xy: 1264, 50
+  size: 50, 84
+  orig: 50, 84
+  offset: 0, 0
+  index: -1
+Thor_frame/Thor FRAME expanding_00
+  rotate: false
+  xy: 562, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Thor_frame/Thor FRAME expanding_01
+  rotate: false
+  xy: 4, 855
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Thor_frame/Thor FRAME expanding_02
+  rotate: false
+  xy: 197, 1174
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Thor_frame/Thor FRAME expanding_03
+  rotate: false
+  xy: 755, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Thor_frame/Thor FRAME expanding_04
+  rotate: false
+  xy: 4, 536
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Thor_frame/Thor FRAME expanding_05
+  rotate: false
+  xy: 197, 855
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Thor_frame/Thor FRAME expanding_06
+  rotate: false
+  xy: 948, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Thor_frame/Thor FRAME expanding_07
+  rotate: false
+  xy: 4, 217
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Thor_frame/Thor FRAME expanding_08
+  rotate: false
+  xy: 197, 536
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Thor_frame/Thor FRAME expanding_09
+  rotate: false
+  xy: 1141, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Thor_frame/Thor FRAME expanding_10
+  rotate: false
+  xy: 197, 217
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00000
+  rotate: false
+  xy: 1334, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00001
+  rotate: false
+  xy: 1527, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00002
+  rotate: false
+  xy: 1720, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00003
+  rotate: false
+  xy: 390, 1174
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00004
+  rotate: false
+  xy: 390, 855
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00005
+  rotate: false
+  xy: 390, 536
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00006
+  rotate: false
+  xy: 390, 217
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00007
+  rotate: false
+  xy: 583, 1247
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00008
+  rotate: false
+  xy: 583, 928
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00009
+  rotate: false
+  xy: 583, 609
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00010
+  rotate: false
+  xy: 583, 290
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00011
+  rotate: false
+  xy: 776, 1247
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00012
+  rotate: false
+  xy: 776, 928
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00013
+  rotate: false
+  xy: 776, 609
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00014
+  rotate: false
+  xy: 776, 290
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00015
+  rotate: false
+  xy: 969, 1247
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00016
+  rotate: false
+  xy: 969, 928
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00017
+  rotate: false
+  xy: 969, 609
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00018
+  rotate: false
+  xy: 969, 290
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00019
+  rotate: false
+  xy: 1162, 1247
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00020
+  rotate: false
+  xy: 1162, 928
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00021
+  rotate: false
+  xy: 1162, 609
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00022
+  rotate: false
+  xy: 1162, 290
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00023
+  rotate: false
+  xy: 1355, 1247
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00024
+  rotate: false
+  xy: 1355, 928
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00025
+  rotate: false
+  xy: 1355, 609
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00026
+  rotate: false
+  xy: 1355, 290
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00027
+  rotate: false
+  xy: 1548, 1247
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00028
+  rotate: false
+  xy: 1548, 928
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Thor_bg_effect]/Thor_bg_effect_00029
+  rotate: false
+  xy: 1548, 609
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+bg_with_light
+  rotate: false
+  xy: 1741, 946
+  size: 189, 304
+  orig: 189, 304
+  offset: 0, 0
+  index: -1
+frame_gold
+  rotate: false
+  xy: 1548, 290
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+frame_shadow
+  rotate: false
+  xy: 1741, 334
+  size: 174, 300
+  orig: 174, 300
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_00
+  rotate: false
+  xy: 562, 1566
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_01
+  rotate: false
+  xy: 755, 1566
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_02
+  rotate: false
+  xy: 948, 1566
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_03
+  rotate: false
+  xy: 1141, 1566
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_04
+  rotate: false
+  xy: 1334, 1566
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_05
+  rotate: false
+  xy: 1527, 1566
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_06
+  rotate: false
+  xy: 1720, 1566
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_07
+  rotate: false
+  xy: 197, 65
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_08
+  rotate: false
+  xy: 390, 65
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_09
+  rotate: false
+  xy: 969, 138
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_10
+  rotate: false
+  xy: 1162, 138
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_11
+  rotate: false
+  xy: 1355, 138
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_12
+  rotate: false
+  xy: 1548, 138
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_13
+  rotate: false
+  xy: 1741, 182
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_14
+  rotate: false
+  xy: 1741, 30
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+
+symbol_152.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+thor_hammer/Hammer_15
+  rotate: false
+  xy: 4, 308
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_16
+  rotate: false
+  xy: 4, 156
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_17
+  rotate: false
+  xy: 197, 308
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_18
+  rotate: false
+  xy: 4, 4
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_19
+  rotate: false
+  xy: 197, 156
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_20
+  rotate: false
+  xy: 390, 308
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_21
+  rotate: false
+  xy: 197, 4
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_22
+  rotate: false
+  xy: 390, 156
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_23
+  rotate: false
+  xy: 583, 308
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_24
+  rotate: false
+  xy: 390, 4
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_25
+  rotate: false
+  xy: 583, 156
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_26
+  rotate: false
+  xy: 776, 308
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_27
+  rotate: false
+  xy: 583, 4
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_28
+  rotate: false
+  xy: 776, 156
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_29
+  rotate: false
+  xy: 969, 308
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_30
+  rotate: false
+  xy: 776, 4
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_31
+  rotate: false
+  xy: 969, 156
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_32
+  rotate: false
+  xy: 1162, 308
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_33
+  rotate: false
+  xy: 969, 4
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_34
+  rotate: false
+  xy: 1162, 156
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_35
+  rotate: false
+  xy: 1355, 308
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_36
+  rotate: false
+  xy: 1162, 4
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_37
+  rotate: false
+  xy: 1355, 156
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_38
+  rotate: false
+  xy: 1548, 308
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1
+thor_hammer/Hammer_39
+  rotate: false
+  xy: 1355, 4
+  size: 189, 148
+  orig: 189, 148
+  offset: 0, 0
+  index: -1

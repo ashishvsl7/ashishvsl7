@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "gold-leaf-02_00000.png",
+	"frame": {"x":1,"y":1,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00001.png",
+	"frame": {"x":1,"y":34,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00002.png",
+	"frame": {"x":1,"y":67,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00003.png",
+	"frame": {"x":1,"y":100,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00004.png",
+	"frame": {"x":1,"y":133,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00005.png",
+	"frame": {"x":1,"y":166,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00006.png",
+	"frame": {"x":1,"y":199,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00007.png",
+	"frame": {"x":1,"y":232,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00008.png",
+	"frame": {"x":1,"y":265,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00009.png",
+	"frame": {"x":1,"y":298,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00010.png",
+	"frame": {"x":1,"y":331,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00011.png",
+	"frame": {"x":1,"y":364,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00012.png",
+	"frame": {"x":1,"y":397,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00013.png",
+	"frame": {"x":1,"y":430,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00014.png",
+	"frame": {"x":1,"y":463,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00015.png",
+	"frame": {"x":1,"y":496,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00016.png",
+	"frame": {"x":1,"y":529,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00017.png",
+	"frame": {"x":1,"y":562,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00018.png",
+	"frame": {"x":1,"y":595,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00019.png",
+	"frame": {"x":1,"y":628,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00020.png",
+	"frame": {"x":1,"y":661,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00021.png",
+	"frame": {"x":1,"y":694,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00022.png",
+	"frame": {"x":1,"y":727,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-02_00023.png",
+	"frame": {"x":1,"y":760,"w":56,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":31},
+	"sourceSize": {"w":56,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gold-leaf-02.png",
+	"format": "RGBA8888",
+	"size": {"w":58,"h":792},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1617bee490fed4e05a62ac6e210fd182:e611bdf8c90b1aef27b33b0b38ebc384:4831eac71f5af15c9a2c21db0c80f308$"
+}
+}

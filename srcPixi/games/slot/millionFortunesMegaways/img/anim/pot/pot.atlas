@@ -1,0 +1,111 @@
+
+pot.png
+size: 741,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine/components/1Off
+  rotate: false
+  xy: 597, 0
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+spine/components/1On
+  rotate: false
+  xy: 716, 152
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+spine/components/2Off
+  rotate: false
+  xy: 429, 0
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+spine/components/2On
+  rotate: false
+  xy: 471, 0
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+spine/components/3Off
+  rotate: false
+  xy: 513, 0
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+spine/components/3On
+  rotate: false
+  xy: 555, 0
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+spine/components/4Off
+  rotate: false
+  xy: 696, 90
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+spine/components/4On
+  rotate: false
+  xy: 699, 43
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+spine/components/accuBgOff
+  rotate: false
+  xy: 429, 46
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+spine/components/accuBgOn
+  rotate: false
+  xy: 520, 46
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+spine/components/back
+  rotate: false
+  xy: 429, 137
+  size: 286, 60
+  orig: 286, 60
+  offset: 0, 0
+  index: -1
+spine/components/money01
+  rotate: false
+  xy: 618, 8
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+spine/components/money02
+  rotate: true
+  xy: 670, 6
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+spine/components/pot
+  rotate: false
+  xy: 0, 2
+  size: 428, 195
+  orig: 428, 195
+  offset: 0, 0
+  index: -1
+spine/components/star
+  rotate: false
+  xy: 611, 57
+  size: 84, 79
+  orig: 84, 79
+  offset: 0, 0
+  index: -1

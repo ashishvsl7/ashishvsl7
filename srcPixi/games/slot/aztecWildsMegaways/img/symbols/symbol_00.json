@@ -1,0 +1,272 @@
+{
+"skeleton": { "hash": "0wEJH8Ps8pjkf+MCBy5KPoVHh+g", "spine": "3.7.94", "width": 784, "height": 1284.02, "images": "../components/", "audio": "/Volumes/HDD-Work/work/irene/Fabry/1millionFortunes/anim/spine" },
+"bones": [
+	{ "name": "symbol_00" },
+	{ "name": "Symbol_7_02", "parent": "symbol_00" },
+	{ "name": "royalBig", "parent": "symbol_00" },
+	{ "name": "bottom", "parent": "Symbol_7_02", "y": -642 },
+	{ "name": "top", "parent": "Symbol_7_02", "y": 642 },
+	{ "name": "symbol", "parent": "royalBig" },
+	{ "name": "symbol2", "parent": "royalBig" }
+],
+"slots": [
+	{ "name": "bgCenter2", "bone": "Symbol_7_02", "attachment": "bgCenter2" },
+	{ "name": "bgCenter", "bone": "Symbol_7_02", "attachment": "bgCenter" },
+	{ "name": "bgTop", "bone": "top", "attachment": "bgTop" },
+	{ "name": "bgBottom", "bone": "bottom", "attachment": "bgBottom" },
+	{ "name": "shadow", "bone": "royalBig", "attachment": "symbol_0/10bg" },
+	{ "name": "symbol", "bone": "symbol", "attachment": "symbol_0/10" },
+	{ "name": "symbol2", "bone": "symbol2", "attachment": "symbol_0/10", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"bgBottom": {
+			"bgBottom": { "y": 164.98, "width": 784, "height": 330 }
+		},
+		"bgCenter": {
+			"bgCenter": { "width": 784, "height": 1017 }
+		},
+		"bgCenter2": {
+			"bgCenter2": {
+				"type": "clipping",
+				"end": "bgCenter",
+				"vertexCount": 4,
+				"vertices": [ -497.8, 465.78, 491.32, 465.78, 488.51, -506.48, -503.42, -492.43 ],
+				"color": "ce3a3aff"
+			}
+		},
+		"bgTop": {
+			"bgTop": { "y": -173.5, "width": 784, "height": 347 }
+		},
+		"shadow": {
+			"symbol_0/10bg": { "path": "symbol_00/10bg", "width": 650, "height": 562 }
+		},
+		"symbol": {
+			"symbol_0/10": { "path": "symbol_00/10", "width": 592, "height": 446 }
+		},
+		"symbol2": {
+			"symbol_0/10": { "path": "symbol_00/10", "width": 592, "height": 446 }
+		}
+	}
+},
+"animations": {
+	"win_7_02": {
+		"slots": {
+			"symbol2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" },
+					{ "time": 0.6, "color": "ffffffff" },
+					{ "time": 0.8, "color": "ffffff00" }
+				]
+			}
+		}
+	},
+	"win_7_03": {
+		"slots": {
+			"symbol2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" },
+					{ "time": 0.6, "color": "ffffffff" },
+					{ "time": 0.8, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bottom": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 214 }
+				]
+			},
+			"top": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -214 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"bgCenter2": {
+					"bgCenter2": [
+						{
+							"time": 0,
+							"offset": 1,
+							"vertices": [ -126.45001, 0, -126.45001, 0, 157.36014, 0, 143.31003 ]
+						}
+					]
+				}
+			}
+		}
+	},
+	"win_7_04": {
+		"slots": {
+			"symbol2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" },
+					{ "time": 0.6, "color": "ffffffff" },
+					{ "time": 0.8, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"top": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -320 }
+				]
+			},
+			"bottom": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 320 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"bgCenter2": {
+					"bgCenter2": [
+						{
+							"time": 0,
+							"offset": 1,
+							"vertices": [ -216.37006, 0, -216.37006, 0, 244.4701, 0, 244.4701 ]
+						}
+					]
+				}
+			}
+		}
+	},
+	"win_7_05": {
+		"slots": {
+			"symbol2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" },
+					{ "time": 0.6, "color": "ffffffff" },
+					{ "time": 0.8, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"royalBig": {
+				"scale": [
+					{ "time": 0, "x": 0.8, "y": 0.8 }
+				]
+			},
+			"bottom": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 384 }
+				]
+			},
+			"top": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -384 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"bgCenter2": {
+					"bgCenter2": [
+						{
+							"time": 0,
+							"offset": 1,
+							"vertices": [ -278.19006, 0, -278.19006, 0, 303.4798, 0, 303.4798 ]
+						}
+					]
+				}
+			}
+		}
+	},
+	"win_7_06": {
+		"slots": {
+			"symbol2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" },
+					{ "time": 0.6, "color": "ffffffff" },
+					{ "time": 0.8, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"royalBig": {
+				"scale": [
+					{ "time": 0, "x": 0.6, "y": 0.6 }
+				]
+			},
+			"bottom": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 428 }
+				]
+			},
+			"top": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -428 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"bgCenter2": {
+					"bgCenter2": [
+						{
+							"time": 0,
+							"offset": 1,
+							"vertices": [ -317.53015, 0, -317.53015, 0, 334.38995, 0, 334.38995 ]
+						}
+					]
+				}
+			}
+		}
+	},
+	"win_7_07": {
+		"slots": {
+			"symbol2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" },
+					{ "time": 0.6, "color": "ffffffff" },
+					{ "time": 0.8, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"royalBig": {
+				"scale": [
+					{ "time": 0, "x": 0.5, "y": 0.5 }
+				]
+			},
+			"top": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -458 }
+				]
+			},
+			"bottom": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 458 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"bgCenter2": {
+					"bgCenter2": [
+						{
+							"time": 0,
+							"offset": 1,
+							"vertices": [ -345.63, 0, -345.63, 0, 365.3, 0, 365.3 ]
+						}
+					]
+				}
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,97 @@
+
+symbol_09.png
+size: 611,215
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol_09/bgSmall
+  rotate: false
+  xy: 284, 65
+  size: 92, 150
+  orig: 92, 150
+  offset: 0, 0
+  index: -1
+symbol_09/body
+  rotate: true
+  xy: 511, 138
+  size: 77, 100
+  orig: 77, 100
+  offset: 0, 0
+  index: -1
+symbol_09/frameBottom
+  rotate: false
+  xy: 242, 16
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+symbol_09/frameSide
+  rotate: true
+  xy: 0, 0
+  size: 13, 136
+  orig: 13, 136
+  offset: 0, 0
+  index: -1
+symbol_09/frameTop
+  rotate: false
+  xy: 511, 107
+  size: 98, 30
+  orig: 98, 30
+  offset: 0, 0
+  index: -1
+symbol_09/head
+  rotate: true
+  xy: 511, 20
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+symbol_09/leg
+  rotate: true
+  xy: 341, 12
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+symbol_09/pawL
+  rotate: true
+  xy: 157, 3
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+symbol_09/pawR
+  rotate: false
+  xy: 208, 8
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+symbol_09/tail1
+  rotate: false
+  xy: 410, 4
+  size: 92, 66
+  orig: 92, 66
+  offset: 0, 0
+  index: -1
+symbol_09/tail2
+  rotate: true
+  xy: 377, 71
+  size: 144, 133
+  orig: 144, 133
+  offset: 0, 0
+  index: -1
+symbol_09/tail3
+  rotate: true
+  xy: 157, 47
+  size: 168, 126
+  orig: 168, 126
+  offset: 0, 0
+  index: -1
+symbol_09/wing
+  rotate: false
+  xy: 0, 14
+  size: 156, 201
+  orig: 156, 201
+  offset: 0, 0
+  index: -1

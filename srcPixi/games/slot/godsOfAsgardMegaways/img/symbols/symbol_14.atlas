@@ -1,0 +1,496 @@
+
+symbol_14.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: false
+  xy: 1162, 294
+  size: 87, 144
+  orig: 87, 144
+  offset: 0, 0
+  index: -1
+Arm_L_e
+  rotate: false
+  xy: 1913, 1745
+  size: 87, 144
+  orig: 87, 144
+  offset: 0, 0
+  index: -1
+Frame_extreme
+  rotate: false
+  xy: 4, 1174
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Gems_back
+  rotate: false
+  xy: 1741, 1406
+  size: 180, 308
+  orig: 180, 308
+  offset: 0, 0
+  index: -1
+Green_Gems
+  rotate: false
+  xy: 1741, 1098
+  size: 176, 304
+  orig: 176, 304
+  offset: 0, 0
+  index: -1
+Hair_L
+  rotate: false
+  xy: 323, 87
+  size: 82, 126
+  orig: 82, 126
+  offset: 0, 0
+  index: -1
+Hair_L_e
+  rotate: false
+  xy: 1393, 312
+  size: 82, 126
+  orig: 82, 126
+  offset: 0, 0
+  index: -1
+Hair_L_front
+  rotate: false
+  xy: 1162, 213
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+Hair_L_front_e
+  rotate: false
+  xy: 484, 136
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+Hair_R
+  rotate: false
+  xy: 1253, 288
+  size: 66, 150
+  orig: 66, 150
+  offset: 0, 0
+  index: -1
+Hair_R_e
+  rotate: false
+  xy: 1323, 288
+  size: 66, 150
+  orig: 66, 150
+  offset: 0, 0
+  index: -1
+Hair_one
+  rotate: false
+  xy: 1554, 388
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Hair_one_shadow
+  rotate: false
+  xy: 1607, 388
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 409, 118
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+Hand_e
+  rotate: false
+  xy: 1479, 343
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1913, 1893
+  size: 122, 140
+  orig: 122, 140
+  offset: 0, 0
+  index: -1
+Head_e
+  rotate: false
+  xy: 197, 73
+  size: 122, 140
+  orig: 122, 140
+  offset: 0, 0
+  index: -1
+Horns
+  rotate: false
+  xy: 197, 20
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+Horns_e
+  rotate: false
+  xy: 1253, 235
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+Loki_frame/Loki FRAME expanding_00
+  rotate: false
+  xy: 562, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Loki_frame/Loki FRAME expanding_01
+  rotate: false
+  xy: 4, 855
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Loki_frame/Loki FRAME expanding_02
+  rotate: false
+  xy: 197, 1174
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Loki_frame/Loki FRAME expanding_03
+  rotate: false
+  xy: 755, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Loki_frame/Loki FRAME expanding_04
+  rotate: false
+  xy: 4, 536
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Loki_frame/Loki FRAME expanding_05
+  rotate: false
+  xy: 197, 855
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Loki_frame/Loki FRAME expanding_06
+  rotate: false
+  xy: 948, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Loki_frame/Loki FRAME expanding_07
+  rotate: false
+  xy: 4, 217
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Loki_frame/Loki FRAME expanding_08
+  rotate: false
+  xy: 197, 536
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Loki_frame/Loki FRAME expanding_09
+  rotate: false
+  xy: 1141, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Loki_frame/Loki FRAME expanding_10
+  rotate: false
+  xy: 1548, 761
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+Sparkle_v01
+  rotate: false
+  xy: 4, 1493
+  size: 554, 540
+  orig: 554, 540
+  offset: 0, 0
+  index: -1
+Thumb
+  rotate: false
+  xy: 2004, 1828
+  size: 22, 61
+  orig: 22, 61
+  offset: 0, 0
+  index: -1
+Thumb_e
+  rotate: false
+  xy: 2004, 1763
+  size: 22, 61
+  orig: 22, 61
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00000
+  rotate: false
+  xy: 197, 217
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00001
+  rotate: false
+  xy: 1334, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00002
+  rotate: false
+  xy: 1527, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00003
+  rotate: false
+  xy: 1720, 1718
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00004
+  rotate: false
+  xy: 390, 1174
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00005
+  rotate: false
+  xy: 390, 855
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00006
+  rotate: false
+  xy: 390, 536
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00007
+  rotate: false
+  xy: 390, 217
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00008
+  rotate: false
+  xy: 583, 1186
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00009
+  rotate: false
+  xy: 583, 867
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00010
+  rotate: false
+  xy: 583, 548
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00011
+  rotate: false
+  xy: 583, 229
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00012
+  rotate: false
+  xy: 776, 1399
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00013
+  rotate: false
+  xy: 776, 1080
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00014
+  rotate: false
+  xy: 969, 1399
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00015
+  rotate: false
+  xy: 776, 761
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00016
+  rotate: false
+  xy: 969, 1080
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00017
+  rotate: false
+  xy: 1162, 1399
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00018
+  rotate: false
+  xy: 776, 442
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00019
+  rotate: false
+  xy: 969, 761
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00020
+  rotate: false
+  xy: 1162, 1080
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00021
+  rotate: false
+  xy: 1355, 1399
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00022
+  rotate: false
+  xy: 969, 442
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00023
+  rotate: false
+  xy: 1162, 761
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00024
+  rotate: false
+  xy: 1355, 1080
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00025
+  rotate: false
+  xy: 1548, 1399
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00026
+  rotate: false
+  xy: 1162, 442
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00027
+  rotate: false
+  xy: 1355, 761
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00028
+  rotate: false
+  xy: 1548, 1080
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+[Loki_bg_effect]/Loki_bg_effect_00029
+  rotate: false
+  xy: 1355, 442
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+bg_with_light
+  rotate: false
+  xy: 1741, 792
+  size: 174, 302
+  orig: 174, 302
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 776, 195
+  size: 189, 243
+  orig: 189, 243
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 4, 4
+  size: 189, 209
+  orig: 189, 209
+  offset: 0, 0
+  index: -1
+body_2_e
+  rotate: false
+  xy: 562, 1505
+  size: 189, 209
+  orig: 189, 209
+  offset: 0, 0
+  index: -1
+body_e
+  rotate: false
+  xy: 969, 195
+  size: 189, 243
+  orig: 189, 243
+  offset: 0, 0
+  index: -1
+frame_gold
+  rotate: false
+  xy: 1548, 442
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+frame_shadow
+  rotate: false
+  xy: 1741, 488
+  size: 174, 300
+  orig: 174, 300
+  offset: 0, 0
+  index: -1

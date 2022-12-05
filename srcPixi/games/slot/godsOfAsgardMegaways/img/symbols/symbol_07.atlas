@@ -1,0 +1,307 @@
+
+symbol_07.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1, 1415
+  size: 190, 316
+  orig: 190, 316
+  offset: 0, 0
+  index: -1
+Magic_big
+  rotate: false
+  xy: 1, 1732
+  size: 407, 315
+  orig: 407, 315
+  offset: 0, 0
+  index: -1
+P_Frame_1
+  rotate: true
+  xy: 409, 1857
+  size: 190, 316
+  orig: 190, 316
+  offset: 0, 0
+  index: -1
+P_Frame_1_extreme
+  rotate: false
+  xy: 1, 1098
+  size: 190, 316
+  orig: 190, 316
+  offset: 0, 0
+  index: -1
+P_Frame_2
+  rotate: false
+  xy: 191, 886
+  size: 190, 211
+  orig: 190, 211
+  offset: 0, 0
+  index: -1
+P_Frame_2_extreme
+  rotate: false
+  xy: 381, 253
+  size: 190, 211
+  orig: 190, 211
+  offset: 0, 0
+  index: -1
+P_Frame_3
+  rotate: true
+  xy: 609, 100
+  size: 190, 159
+  orig: 190, 159
+  offset: 0, 0
+  index: -1
+P_Frame_3_extreme
+  rotate: true
+  xy: 769, 101
+  size: 190, 159
+  orig: 190, 159
+  offset: 0, 0
+  index: -1
+P_Frame_4
+  rotate: true
+  xy: 933, 349
+  size: 190, 127
+  orig: 190, 127
+  offset: 0, 0
+  index: -1
+P_Frame_4_extreme
+  rotate: true
+  xy: 929, 101
+  size: 190, 127
+  orig: 190, 127
+  offset: 0, 0
+  index: -1
+P_Frame_5
+  rotate: false
+  xy: 726, 1751
+  size: 190, 106
+  orig: 190, 106
+  offset: 0, 0
+  index: -1
+P_Frame_5_extreme
+  rotate: false
+  xy: 917, 1751
+  size: 190, 106
+  orig: 190, 106
+  offset: 0, 0
+  index: -1
+P_Frame_6
+  rotate: false
+  xy: 1108, 1766
+  size: 190, 91
+  orig: 190, 91
+  offset: 0, 0
+  index: -1
+P_Frame_6_extreme
+  rotate: false
+  xy: 1299, 1766
+  size: 190, 91
+  orig: 190, 91
+  offset: 0, 0
+  index: -1
+Shadow_1
+  rotate: true
+  xy: 571, 540
+  size: 178, 304
+  orig: 178, 304
+  offset: 0, 0
+  index: -1
+Shadow_2
+  rotate: false
+  xy: 191, 54
+  size: 178, 199
+  orig: 178, 199
+  offset: 0, 0
+  index: -1
+Shadow_3
+  rotate: false
+  xy: 1, 2
+  size: 178, 147
+  orig: 178, 147
+  offset: 0, 0
+  index: -1
+Shadow_4
+  rotate: true
+  xy: 876, 540
+  size: 178, 115
+  orig: 178, 115
+  offset: 0, 0
+  index: -1
+Shadow_5
+  rotate: false
+  xy: 1490, 1763
+  size: 178, 94
+  orig: 178, 94
+  offset: 0, 0
+  index: -1
+Shadow_6
+  rotate: false
+  xy: 370, 1
+  size: 178, 79
+  orig: 178, 79
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 572, 291
+  size: 183, 248
+  orig: 183, 248
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_00
+  rotate: false
+  xy: 192, 1416
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_01
+  rotate: true
+  xy: 726, 1858
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_02
+  rotate: false
+  xy: 1, 782
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_03
+  rotate: false
+  xy: 192, 1100
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_04
+  rotate: true
+  xy: 1042, 1858
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_05
+  rotate: false
+  xy: 1, 466
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_06
+  rotate: true
+  xy: 1358, 1858
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_07
+  rotate: false
+  xy: 1, 150
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_08
+  rotate: true
+  xy: 1674, 1858
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_09
+  rotate: true
+  xy: 409, 1667
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_10
+  rotate: false
+  xy: 382, 1351
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_11
+  rotate: false
+  xy: 572, 1351
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_12
+  rotate: true
+  xy: 382, 1161
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_13
+  rotate: true
+  xy: 382, 971
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_14
+  rotate: false
+  xy: 698, 1035
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_15
+  rotate: false
+  xy: 191, 570
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_16
+  rotate: false
+  xy: 191, 254
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_17
+  rotate: true
+  xy: 382, 781
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_18
+  rotate: false
+  xy: 381, 465
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+light_sweep_2/H2_Necklace_19
+  rotate: false
+  xy: 698, 719
+  size: 189, 315
+  orig: 189, 315
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: true
+  xy: 370, 81
+  size: 171, 238
+  orig: 171, 238
+  offset: 0, 0
+  index: -1
+necklace_shadow
+  rotate: false
+  xy: 756, 292
+  size: 176, 247
+  orig: 176, 247
+  offset: 0, 0
+  index: -1

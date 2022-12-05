@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "scarab-reveal-10_00048.png",
+	"frame": {"x":1,"y":1,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00049.png",
+	"frame": {"x":213,"y":1,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00050.png",
+	"frame": {"x":425,"y":1,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00051.png",
+	"frame": {"x":637,"y":1,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00052.png",
+	"frame": {"x":1,"y":203,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00053.png",
+	"frame": {"x":213,"y":203,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00054.png",
+	"frame": {"x":425,"y":203,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00055.png",
+	"frame": {"x":637,"y":203,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00056.png",
+	"frame": {"x":1,"y":405,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00057.png",
+	"frame": {"x":213,"y":405,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00058.png",
+	"frame": {"x":425,"y":405,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00059.png",
+	"frame": {"x":637,"y":405,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00060.png",
+	"frame": {"x":1,"y":607,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00061.png",
+	"frame": {"x":213,"y":607,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00062.png",
+	"frame": {"x":425,"y":607,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00063.png",
+	"frame": {"x":637,"y":607,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00064.png",
+	"frame": {"x":1,"y":809,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00065.png",
+	"frame": {"x":213,"y":809,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00066.png",
+	"frame": {"x":425,"y":809,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00067.png",
+	"frame": {"x":637,"y":809,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00068.png",
+	"frame": {"x":1,"y":1011,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00069.png",
+	"frame": {"x":213,"y":1011,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00070.png",
+	"frame": {"x":425,"y":1011,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scarab-reveal-10_00071.png",
+	"frame": {"x":637,"y":1011,"w":210,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":200},
+	"sourceSize": {"w":210,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "scarab-reveal-10.png",
+	"format": "RGBA8888",
+	"size": {"w":848,"h":1212},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:eab59850c00dac64a8808c32236ecef3:cb94b2882846fab46ef6ec87c6a72cbf:0b0963c131f90ce22940b79e85066736$"
+}
+}

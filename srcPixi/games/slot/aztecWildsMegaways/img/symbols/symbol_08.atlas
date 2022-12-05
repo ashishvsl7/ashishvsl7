@@ -1,0 +1,55 @@
+
+symbol_08.png
+size: 479,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+symbol_08/bg
+  rotate: true
+  xy: 0, 224
+  size: 196, 321
+  orig: 196, 321
+  offset: 0, 0
+  index: -1
+symbol_08/body
+  rotate: true
+  xy: 0, 27
+  size: 196, 311
+  orig: 196, 311
+  offset: 0, 0
+  index: -1
+symbol_08/frameBottom
+  rotate: true
+  xy: 432, 56
+  size: 196, 33
+  orig: 196, 33
+  offset: 0, 0
+  index: -1
+symbol_08/frameSide
+  rotate: true
+  xy: 0, 0
+  size: 26, 297
+  orig: 26, 297
+  offset: 0, 0
+  index: -1
+symbol_08/frameTop
+  rotate: true
+  xy: 322, 56
+  size: 196, 35
+  orig: 196, 35
+  offset: 0, 0
+  index: -1
+symbol_08/head
+  rotate: false
+  xy: 322, 253
+  size: 157, 167
+  orig: 157, 167
+  offset: 0, 0
+  index: -1
+symbol_08/tail
+  rotate: true
+  xy: 358, 155
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,42 @@
+<font>
+	<info face="/Users/donniesteyn/Desktop/slot-games/24.branded-megaways/1280x720-branded-megaways/branded-megaways-master-file/master-export/x1/fontmaps\fontmap-export" size="160" />
+	<common lineHeight="160" scaleW="570" scaleH="578" pages="1" />
+	<pages>
+		<page id="0" file="/Users/donniesteyn/Desktop/slot-games/24.branded-megaways/1280x720-branded-megaways/branded-megaways-master-file/master-export/x1/fontmaps\fontmap-export.png" />
+	</pages>
+	<chars count="31">
+		<char id="48" x="216" y="0" width="95" height="117" xoffset="0" yoffset="43" xadvance="104" /><!-- 0 -->
+		<char id="49" x="487" y="368" width="64" height="113" xoffset="0" yoffset="45" xadvance="73" /><!-- 1 -->
+		<char id="50" x="402" y="0" width="83" height="115" xoffset="0" yoffset="43" xadvance="92" /><!-- 2 -->
+		<char id="51" x="401" y="136" width="86" height="117" xoffset="0" yoffset="43" xadvance="95" /><!-- 3 -->
+		<char id="52" x="216" y="118" width="94" height="114" xoffset="0" yoffset="44" xadvance="103" /><!-- 4 -->
+		<char id="53" x="486" y="0" width="83" height="131" xoffset="0" yoffset="29" xadvance="92" /><!-- 5 -->
+		<char id="54" x="312" y="136" width="88" height="117" xoffset="0" yoffset="43" xadvance="97" /><!-- 6 -->
+		<char id="55" x="487" y="254" width="80" height="113" xoffset="0" yoffset="45" xadvance="89" /><!-- 7 -->
+		<char id="56" x="217" y="351" width="90" height="117" xoffset="0" yoffset="43" xadvance="99" /><!-- 8 -->
+		<char id="57" x="398" y="370" width="88" height="117" xoffset="0" yoffset="43" xadvance="97" /><!-- 9 -->
+		<char id="39" x="312" y="254" width="35" height="60" xoffset="0" yoffset="49" xadvance="44" /><!-- ' -->
+		<char id="67" x="217" y="233" width="94" height="117" xoffset="0" yoffset="43" xadvance="103" /><!-- C -->
+		<char id="165" x="0" y="336" width="108" height="113" xoffset="0" yoffset="45" xadvance="117" /><!-- ¥ -->
+		<char id="44" x="152" y="0" width="37" height="53" xoffset="0" yoffset="123" xadvance="46" /><!-- , -->
+		<char id="36" x="312" y="0" width="89" height="135" xoffset="0" yoffset="36" xadvance="98" /><!-- $ -->
+		<char id="8364" x="111" y="110" width="104" height="117" xoffset="0" yoffset="45" xadvance="113" /><!-- € -->
+		<char id="33" x="488" y="132" width="41" height="116" xoffset="0" yoffset="45" xadvance="50" /><!-- ! -->
+		<char id="70" x="308" y="351" width="89" height="113" xoffset="0" yoffset="47" xadvance="98" /><!-- F -->
+		<char id="46" x="152" y="54" width="35" height="36" xoffset="0" yoffset="125" xadvance="44" /><!-- . -->
+		<char id="72" x="109" y="336" width="107" height="113" xoffset="0" yoffset="47" xadvance="116" /><!-- H -->
+		<char id="107" x="308" y="465" width="87" height="112" xoffset="0" yoffset="47" xadvance="96" /><!-- k -->
+		<char id="8378" x="111" y="228" width="83" height="107" xoffset="0" yoffset="53" xadvance="92" /><!-- ₺ -->
+		<char id="78" x="0" y="110" width="110" height="115" xoffset="0" yoffset="47" xadvance="119" /><!-- N -->
+		<char id="8358" x="0" y="226" width="110" height="109" xoffset="0" yoffset="53" xadvance="119" /><!-- ₦ -->
+		<char id="163" x="398" y="254" width="88" height="115" xoffset="0" yoffset="45" xadvance="97" /><!-- £ -->
+		<char id="114" x="217" y="469" width="68" height="72" xoffset="0" yoffset="87" xadvance="77" /><!-- r -->
+		<char id="8361" x="0" y="0" width="151" height="109" xoffset="0" yoffset="53" xadvance="160" /><!-- ₩ -->
+		<char id="85" x="109" y="450" width="107" height="115" xoffset="0" yoffset="47" xadvance="116" /><!-- U -->
+		<char id="88" x="0" y="450" width="108" height="113" xoffset="0" yoffset="47" xadvance="117" /><!-- X -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="60" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="480" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

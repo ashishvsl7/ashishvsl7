@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "gold-leaf-05_00000.png",
+	"frame": {"x":1,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00001.png",
+	"frame": {"x":1,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00002.png",
+	"frame": {"x":54,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00003.png",
+	"frame": {"x":107,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00004.png",
+	"frame": {"x":160,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00005.png",
+	"frame": {"x":213,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00006.png",
+	"frame": {"x":266,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00007.png",
+	"frame": {"x":319,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00008.png",
+	"frame": {"x":372,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00009.png",
+	"frame": {"x":425,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00010.png",
+	"frame": {"x":478,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00011.png",
+	"frame": {"x":531,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00012.png",
+	"frame": {"x":584,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00013.png",
+	"frame": {"x":637,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00014.png",
+	"frame": {"x":690,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00015.png",
+	"frame": {"x":743,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00016.png",
+	"frame": {"x":796,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00017.png",
+	"frame": {"x":849,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00018.png",
+	"frame": {"x":902,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00019.png",
+	"frame": {"x":955,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00020.png",
+	"frame": {"x":1008,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00021.png",
+	"frame": {"x":1061,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00022.png",
+	"frame": {"x":1114,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gold-leaf-05_00023.png",
+	"frame": {"x":1167,"y":1,"w":51,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":55},
+	"sourceSize": {"w":51,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gold-leaf-05.png",
+	"format": "RGBA8888",
+	"size": {"w":1219,"h":57},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7afb88c5a67ecac1c274ad1df9c31651:24fc05fe54baaba6704da89152b39665:7504eea1d69fa285bd547ec4f2dea659$"
+}
+}

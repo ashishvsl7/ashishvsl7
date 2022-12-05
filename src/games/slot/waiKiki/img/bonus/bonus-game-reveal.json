@@ -1,0 +1,174 @@
+{"frames": [
+
+{
+	"filename": "bonus-game-reveal_00038.png",
+	"frame": {"x":1,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00039.png",
+	"frame": {"x":303,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00040.png",
+	"frame": {"x":605,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00041.png",
+	"frame": {"x":907,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00042.png",
+	"frame": {"x":1209,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00043.png",
+	"frame": {"x":1511,"y":1,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00044.png",
+	"frame": {"x":1,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00045.png",
+	"frame": {"x":303,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00046.png",
+	"frame": {"x":605,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00047.png",
+	"frame": {"x":907,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00048.png",
+	"frame": {"x":1209,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00049.png",
+	"frame": {"x":1511,"y":531,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00050.png",
+	"frame": {"x":1,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00052.png",
+	"frame": {"x":303,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00053.png",
+	"frame": {"x":605,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00054.png",
+	"frame": {"x":907,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00055.png",
+	"frame": {"x":1209,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bonus-game-reveal_00056.png",
+	"frame": {"x":1511,"y":1061,"w":300,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":528},
+	"sourceSize": {"w":300,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonus-game-reveal.png",
+	"format": "RGBA8888",
+	"size": {"w":1812,"h":1590},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:779b09d0f429d545048291b9f4ac96f8:3988ee8854b81f27876cd3431fe424d2:44e890fb1f09871bcaf7f415f29151ec$"
+}
+}
