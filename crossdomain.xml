@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.adobe.com/xml/dtds/cross-domain-policy.dtd">
+
+<cross-domain-policy>
+	<site-control permitted-cross-domain-policies="master-only"/>
+	<allow-access-from domain="89.151.126.9" secure="false"/>
+	<allow-access-from domain="1x2uk.com" secure="false"/>
+	<allow-access-from domain="88.208.218.32" secure="false"/>
+	<allow-http-request-headers-from domain="89.151.126.9" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="1x2uk.com" headers="*" secure="false"/>
+	<allow-http-request-headers-from domain="88.208.218.32" headers="*" secure="false"/>
+</cross-domain-policy>

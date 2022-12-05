@@ -1,0 +1,103 @@
+{
+  "Messages": [
+    {
+      "Win Up To": "Kazan:"
+    },
+    {
+      "100,000 Coins": "100.000 Jeton"
+    },
+    {
+      "Win scatters and multipliers during Free Spin": "Ücretsiz Döndürmelerde scatter ve çarpanlar kazan"
+    },
+    {
+      "Replace all symbols.": "Her sembolün yerine geçer."
+    },
+    {
+      "Appears only on 3th reel.": "Sadece 3. çarkta çıkar"
+    },
+    {
+      "Awards 1 Free Spin.": "1 Ücretsiz Döndürme kazandırır."
+    },
+    {
+      "Can appear during Free Spins.": "Ücretsiz Döndürmelerde çıkabilir."
+    },
+    {
+      "3 or more symbols starts Balloon Bonus": "Ardışık makaralardan soldan sağa 3 + bonus sembolü, bonus turuna başlar"
+    },
+    {
+      "Appears only on 1st reel during Free spins.": "Ücretsiz döndürmeler sırasında sadece 1. çarkta çıkar."
+    },
+    {
+      "Adds x1 to current multiplier.": "Çarpana 1 kat ekler."
+    },
+    {
+      "Awards 10 Coins": "10 Jeton kazandırır"
+    },
+    {
+      "Appears only on 2nd reel during Free spins.": "Ücretsiz döndürmeler sırasında sadece 2. çarkta çıkar."
+    },
+    {
+      "Adds x2 to current multiplier.": "Çarpana 2 kat ekler."
+    },
+    {
+      "Awards 10 Coins": "10 Jeton kazandırır"
+    },
+    {
+      "Appears only on 4th reel during Free spins.": "Ücretsiz döndürmeler sırasında sadece 4. çarkta çıkar."
+    },
+    {
+      "Adds x3 to current multiplier.": "Çarpana 3 kat ekler."
+    },
+    {
+      "Awards 15 Coins": "15 Jeton kazandırır"
+    },
+    {
+      "Appears only on 5th reel during Free spins.": "Ücretsiz döndürmeler sırasında sadece 5. çarkta çıkar."
+    },
+    {
+      "Adds x4 to current multiplier.": "Çarpana 4 kat ekler."
+    },
+    {
+      "Awards 25 Coins": "25 Jeton kazandırır"
+    },
+    {
+      "Shoot as many ballons as you can, the word 'END' will terminate the bonus. The total bonus multiplier depends on the number of icons that triggered the bonus. See game guide for details.": "Vurabildiğiniz kadar balon vurun. 'SON' kelimesi bonusu sonlandırır. Toplam bonus çarpanı, bonusu başlatan simge sayısına göre değişir. Ayrıntılar için, oyun kılavuzunu inceleyin."
+    },
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "Kazanç satırlarında sembolleri eşleştirerek kazanabilirsin. Tüm semboller, soldan sağa ardışık çarklarda eşleşmelidir. Her satırda sadece en yüksek kazanç ödenir. Arıza halinde tüm oyun ve kazançlar geçersiz kalır. Daha fazla bilgi için oyun kurallarını inceleyin."
+    },
+    {
+      "BubblePickBonus": "Balon Bonusu"
+    },
+    {
+      "You have unused Free Spins": "Kullanılmamış Ücretsiz Döndürmelerin var"
+    },
+    {
+      "They will be automatically started": "Bunlar otomatik olarak başlayacak"
+    },
+    {
+      "You have an unfinished Bonus": "Tamamlanmamış Bonusun var"
+    },
+    {
+      "it will be automatically started": "otomatik olarak başlayacak"
+    },
+    {
+      "Replaces all symbols!": "Her sembolün yerine geçer!"
+    },
+    {
+      "*Except for Scatter and Free Spins": "*Scatter ve Ücretsiz Döndürme hariç"
+    },
+    {
+      "3. X1": "<br>3. - Çarpan yok"
+    },
+    {
+      "4. X2": "<br>4. - x2 Çarpan"
+    },
+    {
+      "5. X3": "<br>5. - x3 Çarpan"
+    },
+       {
+        "No Winning Lines":"Kazanç Yok"
+      }
+  ]
+}

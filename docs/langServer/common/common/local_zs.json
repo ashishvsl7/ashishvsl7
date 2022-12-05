@@ -1,0 +1,412 @@
+{
+  "Messages": [
+    {
+      "WIN": "赢奖"
+    },
+    {
+      "BET": "投注"
+    },
+    {
+      "Balance": "余额"
+    },
+    {
+      "Bet:": "投注："
+    },
+    {
+      "Good luck": "祝您好运"
+    },
+    {
+      "My Account": "我的帐户"
+    },
+    {
+      "Total won:": "总奖金："
+    },
+    {
+      "Coins:": "硬币："
+    },
+    {
+      "Something went wrong!": "出错了！"
+    },
+    {
+      "Bet over max stake": "赌注高于最高限制"
+    },
+    {
+      "Bet under min stake": "赌注低于最低限制"
+    },
+    {
+      "Insufficient funds. Please reduce stake.": "资金不足。请减少赌注"
+    },
+    {
+      "Browser not supported": "浏览器不受支持"
+    },
+    {
+      "Unfortunately we do not support your web browser. Please update in order to play the game.": "很遗憾，我们不支持您的网络浏览器。请更新以玩游戏。"
+    },
+    {
+      "We could not load the latest results": "我们无法加载最新结果"
+    },
+    {
+      "Unable to contact game server": "无法联系游戏服务器"
+    },
+    {
+      "Error placing bet": "投注时出错了"
+    },
+    {
+      "We could not load the language files": "我们无法加载语言文件"
+    },
+    {
+      "We could not load the game assets": "我们无法加载游戏资产"
+    },
+    {
+      "Unable to load setup xml": "无法加载设置xml"
+    },
+    {
+      "We were unable to retrieve the game setup parameters": "我们无法获取游戏设置参数"
+    },
+    {
+      "Error Loading Game Setup": "加载游戏设置时出错"
+    },
+    {
+      "We were unable to retrieve your account information": "我们无法获取您的帐户信息"
+    },
+    {
+      "Error Loading Account Info": "加载帐户信息时出错"
+    },
+    {
+      "We were unable to retrieve your bet history": "我们无法获取您的投注历史记录"
+    },
+    {
+      "Error Loading Bet History": "加载投注历史记录时出错"
+    },
+    {
+      "We were unable to retrieve the current currency symbol": "我们无法获取当前货币符号"
+    },
+    {
+      "Error Loading Currency Symbol": "加载货币符号时出错"
+    },
+    {
+      "Try Again": "重试"
+    },
+    {
+      "OK": "确定"
+    },
+    {
+      "Got it!": "明白！"
+    },
+    {
+      "Lobby": "大厅"
+    },
+    {
+      "Apparently we’re having some trouble, please try again later.": "看来我们遇到了问题，请稍后再试。"
+    },
+    {
+      "Whoooaaaaa": "哎呀"
+    },
+    {
+      "You’ve been playing for a long time! Don’t you want to take a short break?": "您玩了很久了！要不要休息一下？"
+    },
+    {
+      "Please rotate your device": "请旋转您的设备"
+    },
+    {
+      "The time limit you have set has expired, we recommend that you take a short break before continuing. Would you like to continue?": "已超出您设置的时间限制，我们建议您稍事休息后再继续。想继续吗？"
+    },
+    {
+      "You have been playing for": "您已经玩了"
+    },
+    {
+      "Continue Playing": "继续游戏"
+    },
+    {
+      "Exit Game": "退出游戏"
+    },
+    {
+      "Account History": "帐户历史记录"
+    },
+    {
+      "Menu": "菜单"
+    },
+    {
+      "Settings": "设置"
+    },
+    {
+      "Game History": "游戏历史记录"
+    },
+    {
+      "List of Bets Click One To See Spin": "投注列表。点击一项来查看结果"
+    },
+    {
+      "Bet": "投注"
+    },
+    {
+      "Lines": "赔付线"
+    },
+    {
+      "Bet/Lines": "投注/线"
+    },
+    {
+      "Total Win": "总奖金"
+    },
+    {
+      "Winning Lines - Total: ": "赢奖线 - 总计："
+    },
+    {
+      "Losing Lines": "未赢奖线"
+    },
+    {
+      "Balance:": "余额："
+    },
+    {
+      "Playing for real": "玩真钱"
+    },
+    {
+      "Coins": "硬币"
+    },
+    {
+      "Cash": "现金"
+    },
+    {
+      "Bet Max": "最大注"
+    },
+    {
+      "Stop Autoplay": "停止自动游戏"
+    },
+    {
+      "On any win ": "出现任何赢奖"
+    },
+    {
+      "On single win of ": "任何一次赢奖额为"
+    },
+    {
+      "If cash increase by ": "现金增加"
+    },
+    {
+      "If cash decrease by ": "现金减少"
+    },
+    {
+      "When entering any feature": "进入任何特色游戏"
+    },
+    {
+      "Sounds": "声音"
+    },
+    {
+      "Spin Settings": "旋转设置"
+    },
+    {
+      "Stop Autoplay": "停止自动游戏"
+    },
+    {
+      "Bet Settings": "投注设置"
+    },
+    {
+      "ACCEPTED": "已接受"
+    },
+    {
+      "COM FAILURE": "通信故障"
+    },
+    {
+      "COMPLETE": "完成"
+    },
+    {
+      "DECLINED": "已拒绝"
+    },
+    {
+      "F1x2SETTLED": "F1x2SETTLED"
+    },
+    {
+      "MISSETTLED": "错误投放"
+    },
+    {
+      "NOT SETTLED": "未投放"
+    },
+    {
+      "SUBMITTED": "已提交"
+    },
+    {
+      "normal": "正常"
+    },
+    {
+      "win": "赢奖"
+    },
+    {
+      "Date": "日期"
+    },
+    {
+      "Time": "时间"
+    },
+    {
+      "Line": "线"
+    },
+    {
+      "Sound Effects": "音效"
+    },
+    {
+      "Background Music": "背景音乐"
+    },
+    {
+      "Press Space to Spin": "按空格以旋转"
+    },
+    {
+      "Left Handed Spin": "左手旋转"
+    },
+    {
+      "Display in Coins": "以硬币显示"
+    },
+    {
+      "Stop on any win": "在任何赢奖时停止"
+    },
+    {
+      "Stop on win of": "赢得指定金额时停止"
+    },
+    {
+      "Stop if cash increases by": "现金增加指定金额时停止"
+    },
+    {
+      "Stop if cash decreases by": "现金减少指定金额时停止"
+    },
+    {
+      "Stop when feature entered": "进入特色游戏时停止"
+    },
+    {
+      "Don't show anymore": "不再显示"
+    },
+    {
+      "Continue": "继续"
+    },
+    {
+      "COMPLETE": "完成"
+    },
+    {
+      "win": "贏賞"
+    },
+    {"Congratulations":"恭喜"},
+    {"You've won a bonus round":"您贏得了一個獎金環節"},
+    {"you won":"您贏得了"},
+    {"bonus round":"獎金環節"},
+    {"Good luck!":"祝您好運!"},
+    {"Multiplier":"倍增指數"},
+    {"Total won":"總共贏得"},
+
+    {
+      "free rounds": "免費環節"
+    },
+    {
+      "Free Rounds:": "免費環節:"
+    },
+    {
+      "Free Rounds": "免費環節"
+    },
+    {
+      "Loading images please wait...": "圖片加載中，請稍後..."
+    },
+
+    {
+      "freespins": "免費旋轉"
+    },
+    {
+      "Free Spin": "免費旋轉"
+    },
+    {
+      "swipe to activate full screen": "下滑以全屏顯示"
+    },
+    {
+      "Show help screen on load": "在加載時顯示幫助視窗"
+    },
+    {
+      "Status": "狀態"
+    },
+    {
+      "Channel": "頻道"
+    },
+    {
+      "Placed": "已放置"
+    },
+    {
+      "Settled": "已處理"
+    },
+    {
+      "GUI Descriptions": "按钮描述"
+    },
+    {
+      "Help Button": "帮助按钮"
+    },
+    {
+      "Bet Control": "投注控制"
+    },
+    {
+      "Autoplay Button": "自动播放按钮"
+    },
+    {
+      "Autoplay Start Button": "自动播放开始按钮"
+    },
+    {
+      "Autoplay Stop Button": "自动播放停止按钮"
+    },
+    {
+      "Spin Button": "旋转按钮"
+    },
+    {
+      "Stop Button": "停止按钮"
+    },
+    {
+      "You've won": "您贏得了"
+    },
+    {
+      "You won": "您贏得了"
+    },
+    {
+      "Free spins finished": "自由旋转完成" 
+    },
+    {
+      "you've won": "您贏得了"
+    },
+    {
+      "Free spins": "免費旋轉"
+    },
+    {
+      "Free Spins": "免費旋轉"
+    },
+    {
+      "Activate sounds?": "激活声音？"
+    },
+    {
+      "Spin No.": "Spin no."
+    },
+    {
+      "Must be set to a value": "必须设置为一个值"
+    },
+    {
+      "Game History only available when playing for real": "游戏历史只有在玩真实资金时才可用"  
+    },
+    {
+      "You have unused Free Spins": "您有未玩的免费旋转"
+    },
+    {
+      "They will be automatically started": "它们将自动开始"
+    },
+    {
+      "You have an unfinished Bonus": "您有未完成的奖励局"
+    },
+    {
+      "it will be automatically started": "它将自动开始"
+    },
+    {
+      "You have been using the slam stop feature":"您一直在使用瞬停"
+    },
+    {
+      "would you like to enable Fast Play?\rThis can be adjusted in the settings menu.":"       您想启用快速游戏吗？\r\r   这可以在设置菜单中调整。"
+    },
+    {
+      "Fast Play":"快速游戏"
+    },
+    {
+      "Playing for fun": "玩娱乐局"
+    },
+    {
+      "Free Spins Win":"免费旋转奖金"
+    },
+    {
+      "Bonus Win":"奖励奖金"   
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "Messages": [
+    {
+      "Good luck": "Удачи"
+    },
+    {
+      "Free spins!": "Бесплатные вращения!"
+    },
+    {
+      "Balance : ": "Баланс: "
+    },
+    {
+      "Must be greater than current stake": "Должно быть выше текущей ставки"
+    },
+    {
+      "Awards 6 free spins": "Присуждает 6 бесплатных вращений"
+    },
+    {
+      "Treasure of Horus Game Rules": "Treasure of Horus – правила игры"
+    },
+    {
+      "Discover the 3 hidden chambers,\ryou'll find different Wild multipliers and a precious Scatter": "Найдите 3 секретных тайника,\rвы найдете различные заменяющие множители и ценные разбрасываемые символы"
+    },
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "Необходимо собрать одинаковые символы на выигрышных линиях, чтобы выиграть. Все стандартные символы должны совпадать на следующих друг за другом барабанах слева направо. Выплачивается только самый высокий выигрыш на каждой линии. При сбое все игры и выплаты аннулируются."
+    },
+    {
+      "Replaces and multiplies regular winning combinations.": "Заменяет и умножает обычные выигрышные комбинации."
+    },
+    {
+      "Can appear in the regular game and in all free spins chambers.": "Может выпасть в основной игре и во всех тайниках бесплатных вращений."
+    },
+    {
+      "If more than one wild is displayed on the reels completing winning combinations, the higher multiplier is applied.": "Если больше одного заменяющего символа отображается на барабанах, образуя выигрышную комбинацию, применяется самый высокий множитель."
+    },
+    {
+      "Wild has its own paytable.": "Заменитель имеют свою таблицу выплат."
+    },
+    {
+      "Can only appear inside Weret and Horus chamber.": "Может быть только в тайнике Weret и Horus."
+    },
+    {
+      "Can only appear inside Horus chamber.": "Может быть только в тайнике Horus."
+    },
+    {
+      "Can only appear in the central reel in the regular game.": "Может выпасть только на среднем барабане в основной игре."
+    },
+    {
+      "Awards 6 free spins.": "Присуждает 6 бесплатных вращений."
+    },
+    {
+      "Enters Anubis chamber.": "Вход в тайник Anubis."
+    },
+    {
+      "Can only appear in the central reel inside Anubis chamber.": "Может выпасть только на среднем барабане в тайнике Anubis."
+    },
+    {
+      "Enters Weret chamber.": "Вход в тайник Anubis."
+    },
+    {
+      "Can only appear in the central reel inside Weret chamber.": "Может выпасть только на среднем барабане в тайнике Weret."
+    },
+    {
+      "Enters Horus chamber.": "Вход в тайник Horus."
+    },
+    {
+      "Explore the Pyramid in search of the 3 secret chambers, where ever bigger treasures are waiting for you.": "Исследуйте Пирамиду в поисках 3 секретных тайников, где вас ждут еще большие сокровища."
+    },
+       {
+        "No Winning Lines":"Nema dobitaka"
+      }
+  ]
+}

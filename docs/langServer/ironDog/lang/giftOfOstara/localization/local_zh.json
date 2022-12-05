@@ -1,0 +1,94 @@
+{
+  "Messages": [
+    {
+      "Good luck": "祝您好運"
+    },
+    {
+      "Symbols": "符號"
+    },
+    {
+      "Egg Value": "蛋值"
+    },
+    {
+      "Mltiplier won": "贏得翻倍乘數"
+    },
+    {
+      "Line won": "線贏獎"
+    },
+    {
+      "Free spins!": "免費旋轉！"
+    },
+    {
+      "free re-spins": "免費再旋轉"
+    },
+    {
+      "Swipe down To full screen": "向下滑動以全屏顯示"
+    },
+    {
+      "rotate to exit": "旋轉以退出"
+    },
+    {
+      "Swipe to spin": "滑動以旋轉"
+    },
+    {
+      "Balance : ": "餘額： "
+    },
+    {
+      "Must be set to a value": "必須設為一個值"
+    },
+    {
+      "Must be greater than current stake": "必須大於當前賭注"
+    },
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "在贏獎線上匹配符號來贏獎。匹配的符號必須在相鄰轉軸上從左到右排列才能贏獎。每條線僅賠付獎金最高的組合。如出現故障，所有賠付和遊戲都將無效。查看遊戲規則瞭解更多詳情。"
+    },
+    {
+      "Golden egg reveals special prize eggs": "金蛋可顯示特殊的獎品蛋"
+    },
+    {
+      "X Multiplier<br>Awards a 2x, 4x, 6x, 8x, 10x bet multiplier": "X翻倍乘數<br>獎賞x2、x4、x6、x8、x10投注翻倍乘數"
+    },
+    {
+      "Re-Spin<br>Awards 1 free re-spin": "銀兔子<br>獎賞1次免費再旋轉"
+    },
+    {
+      "Scatter<br>Awards 30x bet multiplier": "金兔子<br>獎賞x30投注翻倍乘數"
+    },
+    {
+      "Wild<br>Completes winning combinations": "Wild<br>轉軸2、3、4上的擴展wild可代替標準符號"
+    },
+    {
+      "Sticky Wild<br>Awards 3 free spins and completes winning combinations": "粘Wild<br>獎賞3次免費旋轉，其中有一個擴展wild出現在轉軸2、3或4上並代替標準符號"
+    },
+    {
+      "Expanding Wild": "擴展Wild"
+    },
+    {
+      "x1": "x1"
+    },
+    {
+      "x2": "x2"
+    },
+    {
+      "x3": "x3"
+    },
+    {
+      "x4": "x4"
+    },
+    {
+      "x5": "x5"
+    },
+    {
+      "3 egg symbols in a row of the same type award 10 free spins special symbol egg on the reel award special symbol multiplier": "3個相同類型的蛋符號排成一行可贏得10次免費旋轉。轉軸上的特殊符號蛋可贏得特殊符號翻倍乘數。"
+    },
+    {
+      "Gifts of Ostara Game Rules": "Gifts of Ostara遊戲規則"
+    },
+    {
+      "HOLD": "固定"
+    },
+       {
+        "No Winning Lines":"沒有獎金"
+      }
+  ]
+}

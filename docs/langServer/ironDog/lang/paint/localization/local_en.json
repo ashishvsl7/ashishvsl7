@@ -1,0 +1,48 @@
+{
+  "Messages": [
+    {"Win Up To":"Win Up To"},
+    {"100,000 Coins":"100,000 Coins"},
+    {"Win scatters and multipliers during Free Spin":"Win scatters and multipliers during Free Spin"},
+    {
+      "Replace all symbols.": "Replaces all symbols except Bonus or Paint Splash."
+    },
+    {"Appears only on 3th reel.":"Appears only on 3rd reel."},
+    {"Awards 1 Free Spin.":"Awards 1 Free Spin."},
+    {"Can appear during Free Spins.":"Can appear during Free Spins."},
+    {"3 or more symbols starts Balloon Bonus":"3+ Bonus symbols on consecutive reels from left to right awards Bonus."},
+    {"Appears only on 1st reel during Free spins.":"Appears only on 1st reel during Free spins."},
+    {"Adds x1 to current multiplier.":"Adds x1 to current multiplier."},
+    {"Awards 10 Coins":"Awards 10 Coins"},
+    {"Appears only on 2nd reel during Free spins.":"Appears only on 2nd reel during Free spins."},
+    {"Adds x2 to current multiplier.":"Adds x2 to current multiplier."},
+    {"Awards 10 Coins":"Awards 10 Coins"},
+    {"Appears only on 4th reel during Free spins.":"Appears only on 4th reel during Free spins."},
+    {"Adds x3 to current multiplier.":"Adds x3 to current multiplier."},
+    {"Awards 15 Coins":"Awards 15 Coins"},
+    {"Appears only on 5th reel during Free spins.":"Appears only on 5th reel during Free spins."},
+    {"Adds x4 to current multiplier.":"Adds x4 to current multiplier."},
+    {"Awards 25 Coins":"Awards 25 Coins"},
+    {"Shoot as many ballons as you can, the word 'END' will terminate the bonus. The total bonus multiplier depends on the number of icons that triggered the bonus. See game guide for details.":"Pop as many ballons as you can, the word 'END' will terminate the bonus. The total bonus multiplier depends on the number of icons that triggered the bonus. See game guide for details."},
+    {"You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.":"You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details."},
+    {"BubblePickBonus":"Balloon Bonus"},
+    {"You have unused Free Spins":"You have unused Free Spins"},
+    {"They will be automatically started":"They will be automatically started"},
+    {"You have an unfinished Bonus":"You have an unfinished Bonus"},
+    {"it will be automatically started":"it will be automatically started"},
+    {
+      "Replaces all symbols!": "Replaces all symbols!"
+    },
+    {
+      "*Except for Scatter and Free Spins": "*Except for Scatter and Free Spins"
+    },
+    {
+      "3. X1": "<br>3. - no base multiplier"
+    },
+    {
+      "4. X2": "<br>4. - x2 base multiplier"
+    },
+    {
+      "5. X3": "<br>5. - x3 base multiplier"
+    }
+  ]
+}

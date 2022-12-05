@@ -1,0 +1,85 @@
+{
+  "Messages": [
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.":"Необходимо собрать одинаковые символы на выигрышных линиях, чтобы выиграть. Символы должны совпадать на следующих друг за другом барабанах слева направо. Выплачивается только самый высокий выигрыш на каждой линии. При сбое все игры и выплаты аннулируются. С подробной информацией можно ознакомиться в правилах игры."
+    },
+    {
+      "The neon glimmer turning into neon glow on a feature symbol\ror on a winning combination will activate that feature or multiply the winline x4.": "Если неоновое мерцание активируется в неоновый свет на \rсимволе функции или на выигрышной линии, активируется \rсоответствующая функция или множитель х4."
+    },
+    {
+      "Special Features - General Image": "Специальные функции – общая картинка"
+    },
+    {
+      "The neon glimmer turning into neon glow on a feature symbol or on a winning combination will activate that feature or multiply the winline x4.": "Если неоновое мерцание активируется в неоновый свет на символе функции или на выигрышной линии, активируется соответствующая функция или множитель х4."
+    },
+    {
+      "Wild Symbol": "Заменяющий символ"
+    },
+    {
+      "Wild symbols can complete winning combinations.": "Заменяющий символ заменяет любой символ, кроме разбрасываемого символа (Scatter), символа бесплатных вращений (Free Spins) и бонусного символа (Bonus)."
+    },
+    {
+      "X4 Multiplier": "Множитель Х4"
+    },
+    {
+      "Neon glow appearing on a winning combination awards a x4 multiplier.\rThis will apply to all active win lines using this symbol.": "Неоновый свет в выигрышной комбинации присуждает множитель х4.\rЭто применяется ко всем активным выигрышным линиям с этим символом."
+    },
+    {
+      "Scatter": "Разбрасываемый символ"
+    },
+    {
+      "Neon glow appearing round a scatter symbol on any position awards 250 coins.\rMultiple scatter symbols showing on the reels will not increase the pay out.": "Неоновый свет вокруг разбрасываемого символа (Scatter) в любом месте на барабанах присуждает 250 монет.\rМножественные разбрасываемые символы на барабанах не увеличивают выплату."
+    },
+    {
+      "Neon glow appearing around a free spin symbol on any position will award 6 free spins.\rMultiple free spin symbols showing on the reels will not increase the free spins awarded.": "Неоновый свет вокруг символа бесплатных вращений (Free Spin) в любом месте на барабанах присуждает 6 бесплатных вращений.\rМножественные символы бесплатных вращений (Free Spin) на барабанах не увеличивают число присуждаемых бесплатных вращений."
+    },
+    {
+      "Bonus": "Бонус"
+    },
+    {
+      "Neon glow appearing on a Bonus symbol in any position on the reels will activate the Keno light bonus round.": "Неоновый свет вокруг бонусного символа (Bonus) в любом месте на барабанах активирует бонусную игру Keno Light."
+    },
+    {
+      "Bonus Game": "Бонусная игра"
+    },
+    {
+      "Manually select or randomly select 10 numbers from the available 28.\rThere will be 15 numbers drawn randomly after pressing start.": "Выберите сами или случайным образом 10 чисел из доступных 28.\rПосле нажатия кнопки запуска случайным образом выбирается 15 чисел из 28."
+    },
+    {
+      "Bonus Game Paytable": "Таблица выплат бонусной игры"
+    },
+    {
+      "The amount won is dependent on the amount of numbers drawn that match the selection chose.\rThe amount that will be paid can be seen on the paytable in the game.": "Сумма выигрыша зависит от количества совпадений между выбранными и выпавшими числами.\rСуммы выплаты можно увидеть в таблице выплат бонусной игры."
+    },
+    {
+      "Neon Jungle Game Rules": "Neon Jungle – правила игры"
+    },
+    {
+      "Please select": "Выберите"
+    },
+    {
+      "numbers first, or hit Random button": "числа, или нажмите на кнопку случайного выбора"
+    },
+    {
+      "You can't select more than": "Вы не можете выбрать больше чем"
+    },
+    {
+      "Unselect some numbers first": "Снимите выбор с некоторых чисел"
+    },
+    {
+      "Still": "Продолжите"
+    },
+    {
+      "to pick or Hit Random button to automatically chose for You.": "чтобы выбрать, или нажмите кнопку автоматического выбора чтобы выбор был сделан за вас автоматически."
+    },
+    {
+      "Choice complete, you can now hit Start button.": "Выбор завершен. Можете теперь нажать кнопку запуска."
+    },
+    {
+      "Pick 10 Numbers or Hit Random button to automatically chose for You.": "Выберите 10 чисел или нажмите кнопку автоматического выбора чтобы выбор был сделан за вас автоматически."
+    },
+       {
+        "No Winning Lines":"Nema dobitaka"
+      }
+  ]
+}

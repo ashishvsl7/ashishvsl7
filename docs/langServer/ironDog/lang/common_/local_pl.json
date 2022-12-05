@@ -1,0 +1,394 @@
+{
+  "Messages": [
+    {
+      "WIN": "WYGRANA"
+    },
+    {
+      "BET": "ZAKŁAD"
+    },
+    {
+      "Balance": "Saldo"
+    },
+    {
+      "Bet:": "Zakład:"
+    },
+    {
+      "Good luck": "powodzenia"
+    },
+    {
+      "My Account": "Moje konto"
+    },
+    {
+      "Total won:": "Wygrana ogółem:"
+    },
+    {
+      "Coins:": "Monety:"
+    },
+    {
+      "Something went wrong!": "Coś poszło nie tak!"
+    },
+    {
+      "Bet over max stake": "Zakład powyżej maks. stawki"
+    },
+    {
+      "Bet under min stake": "Zakład poniżej min. stawki"
+    },
+    {
+      "Insufficient funds. Please reduce stake.": "Za mało środków. Zmniejsz stawkę."
+    },
+    {
+      "Browser not supported": "Nieobsługiwana przeglądarka"
+    },
+    {
+      "Unfortunately we do not support your web browser. Please update in order to play the game.": "Niestety nie obsługujemy Twojej przeglądarki. Dokonaj aktualizacji, aby móc zagrać w tę grę."
+    },
+    {
+      "We could not load the latest results": "Nie mogliśmy wczytać najnowszych wyników"
+    },
+    {
+      "Unable to contact game server": "Nie można połączyć się z serwerem gry"
+    },
+    {
+      "Error placing bet": "Błąd przy stawianiu zakładu"
+    },
+    {
+      "We could not load the language files": "Nie mogliśmy wczytać plików językowych"
+    },
+    {
+      "We could not load the game assets": "Nie mogliśmy wczytać elementów gry"
+    },
+    {
+      "Unable to load setup xml": "Nie można wczytać pliku setup xml"
+    },
+    {
+      "We were unable to retrieve the game setup parameters": "Nie mogliśmy pobrać parametrów ustawienia gry"
+    },
+    {
+      "Error Loading Game Setup": "Błąd przy ładowaniu konfiguracji gry"
+    },
+    {
+      "We were unable to retrieve your account information": "Nie mogliśmy pobrać Twoich danych konta"
+    },
+    {
+      "Error Loading Account Info": "Błąd przy ładowaniu informacji o koncie"
+    },
+    {
+      "We were unable to retrieve your bet history": "Nie mogliśmy pobrać Twojej historii zakładów"
+    },
+    {
+      "Error Loading Bet History": "Błąd przy ładowaniu historii zakładów"
+    },
+    {
+      "We were unable to retrieve the current currency symbol": "Nie mogliśmy pobrać symbolu bieżącej waluty"
+    },
+    {
+      "Error Loading Currency Symbol": "Błąd przy ładowaniu symbolu waluty"
+    },
+    {
+      "Try Again": "Spróbuj ponownie"
+    },
+    {
+      "OK": "OK"
+    },
+    {
+      "Got it!": "Jasne!"
+    },
+    {
+      "Lobby": "Lobby"
+    },
+    {
+      "Apparently we’re having some trouble, please try again later.": "Pojawił się chyba jakiś problem, spróbuj ponownie."
+    },
+    {
+      "Whoooaaaaa": "Łaaaaaaaaa!"
+    },
+    {
+      "You’ve been playing for a long time! Don’t you want to take a short break?": "Grasz już dosyć długo! Nie chcesz zrobić sobie krótkiej przerwy?"
+    },
+    {
+      "Please rotate your device": "Obróć urządzenie"
+    },
+    {
+      "The time limit you have set has expired, we recommend that you take a short break before continuing. Would you like to continue?": "Upłynął ustawiony przez Ciebie limit czasowy, zalecamy zrobienie sobie krótkiej przerwy przed powrotem do gry. Chcesz kontynuować?"
+    },
+    {
+      "You have been playing for": "Grasz grasz już"
+    },
+    {
+      "Continue Playing": "Kontynuuj grę"
+    },
+    {
+      "Exit Game": "Wyjdź z gry"
+    },
+    {
+      "Account History": "Historia konta"
+    },
+    {
+      "Menu": "Menu"
+    },
+    {
+      "Settings": "Ustawienia"
+    },
+    {
+      "Game History": "Historia gry"
+    },
+    {
+      "List of Bets Click One To See Spin": "Lista zakładów Kliknij jeden, żeby zobaczyć obrót"
+    },
+    {
+      "Bet": "Zakład"
+    },
+    {
+      "Lines": "Linie"
+    },
+    {
+      "Bet/Lines": "Zakład/Linie"
+    },
+    {
+      "Total Win": "Wygrana ogółem"
+    },
+    {
+      "Winning Lines - Total: ": "Linie wygrywające - łącznie:"
+    },
+    {
+      "Losing Lines": "Linie przegrywające"
+    },
+    {
+      "Balance:": "Saldo:"
+    },
+    {
+      "Playing for real": "Grasz na serio"
+    },
+    {
+      "Coins": "Monety"
+    },
+    {
+      "Cash": "Gotówka"
+    },
+    {
+      "Bet Max": "Maks. zakład"
+    },
+    {
+      "Stop Autoplay": "Autogra stop"
+    },
+    {
+      "On any win ": "Przy każdej premii"
+    },
+    {
+      "On single win of ": "Przy pojedynczej wygranej w wys."
+    },
+    {
+      "If cash increase by ": "Jeśli gotówka powiększy się o"
+    },
+    {
+      "If cash decrease by ": "Jeśli gotówka zmniejszy się o"
+    },
+    {
+      "When entering any feature": "Przy wejściu do dowolnej funkcji"
+    },
+    {
+      "Sounds": "Dźwięk"
+    },
+    {
+      "Spin Settings": "Ustawienia obrotu"
+    },
+    {
+      "Stop Autoplay": "Autogra stop"
+    },
+    {
+      "Bet Settings": "Ustawienia zakładu"
+    },
+    {
+      "ACCEPTED": "PRZYJĘTE"
+    },
+    {
+      "COM FAILURE": "BŁĄD KOM."
+    },
+    {
+      "COMPLETE": "ZAKOŃCZONE"
+    },
+    {
+      "DECLINED": "ODRZUCONE"
+    },
+    {
+      "F1x2SETTLED": "F1x2ROZSTRZYGN."
+    },
+    {
+      "MISSETTLED": "BRAKROZSTRZYGN."
+    },
+    {
+      "NOT SETTLED": "NIE ROZSTRZYGN."
+    },
+    {
+      "SUBMITTED": "PRZESŁANE"
+    },
+    {
+      "normal": "normalny"
+    },
+    {
+      "win": "wygrana"
+    },
+    {
+      "Date": "Data"
+    },
+    {
+      "Time": "Godzina"
+    },
+    {
+      "Line": "Linia"
+    },
+    {
+      "Sound Effects": "Efekty dźwiękowe"
+    },
+    {
+      "Background Music": "Muzyka w tle"
+    },
+    {
+      "Press Space to Spin": "Naciśnij spację, aby zakręcić"
+    },
+    {
+      "Left Handed Spin": "Obrót lewostronny"
+    },
+    {
+      "Display in Coins": "Wyświetl w monetach"
+    },
+    {
+      "Stop on any win": "Zatrzymaj przy każdej wygranej"
+    },
+    {
+      "Stop on win of": "Zatrzymaj przy wygranej w wys."
+    },
+    {
+      "Stop if cash increases by": "Zatrzymaj, gdy gotówka powiększy się o"
+    },
+    {
+      "Stop if cash decreases by": "Zatrzymaj, gdy gotówka zmaleje o"
+    },
+    {
+      "Stop when feature entered": "Zatrzymaj przy wejściu do funkcji"
+    },
+    {
+      "Don't show anymore": "Nie pokazuj ponownie"
+    },
+    {
+      "Continue": "Kontynuuj"
+    },
+    {
+      "COMPLETE": "ZAKOŃCZONE"
+    },
+    {
+      "win": "wygrana"
+    },
+    {"Congratulations":"Gratulacje"},
+    {"You've won a bonus round":"Wygrywasz rundę bonusową"},
+    {"you won":"wygrywasz"},
+    {"bonus round":"rundę bonusową"},
+    {"Good luck!":"Powodzenia!"},
+    {"Multiplier":"Mnożnik"},
+    {"Total won":"Łączna wygrana"},
+
+    {
+      "free rounds": "darmowe rundy"
+    },
+    {
+      "Free Rounds:": "Darmowe rundy:"
+    },
+    {
+      "Free Rounds": "Darmowe rundy"
+    },
+    {
+      "Loading images please wait...": "Trwa ładowanie obrazów, zaczekaj..."
+    },
+
+    {
+      "freespins": "darmowe obroty"
+    },
+    {
+      "Free Spin": "Darmowy obrót"
+    },
+    {
+      "swipe to activate full screen": "Przeciągnij w dół, aby otworzyć pełny ekran"
+    },
+    {
+      "Show help screen on load": "Pokarz ekran pomocy przy ładowaniu"
+    },
+    {
+      "Status": "Status"
+    },
+    {
+      "Channel": "Kanał"
+    },
+    {
+      "Placed": "Postawione"
+    },
+    {
+      "Settled": "Rozliczone"
+    },
+    {
+      "GUI Descriptions": "Opisy przycisk"
+    },
+    {
+      "Help Button": "Przycisk pomocy"
+    },
+    {
+      "Bet Control": "Kontrola zakład"
+    },
+    {
+      "Autoplay Button": "Przycisk autogra"
+    },
+    {
+      "Autoplay Start Button": "Przycisk start autogra"
+    },
+    {
+      "Autoplay Stop Button": "Przycisk zatrzymania autogra"
+    },
+    {
+      "Spin Button": "Przycisk obrót"
+    },
+    {
+      "Stop Button": "Przycisk stop"
+    },
+    {
+      "You've won": "Wygrywasz"
+    },
+    {
+      "You won": "Wygrywasz"
+    },
+    {
+      "Free spins finished": "Darmowy obrót skończone" 
+    },
+    {
+      "you've won": "wygrywasz"
+    },
+    {
+      "Free spins": "Darmowy obrót"
+    },
+    {
+      "Free Spins": "Darmowy obrót"
+    },
+    {
+      "\rActivate sounds?": "Aktywuj dźwięk?"  
+    },
+    {
+      "Spin No.": "Spin no."
+    },
+    {
+      "Must be set to a value": "Musi być ustawiony się do wartości"  
+    },
+    {
+      "Game History only available when playing for real": "Historia Gra dostępna tylko podczas grania za prawdziwe"  
+    },
+    {
+      "You have unused Free Spins": "Masz niewykorzystane darmowe obroty"
+    },
+    {
+      "They will be automatically started": "Zostaną uruchomione automatycznie"
+    },
+    {
+      "You have an unfinished Bonus": "Masz nieskończony bonus"
+    },
+    {
+      "it will be automatically started": "zostanie on automatycznie uruchomiony"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "Messages": [
+    {
+      "Wins are calculated by counting consecutive reels with matching symbols and multiplying by the total number of matching symbols on those reels.": " <br> Wygrane obliczane są poprzez pomnożenie liczby kolejnych bębnów z tym samym symbolem przez całkowitą liczbę pasujących symboli na każdym z tych bębnów."
+    },
+    {
+      "Wild appears on the 2nd, 3rd, 4th and 5th reels. It substitutes for all symbols. Wilds have a higher chance of appearing on tumbles.": "Symbole wild gwiazd pojawiają się na bębnach 2, 3, 4, 5.Zastępują one wszystkie pozostałe symbole poza symbolami wild.Symbole wild gwiazd mają dużą szansę pojawienia się w wygranych opadających."
+    },
+    {
+      "It substitutes all the icons.": "Zastępują one wszystkie pozostałe symbole poza symbolami wild"
+    },
+    {
+      "The sticky wild will only appear on the middle reel and will not disappear when it is part of a winning combination. It will still fall down if symbols below it are part of a winning combination.": "Przylepny symbol wild pojawia się tylko na bębnie 3 i nie znika po utworzeniu kombinacji wygrywającej.Jeśli symbol znajdujący się pod nim zniknie, przylepny symbol wild spadnie niżej. W przeciwnym razie działa jak symbol wild gwiazdy."
+    },
+    {
+      "The expanding wild has a random chance to appear on the 2nd, 3rd, 4th and 5th reels. They substitute for all symbols and multiple of them can appear simultaneously.": "Rozszerzane symbole wild mogą się losowo pojawić na bębnach 2, 3, 4 i 5.Zastępują one wszystkie symbole i mogą się pojawić na kilku bębnach jednocześnie."
+    },
+    {
+      "Freespins are reached by having multiple successive tumbles. A minimum of 4 tumbles is required to trigger free spins. The base free spin game is 14 free spins with no starting multiplier. Each extra successive win after 4 awards extra freespins or multipliers, up to a maximum of 20 freespins and 5 starting multiplier": "Obroty darmowe są uruchamiane przez kolejne wygrane opadające.Aby uruchomić obroty darmowe, należy zdobyć co najmniej cztery wygrane opadające z rzędu.W podstawowej wersji runda obrotów darmowych obejmuje 14 obrotów bez mnożnika startowego.Każda kolejna wygrana opadająca po czwartej zapewnia dodatkowe obroty darmowe lub mnożniki, aż do maksymalnej liczby 20 obrotów darmowych z mnożnikiem startowym 6."
+    },
+    {
+      "Inside free spins the game is similar to the base game except that each tumble increments the multiplier by 1. The multiplier applies to the current spin win. There is no sticky wild or expanding wild inside free spins.": "W rundzie obrotów darmowych gra jest bardzo podobna do gry podstawowej, z tą różnicą, że w obrotach darmowych każda wygrana opadająca zwiększa mnożnik o 1.Mnożnik stosowany jest do wygranej aktualnego obrotu.W rundzie obrotów darmowych nie ma przylepnych i rozszerzanych symboli wild."
+    },
+    {
+      "Red berry: Appears once on each 5 reels (including wild). So the payout is the flat value for 5x red berry, 10 coins": "<br> Czerwone jagody:Pojawiają się raz na każdym z 5 kolejnych bębnów (uwzględniając symbole wild).Domyślna wypłata za 5 symboli czerwonych jagód wynosi 10 żetonów, więc wygrana wynosi: 10 * 1 * 1 * 1 * 1 * 1 = 10 żetonów."
+    },
+    {
+      "Orange berry: Appears on each 5 reels. Appears twice on 2nd, 3rd (including wild) and 5th reel, so payout is the value for 5x multiplied twice by 2. 15 * 2 * 2 * 2 = 120 coins.": "Pomarańczowe jagody:Pojawiają się na każdym z 5 kolejnych bębnów.Domyślna wypłata za 5 symboli pomarańczowych jagód wynosi 15 żetonów.Symbol pojawił się raz na bębnie 1 dwa razy na bębnie 2, dwa razy na bębnie 3 (uwzględniając symbol wild), raz na bębnie 4 i dwa razy na bębnie 5, więc wygrana wynosi: 15 * 1 * 2 * 2 * 1 * 2 = 120 żetonów."
+    },
+    {
+      "More than one wild reel can be displayed on the reels at the same time.": "Na bębnach może się pojawić więcej niż jeden rozszerzany symbol wild naraz."
+    },
+    {
+      "Rainbow Wilds Game Rules": "Zasady gry Rainbow Wilds"
+    },
+    {
+      "A free tumble has been interrupted": "Wygrana opadająca została zakłócona"
+    },
+    {
+      "Press Spin to continue": "Naciśnij przycisk Zakręć, aby kontynuować"
+    },
+    {
+      "Successive Winnings": "Kolejne wygrane opadające"
+    },
+    {
+      "Successive Winnings trigger Free Spins": "Co najmniej 4 wygrane opadające z rzędu uruchamiają obroty darmowe"
+    },
+    {
+      "Win up to 20 FS with x5 multiplier": "Wygraj nawet 20 obrotów darmowych z mnożnikiem startowym x6"
+    },
+    {
+      "4 Successive Winnings Trigger 14 FS": "4 wygrane opadające z rzędu uruchamiają\n14 obrotów darmowych"
+    },
+    {
+      "5 Successive Winnings Trigger 16 FS": "5 wygranych opadających z rzędu\n uruchamia 16 obrotów darmowych"
+    },
+    {
+      "6 Successive Winnings Trigger 16 FS\n+x2 Starting multiplier": "6 wygranych opadających z rzędu uruchamia\n16 OD z mnożnikiem startowym x3"
+    },
+    {
+      "7 Successive Winnings Trigger 20 FS\n+x2 Starting multiplier": "7 wygranych opadających z \nrzędu uruchamia 20 OD\n z mnożnikiem startowym x3"
+    },
+    {
+      "6 Successive Winnings Trigger 20 FS\n+x5 Starting multiplier": "8 wygranych opadających z \nrzędu uruchamia 20 OD\n z mnożnikiem startowym x6"
+    },
+    {
+      "4 Successive Winnings Triggers 14 FS": "4 wygrane opadające z rzędu uruchamiają 14 OD"
+    },
+    {
+      "5 Successive Winnings Triggers 16 FS": "5 wygranych opadających z rzędu uruchamia 16 OD"
+    },
+    {
+      "6 Successive Winnings Triggers 16 FS + 2x Starting Multiplier": "6 wygranych opadających z rzędu uruchamia 16 OD z mnożnikiem startowym 3x"
+    },
+    {
+      "7 Successive Winnings Triggers 20 FS + 2x Starting Multiplier": "7 wygranych opadających z rzędu uruchamia 20 OD z mnożnikiem startowym 3x"
+    },
+    {
+      "8 Successive Winnings Triggers 20 FS + 5x Starting Multiplier": "8 wygranych opadających z rzędu uruchamia 20 OD z mnożnikiem startowym 6x"
+    },
+    {
+      "Game Features": "Funkcje gry"
+    },
+    {
+      "Expanding Wild On Reel 2,3,4,5": "Rozszerzane symbole wild pojawiają się na bębnach 2, 3, 4 i 5"
+    },
+    {
+      "Different Wilds On Reel 2,3,4,5": "Wild pojawiają się na bębnach 2, 3, 4 i 5"
+    },
+    {
+      "Sticky Wild On Successive Tumbling": "Przylepne symbole wild w\n kolejnych wygranych opadających"
+    },
+    {
+      "Wild": "Symbole wild gwiazd"
+    },
+    {
+      "Free Spin": "Obroty darmowe"
+    },
+    {
+      "Win Ways": "1024 linie wygranych"
+    },
+    {
+      "Free Spin Features": "Funkcje obrotów darmowych"
+    },
+    {
+      "Wild Increasing Hand Multiplier (it increments by 1 on each win)": "Rosnący mnożnik wygranych w obrotach darmowych (rośnie o 1 z  każdą wygraną)"
+    },
+    {
+      "Free Tumble": "Wygrane opadające"
+    },
+    {
+      "Tumble WIN": "Wygrane opadające"
+    },
+    {
+      "Whenever a win way pays out the symbols are destroyed and all remaining symbols tumble down.": "Po wygranej symbole są niszczone, a pozostałe symbole spadają niżej."
+    },
+    {
+      "All destroyed symbols are replaced with symbols from higher up on the reels with a high chance of extra Wild Stars appearing.": "Wszystkie zniszczone symbole zastępowane są tymi, które były nad nimi, a w wolnym miejscach istnieje duża szansa na pojawienie się symboli wild gwiazd."
+    },
+    {
+      "If the new symbols also form a win way they too will pay out and more symbols will tumble in to replace them, this will continue until no more Win Ways can be made.": "Jeśli nowe symbole również tworzą wygrywającą kombinację, przyznawana jest kolejna wygrana, a symbole ponownie zastępowane są powyższymi. Proces ten trwa do chwili, gdy nie zostaną utworzone nowe kombinacje wygrywające."
+    },
+    {
+      "Sticky Wild":"Przylepny Wild"
+    },
+    {
+      "Expanding Wild":"Rozszerzanymi Symbolami Wild"
+     },
+       {
+        "No Winning Lines":"Brak wygranych"
+      }
+  ]
+}

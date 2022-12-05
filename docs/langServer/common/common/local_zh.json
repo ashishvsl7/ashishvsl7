@@ -1,0 +1,412 @@
+{
+  "Messages": [
+    {
+      "WIN": "贏"
+    },
+    {
+      "BET": "下注"
+    },
+    {
+      "Balance": "餘額"
+    },
+    {
+      "Bet:": "下注："
+    },
+    {
+      "Good luck": "祝您好運"
+    },
+    {
+      "My Account": "我的帳戶"
+    },
+    {
+      "Total won:": "嬴得的總獎金："
+    },
+    {
+      "Coins:": "硬幣："
+    },
+    {
+      "Something went wrong!": "出現錯誤！"
+    },
+    {
+      "Bet over max stake": "賭注超過最大投注額"
+    },
+    {
+      "Bet under min stake": "賭注低於最小投注額"
+    },
+    {
+      "Insufficient funds. Please reduce stake.": "資金不足。請降低投注額"
+    },
+    {
+      "Browser not supported": "不支援瀏覽器"
+    },
+    {
+      "Unfortunately we do not support your web browser. Please update in order to play the game.": "很遺憾，我們不支援您的網頁瀏覽器。若要繼續遊戲，請更新。"
+    },
+    {
+      "We could not load the latest results": "我們無法載入最新賽果"
+    },
+    {
+      "Unable to contact game server": "無法聯絡遊戲伺服器"
+    },
+    {
+      "Error placing bet": "投注時發生錯誤"
+    },
+    {
+      "We could not load the language files": "我們無法載入語言檔案"
+    },
+    {
+      "We could not load the game assets": "我們無法載入遊戲資產"
+    },
+    {
+      "Unable to load setup xml": "無法載入安裝 xml"
+    },
+    {
+      "We were unable to retrieve the game setup parameters": "我們無法擷取遊戲設定參數"
+    },
+    {
+      "Error Loading Game Setup": "載入遊戲設定時發生錯誤"
+    },
+    {
+      "We were unable to retrieve your account information": "我們無法擷取您的帳戶資訊"
+    },
+    {
+      "Error Loading Account Info": "載入帳戶資訊時發生錯誤"
+    },
+    {
+      "We were unable to retrieve your bet history": "我們無法擷取您的下注歷史記錄"
+    },
+    {
+      "Error Loading Bet History": "載入下注歷史記錄時發生錯誤"
+    },
+    {
+      "We were unable to retrieve the current currency symbol": "我們無法擷取目前的貨幣符號"
+    },
+    {
+      "Error Loading Currency Symbol": "載入貨幣符號時發生錯誤"
+    },
+    {
+      "Try Again": "再試一次"
+    },
+    {
+      "OK": "確定"
+    },
+    {
+      "Got it!": "了解！"
+    },
+    {
+      "Lobby": "大廳"
+    },
+    {
+      "Apparently we’re having some trouble, please try again later.": "我們遇到了一些問題，請稍後再試。"
+    },
+    {
+      "Whoooaaaaa": "哇~~~~~~"
+    },
+    {
+      "You’ve been playing for a long time! Don’t you want to take a short break?": "我們已玩很久了，是否要稍微休息一下？"
+    },
+    {
+      "Please rotate your device": "請旋轉您的裝置"
+    },
+    {
+      "The time limit you have set has expired, we recommend that you take a short break before continuing. Would you like to continue?": "您設定的時間限制已過，我們建議您先休息一下。是否要繼續？"
+    },
+    {
+      "You have been playing for": "您已持續玩了"
+    },
+    {
+      "Continue Playing": "繼續遊戲"
+    },
+    {
+      "Exit Game": "離開遊戲"
+    },
+    {
+      "Account History": "帳戶記錄"
+    },
+    {
+      "Menu": "功能表"
+    },
+    {
+      "Settings": "設定"
+    },
+    {
+      "Game History": "遊戲歷史記錄"
+    },
+    {
+      "List of Bets Click One To See Spin": "下注清單 點選其中之一以查看旋轉"
+    },
+    {
+      "Bet": "下注"
+    },
+    {
+      "Lines": "賠付線"
+    },
+    {
+      "Bet/Lines": "下注/賠付線"
+    },
+    {
+      "Total Win": "嬴得的總獎金"
+    },
+    {
+      "Winning Lines - Total: ": "嬴線 - 總計："
+    },
+    {
+      "Losing Lines": "輸線"
+    },
+    {
+      "Balance:": "餘額："
+    },
+    {
+      "Playing for real": "玩真錢模式"
+    },
+    {
+      "Coins": "硬幣"
+    },
+    {
+      "Cash": "現金"
+    },
+    {
+      "Bet Max": "最大賭注"
+    },
+    {
+      "Stop Autoplay": "停止自動下注"
+    },
+    {
+      "On any win ": "在任何獎金"
+    },
+    {
+      "On single win of ": "在單筆獎金"
+    },
+    {
+      "If cash increase by ": "若現金增加"
+    },
+    {
+      "If cash decrease by ": "若現金減少"
+    },
+    {
+      "When entering any feature": "進入任何功能時"
+    },
+    {
+      "Sounds": "聲音"
+    },
+    {
+      "Spin Settings": "旋轉設定"
+    },
+    {
+      "Stop Autoplay": "停止自動下注"
+    },
+    {
+      "Bet Settings": "下注設定"
+    },
+    {
+      "ACCEPTED": "已接受"
+    },
+    {
+      "COM FAILURE": "通訊故障"
+    },
+    {
+      "COMPLETE": "完成"
+    },
+    {
+      "DECLINED": "已拒絕"
+    },
+    {
+      "F1x2SETTLED": "F1x2SETTLED"
+    },
+    {
+      "MISSETTLED": "賭注結算錯誤"
+    },
+    {
+      "NOT SETTLED": "未結算的賭注"
+    },
+    {
+      "SUBMITTED": "已提交"
+    },
+    {
+      "normal": "一般"
+    },
+    {
+      "win": "嬴"
+    },
+    {
+      "Date": "日期"
+    },
+    {
+      "Time": "時間"
+    },
+    {
+      "Line": "線"
+    },
+    {
+      "Sound Effects": "音效"
+    },
+    {
+      "Background Music": "背景音樂"
+    },
+    {
+      "Press Space to Spin": "按下空白鍵以旋轉"
+    },
+    {
+      "Left Handed Spin": "左側旋轉"
+    },
+    {
+      "Display in Coins": "以硬幣顯示"
+    },
+    {
+      "Stop on any win": "嬴得任何獎金時停止"
+    },
+    {
+      "Stop on win of": "停止在嬴得："
+    },
+    {
+      "Stop if cash increases by": "停止時的現金增加限額"
+    },
+    {
+      "Stop if cash decreases by": "停止時的現金減少限額"
+    },
+    {
+      "Stop when feature entered": "進入功能時停止"
+    },
+    {
+      "Don't show anymore": "不要再顯示"
+    },
+    {
+      "Continue": "繼續"
+    },
+    {
+      "COMPLETE": "完成"
+    },
+    {
+      "win": "赢奖"
+    },
+    {"Congratulations":"恭喜"},
+    {"You've won a bonus round":"您赢得了奖励局"},
+    {"you won":"您赢得了"},
+    {"bonus round":"奖励局"},
+    {"Good luck!":"祝您好运！"},
+    {"Multiplier":"翻倍乘数"},
+    {"Total won":"总赢奖"},
+
+    {
+      "free rounds": "免费局"
+    },
+    {
+      "Free Rounds:": "免费局："
+    },
+    {
+      "Free Rounds": "免费局"
+    },
+    {
+      "Loading images please wait...": "正在加载图像，请稍候……"
+    },
+
+    {
+      "freespins": "免费旋转"
+    },
+    {
+      "Free Spin": "免费旋转"
+    },
+    {
+      "swipe to activate full screen": "向下滑动以全屏显示"
+    },
+    {
+      "Show help screen on load": "加载时显示帮助界面"
+    },
+    {
+      "Status": "状态"
+    },
+    {
+      "Channel": "渠道"
+    },
+    {
+      "Placed": "已投放"
+    },
+    {
+      "Settled": "已解决"
+    },
+    {
+      "GUI Descriptions": "按鈕描述"
+    },
+    {
+      "Help Button": "幫助按鈕"
+    },
+    {
+      "Bet Control": "投注控制"
+    },
+    {
+      "Autoplay Button": "自動播放按鈕"
+    },
+    {
+      "Autoplay Start Button": "自動播放開始按鈕"
+    },
+    {
+      "Autoplay Stop Button": "自動播放停止按鈕"
+    },
+    {
+      "Spin Button": "旋轉按鈕"
+    },
+    {
+      "Stop Button": "停止按鈕"
+    },
+    {
+      "You've won": "您赢得了"
+    },
+    {
+      "You won": "您赢得了"
+    },
+    {
+      "Free spins finished": "自由旋轉完成" 
+    },
+    {
+      "you've won": "您赢得了"
+    },
+    {
+      "Free spins": "免费旋转"
+    },
+    {
+      "Free Spins": "免费旋转"
+    },
+    {
+      "Activate sounds?": "激活聲音？"
+    },
+    {
+      "Spin No.": "Spin no."
+    },
+    {
+      "Must be set to a value": "必須設置為一個值"  
+    },
+    {
+      "Game History only available when playing for real": "遊戲歷史只有在玩真實資金時才可用"   
+    },
+    {
+      "You have unused Free Spins": "您有未使用的免費旋轉"
+    },
+    {
+      "They will be automatically started": "將會自動開始"
+    },
+    {
+      "You have an unfinished Bonus": "您有未完成的獎勵"
+    },
+    {
+      "it will be automatically started": "將會自動開始"
+    },
+    {
+      "You have been using the slam stop feature":"您一直在使用瞬停"
+    },
+    {
+      "would you like to enable Fast Play?\rThis can be adjusted in the settings menu.":"         您想啟用快速遊戲嗎？\r\r    這可以在設定功能表中調整。"
+    },
+    {
+      "Fast Play":"快速遊戲"
+    },
+    {
+      "Playing for fun": "玩娛樂局"
+    },
+    {
+      "Free Spins Win":"免費旋轉獎金"
+    },
+    {
+      "Bonus Win":"獎勵獎金"   
+    }
+  ]
+}

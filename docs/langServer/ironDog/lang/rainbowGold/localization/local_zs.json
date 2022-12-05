@@ -1,0 +1,133 @@
+{
+  "Messages": [
+    {
+      "Wins are calculated by counting consecutive reels with matching symbols and multiplying by the total number of matching symbols on those reels.": "奖金计算方式：带有相同符号的相连卷轴数目乘以这些卷轴中每一个上的相同符号总数。"
+    },
+    {
+      "Wild appears on the 2nd, 3rd, 4th and 5th reels. It substitutes for all symbols. Wilds have a higher chance of appearing on tumbles.": "星星Wild符号出现在卷轴2、3、4、5上。它同时算作所有非wild符号。星星Wild符号在下落中出现的可能性很高。"
+    },
+    {
+      "It substitutes all the icons.": "它同时算作所有非wild符号。"
+    },
+    {
+      "The sticky wild will only appear on the middle reel and will not disappear when it is part of a winning combination. It will still fall down if symbols below it are part of a winning combination.": "粘性Wild符号只出现在卷轴3上，它在组成赢奖组合之后不会消失。如果它下方的符号消失，那么它将下落，除此之外它的功能机制和星星Wild符号一样。"
+    },
+    {
+      "The expanding wild has a random chance to appear on the 2nd, 3rd, 4th and 5th reels. They substitute for all symbols and multiple of them can appear simultaneously.": "扩展Wild符号可能随机出现在卷轴2、3、4和5上。它们替代所有符号，并且能同时出现在多个卷轴上。"
+    },
+    {
+      "Freespins are reached by having multiple successive tumbles. A minimum of 4 tumbles is required to trigger free spins. The base free spin game is 14 free spins with no starting multiplier. Each extra successive win after 4 awards extra freespins or multipliers, up to a maximum of 20 freespins and 5 starting multiplier": "连续多次赢得下落奖金之后，玩家将赢得免费旋转。触发免费旋转的最低要求是4次下落。基础免费旋转游戏是14次免费旋转，没有起始倍增指数。您赢得4次连续下落奖金之后，每再赢得一次下落奖金将为您赢得额外免费旋转或倍增指数，最多赢得20次免费旋转和6x起始倍增指数。"
+    },
+    {
+      "Inside free spins the game is similar to the base game except that each tumble increments the multiplier by 1. The multiplier applies to the current spin win. There is no sticky wild or expanding wild inside free spins.": "免费旋转游戏类似于基础游戏，但是每次下落都会让倍增指数增加1。倍增指数应用于当前旋转奖金。免费旋转中没有粘性wild符号或扩展wild符号。"
+    },
+    {
+      "Red berry: Appears once on each 5 reels (including wild). So the payout is the flat value for 5x red berry, 10 coins": "<br> 红色浆果：5个相连卷轴的每一个上只能出现一次（包括wild）。因此5个红色浆果的派彩是固定的10枚硬币，所以派彩为10 * 1 * 1 * 1 * 1 * 1 = 10枚硬币。"
+    },
+    {
+      "Orange berry: Appears on each 5 reels. Appears twice on 2nd, 3rd (including wild) and 5th reel, so payout is the value for 5x multiplied twice by 2. 15 * 2 * 2 * 2 = 120 coins.": "橘色浆果：出现在5个相连卷轴的每一个上。5个橘色浆果的奖金为15。橘色浆果在卷轴1上出现一次、卷轴2上出现两次、卷轴3上出现两次（包括wild），卷轴4上出现一次、卷轴5上出现两次，<br>因此派彩为15 * 1 * 2 * 2 * 1 * 2 = 120枚硬币。"
+    },
+    {
+      "More than one wild reel can be displayed on the reels at the same time.": "卷轴上可以同时出现超过一个扩展Wild符号。"
+    },
+    {
+      "Rainbow Wilds Game Rules": "Rainbow Wilds游戏规则"
+    },
+    {
+      "A free tumble has been interrupted": "免费下落被中断"
+    },
+    {
+      "Press Spin to continue": "按下旋转以继续"
+    },
+    {
+      "Successive Winnings": "连续下落奖金"
+    },
+    {
+      "Successive Winnings trigger Free Spins": "连续4次或更多下落奖金将触发免费旋转"
+    },
+    {
+      "Win up to 20 FS with x5 multiplier": "最多能赢取带有x6起始倍增指数的20次免费旋转"
+    },
+    {
+      "4 Successive Winnings Trigger 14 FS": "连续4次下落奖金触发\n14次免费旋转"
+    },
+    {
+      "5 Successive Winnings Trigger 16 FS": "连续5次下落奖金触发\n16次免费旋转"
+    },
+    {
+      "6 Successive Winnings Trigger 16 FS\n+x2 Starting multiplier": "连续6次下落奖金触发\n16次免费旋转 + x3起始倍增指数"
+    },
+    {
+      "7 Successive Winnings Trigger 20 FS\n+x2 Starting multiplier": "连续7次下落奖金触发\n20次免费旋转 + x3起始倍增指数"
+    },
+    {
+      "6 Successive Winnings Trigger 20 FS\n+x5 Starting multiplier": "连续8次下落奖金触发\n20次免费旋转 + x6起始倍增指数"
+    },
+    {
+      "4 Successive Winnings Triggers 14 FS": "连续4次下落奖金触发14次免费旋转"
+    },
+    {
+      "5 Successive Winnings Triggers 16 FS": "连续5次下落奖金触发16次免费旋转"
+    },
+    {
+      "6 Successive Winnings Triggers 16 FS + 2x Starting Multiplier": "连续6次下落奖金触发16次免费旋转 + 3x起始倍增指数"
+    },
+    {
+      "7 Successive Winnings Triggers 20 FS + 2x Starting Multiplier": "连续7次下落奖金触发20次免费旋转 + 3x起始倍增指数"
+    },
+    {
+      "8 Successive Winnings Triggers 20 FS + 5x Starting Multiplier": "连续8次下落奖金触发20次免费旋转 + 6x起始倍增指数"
+    },
+    {
+      "Game Features": "游戏功能"
+    },
+    {
+      "Expanding Wild On Reel 2,3,4,5": "扩展Wild符号出现在卷轴2、3、4和5上"
+    },
+    {
+      "Different Wilds On Reel 2,3,4,5": "Wild符号出现在卷轴2、3、4和5上"
+    },
+    {
+      "Sticky Wild On Successive Tumbling": "连续下落中的粘性Wild符号"
+    },
+    {
+      "Wild": "星星Wild符号"
+    },
+    {
+      "Free Spin": "免费旋转"
+    },
+    {
+      "Win Ways": "1024条赢奖线路"
+    },
+    {
+      "Free Spin Features": "免费旋转功能"
+    },
+    {
+      "Wild Increasing Hand Multiplier (it increments by 1 on each win)": "免费旋转递增奖金倍增指数（每次赢奖让它增加1）"
+    },
+    {
+      "Free Tumble": "免费下落"
+    },
+    {
+      "Tumble WIN": "免费下落"
+    },
+    {
+      "Whenever a win way pays out the symbols are destroyed and all remaining symbols tumble down.": "奖金线路派彩之后，符号将被摧毁，所有剩余符号将下落。"
+    },
+    {
+      "All destroyed symbols are replaced with symbols from higher up on the reels with a high chance of extra Wild Stars appearing.": "所有被摧毁的符号将被其上方卷轴上的符号替代，额外星星Wild符号出现的机会很高。"
+    },
+    {
+      "If the new symbols also form a win way they too will pay out and more symbols will tumble in to replace them, this will continue until no more Win Ways can be made.": "如果新符号还形成赢奖线路，那么它们也将派彩，更多的符号将下落以替代它们，这种情况将继续，直到没有更多的赢奖线路奖金。"
+    },
+        {
+         "Sticky Wild":"粘性Wild符号"
+      },
+      {
+        "Expanding Wild":"扩展Wild符号"
+       },
+       {
+        "No Winning Lines":"没有奖金"
+      }
+  ]
+}

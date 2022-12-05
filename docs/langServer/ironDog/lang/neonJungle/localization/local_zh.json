@@ -1,0 +1,85 @@
+{
+  "Messages": [
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.":"在贏獎線上匹配符號來贏獎。匹配的符號必須在相鄰轉軸上從左到右排列才能贏獎。每條線僅賠付獎金最高的組合。如出現故障，所有賠付和遊戲都將無效。查看遊戲規則瞭解更多詳情。"
+      },
+      {
+      "The neon glimmer turning into neon glow on a feature symbol\ror on a winning combination will activate that feature or multiply the winline x4.": "如果霓虹微光在一個特色遊戲符號或贏獎線上啟動成霓虹燈光，\r它將觸發該特色遊戲或將贏獎線乘以x4。"
+    },
+    {
+      "Special Features - General Image": "特色遊戲 - 常規圖片"
+    },
+    {
+      "The neon glimmer turning into neon glow on a feature symbol or on a winning combination will activate that feature or multiply the winline x4.": "霓虹微光在一個特色遊戲符號或贏獎組合上變成霓虹燈光時，它將啟動該特色遊戲或將贏得x4的翻倍乘數。"
+    },
+    {
+      "Wild Symbol": "Wild符號"
+    },
+    {
+      "Wild symbols can complete winning combinations.": "Wild符號可代替除“Scatter”、“Free Spins”和“Bonus”外的任何符號。"
+    },
+    {
+      "X4 Multiplier": "X4翻倍乘數"
+    },
+    {
+      "Neon glow appearing on a winning combination awards a x4 multiplier.\rThis will apply to all active win lines using this symbol.": "在贏獎組合上啟動的霓虹燈光可贏得x4翻倍乘數。\r這適用於所有使用該符號的活躍贏獎線。"
+    },
+    {
+      "Scatter": "Scatter"
+    },
+    {
+      "Neon glow appearing round a scatter symbol on any position awards 250 coins.\rMultiple scatter symbols showing on the reels will not increase the pay out.": "圍繞任意位置的“Scatter”符號啟動的霓虹燈光可贏得250個硬幣。\r多個出現在轉軸上的scatter符號不會增加賠付。"
+    },
+    {
+      "Neon glow appearing around a free spin symbol on any position will award 6 free spins.\rMultiple free spin symbols showing on the reels will not increase the free spins awarded.": "圍繞任意位置的“Free Spin”符號啟動的霓虹燈光可贏得6次免費旋轉。\r多個“Free Spin”符號出現在轉軸上不會增加贏得的免費旋轉的數量。"
+    },
+    {
+      "Bonus": "獎勵"
+    },
+    {
+      "Neon glow appearing on a Bonus symbol in any position on the reels will activate the Keno light bonus round.": "圍繞轉軸上任意位置的“Bonus”符號啟動的霓虹燈光可啟動Keno Light獎勵局。"
+    },
+    {
+      "Bonus Game": "獎勵遊戲"
+    },
+    {
+      "Manually select or randomly select 10 numbers from the available 28.\rThere will be 15 numbers drawn randomly after pressing start.": "從28個可選數字中手動選擇或隨機選擇10個數字。\r按開始後，遊戲將從28個數字中隨機抽出15個。"
+    },
+    {
+      "Bonus Game Paytable": "獎勵遊戲賠付表"
+    },
+    {
+      "The amount won is dependent on the amount of numbers drawn that match the selection chose.\rThe amount that will be paid can be seen on the paytable in the game.": "贏獎額取決於抽出的數字中與所選數字匹配的數量。\r將賠付的金額可在獎勵遊戲賠付表中查看。"
+    },
+    {
+      "Neon Jungle Game Rules": "Neon Jungle遊戲規則"
+    },
+    {
+      "Please select": "請先選擇"
+    },
+    {
+      "numbers first, or hit Random button": "個數字，或點擊隨機按鈕"
+    },
+    {
+      "You can't select more than": "您不能選擇超過"
+    },
+    {
+      "Unselect some numbers first": "先取消選擇一些數字"
+    },
+    {
+      "Still": "仍"
+    },
+    {
+      "to pick or Hit Random button to automatically chose for You.": "以挑選或按隨機按鈕來自動選擇。"
+    },
+    {
+      "Choice complete, you can now hit Start button.": "選擇完成，您現在可以按開始按鈕了。"
+    },
+    {
+      "Pick 10 Numbers or Hit Random button to automatically chose for You.": "挑選10個數字或按隨機按鈕來自動選擇。"
+    },
+       {
+        "No Winning Lines":"沒有獎金"
+      }
+  ]
+}

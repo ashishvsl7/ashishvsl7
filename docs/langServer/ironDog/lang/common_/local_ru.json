@@ -1,0 +1,394 @@
+{
+  "Messages": [
+    {
+      "WIN": "ВЫИГРЫШ"
+    },
+    {
+      "BET": "СТАВКА"
+    },
+    {
+      "Balance": "Баланс"
+    },
+    {
+      "Bet:": "Ставка:"
+    },
+    {
+      "Good luck": "удачи"
+    },
+    {
+      "My Account": "Мой аккаунт"
+    },
+    {
+      "Total won:": "Суммарный выигрыш:"
+    },
+    {
+      "Coins:": "Монеты:"
+    },
+    {
+      "Something went wrong!": "Что-то пошло не так!"
+    },
+    {
+      "Bet over max stake": "Ставка выше максимальной"
+    },
+    {
+      "Bet under min stake": "Ставка ниже минимальной"
+    },
+    {
+      "Insufficient funds. Please reduce stake.": "Недостаточно средств. Пожалуйста, понизьте ставку"
+    },
+    {
+      "Browser not supported": "Браузер не поддерживается"
+    },
+    {
+      "Unfortunately we do not support your web browser. Please update in order to play the game.": "К сожалению, мы не поддерживаем ваш веб-браузер. Пожалуйста, обновите его, чтобы продолжить игру."
+    },
+    {
+      "We could not load the latest results": "Не удалось загрузить последние результаты"
+    },
+    {
+      "Unable to contact game server": "Не удалось установить контакт с игровым сервером"
+    },
+    {
+      "Error placing bet": "Ошибка при размещении ставки"
+    },
+    {
+      "We could not load the language files": "Не удалось загрузить языковые файлы"
+    },
+    {
+      "We could not load the game assets": "Не удалось загрузить активы игры"
+    },
+    {
+      "Unable to load setup xml": "Не удалось загрузить настройку xml"
+    },
+    {
+      "We were unable to retrieve the game setup parameters": "Не удалось извлечь параметры настройки игры"
+    },
+    {
+      "Error Loading Game Setup": "Ошибка при загрузке настроек игры"
+    },
+    {
+      "We were unable to retrieve your account information": "Не удалось извлечь информацию по вашему аккаунту"
+    },
+    {
+      "Error Loading Account Info": "Ошибка при загрузке информации по аккаунту"
+    },
+    {
+      "We were unable to retrieve your bet history": "Не удалось извлечь результаты размещения ставок"
+    },
+    {
+      "Error Loading Bet History": "Ошибка при загрузке результатов размещения ставок"
+    },
+    {
+      "We were unable to retrieve the current currency symbol": "Не удалось извлечь символ текущей валюты"
+    },
+    {
+      "Error Loading Currency Symbol": "Ошибка при загрузке символа валюты"
+    },
+    {
+      "Try Again": "Повторите попытку"
+    },
+    {
+      "OK": "OK"
+    },
+    {
+      "Got it!": "Понятно!"
+    },
+    {
+      "Lobby": "Фойе"
+    },
+    {
+      "Apparently we’re having some trouble, please try again later.": "Судя по всему, у нас возникла проблема, пожалуйста, повторите попытку позже."
+    },
+    {
+      "Whoooaaaaa": "Ого-го"
+    },
+    {
+      "You’ve been playing for a long time! Don’t you want to take a short break?": "Вы уже долго играете! Не хотите сделать короткую паузу?"
+    },
+    {
+      "Please rotate your device": "Пожалуйста, поверните свое устройство"
+    },
+    {
+      "The time limit you have set has expired, we recommend that you take a short break before continuing. Would you like to continue?": "Временной лимит, который вы установили, уже истек, мы рекомендуем вам взять короткую паузу, и только потом продолжить игру. Вы хотите продолжить?"
+    },
+    {
+      "You have been playing for": "Вы играли в течение"
+    },
+    {
+      "Continue Playing": "Продолжить игру"
+    },
+    {
+      "Exit Game": "Выйти из игры"
+    },
+    {
+      "Account History": "Результаты аккаунта"
+    },
+    {
+      "Menu": "Меню"
+    },
+    {
+      "Settings": "Настройки"
+    },
+    {
+      "Game History": "Результаты игры"
+    },
+    {
+      "List of Bets Click One To See Spin": "Список ставок - щелкните для запуска"
+    },
+    {
+      "Bet": "Ставка"
+    },
+    {
+      "Lines": "Линии"
+    },
+    {
+      "Bet/Lines": "Ставка/Линии"
+    },
+    {
+      "Total Win": "Суммарный выигрыш"
+    },
+    {
+      "Winning Lines - Total: ": "Выигрышные линии - всего:"
+    },
+    {
+      "Losing Lines": "Проигрышные линии"
+    },
+    {
+      "Balance:": "Баланс:"
+    },
+    {
+      "Playing for real": "Игра на реальные деньги"
+    },
+    {
+      "Coins": "Монеты"
+    },
+    {
+      "Cash": "Деньги"
+    },
+    {
+      "Bet Max": "Макс. ставка"
+    },
+    {
+      "Stop Autoplay": "Остановить Автоигру"
+    },
+    {
+      "On any win ": "При любом выигрыше"
+    },
+    {
+      "On single win of ": "При единичном выигрыше в размере"
+    },
+    {
+      "If cash increase by ": "При увеличении денег на"
+    },
+    {
+      "If cash decrease by ": "При уменьшении денег на"
+    },
+    {
+      "When entering any feature": "При входе в розыгрыш любой функции"
+    },
+    {
+      "Sounds": "Звуки"
+    },
+    {
+      "Spin Settings": "Настройки спина"
+    },
+    {
+      "Stop Autoplay": "Остановить Автоигру"
+    },
+    {
+      "Bet Settings": "Настройки ставок"
+    },
+    {
+      "ACCEPTED": "ПРИНЯТО"
+    },
+    {
+      "COM FAILURE": "ОШИБКА"
+    },
+    {
+      "COMPLETE": "ЗАВЕРШЕНО"
+    },
+    {
+      "DECLINED": "ОТКЛОНЕНО"
+    },
+    {
+      "F1x2SETTLED": "F1x2 УРЕГУЛИРОВАНО"
+    },
+    {
+      "MISSETTLED": "УРЕГУЛИРОВАНО НЕПРАВИЛЬНО"
+    },
+    {
+      "NOT SETTLED": "НЕ УРЕГУЛИРОВАНО"
+    },
+    {
+      "SUBMITTED": "ОТПРАВЛЕНО"
+    },
+    {
+      "normal": "обычный"
+    },
+    {
+      "win": "выигрыш"
+    },
+    {
+      "Date": "Дата"
+    },
+    {
+      "Time": "Время"
+    },
+    {
+      "Line": "Линия"
+    },
+    {
+      "Sound Effects": "Звуковые эффекты"
+    },
+    {
+      "Background Music": "Фоновая музыка"
+    },
+    {
+      "Press Space to Spin": "Щелкните Пробел для запуска."
+    },
+    {
+      "Left Handed Spin": "Левосторонний спин"
+    },
+    {
+      "Display in Coins": "Отображение в монетах"
+    },
+    {
+      "Stop on any win": "Остановить при любом выигрыше"
+    },
+    {
+      "Stop on win of": "Остановить при выигрыше"
+    },
+    {
+      "Stop if cash increases by": "Остановить при увеличении денег на"
+    },
+    {
+      "Stop if cash decreases by": "Остановить при уменьшении денег на"
+    },
+    {
+      "Stop when feature entered": "Остановить при входе в функцию"
+    },
+    {
+      "Don't show anymore": "Больше не показывать"
+    },
+    {
+      "Continue": "Продолжить"
+    },
+    {
+      "COMPLETE": "ЗАВЕРШЕНО"
+    },
+    {
+      "win": "выигрыш"
+    },
+    {"Congratulations":"Поздравляем"},
+    {"You've won a bonus round":"Вы выиграли бонусный кон"},
+    {"you won":"вы выиграли"},
+    {"bonus round":"бонусный кон"},
+    {"Good luck!":"Удачи!"},
+    {"Multiplier":"Множитель"},
+    {"Total won":"Суммарный выигрыш"},
+
+    {
+      "free rounds": "бесплатные коны"
+    },
+    {
+      "Free Rounds:": "Бесплатные коны:"
+    },
+    {
+      "Free Rounds": "Бесплатные коны"
+    },
+    {
+      "Loading images please wait...": "Пожалуйста, подождите - загружаются изображения..."
+    },
+
+    {
+      "freespins": "бесплатные спины"
+    },
+    {
+      "Free Spin": "Бесплатный спин"
+    },
+    {
+      "swipe to activate full screen": "Проведите пальцем вниз до заполнения экрана"
+    },
+    {
+      "Show help screen on load": "Показать экран справки при загрузке"
+    },
+    {
+      "Status": "Статус"
+    },
+    {
+      "Channel": "Канал"
+    },
+    {
+      "Placed": "Размещено"
+    },
+    {
+      "Settled": "Урегулировано"
+    },
+    {
+      "GUI Descriptions": "Описание кнопок"
+    },
+    {
+      "Help Button": "кнопка помощи"
+    },
+    {
+      "Bet Control": "контроль Ставка"
+    },
+    {
+      "Autoplay Button": "кнопка Автоигру"
+    },
+    {
+      "Autoplay Start Button": "кнопка Автоигру Начало"
+    },
+    {
+      "Autoplay Stop Button": "кнопка Автоигру стоп"
+    },
+    {
+      "Spin Button": "кнопка спин"
+    },
+    {
+      "Stop Button": "кнопка стоп"
+    },
+    {
+      "You've won": "вы выиграли"
+    },
+    {
+      "You won": "вы выиграли"
+    },
+    {
+      "Free spins finished": "бесплатные спины законченный" 
+    },
+    {
+      "you've won": "вы выиграли"
+    },
+    {
+      "Free spins": "бесплатные спины"
+    },
+    {
+      "Free Spins": "бесплатные спины"
+    },
+    {
+      "\rActivate sounds?": "активировать Звуки?"  
+    },
+    {
+      "Spin No.": "Spin no."
+    },
+    {
+      "Must be set to a value": "Должен быть установлен на значение" 
+    },
+    {
+      "Game History only available when playing for real": "История игр доступна только при игре по-настоящему"   
+    },
+    {
+      "You have unused Free Spins": "У вас имеются неиспользованные бесплатные спины"
+    },
+    {
+      "They will be automatically started": "Они будут запущены автоматически"
+    },
+    {
+      "You have an unfinished Bonus": "У вас имеется неиспользованный бонус"
+    },
+    {
+      "it will be automatically started": "он будет запущен автоматически"
+    }
+  ]
+}

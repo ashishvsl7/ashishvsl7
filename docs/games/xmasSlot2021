@@ -1,0 +1,20 @@
+symbols layout: must have same tile for all the low/mid symbols, as an animation.
+symbols 7,8,9: full size characters that get cropped on front end
+symbol 10,11 : normal size wild (same symbol for some reason)
+symbol 12, beans
+frames: just for full size for characters and only 1
+
+
+backgrounds (can change but side meter must stay in background):
+FS, integrated box on desktop and mobile, positions can change from MWJ to remove the side meter from the top on portrait that was not ideal
+background number of layers can be different
+
+Side meter, base game (should stay the same)
+harp event and animation (harp idle is not used on MWJ too)
+each leaf on the side meter has a separate animation and beanstalk is in the background so it should xmas if possible (8 positions)
+
+
+
+Side meter, FS (should stay the same)
+MWJ didn't have animations on the number , it just made the numbers brighter (6 positions) 
+animation to highlight the number of successive wins you're at (green leaves animation)

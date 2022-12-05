@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "info-mars_00024.png",
+	"frame": {"x":0,"y":0,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00025.png",
+	"frame": {"x":0,"y":85,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00026.png",
+	"frame": {"x":0,"y":170,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00027.png",
+	"frame": {"x":0,"y":255,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00028.png",
+	"frame": {"x":0,"y":340,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00029.png",
+	"frame": {"x":0,"y":425,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00030.png",
+	"frame": {"x":0,"y":510,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00031.png",
+	"frame": {"x":0,"y":595,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00032.png",
+	"frame": {"x":0,"y":680,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00033.png",
+	"frame": {"x":0,"y":765,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00034.png",
+	"frame": {"x":0,"y":850,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00035.png",
+	"frame": {"x":0,"y":935,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00036.png",
+	"frame": {"x":0,"y":1020,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00037.png",
+	"frame": {"x":0,"y":1105,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00038.png",
+	"frame": {"x":0,"y":1190,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00039.png",
+	"frame": {"x":0,"y":1275,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00040.png",
+	"frame": {"x":0,"y":1360,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00041.png",
+	"frame": {"x":0,"y":1445,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00042.png",
+	"frame": {"x":0,"y":1530,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00043.png",
+	"frame": {"x":0,"y":1615,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00044.png",
+	"frame": {"x":0,"y":1700,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00045.png",
+	"frame": {"x":0,"y":1785,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00046.png",
+	"frame": {"x":0,"y":1870,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-mars_00047.png",
+	"frame": {"x":0,"y":1955,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "info-mars.png",
+	"format": "RGBA8888",
+	"size": {"w":182,"h":2040},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:36c55e30f92159c921bc8de93072b648:af5abf4a881484da4f82a3ec953474ad:4d92d0753eb0aaa76b083b88f112714b$"
+}
+}

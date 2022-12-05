@@ -1,0 +1,103 @@
+{
+  "Messages": [
+    {
+      "Win Up To": "Выиграйте до"
+    },
+    {
+      "100,000 Coins": "100000 монет"
+    },
+    {
+      "Win scatters and multipliers during Free Spin": "Выигрывайте Scatter и множители во время бесплатного спина"
+    },
+    {
+      "Replace all symbols.": "Заменяет все символы."
+    },
+    {
+      "Appears only on 3th reel.": "Выпадает только на 3-м барабане. "
+    },
+    {
+      "Awards 1 Free Spin.": "Приносит 1 бесплатный спин."
+    },
+    {
+      "Can appear during Free Spins.": "Может выпадать во время бесплатных спинов. "
+    },
+    {
+      "3 or more symbols starts Balloon Bonus": "3+ бонусных символов на последовательных барабанах слева направо, начинает бонусный раунд"
+    },
+    {
+      "Appears only on 1st reel during Free spins.": "Выпадает только на 1-м барабане во время бесплатных спинов."
+    },
+    {
+      "Adds x1 to current multiplier.": "Добавляет x1 к текущему множителю."
+    },
+    {
+      "Awards 10 Coins": "Приносит 10 монет"
+    },
+    {
+      "Appears only on 2nd reel during Free spins.": "Выпадает только на 2-м барабане во время бесплатных спинов."
+    },
+    {
+      "Adds x2 to current multiplier.": "Добавляет x2 к текущему множителю."
+    },
+    {
+      "Awards 10 Coins": "Приносит 10 монет"
+    },
+    {
+      "Appears only on 4th reel during Free spins.": "Выпадает только на 4-м барабане во время бесплатных спинов."
+    },
+    {
+      "Adds x3 to current multiplier.": "Добавляет x3 к текущему множителю."
+    },
+    {
+      "Awards 15 Coins": "Приносит 15 монет"
+    },
+    {
+      "Appears only on 5th reel during Free spins.": "Выпадает только на 5-м барабане во время бесплатных спинов."
+    },
+    {
+      "Adds x4 to current multiplier.": "Добавляет x4 к текущему множителю."
+    },
+    {
+      "Awards 25 Coins": "Приносит 25 монет"
+    },
+    {
+      "Shoot as many ballons as you can, the word 'END' will terminate the bonus. The total bonus multiplier depends on the number of icons that triggered the bonus. See game guide for details.": "Попадите по как можно большему числу шариков, слово 'КОНЕЦ' появится на экране после завершения розыгрыша бонуса. Суммарный множитель бонуса зависит от числа значков, которые активировали бонус. Обратитесь к руководству по игре для получения дополнительной информации.  "
+    },
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "<small>Вы выиграете, соотнеся идентичные символы на линиях выигрыша. Все символы должны быть идентичными на последовательных барабанах, слева направо. Будет оплачиваться только самый высокий выигрыш на каждой линии. При возникновении неисправностей все выплаты и игры аннулируются. Обратитесь к правилам игры для получения дополнительной информации.</small>"
+    },
+    {
+      "BubblePickBonus": "Бонус Balloon"
+    },
+    {
+      "You have unused Free Spins": "У вас имеются неиспользованные бесплатные спины"
+    },
+    {
+      "They will be automatically started": "Они будут запущены автоматически"
+    },
+    {
+      "You have an unfinished Bonus": "У вас имеется неиспользованный бонус"
+    },
+    {
+      "it will be automatically started": "он будет запущен автоматически"
+    },
+    {
+      "Replaces all symbols!": "Заменяет все символы!"
+    },
+    {
+      "*Except for Scatter and Free Spins": "*Кроме Scatter и Бесплатных спинов"
+    },
+    {
+      "3. X1": "<br>3. - нет множитель"
+    },
+    {
+      "4. X2": "<br>4. - x2 мультипликатор"
+    },
+    {
+      "5. X3": "<br>5. - x3 мультипликатор"  
+    },
+       {
+        "No Winning Lines":"Nema dobitaka"
+      }
+  ]
+}

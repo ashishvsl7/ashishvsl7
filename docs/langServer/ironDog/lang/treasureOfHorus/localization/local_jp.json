@@ -1,0 +1,73 @@
+{
+  "Messages": [
+    {
+      "Good luck": "グッドラック！"
+    },
+    {
+      "Free spins!": "フリースピン!"
+    },
+    {
+      "Balance : ": "残高: "
+    },
+    {
+      "Must be greater than current stake": "現在のベット額より大きい必要があります"
+    },
+    {
+      "Awards 6 free spins": "6回のフリースピンが付与されます"
+    },
+    {
+      "Treasure of Horus Game Rules": "Treasure of Horus （ホルスの宝物）ゲームルール"
+    },
+    {
+      "Discover the 3 hidden chambers,\ryou'll find different Wild multipliers and a precious Scatter": "隠された3つの間を発見して、\rそれぞれ異なるマルチプライヤーや貴重なスキャッターを見つけます"
+    },
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "当たりのラインで絵柄が揃うと当たりです。左から右に連続で全ての通常の絵柄が揃っている必要があります。各ライン当たり最高の組み合わせの配当のみが支払われます。不具合が生じた場合、すべての支払いとプレイが無効になります。詳細についてはゲームルールをご覧ください。"
+    },
+    {
+      "Replaces and multiplies regular winning combinations.": "通常の当たりの組み合わせに代用して乗算されます。"
+    },
+    {
+      "Can appear in the regular game and in all free spins chambers.": "通常のゲームとすべてのフリースピンの間で現れる可能性があります。"
+    },
+    {
+      "If more than one wild is displayed on the reels completing winning combinations, the higher multiplier is applied.": "当たりの組み合わせを成すリールに1つ以上のワイルドが現れた場合、より高い倍率のマルチプライヤーが適用されます。"
+    },
+    {
+      "Wild has its own paytable.": "ワイルドにはワイルド用の配当表があります。"
+    },
+    {
+      "Can only appear inside Weret and Horus chamber.": "ウレトとホルスの間でのみ現れます。"
+    },
+    {
+      "Can only appear inside Horus chamber.": "ホルスの間でのみ現れます。"
+    },
+    {
+      "Can only appear in the central reel in the regular game.": "通常ゲームの中央のリールにのみ現れます。"
+    },
+    {
+      "Awards 6 free spins.": "6回のフリースピンが付与されます。"
+    },
+    {
+      "Enters Anubis chamber.": "アヌビスの間に入ります。"
+    },
+    {
+      "Can only appear in the central reel inside Anubis chamber.": "アヌビスの間の中の中央のリールにのみ現れます。"
+    },
+    {
+      "Enters Weret chamber.": "ウレトの間に入ります。"
+    },
+    {
+      "Can only appear in the central reel inside Weret chamber.": "ウレトの間の中の中央のリールにのみ現れます。"
+    },
+    {
+      "Enters Horus chamber.": "ホルスの間に入ります。"
+    },
+    {
+      "Explore the Pyramid in search of the 3 secret chambers, where ever bigger treasures are waiting for you.": "より大きな宝物が待ち構えている3つの秘密の間を探してピラミッドを探索します。"
+    },
+       {
+        "No Winning Lines":"勝利なし"
+      }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "Messages": [
+    {
+      "WIN": "WIN"
+    },
+    {
+      "BET": "BET"
+    },
+    {
+      "Balance": "Balance"
+    },
+    {
+      "Bet:": "Bet:"
+    },
+    {
+      "Good luck": "Good luck"
+    },
+    {
+      "My Account": "My Account"
+    },
+    {
+      "Total won:": "Total won:"
+    },
+    {
+      "Coins:": "Coins:"
+    },
+    {
+      "Something went wrong!": "Something went wrong!"
+    },
+    {
+      "Bet over max stake": "Bet over max stake"
+    },
+    {
+      "Bet under min stake": "Bet under min stake"
+    },
+    {
+      "Insufficient funds. Please reduce stake.": "Insufficient funds. Please reduce stake"
+    },
+    {
+      "Browser not supported": "Browser not supported"
+    },
+    {
+      "Unfortunately we do not support your web browser. Please update in order to play the game.": "Unfortunately we do not support your web browser. Please update in order to play the game."
+    },
+    {
+      "We could not load the latest results": "We could not load the latest results"
+    },
+    {
+      "Unable to contact game server": "Unable to contact game server"
+    },
+    {
+      "Error placing bet": "Error placing bet"
+    },
+    {
+      "We could not load the language files": "We could not load the language files"
+    },
+    {
+      "We could not load the game assets": "We could not load the game assets"
+    },
+    {
+      "Unable to load setup xml": "Unable to load setup xml"
+    },
+    {
+      "We were unable to retrieve the game setup parameters": "We were unable to retrieve the game setup parameters"
+    },
+    {
+      "Error Loading Game Setup": "Error Loading Game Setup"
+    },
+    {
+      "We were unable to retrieve your account information": "We were unable to retrieve your account information"
+    },
+    {
+      "Error Loading Account Info": "Error Loading Account Info"
+    },
+    {
+      "We were unable to retrieve your bet history": "We were unable to retrieve your bet history"
+    },
+    {
+      "Error Loading Bet History": "Error Loading Bet History"
+    },
+    {
+      "We were unable to retrieve the current currency symbol": "We were unable to retrieve the current currency symbol"
+    },
+    {
+      "Error Loading Currency Symbol": "Error Loading Currency Symbol"
+    },
+    {
+      "Try Again": "Try Again"
+    },
+    {
+      "OK": "OK"
+    },
+    {
+      "Got it!": "Got it!"
+    },
+    {
+      "Lobby": "Lobby"
+    },
+    {
+      "Apparently we’re having some trouble, please try again later.": "Apparently we’re having some trouble, please try again later."
+    },
+    {
+      "Whoooaaaaa": "Whoooaaaaa"
+    },
+    {
+      "You’ve been playing for a long time! Don’t you want to take a short break?": "You’ve been playing for a long time! Don’t you want to take a short break?"
+    },
+    {
+      "Please rotate your device": "Please rotate your device"
+    },
+    {
+      "The time limit you have set has expired, we recommend that you take a short break before continuing. Would you like to continue?": "The time limit you have set has expired, we recommend that you take a short break before continuing. Would you like to continue?"
+    },
+    {
+      "You have been playing for": "You have been playing for"
+    },
+    {
+      "Continue Playing": "Continue Playing"
+    },
+    {
+      "Exit Game": "Exit Game"
+    },
+    {
+      "Account History": "Account History"
+    },
+    {
+      "Menu": "Menu"
+    },
+    {
+      "Settings": "Settings"
+    },
+    {
+      "Game History": "Game History"
+    },
+    {
+      "List of Bets Click One To See Spin": "List of Bets Click One To See Spin"
+    },
+    {
+      "Bet": "Bet"
+    },
+    {
+      "Lines": "Lines"
+    },
+    {
+      "Bet/Lines": "Bet/Lines"
+    },
+    {
+      "Total Win": "Total Win"
+    },
+    {
+      "Winning Lines - Total: ": "Winning Lines - Total: "
+    },
+    {
+      "Losing Lines": "Losing Lines"
+    },
+    {
+      "Balance:": "Balance:"
+    },
+    {
+      "Playing for real": "Playing for real"
+    },
+    {
+      "Coins": "Coins"
+    },
+    {
+      "Cash": "Cash"
+    },
+    {
+      "Bet Max": "Max Bet"
+    },
+    {
+      "Stop Autoplay": "Stop Autoplay"
+    },
+    {
+      "On any win ": "On any win "
+    },
+    {
+      "On single win of ": "On single win of "
+    },
+    {
+      "If cash increase by ": "If cash increase by "
+    },
+    {
+      "If cash decrease by ": "If cash decrease by "
+    },
+    {
+      "When entering any feature": "When entering any feature"
+    },
+    {
+      "Sounds": "Sounds"
+    },
+    {
+      "Spin Settings": "Spin Settings"
+    },
+    {
+      "Stop Autoplay": "Stop Autoplay"
+    },
+    {
+      "Bet Settings": "Bet Settings"
+    },
+    {
+      "ACCEPTED": "ACCEPTED"
+    },
+    {
+      "COM FAILURE": "COM FAILURE"
+    },
+    {
+      "COMPLETE": "COMPLETE"
+    },
+    {
+      "DECLINED": "DECLINED"
+    },
+    {
+      "F1x2SETTLED": "F1x2SETTLED"
+    },
+    {
+      "MISSETTLED": "MISSETTLED"
+    },
+    {
+      "NOT SETTLED": "NOT SETTLED"
+    },
+    {
+      "SUBMITTED": "SUBMITTED"
+    },
+    {
+      "normal": "normal"
+    },
+    {
+      "win": "win"
+    },
+    {
+      "Date": "Date"
+    },
+    {
+      "Time": "Time"
+    },
+    {
+      "Line": "Line"
+    },
+    {
+      "Sound Effects": "Sound Effects"
+    },
+    {
+      "Background Music": "Background Music"
+    },
+    {
+      "Press Space to Spin": "Press Space to Spin"
+    },
+    {
+      "Left Handed Spin": "Left Handed Spin"
+    },
+    {
+      "Display in Coins": "Display in Coins"
+    },
+    {
+      "Stop on any win": "Stop on any win"
+    },
+    {
+      "Stop on win of": "Stop on win of"
+    },
+    {
+      "Stop if cash increases by": "Stop if cash increases by"
+    },
+    {
+      "Stop if cash decreases by": "Stop if cash decreases by"
+    },
+    {
+      "Stop when feature entered": "Stop when feature entered"
+    },
+    {
+      "Don't show anymore": "Don't show anymore"
+    },
+    {
+      "Continue": "Continue"
+    },
+    {
+      "COMPLETE": "COMPLETE"
+    },
+    {
+      "win": "win"
+    },
+    {"Congratulation":"Congratulations"},
+    {"You've won a bonus round":"You've won a bonus round"},
+    {"you won":"you won"},
+    {"bonus round":"bonus round"},
+    {"Good luck!":"Good luck!"},
+    {"Multiplier":"Multiplier"},
+    {"Total won":"Total won"},
+
+    {
+      "free rounds": "free rounds"
+    },
+    {
+      "Free Rounds:": "Free Rounds:"
+    },
+    {
+      "Free Rounds": "Free Rounds"
+    },
+    {
+      "Loading images please wait...": "Loading images please wait..."
+    },
+
+    {
+      "freespins": "freespins"
+    },
+    {
+      "Free Spin": "Free Spin"
+    },
+    {
+      "swipe to activate full screen": "swipe to activate full screen"
+    },
+    {
+      "Show help screen on load": "Show help screen on load"
+    },
+    {
+      "Status": "Status"
+    },
+    {
+      "Channel": "Channel"
+    },
+    {
+      "Placed": "Placed"
+    },
+    {
+      "Settled": "Settled"
+    },
+    {
+      "GUI Descriptions": "Button Descriptions"
+    },
+    {
+      "Help Button": "Help Button"
+    },
+    {
+      "Bet Control": "Bet Control"
+    },
+    {
+      "Autoplay Button": "Autoplay Button"
+    },
+    {
+      "Autoplay Start Button": "Autoplay Start Button"
+    },
+    {
+      "Autoplay Stop Button": "Autoplay Stop Button"
+    },
+    {
+      "Spin Button": "Spin Button"
+    },
+    {
+      "Stop Button": "Stop Button"
+    },
+    {
+      "You've won": "You've won"
+    },
+    {
+      "You won": "You Won"
+    },
+    {
+      "Free spins finished": "Free spins finished" 
+    },
+    {
+      "you've won": "you've won"
+    },
+    {
+      "Free Spins": "Free Spins"
+    },
+    {
+      "Free Spins": "Free Spins"
+    },
+    {
+      "free re-spins": "Free Spin"
+    },
+    {
+      "Activate sounds?": "Activate sounds?"
+    },
+    {
+      "Spin No.": "Spin no."
+    },
+    {
+      "Must be set to a value": "Must be set to a value"  
+    },
+    {
+      "Game History only available when playing for real": "Game History only available when playing for real"   
+    },
+    {"You have unused Free Spins":"You have unused Free Spins"},
+    {"They will be automatically started":"They will be automatically started"},
+    {"You have an unfinished Bonus":"You have an unfinished Bonus"},
+    {"it will be automatically started":"it will be automatically started"}
+  ]
+}

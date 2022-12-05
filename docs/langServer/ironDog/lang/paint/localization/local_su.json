@@ -1,0 +1,103 @@
+{
+  "Messages": [
+    {
+      "Win Up To": "Voita jopa"
+    },
+    {
+      "100,000 Coins": "100 000 kolikkoa"
+    },
+    {
+      "Win scatters and multipliers during Free Spin": "Voittolevittimet ja kertoimet ilmaispyörityksen aikana"
+    },
+    {
+      "Replace all symbols.": "Korvaa kaikki symbolit paitsi Bonus- tai Paint Splash -symbolin."
+    },
+    {
+      "Appears only on 3th reel.": "Näkyy vain 3. rullalla."
+    },
+    {
+      "Awards 1 Free Spin.": "Antaa palkinnoksi 1 ilmaispyörityksen."
+    },
+    {
+      "Can appear during Free Spins.": "Voi tulla näkyviin ilmaispyöritysten aikana."
+    },
+    {
+      "3 or more symbols starts Balloon Bonus": "3+ Bonus-symbolia vierekkäisillä rullilla vasemmalta oikealle antaa palkinnoksi bonuksen."
+    },
+    {
+      "Appears only on 1st reel during Free spins.": "Näkyy vain 1. rullalla ilmaispyöritysten aikana."
+    },
+    {
+      "Adds x1 to current multiplier.": "Lisää x1 nykyiseen kertoimeen."
+    },
+    {
+      "Awards 10 Coins": "Antaa voitoksi 10 kolikkoa"
+    },
+    {
+      "Appears only on 2nd reel during Free spins.": "Näkyy vain 2. rullalla ilmaispyöritysten aikana."
+    },
+    {
+      "Adds x2 to current multiplier.": "Lisää x2 nykyiseen kertoimeen."
+    },
+    {
+      "Awards 10 Coins": "Antaa voitoksi 10 kolikkoa"
+    },
+    {
+      "Appears only on 4th reel during Free spins.": "Näkyy vain 4. rullalla ilmaispyöritysten aikana."
+    },
+    {
+      "Adds x3 to current multiplier.": "Lisää x3 nykyiseen kertoimeen."
+    },
+    {
+      "Awards 15 Coins": "Antaa voitoksi 15 kolikkoa"
+    },
+    {
+      "Appears only on 5th reel during Free spins.": "Näkyy vain 5. rullalla ilmaispyöritysten aikana."
+    },
+    {
+      "Adds x4 to current multiplier.": "Lisää x4 nykyiseen kertoimeen."
+    },
+    {
+      "Awards 25 Coins": "Antaa voitoksi 25 kolikkoa"
+    },
+	{
+	"Shoot as many ballons as you can, the word 'END' will terminate the bonus. The total bonus multiplier depends on the number of icons that triggered the bonus. See game guide for details.": "Poksauta niin monta ilmapalloa kuin mahdollista, \"LOPPU\" päättää bonuksen. Bonus-kokonaiskerroin riippuu bonuksen käynnistäneen kuvakkeiden määrästä. Katso tiedot pelioppaasta."
+	},
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "Voitat samanlaisilla symboleilla voittolinjoissa. Kaikkien symbolien on oltava samanlaisia peräkkäisillä rullilla vasemmalta oikealle. Vain suurin voitto kullekin linjalle maksetaan. Toimintohäiriö mitätöi kaikki voitot ja pelit. Katso tiedot pelin säännöistä."
+    },
+    {
+      "BubblePickBonus": "Ilmapallo-bonus"
+    },
+    {
+      "You have unused Free Spins": "Sinulla on käyttämättömiä ilmaispyörityksiä"
+    },
+    {
+      "They will be automatically started": "Ne käynnistetään automaattisesti"
+    },
+    {
+      "You have an unfinished Bonus": "Sinulla on lopettamaton bonus"
+    },
+    {
+      "it will be automatically started": "Se käynnistetään automaattisesti"
+    },
+    {
+      "Replaces all symbols!": "Korvaa kaikki symbolit!"
+    },
+    {
+      "*Except for Scatter and Free Spins": "*Paitsi levitin- ja ilmaispyöritykset-symbolit"
+    },
+    {
+      "3. X1": "<br>3. - ei peruskerrointa"
+    },
+    {
+      "4. X2": "<br>4. - x2 peruskerroin"
+    },
+    {
+      "5. X3": "<br>5. - x3 peruskerroin"
+    },
+      {
+        "No Winning Lines":"Ei voittoja"
+      }
+  ]
+}

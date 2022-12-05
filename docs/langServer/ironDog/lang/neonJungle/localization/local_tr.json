@@ -1,0 +1,83 @@
+{
+  "Messages": [
+    {"You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.":"Vinci abbinando simboli sulle linee di vincita. Tutti i simboli abbinati devono essere disposti su rulli consecutivi, da sinistra a destra. Viene pagata solo la vincita più alta per linea. I malfunzionamenti annullano puntate e vincite. Per maggiori informazioni, consulta le regole del gioco."},
+    {
+      "The neon glimmer turning into neon glow on a feature symbol\ror on a winning combination will activate that feature or multiply the winline x4.": "Neon parıltı, bir özellik simgesi veya kazanan kazanç hattı üzerinde neon glow'a\retkinleşirse bu özelliği etkinleştirir veya kazanç hattını 4x ile çarpa."
+    },
+    {
+      "Special Features - General Image": "Özel Özellikler - Genel Resim"
+    },
+    {
+      "The neon glimmer turning into neon glow on a feature symbol or on a winning combination will activate that feature or multiply the winline x4.": "Bir özellik simgesi üzerinde Neon glow'a dönüşen bir neon parıltı, söz konusu özelliği etkinleştirir veya 4x Çarpan kazandırır."
+    },
+    {
+      "Wild Symbol": "Joker Simge"
+    },
+    {
+      "Wild symbols can complete winning combinations.": "Joker simgeler 'Saçılı', 'Bedava Dönüşler' ve 'Bonus' dışındaki tüm simgelerin yerine geçebilir."
+    },
+    {
+      "X4 Multiplier": "4X Çarpan"
+    },
+    {
+      "Neon glow appearing on a winning combination awards a x4 multiplier.\rThis will apply to all active win lines using this symbol.": "Bir kazanan kombinasyon üzerinde etkinleşen Neon glow 4x çarpan kazandırır.\rBu, simgeyi kullanan tüm etkin kazanç hatlarına uygulanacaktır."
+    },
+    {
+      "Scatter": "Saçılı"
+    },
+    {
+      "Neon glow appearing round a scatter symbol on any position awards 250 coins.\rMultiple scatter symbols showing on the reels will not increase the pay out.": "Herhangi bir konumda bir 'Saçılı' simge çevresinde etkinleşen Neon glow, 250 jeton kazandırır.\rÇarklar üzerinde görünen çoklu saçılı simgeler ödemeyi artırmayacaktır."
+    },
+    {
+      "Neon glow appearing around a free spin symbol on any position will award 6 free spins.\rMultiple free spin symbols showing on the reels will not increase the free spins awarded.": "'Bedava Dönüş' simgesi çevresinde, herhangi bir konumda etkinleşen Neon glow, 6 bedava dönüş kazandırır.\rÇarklar üzerinde görünen çok sayıda 'Bedava Dönüş' simgesi, ödüllendirilen bedava dönüşlerin sayısını artırmaz."
+    },
+    {
+      "Bonus": "Bonus"
+    },
+    {
+      "Neon glow appearing on a Bonus symbol in any position on the reels will activate the Keno light bonus round.": "Çarklar üzerindeki herhangi bir konumda, bir 'Bonus' simgesinin çevresinde etkinleşen Neon glow, Keno Light bonus turunu etkinleştirir."
+    },
+    {
+      "Bonus Game": "Bonus Oyun"
+    },
+    {
+      "Manually select or randomly select 10 numbers from the available 28.\rThere will be 15 numbers drawn randomly after pressing start.": "Olası 28 arasından el ile veya rastgele biçimde 10 sayı seçin.\rBaşlat'ı tıklattıktan sonra, 28 sayı arasından 15'i rastgele çekilecektir."
+    },
+    {
+      "Bonus Game Paytable": "Bonus Oyun Ödeme Tablosu"
+    },
+    {
+      "The amount won is dependent on the amount of numbers drawn that match the selection chose.\rThe amount that will be paid can be seen on the paytable in the game.": "Kazanılan tutar, seçilen sayılarla eşleşen çekilen sayıların miktarına bağlıdır.\rÖdenecek tutar, Bonus Oyun Ödeme Tablosunda görülebilir."
+    },
+    {
+      "Neon Jungle Game Rules": "Neon Jungle Oyun Kuralları"
+    },
+    {
+      "Please select": "Lütfen önce"
+    },
+    {
+      "numbers first, or hit Random button": "sayıları seçin veya Rastgele düğmesine basın"
+    },
+    {
+      "You can't select more than": "Şundan daha fazla seçemezsiniz:"
+    },
+    {
+      "Unselect some numbers first": "Lütfen önce birkaç sayının seçimini kaldırın"
+    },
+    {
+      "Still": "Hala"
+    },
+    {
+      "to pick or Hit Random button to automatically chose for You.": "seçilmesi gerekiyor ya da sizin yerinize otomatik seçim yapması için Rastgele düğmesine basın."
+    },
+    {
+      "Choice complete, you can now hit Start button.": "Seçim tamamlandı, şimdi Başlat düğmesine basabilirsiniz."
+    },
+    {
+      "Pick 10 Numbers or Hit Random button to automatically chose for You.": "10 Sayı seçin veya Rastgele düğmesine basarak otomatik seçim yapın."
+    },
+       {
+        "No Winning Lines":"Kazanç Yok"
+      }
+  ]
+}

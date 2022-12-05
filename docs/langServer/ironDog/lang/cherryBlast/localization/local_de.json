@@ -1,0 +1,49 @@
+{
+  "Messages": [
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "Eine Übereinstimmung der Symbole auf den Gewinnlinien ergibt einen Gewinn. Die Symbole auf den Rollen müssen nebeneinander von links nach rechts übereinstimmen. Nur der höchste Gewinn auf jeder Linie wird ausgezahlt. Eine Fehlfunktion macht alle Spieleinsätze ungültig. Weitere Details finden sich in den Spielregeln."
+    },
+    {
+      "A bomb symbol can appear on the central position on the reels, which will explode outwards in a random direction revealing 3 scatters, Free Spin symbols, Bonus symbols, or up to 5 wild symbols.": "Eine Bombensymbol kann in der Mitte auf den Rollen erscheinen und in einer beliebigen Richtung nach außen explodieren. Dabei kommen entweder 3 Scatter-Symbole, Free Spin-Symbole, Bonus-Symbole oder bis zu 5 Wild-Symbole zum Vorschein."
+    },
+    {
+      "2 cherry bombs can appear in free spins revealing super wild or super scatter symbols.": "2 Kirschbomben-Symbole können während der Free Spins erscheinen und Super-Wild- oder Super-Scatter-Symbole aufdecken."
+    },
+    {
+      "Substitutes for all non-scatter symbols.": "Ersetzt alle nicht-speziellen Symbole."
+    },
+    {
+      "Pays 80 coins for 3 symbols.": "Schüttet 80 Münzen für 3 Symbole aus."
+    },
+    {
+      "Free Spin<br>Awards 9 free spin and 100 coins": "Free Spin-Symbol<br>Gewährt 9 Free Spins und 100 Münzen."
+    },
+    {
+      "Can appear in the 3 central reels during free spins. Substitute for all regular symbols.": "Kann während Free Spins auf den drei mittleren Rollen erscheinen. Ersetzt alle nicht-speziellen Symbole."
+    },
+    {
+      "1 to 9 symbols can appear in the 3 central reels during free spins. Coins Payout:": "1 bis 9 Symbole können während Free Spins auf den drei mittleren Rollen erscheinen. Münzauszahlung:"
+    },
+    {
+      "The bonus symbol can appear in the 3 central reels. Choose from the 5 paths, the higher the number of the path , the higher the risk, but the higher the potential winnings.": "Das Bonus-Symbol kann auf den drei mittleren Rollen erscheinen. Wählen Sie aus 5 Wegen. Je höher die Ziffer des Weges, desto höher ist das Risiko, aber auch der mögliche Gewinn."
+    },
+    {
+      "Cherry Blast<sup>TM</sup> Game Rules": "Cherry Blast<sup>TM</sup> - Spielregeln"
+    },
+    {
+      "Select one from the 5 paths on the bottom": "Wählen Sie einen bestimmten Weg durch Eingabe einer Ziffer von 1 bis 5"
+    },
+    {
+      "the lower the number the lower is the risk": "Je niedriger die Ziffer, desto geringer das Risiko"
+    },
+    {
+      "Special symbols can hide high prize or death": "Hinter violetten Einheiten können sich hohe Preise verbergen oder sie können die Bonusrunde beenden"
+    },
+    {
+      "Losing spins award a\nfree respin where\nwild reels stick": "Eine Bombensymbol kann explodieren\n aufschlussreich Scatter-Symbole, Free Spin-Symbole,\n Bonus-Symbole oder Wild-Symbole."
+    },
+       {
+        "No Winning Lines":"Kein Gewinn "
+      }
+  ]
+}

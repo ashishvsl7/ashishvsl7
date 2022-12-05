@@ -1,0 +1,220 @@
+{"frames": [
+
+{
+	"filename": "accumulator color and gold pieces_00000.png",
+	"frame": {"x":128,"y":327,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00001.png",
+	"frame": {"x":699,"y":214,"w":76,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":107,"w":76,"h":66},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00002.png",
+	"frame": {"x":808,"y":0,"w":86,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":103,"w":86,"h":73},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00003.png",
+	"frame": {"x":609,"y":216,"w":90,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":101,"w":90,"h":79},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00004.png",
+	"frame": {"x":128,"y":245,"w":89,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":105,"w":89,"h":82},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00005.png",
+	"frame": {"x":722,"y":0,"w":86,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":110,"w":86,"h":79},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00006.png",
+	"frame": {"x":628,"y":0,"w":94,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":107,"w":94,"h":90},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00007.png",
+	"frame": {"x":537,"y":115,"w":125,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":103,"w":125,"h":101},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00008.png",
+	"frame": {"x":0,"y":245,"w":128,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":122,"w":128,"h":87},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00009.png",
+	"frame": {"x":217,"y":237,"w":127,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":122,"w":127,"h":90},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00010.png",
+	"frame": {"x":344,"y":230,"w":131,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":131,"h":99},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00011.png",
+	"frame": {"x":405,"y":119,"w":132,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":120,"w":132,"h":106},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00012.png",
+	"frame": {"x":475,"y":225,"w":134,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":134,"h":104},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00013.png",
+	"frame": {"x":270,"y":121,"w":135,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":135,"h":109},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00014.png",
+	"frame": {"x":134,"y":122,"w":136,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":136,"h":115},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00015.png",
+	"frame": {"x":0,"y":0,"w":136,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":136,"h":122},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00016.png",
+	"frame": {"x":0,"y":122,"w":134,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":134,"h":123},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00017.png",
+	"frame": {"x":662,"y":90,"w":123,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":123,"h":124},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00018.png",
+	"frame": {"x":785,"y":79,"w":123,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":123,"h":124},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00019.png",
+	"frame": {"x":785,"y":203,"w":123,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":123,"h":123},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00020.png",
+	"frame": {"x":136,"y":0,"w":123,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":123,"h":122},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00021.png",
+	"frame": {"x":259,"y":0,"w":123,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":123,"h":121},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00022.png",
+	"frame": {"x":382,"y":0,"w":123,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":123,"h":119},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00023.png",
+	"frame": {"x":505,"y":0,"w":123,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":123,"h":115},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00024.png",
+	"frame": {"x":505,"y":0,"w":123,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":123,"h":115},
+	"sourceSize": {"w":500,"h":500}
+},
+{
+	"filename": "accumulator color and gold pieces_00025.png",
+	"frame": {"x":505,"y":0,"w":123,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":123,"w":123,"h":115},
+	"sourceSize": {"w":500,"h":500}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "side-feature-colour-02.png",
+	"format": "RGBA8888",
+	"size": {"w":908,"h":332},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:890cffc14bc4594e89b4ebaa8ce1a42f:5d3400db1dd3923c25896d979808268d:5aea346a01d3c4f7f4fee944ea276cb3$"
+}
+}

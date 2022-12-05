@@ -1,0 +1,85 @@
+{
+  "Messages": [
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.":"Sie gewinnen, wenn gleiche Symbole auf Gewinnlinien erscheinen. Alle Symbole müssen auf benachbarten Walzen von links nach rechts übereinstimmen. Nur der höchste Gewinn auf jeder Linie wird ausgezahlt. Bei einer Fehlfunktion werden alle Auszahlungen und alle Spiele für ungültig erklärt. Weitere Informationen finden Sie in den Spielregeln."
+    },
+    {  
+      "The neon glimmer turning into neon glow on a feature symbol\ror on a winning combination will activate that feature or multiply the winline x4.": "Wenn der Neon-Schimmer auf einem Feature-Symbol \roder einer Gewinnlinie zu einem Neon-Schein wird, wird dieses \rFeature ausgelöst oder die Gewinnlinie mit 4 multipliziert."
+    },
+    {
+      "Special Features - General Image": "Besondere Features - Allgemeines Bild"
+    },
+    {
+      "The neon glimmer turning into neon glow on a feature symbol or on a winning combination will activate that feature or multiply the winline x4.": "Wenn sich der Neon-Schimmer auf einem Feature-Symbol oder einer Gewinnkombination in einen Neon-Schein verwandelt, wird dieses Feature ausgelöst oder die Gewinnlinie mit 4 multipliziert."
+    },
+    {
+      "Wild Symbol": "Wild-Symbol"
+    },
+    {
+      "Wild symbols can complete winning combinations.": "Wild-Symbole können alle Symbole ersetzen (außer Scatter-, Free-Spins- und Bonus-Symbole)."
+    },
+    {
+      "X4 Multiplier": "4-fach Multiplikator"
+    },
+    {
+      "Neon glow appearing on a winning combination awards a x4 multiplier.\rThis will apply to all active win lines using this symbol.": "Ein Neon-Schein auf einer Gewinnkombination verleiht einen 4-fach-Multiplikator.\rDies gilt für alle aktiven Gewinnlinien mit diesem Symbol."
+    },
+    {
+      "Scatter": "Scatter"
+    },
+    {
+      "Neon glow appearing round a scatter symbol on any position awards 250 coins.\rMultiple scatter symbols showing on the reels will not increase the pay out.": "Ein Neon-Schein um ein „Scatter“-Symbol in einer beliebigen Position verleiht 250 Münzen.\rMehrere Scatter-Symbole auf den Rollen erhöhen nicht die Auszahlung."
+    },
+    {
+      "Neon glow appearing around a free spin symbol on any position will award 6 free spins.\rMultiple free spin symbols showing on the reels will not increase the free spins awarded.": "Ein „Neon-Schein“ um ein „Free Spin“-Symbol in einer beliebigen Position auf den Rollen verleiht 6 Free Spins.\rMehrere \"Free Spin\"-Symbole auf den Rollen erhöhen nicht die Anzahl der zugesprochenen Free Spins."
+    },
+    {
+      "Bonus": "Bonus"
+    },
+    {
+      "Neon glow appearing on a Bonus symbol in any position on the reels will activate the Keno light bonus round.": "Ein „Neon-Schein“ um ein „Bonus“-Symbol in einer beliebigen Position auf den Rollen aktiviert das Keno Light-Bonus-Spiel."
+    },
+    {
+      "Bonus Game": "Bonus-Spiel"
+    },
+    {
+      "Manually select or randomly select 10 numbers from the available 28.\rThere will be 15 numbers drawn randomly after pressing start.": "Wählen Sie manuell oder zufällig aus 28 verfügbaren Zahlen 10 aus.\rNach dem Drücken von „Start“ werden aus den 28 Zahlen 15 zufällig gezogen."
+    },
+    {
+      "Bonus Game Paytable": "Gewinntabelle des Bonus-Spiels"
+    },
+    {
+      "The amount won is dependent on the amount of numbers drawn that match the selection chose.\rThe amount that will be paid can be seen on the paytable in the game.": "Der gewonnene Betrag hängt von der Anzahl der Zahlen ab, die mit den ausgewählten Zahlen übereinstimmen.\rDer Betrag, der ausbezahlt wird, ist auf der Gewinntabelle des Bonus-Spiels angegeben."
+    },
+    {
+      "Neon Jungle Game Rules": "Neon Jungle - Spielregeln"
+    },
+    {
+      "Please select": "Wählen Sie bitte"
+    },
+    {
+      "numbers first, or hit Random button": "zuerst die Zahlen aus, oder klicken Sie auf die Schaltfläche „Random“ für eine zufällige Auswahl."
+    },
+    {
+      "You can't select more than": "Sie können nicht mehr wählen als"
+    },
+    {
+      "Unselect some numbers first": "Entfernen Sie zuerst einige Zahlen"
+    },
+    {
+      "Still": "Treffen"
+    },
+    {
+      "to pick or Hit Random button to automatically chose for You.": "Sie Ihre Wahl oder klicken Sie auf die Schaltfläche „Random“ für eine zufällige Auswahl."
+    },
+    {
+      "Choice complete, you can now hit Start button.": "Auswahl komplett, Sie können jetzt die Starttaste drücken."
+    },
+    {
+      "Pick 10 Numbers or Hit Random button to automatically chose for You.": "Wählen Sie 10 Zahlen oder klicken Sie auf die Schaltfläche „Random“ für eine zufällige Auswahl."
+    },
+       {
+        "No Winning Lines":"Kein Gewinn "
+      }
+  ]
+}

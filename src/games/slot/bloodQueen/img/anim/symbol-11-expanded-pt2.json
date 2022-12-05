@@ -1,0 +1,219 @@
+{"frames": [
+
+{
+	"filename": "symbol-11-expanded_00025.png",
+	"frame": {"x":1,"y":1,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00026.png",
+	"frame": {"x":228,"y":1,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00027.png",
+	"frame": {"x":455,"y":1,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00028.png",
+	"frame": {"x":682,"y":1,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00029.png",
+	"frame": {"x":909,"y":1,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00030.png",
+	"frame": {"x":1136,"y":1,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00031.png",
+	"frame": {"x":1363,"y":1,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00032.png",
+	"frame": {"x":1590,"y":1,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00033.png",
+	"frame": {"x":1,"y":531,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00034.png",
+	"frame": {"x":228,"y":531,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00035.png",
+	"frame": {"x":455,"y":531,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00036.png",
+	"frame": {"x":682,"y":531,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00037.png",
+	"frame": {"x":909,"y":531,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00038.png",
+	"frame": {"x":1136,"y":531,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00039.png",
+	"frame": {"x":1363,"y":531,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00040.png",
+	"frame": {"x":1590,"y":531,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00041.png",
+	"frame": {"x":1,"y":1061,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00042.png",
+	"frame": {"x":228,"y":1061,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00043.png",
+	"frame": {"x":455,"y":1061,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00044.png",
+	"frame": {"x":682,"y":1061,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00045.png",
+	"frame": {"x":909,"y":1061,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00046.png",
+	"frame": {"x":1136,"y":1061,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "symbol-11-expanded_00047.png",
+	"frame": {"x":1363,"y":1061,"w":225,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":528},
+	"sourceSize": {"w":225,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbol-11-expanded-pt2.png",
+	"format": "RGBA8888",
+	"size": {"w":1816,"h":1590},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:846d4186191957da277265c5f175a192:f066b8042074f688c50f705e10a54e39:afdf99e706bd82e012e75cd6e2f2af97$"
+}
+}

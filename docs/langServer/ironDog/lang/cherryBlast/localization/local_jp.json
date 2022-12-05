@@ -1,0 +1,49 @@
+{
+  "Messages": [
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "当たりのラインで絵柄が揃うと当たりです。左から右に連続で全ての絵柄が揃っている必要があります。各ライン当たり最高の組み合わせの配当のみが支払われます。不具合が生じた場合、すべての支払いとプレイが無効になります。詳細についてはゲームルールをご覧ください。"
+    },
+    {
+      "A bomb symbol can appear on the central position on the reels, which will explode outwards in a random direction revealing 3 scatters, Free Spin symbols, Bonus symbols, or up to 5 wild symbols.": "爆弾の絵柄はリールの中央に現れ、出た場合は外向けのランダムな方向に爆発して3個のスキャッター絵柄、フリースピン絵柄、ボーナス絵柄、または最高5個のワイルド絵柄のいずれかが出てきます。"
+    },
+    {
+      "2 cherry bombs can appear in free spins revealing super wild or super scatter symbols.": "フリースピン中にはチェリー爆弾の絵柄が2個出る可能性があり、そこからスーパーワイルドまたはスーパースキャッター絵柄が現れます。"
+    },
+    {
+      "Substitutes for all non-scatter symbols.": "特殊な絵柄以外すべてに代用できます。"
+    },
+    {
+      "Pays 80 coins for 3 symbols.": "コイン80枚で3個の絵柄が得られます。"
+    },
+    {
+      "Free Spin<br>Awards 9 free spin and 100 coins": "フリースピン絵柄<br>9回のフリースピンが付与されますおよび100コインが。"
+    },
+    {
+      "Can appear in the 3 central reels during free spins. Substitute for all regular symbols.": "フリースピン中、3列のリール中央に現れます。特殊な絵柄以外すべてに代用できます。"
+    },
+    {
+      "1 to 9 symbols can appear in the 3 central reels during free spins. Coins Payout:": "フリースピン中、3列のリール中央に1～9個の絵柄が現れます。ペイアウトされるコイン:"
+    },
+    {
+      "The bonus symbol can appear in the 3 central reels. Choose from the 5 paths, the higher the number of the path , the higher the risk, but the higher the potential winnings.": "ダッシュボーナス<br>ボーナス絵柄は3列のリール中央に現れます。5つのパスから選びます。パスの数が大きいほどリスクが大きくなりますが、獲得できる賞金も高くなります。"
+    },
+    {
+      "Cherry Blast Game Rules": "チェリーブラストゲームルール"
+    },
+    {
+      "Select one from the 5 paths on the bottom": "1から5までの数を選んでパスを選択します。"
+    },
+    {
+      "the lower the number the lower is the risk": "数が小さいほどリスクも小さくなります。"
+    },
+    {
+      "Special symbols can hide high prize or death": "紫のユニットを選ぶと、高額の賞金が潜んでいるか、またはボーナスラウンドが終了します。"
+    },
+    {
+      "Losing spins award a\nfree respin where\nwild reels stick": "爆弾シンボルが明らかにする\nフリースピンシンボル、ワイルドシンボル、\nボーナスシンボルまたはスキャッタシンボル。"
+    },
+       {
+        "No Winning Lines":"勝利なし"
+      }
+  ]
+}

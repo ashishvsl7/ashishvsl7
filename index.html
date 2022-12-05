@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-touch-fullscreen" content="yes" />
+<meta name="msapplication-tap-highlight" content="no" />
+<meta name="touch-event-mode" content="native" />
+<meta name="mobile-web-app-capable" content="yes">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!--
+<link rel="apple-touch-startup-image" href="img/splash2.png">
+-->
+<link rel="shortcut icon" href="img/favicon.ico">
+<!-- iPhone ICON -->
+<link href="img/apple-touch-icon-57x57.png" sizes="57x57" rel="apple-touch-icon">
+<!-- iPad ICON-->
+<link href="img/apple-touch-icon-72x72.png" sizes="72x72" rel="apple-touch-icon">
+<!-- iPhone (Retina) ICON-->
+<link href="img/apple-touch-icon-114x114.png" sizes="114x114" rel="apple-touch-icon">
+<!-- iPad (Retina) ICON-->
+<link href="img/apple-touch-icon-144x144.png" sizes="144x144" rel="apple-touch-icon">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+
+<body>
+    <header class="aams__container">
+        <ul class="aams__ids">
+            <li> <span id="aams_part_id_name">ID PARTECIPAZIONE: </span> <span id="aams_part_id">8888888888888888</span></li>
+            <li><span id="aams_sess_id_name">ID SESSIONE: </span><span id="aams_sess_id">8888888888888888</span></li>
+        </ul>
+        <ul class="aams__logos">
+            <li>
+                <a class="resp__link" href="" title="gioca moderato"><img src="gui/generic/img/aams/gioca_moderato.png" alt="gioca moderato"></a>
+            </li>
+            <li><img src="gui/generic/img/aams/18plus.png" alt="18 plus"></li>
+            <li>
+                <a class="aams__link" href="https://www.agenziadoganemonopoli.gov.it/portale/monopoli/giochi" title="aams" target="_blank"><img src="gui/generic/img/aams/aams_stars.png" alt="aams" target="_blank"></a>
+            </li>
+            <li>
+                <a class="aams__link" href="https://www.agenziadoganemonopoli.gov.it/portale/monopoli/giochi" title="aams" target="_blank"><img src="gui/generic/img/aams/aams.png" alt="aams"></a>
+            </li>
+        </ul>
+    </header>
+    <div id="debug">
+        <input class="debugTxt" type="text" name="d00" value="r">
+        <input class="debugTxt" type="text" name="d10" value="r">
+        <input class="debugTxt" type="text" name="d20" value="r">
+        <input class="debugTxt" type="text" name="d30" value="r">
+        <input class="debugTxt" type="text" name="d40" value="r">
+        <input class="debugTxt" type="text" name="sideFeature" value="-1">
+        <br>
+        <input class="debugTxt" type="text" name="d01" value="r">
+        <input class="debugTxt" type="text" name="d11" value="r">
+        <input class="debugTxt" type="text" name="d21" value="r">
+        <input class="debugTxt" type="text" name="d31" value="r">
+        <input class="debugTxt" type="text" name="d41" value="r">
+        <br>
+        <input class="debugTxt" type="text" name="d02" value="r">
+        <input class="debugTxt" type="text" name="d12" value="r">
+        <input class="debugTxt" type="text" name="d22" value="r">
+        <input class="debugTxt" type="text" name="d32" value="r">
+        <input class="debugTxt" type="text" name="d42" value="r">
+        <br>
+        <input class="debugTxt" type="text" name="d03" value="r">
+        <input class="debugTxt" type="text" name="d13" value="r">
+        <input class="debugTxt" type="text" name="d23" value="r">
+        <input class="debugTxt" type="text" name="d33" value="r">
+        <input class="debugTxt" type="text" name="d43" value="r">
+        <br>
+    </div>
+    <div class="scrollable__content" id="swipe__up__to__hide">
+        <img src="gui/generic/img/mobile/png/swipe.png">
+    </div>
+    <div id="mainViewport" width="1280" height="720">
+        <div id="gameFramework" class="game__screen hidden">
+            <div id="menuMobile" class="hidden">
+                <div class="menu__content">
+                    <header class="menu__header">
+                        <h2>Menu</h2>
+                    </header>
+                    <section class="mobile__menu__section">
+                        <div class="mobile__sub__section" id="soundPage">
+                            <h2>Sounds</h2>
+                            <ul class="switch__list">
+                            </ul>
+                        </div>
+                        <div class="mobile__sub__section hidden" id="spinPage">
+                            <h2>Spin Settings </h2>
+                            <ul class="switch__list">
+                            </ul>
+                        </div>
+                        <div class="mobile__sub__section hidden" id="autoPage">
+                            <h2>Stop Autoplay</h2>
+                            <ul class="switch__list scrollable__switch__list scrollable__content">
+                            </ul>
+                        </div>
+                        <div class="mobile__sub__section hidden" id="historyPage">
+                            <h2>Game History</h2>
+                            <img class="loadingSpinner" src="gui/loader.svg" alt="Loading Icon" />
+                            <ul class="game__history__list scrollable__content">
+                                <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                                <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                                <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                                <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                                <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                                <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                            </ul>
+                            <h3 id="gameHistoryTip" class="game__history__tip">List of Bets Click One To Replay Spin</h3>
+                            <div class="game__history__replay hidden">
+                                <div class="__details">
+                                    <p></p>
+                                    <button>X</button>
+                                </div>
+                                <div class="__content scrollable__content">
+                                    <table>
+                                        <tr>
+                                            <td>Status</td>
+                                            <td>Channel</td>
+                                            <td>Placed</td>
+                                            <td>Settled</td>
+                                            <td>Bet</td>
+                                            <td>Lines</td>
+                                            <td>Bet/Lines</td>
+                                            <td>Total Win</td>
+                                        </tr>
+                                        <tr class="__data"></tr>
+                                    </table>
+                                    <div class="__reel"></div>
+                                    <nav class="__lines__nav">
+                                        <a target=".__wins" class="active">Winning Lines - Total: <span></span></a>
+                                        <a target=".__losses">Losing Lines</a>
+                                    </nav>
+                                    <div class="__lines">
+                                        <ul class="__wins show"></ul>
+                                        <ul class="__losses"></ul>
+                                    </div>
+                                    <div class="__scatters"></div>
+                                    <div class="__bonus"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mobile__sub__section hidden" id="betPage">
+                            <h2>Bet Settings</h2>
+                            <ul class="switch__list">
+                            </ul>
+                        </div>
+                    </section>
+                </div>
+                <footer>
+                    <ul>
+                        <li class="active"><img src="gui/generic/img/mobile/svg/mb-btn-sound.svg"></li>
+                        <li><img src="gui/generic/img/mobile/svg/mb-btn-spin.svg"></li>
+                        <li><img src="gui/generic/img/mobile/svg/mb-btn-auto-spin.svg"></li>
+                        <li id="gameHistoryMob"><img src="gui/generic/img/mobile/svg/mb-btn-history.svg"></li>
+                        <li><img src="gui/generic/img/mobile/svg/mb-btn-bet.svg"></li>
+                        <li id="goBackToLobby"><img src="gui/generic/img/mobile/svg/mb-btn-home.svg"></li>
+                    </ul>
+                </footer>
+                <footer class="menu__footer__background"></footer>
+            </div>
+            <div id="betConsoleMobile">
+                <div class="circular__selector" id="bet">
+                    <div class="button__back button__center"></div>
+                    <div id="betButtonSelect" class="button__center">
+                        <div class="button__background"></div>
+                    <span class="bet__amount"></span>
+                    </div>
+                    <div class="select__container">
+                        <div class="circular__control hidden" id="betControl">
+                            <div class="rotational__div">
+                                <ul class="selection__values left">
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="circular__selector" id="spin">
+                    <div class="button__back button__center"></div>
+                    <div id="autoButtonSelect" class="button__center">
+                        <div class="button__background"></div>
+                        <span></span>
+                        <div id="holdText"></div>
+                    </div>
+                    <div id="spinButtonSelect" class="button__center">
+                        <div class="button__background"></div>
+                    </div>
+                    <div id="stopButtonSelect" class="button__center">
+                        <div class="button__background"></div>
+                    </div>
+                    <div class="select__container">
+                        <div class="circular__control hidden" id="spinCtrl">
+                            <div class="rotational__div">
+                                <ul class="selection__values right">
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                    <li>
+                                        <div class="selection__value"></div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="button__touch__wrapper">
+                </div>
+                <div id="autoPlayMobileInput">
+                    <h4>Stop Autoplay</h4>
+                    <li>
+                        <label class="switch">
+                            <input id="autoplayStopOnCashDownMobile" type="checkbox" checked="checked">
+                            <div class="slider round"></div>
+                        </label>
+                        <label class="switch__name">If cash decrease by </label>
+                        <div class="auto__input" id="autoPlayCashDownLimitMobile"></div>
+                        <div class="autoplayStopOnCashDownTooltip">Switch off or set to a value</div>
+                        <div class="autoplayStopOnCashDownAmountTooltip">Must be greater than current stake</div>
+                    </li>
+                </div>
+            </div>
+            <div id="betconsole">
+                <div class="console console__left">
+                    <div class="button__wrapper">
+                        <button id="helpButton">
+                            <div class="button__background">
+                        </button>
+                        </div>
+                        <div class="button__wrapper">
+                            <button id="betOptions">
+                        <div class="button__background">
+                            <span class="bet__amount"></span>
+                        </div>
+                    </button>
+                            </div>
+                            <div id="betValueContainer" class="hidden">
+                                <div id="cashOptions" class="value__box">
+                                    <ul class="cash__options__list slider__small">
+                                        <li>
+                                            <label>Coins</label>
+                                            <label class="switch">
+                                                <input id="useCoins" type="checkbox">
+                                                <div class="slider round"></div>
+                                            </label>
+                                        </li>
+                                        <li>
+                                            <label>Cash</label>
+                                            <label class="switch">
+                                                <input id="useCash" type="checkbox">
+                                                <div class="slider round"></div>
+                                            </label>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div id="betMaxBox" class="value__box">
+                                    <span class="box__value">Bet Max</span>
+                                </div>
+                                <div id="betValueBox" class="value__box">
+                                    <span class="box__left side__box"><img src=""></span>
+                                    <span class="box__value">1.00</span>
+                                    <span class="box__right side__box"><img src=""></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="messageBig" class="hidden">Won $20.00</div>
+                        <div class="console console__right">
+                            <div class="button__wrapper">
+                                <button id="autoPlay">
+                                    <div class="button__background"></div><span id="auto_amount">100</span></button>
+                            </div>
+                            <div id="autoPlaySettings" class="hidden">
+                                <section id="autoPlayOptions" class="scrollable__content">
+                                    <h5>Stop Autoplay</h5>
+                                    <ul class="auto__list slider__small">
+                                        <li>
+                                            <label class="switch">
+                                                <input id="autoplayStopOnAnyWin" type="checkbox">
+                                                <div class="slider round"></div>
+                                            </label>
+                                            <label class="switch__name">On any win </label>
+                                        </li>
+                                        <li>
+                                            <label class="switch">
+                                                <input id="autoplayStopOnWin" type="checkbox">
+                                                <div class="slider round"></div>
+                                            </label>
+                                            <label class="switch__name">On single win of </label>
+                                            <input class="auto__input" type="text" min="0" name="autoPlayWinLimit">
+                                        </li>
+                                        <li>
+                                            <label class="switch">
+                                                <input id="autoplayStopOnCashUp" type="checkbox">
+                                                <div class="slider round"></div>
+                                            </label>
+                                            <label class="switch__name">If cash increase by </label>
+                                            <input class="auto__input" type="text" min="0" name="autoPlayCashLimit">
+                                        </li>
+                                        <li>
+                                            <label class="switch">
+                                                <input id="autoplayStopOnCashDown" type="checkbox" checked="checked">
+                                                <div class="slider round"></div>
+                                            </label>
+                                            <label class="switch__name">If cash decrease by </label>
+                                            <input class="auto__input" type="text" min="0" name="autoPlayCashDownLimit">
+                                            <div class="autoplayStopOnCashDownTooltip">Switch off or set to a value</div>
+                                            <div class="autoplayStopOnCashDownAmountTooltip">Amount must be greater than current stake</div>
+                                        </li>
+                                        <li>
+                                            <label class="switch">
+                                                <input id="autoplayFeatureStop" type="checkbox">
+                                                <div class="slider round"></div>
+                                            </label>
+                                            <label class="switch__name">When entering any feature</label>
+                                        </li>
+                                    </ul>
+                                </section>
+                                <div id="autoPlayNumber" class="value__box">
+                                    <span class="box__left side__box"><img src=""></span>
+                                    <span class="box__value">10</span>
+                                    <span class="box__right side__box"><img src=""></span>
+                                </div>
+                            </div>
+                            <div class="button__wrapper">
+                                <img id="spinBack" src="gui/generic/img/desktop/png/cp-btn-spin-bg.png">
+                                <button id="spinButton">
+                                    <div class="button__background">
+                                </button>
+                                <button id="stopButton">
+                                    <div class="button__background">
+                                </button>
+                                </div>
+                                </div>
+                                <div class="overlay__image"></div>
+                            </div>
+                            <div id="paytableContainer" class="menu__content hidden">
+                                <div class="paytable__button"></div>
+                                <section id="paytable">
+                                    <ul id="pages"></ul>
+                                </section>
+                            </div>
+                            <div id="menuContainer" class="hidden">
+                                <section class="menu__content">
+                                    <header class="menu__header">
+                                        <h2>Menu</h2>
+                                    </header>
+                                    <section>
+                                        <nav id="menu__desktop__nav">
+                                            <a class='active'>Settings <img src="gui/generic/img/desktop/svg/menu-settings-btn.svg"> </a>
+                                            <a id="gameHistory">Game History <img src="gui/generic/img/desktop/svg/menu-history-btn.svg"> </a>
+                                        </nav>
+                                        <section class="menu__section">
+                                            <ul class="switch__list">
+                                            </ul>
+                                        </section>
+                                        <section class="menu__section hidden">
+                                            <img class="loadingSpinner" src="gui/loader.svg" alt="Loading Icon" />
+                                            <ul class="game__history__list">
+                                                <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                                                <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                                                <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                                                <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                                                <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                                                <li>23-04-2016 -- slots bet -- 124500 -- £21.00 -- £30.00</li>
+                                            </ul>
+                                            <h2 id="gameHistoryTip" class="game__history__tip">List of Bets Click One To See Spin</h2>
+                                            <div class="game__history__replay hidden">
+                                                <div class="__details">
+                                                    <p></p>
+                                                    <button>X</button>
+                                                </div>
+                                                <div class="__content">
+                                                    <table>
+                                                        <tr>
+                                                            <td>Status</td>
+                                                            <td>Channel</td>
+                                                            <td>Placed</td>
+                                                            <td>Settled</td>
+                                                            <td>Bet</td>
+                                                            <td>Lines</td>
+                                                            <td>Bet/Lines</td>
+                                                            <td>Total Win</td>
+                                                        </tr>
+                                                        <tr class="__data"></tr>
+                                                    </table>
+                                                    <div class="__reel"></div>
+                                                    <nav class="__lines__nav">
+                                                        <a target=".__wins" class="active">Winning Lines - Total: <span></span></a>
+                                                        <a target=".__losses">Losing Lines</a>
+                                                    </nav>
+                                                    <div class="__lines">
+                                                        <ul class="__wins show"></ul>
+                                                        <ul class="__losses"></ul>
+                                                    </div>
+                                                    <div class="__scatters"></div>
+                                                    <div class="__bonus"></div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </section>
+                                </section>
+                            </div>
+                            <header class="game__header">
+
+                                <div class="menu__button__content">
+
+                                    <div class="menu__icon" id="menuButton"><img src="gui/generic/img/desktop/svg/menu-btn.svg"></div>
+                                    <div class="sub__menu hidden">
+                                        <div class="sub__menu__icon"><img src="gui/generic/img/desktop/svg/menu-settings-btn.svg"></div>
+                                        <div class="sub__menu__icon"><img src="gui/generic/img/desktop/svg/menu-history-btn.svg"></div>
+                                        <div class="sub__menu__icon"><img src="gui/generic/img/desktop/svg/menu-home-btn.svg"></div>
+                                    </div>
+
+                                </div>
+
+                                <div class="menu__icon" id="soundButton"><img src="gui/generic/img/desktop/svg/menu-sound-btn.svg"></div>
+                                <div class="menu__icon" id="paytableMobile"><img src="gui/generic/img/mobile/svg/mb-btn-paytable.svg"></div>
+                            </header>
+
+                        </div>
+                    </div>
+                    <div id="mainDiv" width="1280" height="720">
+                        <div id="gameContainer">
+                            <!--canvas sits here-->
+                        </div>
+                    </div>
+                    <script type="text/javascript" src="../js/main.min.js"></script>
+</body>
+
+</html>

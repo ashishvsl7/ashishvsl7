@@ -1,0 +1,85 @@
+{
+  "Messages": [
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "Voitot muodostuvat identtisten kuvioiden yhdistelmistä voittolinjoilla.Voittoyhdistelmät muodostuvat vierekkäisillä kiekoilla vasemmalta oikealle.Vain voittolinjan suurin voitto maksetaan.Toimintahäiriöt mitätöivät kaikki voitot ja pelit.Lisätietoja saat pelin säännöistä."
+    },
+    {
+      "The neon glimmer turning into neon glow on a feature symbol\ror on a winning combination will activate that feature or multiply the winline x4.": "Kun kuvion ympärille ilmestyy neonhehku, \rse käynnistää kuvion osoittaman toiminnon tai nelinkertaistaa voittoyhdistelmän voiton."
+    },
+    {
+      "Special Features - General Image": "Erityistoiminnot - Yleiskuva"
+    },
+    {
+      "The neon glimmer turning into neon glow on a feature symbol or on a winning combination will activate that feature or multiply the winline x4.": "Kun kuvion ympärille ilmestyy neonhehku, se käynnistää kuvion osoittaman toiminnon tai myöntää x4-kertoimen.."
+    },
+    {
+      "Wild Symbol": "Wild-kuvio"
+    },
+    {
+      "Wild symbols can complete winning combinations.": "Wild-kuviot korvaavat kaikki muut kuviot, paitsi \"Scatter\"-, \"Free Spins\"- ja \"Bonus\"-kuviot."
+    },
+    {
+      "X4 Multiplier": "X4-kerroin"
+    },
+    {
+      "Neon glow appearing on a winning combination awards a x4 multiplier.\rThis will apply to all active win lines using this symbol.": "Kun neonhehku aktivoituu voittoyhdistelmän kohdalla, se myöntää x4-kertoimen.Tätä kerrointa sovelletaan kaikkiin kyseisen kuvion sisältäviin voittolinjoihin."
+    },
+    {
+      "Scatter": "Scatter"
+    },
+    {
+      "Neon glow appearing round a scatter symbol on any position awards 250 coins.\rMultiple scatter symbols showing on the reels will not increase the pay out.": "Scatter-kuvion kohdalla aktivoituva neonhehku voittaa 250 kolikkoa.Useampi scatter-kuvio kiekoilla ei kasvata voittoa."
+    },
+    {
+      "Neon glow appearing around a free spin symbol on any position will award 6 free spins.\rMultiple free spin symbols showing on the reels will not increase the free spins awarded.": "\"Free Spin\"-kuvion kohdalla aktivoituva neonhehku käynnistää kuusi ilmaiskierrosta.Useampi \"Free Spin\" -kuvio kiekoilla ei kasvata myönnettävien ilmaiskierrosten määrää."
+    },
+    {
+      "Bonus": "Bonus"
+    },
+    {
+      "Neon glow appearing on a Bonus symbol in any position on the reels will activate the Keno light bonus round.": "Bonus-kuvion kohdalla aktivoituva neonhehku aktivoi Keno Light -bonuskierroksen."
+    },
+    {
+      "Bonus Game": "Bonuspeli"
+    },
+    {
+      "Manually select or randomly select 10 numbers from the available 28.\rThere will be 15 numbers drawn randomly after pressing start.": "Valitse manuaalisesti tai satunnaisesti 10 numeroa näytetystä 28:sta.Kun peli käynnistetään, 28:n numeron joukosta valitaan satunnaisesti 15 numeroa."
+    },
+    {
+      "Bonus Game Paytable": "Bonuspelin voittotaulu"
+    },
+    {
+      "The amount won is dependent on the amount of numbers drawn that match the selection chose.\rThe amount that will be paid can be seen on the paytable in the game.": "Voitettu summa riippuu niiden arvottujen numeroiden määrästä, jotka täsmäävät aiemmin valittujen numeroiden kanssa.Voittosummat esitetään bonuspelin voittotaululla."
+    },
+    {
+      "Neon Jungle Game Rules": "Neon Jungle -pelisäännöt"
+    },
+    {
+      "Please select": "Valitse"
+    },
+    {
+      "numbers first, or hit Random button": "ensin numeroita tai paina \"Satunnaiset\"-painiketta"
+    },
+    {
+      "You can't select more than": "Et voi valita enempää kuin"
+    },
+    {
+      "Unselect some numbers first": "Poista ensin joidenkin numeroiden valinta"
+    },
+    {
+      "Still": "Jäljellä"
+    },
+    {
+      "to pick or Hit Random button to automatically chose for You.": "valitaksesi tai napsauta Satunnaiset-painiketta, jolloin numerot valitaan automaattisesti."
+    },
+    {
+      "Choice complete, you can now hit Start button.": "Valinta valmis, voit nyt käynnistää kierroksen."
+    },
+    {
+      "Pick 10 Numbers or Hit Random button to automatically chose for You.": "Valitse 10 numeroa tai paina Satunnaiset-painiketta, jolloin numerot valitaan automaattisesti."
+    },
+      {
+        "No Winning Lines":"Ei voittoja"
+      }
+  ]
+}

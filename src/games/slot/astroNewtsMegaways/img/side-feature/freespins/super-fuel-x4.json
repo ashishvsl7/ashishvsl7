@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "super-fuel-x4_00000.png",
+	"frame": {"x":0,"y":0,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00001.png",
+	"frame": {"x":110,"y":0,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00002.png",
+	"frame": {"x":0,"y":104,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00003.png",
+	"frame": {"x":110,"y":104,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00004.png",
+	"frame": {"x":0,"y":208,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00005.png",
+	"frame": {"x":110,"y":208,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00006.png",
+	"frame": {"x":0,"y":312,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00007.png",
+	"frame": {"x":110,"y":312,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00008.png",
+	"frame": {"x":0,"y":416,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00009.png",
+	"frame": {"x":110,"y":416,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00010.png",
+	"frame": {"x":0,"y":520,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00011.png",
+	"frame": {"x":110,"y":520,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00012.png",
+	"frame": {"x":0,"y":624,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00013.png",
+	"frame": {"x":110,"y":624,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00014.png",
+	"frame": {"x":0,"y":728,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00015.png",
+	"frame": {"x":110,"y":728,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00016.png",
+	"frame": {"x":0,"y":832,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00017.png",
+	"frame": {"x":110,"y":832,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00018.png",
+	"frame": {"x":0,"y":936,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00019.png",
+	"frame": {"x":110,"y":936,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00020.png",
+	"frame": {"x":0,"y":1040,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00021.png",
+	"frame": {"x":110,"y":1040,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00022.png",
+	"frame": {"x":0,"y":1144,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "super-fuel-x4_00023.png",
+	"frame": {"x":110,"y":1144,"w":110,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":104},
+	"sourceSize": {"w":110,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "super-fuel-x4.png",
+	"format": "RGBA8888",
+	"size": {"w":220,"h":1248},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6f5524e8228f7a6cf3b859957e6f0ea7:43fa5ebbb0ed6a1fa0bdfc5680077893:21cec2d0448378f2f79f6a8ce0888b9b$"
+}
+}

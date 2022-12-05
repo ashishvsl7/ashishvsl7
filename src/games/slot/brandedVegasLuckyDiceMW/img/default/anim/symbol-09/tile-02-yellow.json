@@ -1,0 +1,204 @@
+{"frames": [
+
+{
+	"filename": "Yellow_Tile_02_00000.png",
+	"frame": {"x":0,"y":0,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00001.png",
+	"frame": {"x":128,"y":0,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00002.png",
+	"frame": {"x":256,"y":0,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00003.png",
+	"frame": {"x":384,"y":0,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00004.png",
+	"frame": {"x":0,"y":94,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00005.png",
+	"frame": {"x":128,"y":94,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00006.png",
+	"frame": {"x":256,"y":94,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00007.png",
+	"frame": {"x":384,"y":94,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00008.png",
+	"frame": {"x":0,"y":188,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00009.png",
+	"frame": {"x":128,"y":188,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00010.png",
+	"frame": {"x":256,"y":188,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00011.png",
+	"frame": {"x":384,"y":188,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00012.png",
+	"frame": {"x":0,"y":282,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00013.png",
+	"frame": {"x":128,"y":282,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00014.png",
+	"frame": {"x":256,"y":282,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00015.png",
+	"frame": {"x":384,"y":282,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00016.png",
+	"frame": {"x":0,"y":376,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00017.png",
+	"frame": {"x":128,"y":376,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00018.png",
+	"frame": {"x":256,"y":376,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00019.png",
+	"frame": {"x":384,"y":376,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00020.png",
+	"frame": {"x":0,"y":470,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00021.png",
+	"frame": {"x":0,"y":564,"w":512,"h":374},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":374},
+	"sourceSize": {"w":512,"h":374}
+},
+{
+	"filename": "Yellow_Tile_02_00022.png",
+	"frame": {"x":0,"y":938,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+},
+{
+	"filename": "Yellow_Tile_02_00023.png",
+	"frame": {"x":128,"y":938,"w":128,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":94},
+	"sourceSize": {"w":128,"h":94}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "tile-02-yellow.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1032},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d9bbf6fb8f903703d4314ca2b96121cc:f5ac6f690f755f3a02355834be523b23:3a2cdf6f01c6b4aad925d0b0847a1365$"
+}
+}

@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "reel-anticipation_00000.png",
+	"frame": {"x":1,"y":1,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00001.png",
+	"frame": {"x":204,"y":1,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00002.png",
+	"frame": {"x":407,"y":1,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00003.png",
+	"frame": {"x":610,"y":1,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00004.png",
+	"frame": {"x":813,"y":1,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00005.png",
+	"frame": {"x":1016,"y":1,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00006.png",
+	"frame": {"x":1219,"y":1,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00007.png",
+	"frame": {"x":1422,"y":1,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00008.png",
+	"frame": {"x":1,"y":556,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00009.png",
+	"frame": {"x":204,"y":556,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00010.png",
+	"frame": {"x":407,"y":556,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00011.png",
+	"frame": {"x":610,"y":556,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00012.png",
+	"frame": {"x":813,"y":556,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00013.png",
+	"frame": {"x":1016,"y":556,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00014.png",
+	"frame": {"x":1219,"y":556,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00015.png",
+	"frame": {"x":1422,"y":556,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00016.png",
+	"frame": {"x":1,"y":1111,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00017.png",
+	"frame": {"x":204,"y":1111,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00018.png",
+	"frame": {"x":407,"y":1111,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00019.png",
+	"frame": {"x":610,"y":1111,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00020.png",
+	"frame": {"x":813,"y":1111,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00021.png",
+	"frame": {"x":1016,"y":1111,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00022.png",
+	"frame": {"x":1219,"y":1111,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "reel-anticipation_00023.png",
+	"frame": {"x":1422,"y":1111,"w":201,"h":553},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":553},
+	"sourceSize": {"w":201,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "reel-anticipation-part1.png",
+	"format": "RGBA8888",
+	"size": {"w":1624,"h":1665},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:08b390372fd9d7631be4677f5a4f51b1:1d1e6abe4a4a3ab559e875bd21aa61f1:aa93d4938ccd062b2526cdba994e23c7$"
+}
+}

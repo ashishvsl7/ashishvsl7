@@ -1,0 +1,136 @@
+{
+  "Messages": [
+    {
+      "Wins are calculated by counting consecutive reels with matching symbols and multiplying by the total number of matching symbols on those reels.": "<br> Voitot muodostuvat kertomalla samoja kuvioita sisältävien peräkkäisten kiekkojen määrä kyseisten kuvioiden kokonaismäärällä vastaavilla kiekoilla."
+    },
+    {
+      "Wild appears on the 2nd, 3rd, 4th and 5th reels. It substitutes for all symbols. Wilds have a higher chance of appearing on tumbles.": "Wild-tähdet ilmestyvät kiekoilla 2, 3, 4, 5.Ne korvaavat kaikki muut kuviot, jotka eivät ole wild-kuvioita.Wild-tähdillä on suuri todennäköisyys ilmestyä pudotusten aikana."
+    },
+    {
+      "It substitutes all the icons.": "Ne korvaavat kaikki muut kuviot, jotka eivät ole wild-kuvioita"
+    },
+    {
+      "The sticky wild will only appear on the middle reel and will not disappear when it is part of a winning combination. It will still fall down if symbols below it are part of a winning combination.": "Jähmettyvä wild ilmestyy vain 3. kiekolla. Se jää paikoilleen, jos se osallistuu voittoyhdistelmään.Se putoaa alemmas, jos sen alapuolella olevat kuviot katoavat, mutta muuten se toimii kuten wild-tähti"
+    },
+    {
+      "The expanding wild has a random chance to appear on the 2nd, 3rd, 4th and 5th reels. They substitute for all symbols and multiple of them can appear simultaneously.": "Laajeneva wild ilmestyy satunnaisesti kiekoilla 2, 3, 4 ja 5.Ne korvaavat kaikki muut kuviot ja voivat ilmestyä samanaikaisesti useilla kiekoilla."
+    },
+    {
+      "Freespins are reached by having multiple successive tumbles. A minimum of 4 tumbles is required to trigger free spins. The base free spin game is 14 free spins with no starting multiplier. Each extra successive win after 4 awards extra freespins or multipliers, up to a maximum of 20 freespins and 5 starting multiplier": "Ilmaiskierrokset käynnistyvät useasta peräkkäisestä pudotusvoitosta.Ilmaiskierrosten käynnistymiseen vaaditaan vähintään neljä peräkkäistä pudotusta.Ilmaiskierrosten perustaso on 14 kierrosta ilman aloituskerrointa.Jokaisen uuden peräkkäisen pudotuksen jälkeen (neljännestä eteenpäin) ilmaiskierrosten määrää tai kerrointa kasvatetaan 20 ilmaiskierrokseen ja 6x kertoimeen asti"
+    },
+    {
+      "Inside free spins the game is similar to the base game except that each tumble increments the multiplier by 1. The multiplier applies to the current spin win. There is no sticky wild or expanding wild inside free spins.": "Ilmaiskierrokset toimivat muuten kuin pääpeli, mutta jokainen pudotusvoitto korottaa kerrointa yhdellä.Kerrointa sovelletaan kunkin kierroksen voittoon.Ilmaiskierroksien aikana jähmettyviä tai laajenevia wild-kuvioita ei ilmesty."
+    },
+    {
+      "Red berry: Appears once on each 5 reels (including wild). So the payout is the flat value for 5x red berry, 10 coins": "<br> Punainen marja:Ilmestyy kerran kullakin viidellä peräkkäisellä kiekolla (myös wild).Tällöin voitto on viisi kertaa Punaisen marjan kuvio kerrottuna 10 kolikon panoksella, eli 10 * 1 * 1 * 1 * 1 * 1 = 10 kolikkoa."
+    },
+    {
+      "Orange berry: Appears on each 5 reels. Appears twice on 2nd, 3rd (including wild) and 5th reel, so payout is the value for 5x multiplied twice by 2. 15 * 2 * 2 * 2 = 120 coins.": "Oranssi marja:Ilmestyy kullakin viidellä peräkkäisellä kiekolla.Palkinto viidestä Oranssista marjasta on 15.Oranssi marja ilmestyy kerran 1. kiekolla, kahdesti 2. kiekolla, kahdesti 3. kiekolla (myös wild), kerran 4. kiekolla ja kahdesti 5. kiekolla,joten voitto on 15*1*2*2*1*2 = 120 kolikkoa."
+    },
+    {
+      "More than one wild reel can be displayed on the reels at the same time.": "Kiekoille voi ilmestyä samaan aikaan useita laajenevia wild-kuvioita."
+    },
+    {
+      "Rainbow Wilds Game Rules": "Rainbow Wilds -pelisäännöt"
+    },
+    {
+      "A free tumble has been interrupted": "Vapaapudotus on keskeytetty"
+    },
+    {
+      "Press Spin to continue": "Paina Pelaa jatkaaksesi"
+    },
+    {
+      "Successive Winnings": "Peräkkäiset pudotusvoitot"
+    },
+    {
+      "Successive Winnings trigger Free Spins": "Vähintään neljä peräkkäistä pudotusvoittoa käynnistävät ilmaiskierrokset"
+    },
+    {
+      "Win up to 20 FS with x5 multiplier": "Voit voittaa jopa 20 ilmaiskierrosta 6x aloituskertoimella"
+    },
+    {
+      "4 Successive Winnings Trigger 14 FS": "Neljä peräkkäistä pudotusvoittoa käynnistävät 14 ilmaiskierrosta"
+    },
+    {
+      "5 Successive Winnings Trigger 16 FS": "Viisi peräkkäistä pudotusvoittoa \nkäynnistävät 16 ilmaiskierrosta"
+    },
+    {
+      "6 Successive Winnings Trigger 16 FS\n+x2 Starting multiplier": "Kuusi peräkkäistä pudotusvoittoa käynnistävät\n16 ilmaiskierrosta + 3x aloituskertoimen"
+    },
+    {
+      "7 Successive Winnings Trigger 20 FS\n+x2 Starting multiplier": "Seitsemän peräkkäistä pudotusvoittoa\n käynnistävät 20 ilmaiskierrosta\n + 3x aloituskertoimen"
+    },
+    {
+      "6 Successive Winnings Trigger 20 FS\n+x5 Starting multiplier": "Kahdeksan peräkkäistä pudotusvoittoa\n käynnistävät 20 ilmaiskierrosta\n + 6x aloituskertoimen"
+    },
+    {
+      "4 Successive Winnings Triggers 14 FS": "Neljä peräkkäistä pudotusvoittoa käynnistävät 14 ilmaiskierrosta"
+    },
+    {
+      "5 Successive Winnings Triggers 16 FS": "Viisi peräkkäistä pudotusvoittoa käynnistävät 16 ilmaiskierrosta"
+    },
+    {
+      "6 Successive Winnings Triggers 16 FS + 2x Starting Multiplier": "Kuusi peräkkäistä pudotusvoittoa käynnistävät 16 ilmaiskierrosta + 3x aloituskertoimen"
+    },
+    {
+      "7 Successive Winnings Triggers 20 FS + 2x Starting Multiplier": "Seitsemän peräkkäistä pudotusvoittoa käynnistävät 20 ilmaiskierrosta + 3x aloituskertoimen"
+    },
+    {
+      "8 Successive Winnings Triggers 20 FS + 5x Starting Multiplier": "Kahdeksan peräkkäistä pudotusvoittoa käynnistävät 20 ilmaiskierrosta + 6x aloituskertoimen"
+    },
+    {
+      "Game Features": "Pelin toiminnot"
+    },
+    {
+      "Expanding Wild On Reel 2,3,4,5": "Laajenevat wild-kuviot ilmestyvät kiekoilla 2, 3, 4 ja 5"
+    },
+    {
+      "Different Wilds On Reel 2,3,4,5": "Wild-kuviot ilmestyvät kiekoilla 2, 3, 4 ja 5"
+    },
+    {
+      "Sticky Wild On Successive Tumbling": "Jähmettyvät wild-kuviot peräkkäisissä pudotuksissa"
+    },
+    {
+      "Wild": "Wild-tähdet"
+    },
+    {
+      "Free Spin": "Ilmaiskierrokset"
+    },
+    {
+      "Win Ways": "1 024 voittotapaa"
+    },
+    {
+      "Free Spin Features": "Ilmaiskierrostoiminnot"
+    },
+    {
+      "Wild Increasing Hand Multiplier (it increments by 1 on each win)": "Ilmaiskierroksissa kasvava voittokerroin (se kasvaa yhdellä jokaisesta voitosta)"
+    },
+    {
+      "Free Tumble": "Vapaapudotukset"
+    },
+    {
+      "Tumble WIN": "Vapaapudotukset"
+    },
+    {
+      "Whenever a win way pays out the symbols are destroyed and all remaining symbols tumble down.": "Aina kun jokin voittotapa voittaa, voittoyhdistelmän kuviot tuhotaan ja jäljelle jäävät kuviot putoavat alemmaksi."
+    },
+    {
+      "All destroyed symbols are replaced with symbols from higher up on the reels with a high chance of extra Wild Stars appearing.": "Kaikki tuhotut kuviot korvataan uusilla kuvioilla kiekkojen yläpuolelta. Wild-tähtien ilmestymiseen on suuri todennäköisyys."
+    },
+    {
+      "If the new symbols also form a win way they too will pay out and more symbols will tumble in to replace them, this will continue until no more Win Ways can be made.": "Jos uudet kuviot muodostavat uudestaan voittoyhdistelmän, nekin poistetaan ja jälleen uusia kuvioita putoaa niiden tilalle. Peli jatkuu näin, kunnes uusia voittoyhdistelmiä ei enää muodostu."
+    },
+    {
+      "Sticky Wild":"Jähmettyvä Wild"
+    },
+    {
+      "Expanding Wild":"Laajenevia Wild-Kuvioita"
+    },
+    {
+        "No Winning Lines":"Kein Gewinn "
+      },
+      {
+        "No Winning Lines":"Ei voittoja"
+      }
+  ]
+}

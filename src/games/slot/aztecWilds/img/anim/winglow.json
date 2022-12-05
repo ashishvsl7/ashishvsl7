@@ -1,0 +1,212 @@
+{"frames": [
+
+{
+	"filename": "winglow_00001.png",
+	"frame": {"x":691,"y":948,"w":121,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":465,"y":453,"w":121,"h":137},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00002.png",
+	"frame": {"x":863,"y":442,"w":130,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":458,"y":442,"w":130,"h":159},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00003.png",
+	"frame": {"x":543,"y":286,"w":145,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":449,"y":396,"w":145,"h":239},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00004.png",
+	"frame": {"x":185,"y":610,"w":149,"h":281},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":441,"y":377,"w":149,"h":281},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00005.png",
+	"frame": {"x":194,"y":0,"w":180,"h":299},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":407,"y":369,"w":180,"h":299},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00006.png",
+	"frame": {"x":0,"y":305,"w":192,"h":305},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":394,"y":366,"w":192,"h":305},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00007.png",
+	"frame": {"x":0,"y":0,"w":194,"h":305},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":385,"y":365,"w":194,"h":305},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00008.png",
+	"frame": {"x":0,"y":610,"w":185,"h":289},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":377,"y":372,"w":185,"h":289},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00009.png",
+	"frame": {"x":334,"y":585,"w":165,"h":265},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":372,"y":381,"w":165,"h":265},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00010.png",
+	"frame": {"x":520,"y":807,"w":171,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":376,"y":394,"w":171,"h":230},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00011.png",
+	"frame": {"x":675,"y":525,"w":182,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":383,"y":407,"w":182,"h":214},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00012.png",
+	"frame": {"x":334,"y":850,"w":186,"h":245},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":394,"y":383,"w":186,"h":245},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00013.png",
+	"frame": {"x":750,"y":0,"w":188,"h":268},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":407,"y":362,"w":188,"h":268},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00014.png",
+	"frame": {"x":561,"y":0,"w":189,"h":280},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":420,"y":345,"w":189,"h":280},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00015.png",
+	"frame": {"x":374,"y":0,"w":187,"h":286},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":435,"y":333,"w":187,"h":286},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00016.png",
+	"frame": {"x":192,"y":305,"w":174,"h":280},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":455,"y":328,"w":174,"h":280},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00017.png",
+	"frame": {"x":366,"y":299,"w":177,"h":257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":455,"y":339,"w":177,"h":257},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00018.png",
+	"frame": {"x":499,"y":556,"w":176,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":452,"y":357,"w":176,"h":251},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00019.png",
+	"frame": {"x":688,"y":280,"w":175,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":451,"y":389,"w":175,"h":227},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00020.png",
+	"frame": {"x":0,"y":899,"w":169,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":452,"y":429,"w":169,"h":191},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00021.png",
+	"frame": {"x":169,"y":899,"w":160,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":453,"y":425,"w":160,"h":191},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00022.png",
+	"frame": {"x":854,"y":934,"w":111,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":450,"y":417,"w":111,"h":155},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00023.png",
+	"frame": {"x":863,"y":268,"w":132,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":439,"y":408,"w":132,"h":174},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00024.png",
+	"frame": {"x":854,"y":739,"w":148,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":430,"y":400,"w":148,"h":195},
+	"sourceSize": {"w":1000,"h":1000}
+},
+{
+	"filename": "winglow_00025.png",
+	"frame": {"x":691,"y":739,"w":163,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":421,"y":393,"w":163,"h":209},
+	"sourceSize": {"w":1000,"h":1000}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "winglow.png",
+	"format": "RGBA8888",
+	"size": {"w":1002,"h":1095},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:023052fefc8a1fefea5ce088d653f8ac:79b62feeff7c7717444cd705c7f398d5:206d93b4f084bb1bd174c373557f54db$"
+}
+}

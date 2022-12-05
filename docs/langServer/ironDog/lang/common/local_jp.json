@@ -1,0 +1,478 @@
+{
+  "Messages": [
+    {
+      "WIN": "当たり"
+    },
+    {
+      "BET": "ベット"
+    },
+    {
+      "Balance": "残高"
+    },
+    {
+      "Bet:": "ベット:"
+    },
+    {
+      "Good luck": "グッドラック"
+    },
+    {
+      "My Account": "マイアカウント"
+    },
+    {
+      "Total won:": "合計賞金:"
+    },
+    {
+      "Total WIN": "賞金合計"
+    },
+    {
+      "Coins:": "コイン:"
+    },
+    {
+      "Something went wrong!": "何かがうまく行きませんでした！"
+    },
+    {
+      "Bet over max stake": "最大賭け金を超えたベット"
+    },
+    {
+      "Bet under min stake": "最小賭け金のベット"
+    },
+    {
+      "Insufficient funds. Please reduce stake.": "資金が足りません。賭け金を減らしてください。"
+    },
+    {
+      "Browser not supported": "ブラウザがサポートされていません"
+    },
+    {
+      "Unfortunately we do not support your web browser. Please update in order to play the game.": "ご利用のウェブブラウザはサポートされていません。ゲームをプレーするには更新してください。"
+    },
+    {
+      "We could not load the latest results": "最新の結果を読み込むことができませんでした。"
+    },
+    {
+      "Unable to contact game server": "ゲームサーバーに接続できません"
+    },
+    {
+      "Error placing bet": "ベットの実行でエラー"
+    },
+    {
+      "We could not load the language files": "言語のファイルを読み込むことができませんでした"
+    },
+    {
+      "We could not load the game assets": "ゲームアセットを読む込むことができませんでした。"
+    },
+    {
+      "Unable to load setup xml": "セットアップxmlを読み込むことができません"
+    },
+    {
+      "We were unable to retrieve the game setup parameters": "ゲーム設定パラメーターを取得できませんでした。"
+    },
+    {
+      "Error Loading Game Setup": "ゲーム設定の読み込みエラー"
+    },
+    {
+      "We were unable to retrieve your account information": "アカウント情報を取得できませんでした"
+    },
+    {
+      "Error Loading Account Info": "アカウント情報の読み込みエラー"
+    },
+    {
+      "We were unable to retrieve your bet history": "ベット履歴を取得できませんでした"
+    },
+    {
+      "Error Loading Bet History": "ベット履歴の読み込みエラー"
+    },
+    {
+      "We were unable to retrieve the current currency symbol": "現在の通貨シンボルを取得できませんでした。"
+    },
+    {
+      "Error Loading Currency Symbol": "通貨シンボルの読み込みエラー"
+    },
+    {
+      "Try Again": "再試行してください"
+    },
+    {
+      "OK": "OK"
+    },
+    {
+      "Got it!": "取得しました！"
+    },
+    {
+      "Lobby": "ロビー"
+    },
+    {
+      "Apparently we’re having some trouble, please try again later.": "何か問題が生じたようです。後で再試行してください。"
+    },
+    {
+      "Whoooaaaaa": "ワォォォ"
+    },
+    {
+      "You’ve been playing for a long time! Don’t you want to take a short break?": "長時間プレーしています。少し休憩を取りますか？"
+    },
+    {
+      "Please rotate your device": "デバイスを回転させてください"
+    },
+    {
+      "The time limit you have set has expired, we recommend that you take a short break before continuing. Would you like to continue?": "設定された制限時間が終了しました。続ける前に少し休憩を取ることをお勧めします。続けますか？"
+    },
+    {
+      "You have been playing for": "これまでにプレイした時間："
+    },
+    {
+      "Continue Playing": "プレーを継続"
+    },
+    {
+      "Exit Game": "ゲームを終了"
+    },
+    {
+      "Account History": "アカウント履歴"
+    },
+    {
+      "Menu": "メニュー"
+    },
+    {
+      "Settings": "設定"
+    },
+    {
+      "Game History": "ゲーム履歴"
+    },
+    {
+      "List of Bets Click One To See Spin": "ベットの一覧､スピンを見るにはひとつをクリック"
+    },
+    {
+      "Bet": "ベット"
+    },
+    {
+      "Lines": "ライン"
+    },
+    {
+      "Bet/Lines": "ベット/ライン"
+    },
+    {
+      "Total Win": "賞金合計"
+    },
+    {
+      "Winning Lines - Total: ": "当たりライン - 合計:"
+    },
+    {
+      "Losing Lines": "外れライン"
+    },
+    {
+      "Balance:": "残高:"
+    },
+    {
+      "Playing for real": "リアルマネーでプレイ中"
+    },
+    {
+      "Coins": "コイン"
+    },
+    {
+      "Cash": "キャッシュ"
+    },
+    {
+      "Bet Max": "最大ベット"
+    },
+    {
+      "Stop Autoplay": "自動プレーを停止"
+    },
+    {
+      "On any win ": "あらゆる勝利で"
+    },
+    {
+      "On single win of ": "次のひとつの当たりで"
+    },
+    {
+      "If cash increase by ": "キャッシュが次の額増えた場合"
+    },
+    {
+      "If cash decrease by ": "キャッシュが次の額減った場合"
+    },
+    {
+      "When entering any feature": "フィーチャーに入った時"
+    },
+    {
+      "Sounds": "サウンド"
+    },
+    {
+      "Spin Settings": "スピン設定"
+    },
+    {
+      "Stop Autoplay": "自動プレーを停止"
+    },
+    {
+      "Bet Settings": "ベット設定"
+    },
+    {
+      "ACCEPTED": "承諾"
+    },
+    {
+      "COM FAILURE": "通信失敗"
+    },
+    {
+      "COMPLETE": "完了"
+    },
+    {
+      "DECLINED": "拒否"
+    },
+    {
+      "F1x2SETTLED": "F1x2SETTLED"
+    },
+    {
+      "MISSETTLED": "処理エラー"
+    },
+    {
+      "NOT SETTLED": "未処理"
+    },
+    {
+      "SUBMITTED": "送信済み"
+    },
+    {
+      "normal": "通常"
+    },
+    {
+      "win": "勝利"
+    },
+    {
+      "Date": "日付"
+    },
+    {
+      "Time": "時間"
+    },
+    {
+      "Line": "ライン"
+    },
+    {
+      "Sound Effects": "サウンドエフェクト"
+    },
+    {
+      "Background Music": "バックグラウンドミュージック"
+    },
+    {
+      "Press Space to Spin": "スペースを押してスピン"
+    },
+    {
+      "Left Handed Spin": "左回りのスピン"
+    },
+    {
+      "Display in Coins": "コインで表示"
+    },
+    {
+      "Stop on any win": "あらゆる当たりで停止"
+    },
+    {
+      "Stop on win of": "指定した額の当たりで停止"
+    },
+    {
+      "Stop if cash increases by": "キャッシュが指定した額増えると停止"
+    },
+    {
+      "Stop if cash decreases by": "キャッシュが指定した額減ると停止"
+    },
+    {
+      "Stop when feature entered": "フィーチャーに入った時に停止"
+    },
+    {
+      "Don't show anymore": "再度表示しない"
+    },
+    {
+      "Continue": "続ける"
+    },
+    {
+      "COMPLETE": "完了"
+    },
+    {
+      "win": "勝利"
+    },
+    {"Congratulations":"おめでとうございます"},
+    {"You've won a bonus round":"ボーナスラウンドを獲得しました"},
+    {"you won":"勝利しました"},
+    {"bonus round":"ボーナスラウンド"},
+    {"Good luck!":"グッドラック！"},
+    {"Multiplier":"マルチプライヤー"},
+    {"Total won":"勝利合計"},
+
+    {
+      "free rounds": "フリーラウンド"
+    },
+    {
+      "Free Rounds:": "フリーラウンド:"
+    },
+    {
+      "Free Rounds": "フリーラウンド"
+    },
+    {
+      "Loading images please wait...": "イメージを読み込んでいます。お待ちください..."
+    },
+
+    {
+      "freespins": "フリースピン"
+    },
+    {
+      "Free Spin": "フリースピン"
+    },
+    {
+      "swipe to activate full screen": "フル画面にするには下にスワイプします"
+    },
+    {
+      "Show help screen on load": "ロード中にヘルプ画面を表示"
+    },
+    {
+      "Status": "ステータス"
+    },
+    {
+      "Channel": "チャンネル"
+    },
+    {
+      "Placed": "順位"
+    },
+    {
+      "Settled": "処理済み"
+    },
+    {
+      "GUI Descriptions": "ボタンの説明"
+    },
+    {
+      "Help Button": "ヘルプボタン"
+    },
+    {
+      "Bet Control": "ベット制御"
+    },
+    {
+      "Autoplay Button": "自動再生ボタン"
+    },
+    {
+      "Autoplay Start Button": "自動再生開始ボタン"
+    },
+    {
+      "Autoplay Stop Button": "自動再生停止ボタン"
+    },
+    {
+      "Spin Button": "スピンボタン"
+    },
+    {
+      "Stop Button": "停止ボタン"
+    },
+    {
+      "You've won": "あなたは勝った"
+    },
+    {
+      "You won": "あなたは勝った"
+    },
+    {
+      "Free spins finished": "完成したフリースピン" 
+    },
+    {
+      "you've won": "あなたは勝った"
+    },
+    {
+      "Free spins": "フリースピン"
+    },
+    {
+      "Free Spins": "フリースピン"
+    },
+    {
+      "free re-spins": "フリースピン"
+    },
+    {
+      "Activate sounds?": "サウンドを有効にしますか？"
+    },
+    {
+      "Spin No.": "Spin no."
+    },
+    {
+      "Must be set to a value": "値に設定する必要があります"
+    },
+    {
+      "Game History only available when playing for real": "ゲームの履歴は、実際の資金でプレーするときにのみ利用可能です"     
+    },
+    {
+      "You have unused Free Spins": "回転していないフリースピンがあります"
+    },
+    {
+      "They will be automatically started": "自動的に開始します"
+    },
+    {
+      "You have an unfinished Bonus": "終了していないボーナスがあります"
+    },
+    {
+      "it will be automatically started": "自動的に開始します"
+    },
+    {
+      "You have been using the slam stop feature":"スラムストップを使用していました。"
+    },
+    {
+      "would you like to enable Fast Play?\rThis can be adjusted in the settings menu.":"  高速プレイを有効化しますか？\r\r       設定から有効化できます。"
+    },
+    {
+      "Fast Play":"高速プレイ"
+    },
+    {
+      "Playing for fun": "デモモード"
+    },
+    {
+      "Free Spins Win":"フリースピン配当"
+    },
+    {
+      "Bonus Win":"ボーナス配当"  
+    },  
+    {
+      "Free rounds remaining": "残りのフリーラウンド"
+    },
+    {
+      "with bet": "ベットで"
+    },
+     {
+      "Free rounds awarded, please choose your option":"フリーラウンドが授与されました。オプションを選択してください"
+    },
+    {
+      "Expiring date":"有効期限"
+    },
+    {
+      "Free Rounds Win":"フリーラウンド勝利"
+    },
+    {
+      "Congratulation": "おめでとうございます"
+    },
+    {
+      "you activated": "有効化しました"
+    },  
+    {
+      "Your bet amount will be changed to": "ベット額が次に変更されます"
+    },
+    {
+      "Free Rounds has now ended":"フリーラウンドが終了しました"
+    },
+    {
+      "Bet amount will now be reset back":"ベット額がリセットされます"
+    },
+    {
+      "Your free rounds expired": "フリーラウンドの有効期限が切れました"
+    },
+    {
+      "Use now": "今すぐ使用"
+    },
+    {
+      "Use later": "後で使用"
+    },
+    {
+      "Good Luck!": "ご幸運を！"
+    },
+    {
+      "You have unused Re-Spin":"回転していないフリースピン"
+    },
+    {
+      "It will be automatically started": "自動的に開始します"
+    },
+    {
+      "free Spin": "フリースピン"
+    },
+    {
+      "re-spin":"フリースピン"
+     },
+     {
+      "Scatter Win":"スキャッタ 勝利"
+     },
+    {
+      "Select a bet value first": "最初にベット額を選択してください"
+    }
+  ]
+}

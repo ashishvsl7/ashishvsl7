@@ -1,0 +1,49 @@
+{
+  "Messages": [
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "在贏獎線上匹配符號來贏獎。匹配的符號必須在相鄰轉軸上從左到右排列才能贏獎。每條線僅賠付獎金最高的組合。如出現故障，所有賠付和遊戲都將無效。查看遊戲規則瞭解更多詳情。"
+    },
+    {
+      "A bomb symbol can appear on the central position on the reels, which will explode outwards in a random direction revealing 3 scatters, Free Spin symbols, Bonus symbols, or up to 5 wild symbols.": "炸彈符號可能出現在轉軸的中部，它會向隨機方向爆炸並顯示出scatter符號、Free Spin符號、Bonus符號或最多5個wild符號。"
+    },
+    {
+      "2 cherry bombs can appear in free spins revealing super wild or super scatter symbols.": "在免費旋轉中，2個櫻桃炸彈符號可能出現並顯示超級wild或超級scatter符號。"
+    },
+    {
+      "Substitutes for all non-scatter symbols.": "替代所有非特殊符號。"
+    },
+    {
+      "Pays 80 coins for 3 symbols.": "3個符號可贏得80個硬幣。"
+    },
+    {
+      "Free Spin<br>Awards 9 free spin and 100 coins": "Free Spin符號<br>贏得9次免費旋轉和100個硬幣。"
+    },
+    {
+      "Can appear in the 3 central reels during free spins. Substitute for all regular symbols.": "可在免費旋轉中出現在三個中間轉軸上。替代所有非特殊符號。"
+    },
+    {
+      "1 to 9 symbols can appear in the 3 central reels during free spins. Coins Payout:": "1至9個符號可在免費旋轉中出現在3個中間轉軸上。硬幣賠付："
+    },
+    {
+      "The bonus symbol can appear in the 3 central reels. Choose from the 5 paths, the higher the number of the path , the higher the risk, but the higher the potential winnings.": "符號可出現在3個中間轉軸上。從5條路中選擇，路的數位越高，風險越大，但潛在的贏獎越高。"
+    },
+    {
+      "Cherry Blast Game Rules": "Cherry Blast遊戲規則"
+    },
+    {
+      "Select one from the 5 paths on the bottom": "選擇1至5之間的一個數字來選擇一條路"
+    },
+    {
+      "the lower the number the lower is the risk": "數字越小，風險越小"
+    },
+    {
+      "Special symbols can hide high prize or death": "紫色格子可能藏著高額獎品，也可能結束獎勵回合"
+    },
+    {
+      "Losing spins award a\nfree respin where\nwild reels stick": "炸彈符號爆炸並顯示\n scatter符號，自由旋轉符號，\n Bonus符號或wild符號。"
+    },
+       {
+        "No Winning Lines":"沒有獎金"
+      }
+  ]
+}

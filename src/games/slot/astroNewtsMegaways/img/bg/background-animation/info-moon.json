@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "info-moon_00000.png",
+	"frame": {"x":0,"y":0,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00001.png",
+	"frame": {"x":0,"y":85,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00002.png",
+	"frame": {"x":0,"y":170,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00003.png",
+	"frame": {"x":0,"y":255,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00004.png",
+	"frame": {"x":0,"y":340,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00005.png",
+	"frame": {"x":0,"y":425,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00006.png",
+	"frame": {"x":0,"y":510,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00007.png",
+	"frame": {"x":0,"y":595,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00008.png",
+	"frame": {"x":0,"y":680,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00009.png",
+	"frame": {"x":0,"y":765,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00010.png",
+	"frame": {"x":0,"y":850,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00011.png",
+	"frame": {"x":0,"y":935,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00012.png",
+	"frame": {"x":0,"y":1020,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00013.png",
+	"frame": {"x":0,"y":1105,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00014.png",
+	"frame": {"x":0,"y":1190,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00015.png",
+	"frame": {"x":0,"y":1275,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00016.png",
+	"frame": {"x":0,"y":1360,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00017.png",
+	"frame": {"x":0,"y":1445,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00018.png",
+	"frame": {"x":0,"y":1530,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00019.png",
+	"frame": {"x":0,"y":1615,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00020.png",
+	"frame": {"x":0,"y":1700,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00021.png",
+	"frame": {"x":0,"y":1785,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00022.png",
+	"frame": {"x":0,"y":1870,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-moon_00023.png",
+	"frame": {"x":0,"y":1955,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "info-moon.png",
+	"format": "RGBA8888",
+	"size": {"w":182,"h":2040},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ab4569c542aa1003ea8a49692c8d6d68:2de46dfcbe5f546d34a3a2c61cbc461a:9aab2c285d7d5d1b874b56361272298e$"
+}
+}

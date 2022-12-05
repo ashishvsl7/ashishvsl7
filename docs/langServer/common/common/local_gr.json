@@ -1,0 +1,412 @@
+{
+  "Messages": [
+    {
+      "WIN": "ΚΕΡΔΟΣ"
+    },
+    {
+      "BET": "ΠΟΝΤΑΡΙΣΜΑ"
+    },
+    {
+      "Balance": "Υπόλοιπο"
+    },
+    {
+      "Bet:": "Ποντάρισμα:"
+    },
+    {
+      "Good luck": "καλή επιτυχία"
+    },
+    {
+      "My Account": "Ο λογαριασμός μου"
+    },
+    {
+      "Total won:": "Συνολικό κέρδος:"
+    },
+    {
+      "Coins:": "Νομίσματα:"
+    },
+    {
+      "Something went wrong!": "Κάτι πήγε στραβά!"
+    },
+    {
+      "Bet over max stake": "Ποντάρισμα πάνω από το μέγ. ποσό πονταρίσματος"
+    },
+    {
+      "Bet under min stake": "Ποντάρισμα κάτω από το ελάχ. ποσό πονταρίσματος"
+    },
+    {
+      "Insufficient funds. Please reduce stake.": "Μη επαρκές υπόλοιπο. Μειώστε το ποσό πονταρίσματος"
+    },
+    {
+      "Browser not supported": "Το πρόγραμμα περιήγησης δεν υποστηρίζεται"
+    },
+    {
+      "Unfortunately we do not support your web browser. Please update in order to play the game.": "Δυστυχώς, δεν υποστηρίζουμε το πρόγραμμα περιήγησης που χρησιμοποιείτε. Επιλέξτε κάποιο άλλο για να παίξετε."
+    },
+    {
+      "We could not load the latest results": "Δεν ήταν δυνατή η φόρτωση των τελευταίων αποτελεσμάτων"
+    },
+    {
+      "Unable to contact game server": "Δεν ήταν δυνατή η επικοινωνία με τον διακομιστή του παιχνιδιού"
+    },
+    {
+      "Error placing bet": "Σφάλμα κατά την τοποθέτηση του πονταρίσματος."
+    },
+    {
+      "We could not load the language files": "Δεν ήταν δυνατή η φόρτωση των γλωσσικών αρχείων"
+    },
+    {
+      "We could not load the game assets": "Δεν ήταν δυνατή η φόρτωση των στοιχείων του παιχνιδιού"
+    },
+    {
+      "Unable to load setup xml": "Δεν είναι δυνατή η φόρτωση της διαμόρφωσης xml"
+    },
+    {
+      "We were unable to retrieve the game setup parameters": "Δεν ήταν δυνατή η ανάκτηση των παραμέτρων διαμόρφωσης του παιχνιδιού"
+    },
+    {
+      "Error Loading Game Setup": "Σφάλμα κατά την φόρτωση της διαμόρφωσης του παιχνιδιού"
+    },
+    {
+      "We were unable to retrieve your account information": "Δεν ήταν δυνατή η ανάκτηση των στοιχείων του λογαριασμού σας"
+    },
+    {
+      "Error Loading Account Info": "Σφάλμα κατά τη φόρτωση των στοιχείων λογαριασμού"
+    },
+    {
+      "We were unable to retrieve your bet history": "Δεν ήταν δυνατή η ανάκτηση του ιστορικού των πονταρισμάτων σας"
+    },
+    {
+      "Error Loading Bet History": "Σφάλμα κατά τη φόρτωση του ιστορικού πονταρισμάτων"
+    },
+    {
+      "We were unable to retrieve the current currency symbol": "Δεν ήταν δυνατή η ανάκτηση του συμβόλου του τρέχοντος νομίσματος"
+    },
+    {
+      "Error Loading Currency Symbol": "Σφάλμα κατά τη φόρτωση του συμβόλου νομίσματος"
+    },
+    {
+      "Try Again": "Δοκιμάστε ξανά"
+    },
+    {
+      "OK": "OK"
+    },
+    {
+      "Got it!": "Το κατάλαβα!"
+    },
+    {
+      "Lobby": "Λόμπι"
+    },
+    {
+      "Apparently we’re having some trouble, please try again later.": "Φαίνεται ότι αντιμετωπίζουμε κάποιο πρόβλημα, δοκιμάστε ξανά αργότερα."
+    },
+    {
+      "Whoooaaaaa": "Οουυυυυυ"
+    },
+    {
+      "You’ve been playing for a long time! Don’t you want to take a short break?": "Παίζετε εδώ και αρκετή ώρα! Δεν θέλετε να κάνετε ένα μικρό διάλειμμα;"
+    },
+    {
+      "Please rotate your device": "Περιστρέψτε τη συσκευή σας"
+    },
+    {
+      "The time limit you have set has expired, we recommend that you take a short break before continuing. Would you like to continue?": "Το χρονικό όριο που έχετε ορίσει εξαντλήθηκε, συνιστούμε να κάνετε ένα μικρό διάλειμμα πριν συνεχίσετε. Θέλετε να συνεχίσετε;"
+    },
+    {
+      "You have been playing for": "Παίζετε εδώ και"
+    },
+    {
+      "Continue Playing": "Συνέχεια παιχνιδιού"
+    },
+    {
+      "Exit Game": "Έξοδος από το παιχνίδι"
+    },
+    {
+      "Account History": "Ιστορικό λογαριασμού"
+    },
+    {
+      "Menu": "Μενού"
+    },
+    {
+      "Settings": "Ρυθμίσεις"
+    },
+    {
+      "Game History": "Ιστορικό παιχνιδιού"
+    },
+    {
+      "List of Bets Click One To See Spin": "Λίστα πονταρισμάτων, κάντε κλικ ένα για να δείτε το αποτέλεσμα"
+    },
+    {
+      "Bet": "Ποντάρισμα"
+    },
+    {
+      "Lines": "Γραμμές"
+    },
+    {
+      "Bet/Lines": "Ποντάρισμα/Γραμμές"
+    },
+    {
+      "Total Win": "Συνολικό κέρδος"
+    },
+    {
+      "Winning Lines - Total: ": "Νικητήριες γραμμές - Σύνολο:"
+    },
+    {
+      "Losing Lines": "Γραμμές απώλειες"
+    },
+    {
+      "Balance:": "Υπόλοιπο:"
+    },
+    {
+      "Playing for real": "Παιχνίδι με πραγματικά χρήματα"
+    },
+    {
+      "Coins": "Νομίσματα"
+    },
+    {
+      "Cash": "Μετρητά"
+    },
+    {
+      "Bet Max": "Μέγ. ποντάρισμα"
+    },
+    {
+      "Stop Autoplay": "Διακοπή αυτόματου παιχνιδιού"
+    },
+    {
+      "On any win ": "Σε οποιοδήποτε κέρδος"
+    },
+    {
+      "On single win of ": "Σε μεμονωμένο κέρδους ύψους"
+    },
+    {
+      "If cash increase by ": "Εάν τα μετρητά αυξηθούν κατά"
+    },
+    {
+      "If cash decrease by ": "Εάν τα μετρητά μειωθούν κατά"
+    },
+    {
+      "When entering any feature": "Όταν εισέρχεστε σε οποιαδήποτε λειτουργία"
+    },
+    {
+      "Sounds": "Ήχοι"
+    },
+    {
+      "Spin Settings": "Ρυθμίσεις περιστροφής"
+    },
+    {
+      "Stop Autoplay": "Διακοπή αυτόματου παιχνιδιού"
+    },
+    {
+      "Bet Settings": "Ρυθμίσεις πονταρίσματος"
+    },
+    {
+      "ACCEPTED": "ΑΠΟΔΕΚΤΟ"
+    },
+    {
+      "COM FAILURE": "ΣΦΑΛΜΑ ΕΠΙΚΟΙΝΩΝΙΑΣ"
+    },
+    {
+      "COMPLETE": "ΟΛΟΚΛΗΡΩΘΗΚΕ"
+    },
+    {
+      "DECLINED": "ΑΠΟΡΡΙΦΘΗΚΕ"
+    },
+    {
+      "F1x2SETTLED": "F1x2SETTLED"
+    },
+    {
+      "MISSETTLED": "ΕΣΦΑΛΜΕΝΑ ΔΙΕΥΘΕΤΗΜΕΝΟ"
+    },
+    {
+      "NOT SETTLED": "ΜΗ ΔΙΕΥΘΕΤΗΜΕΝΟ"
+    },
+    {
+      "SUBMITTED": "ΥΠΟΒΛΗΘΕΝ"
+    },
+    {
+      "normal": "κανονικό"
+    },
+    {
+      "win": "κέρδος"
+    },
+    {
+      "Date": "Ημερομηνία"
+    },
+    {
+      "Time": "Ώρα"
+    },
+    {
+      "Line": "Γραμμή"
+    },
+    {
+      "Sound Effects": "Ηχητικά εφέ"
+    },
+    {
+      "Background Music": "Μουσική φόντου"
+    },
+    {
+      "Press Space to Spin": "Πατήστε το πλήκτρο διαστήματος για περιστροφή"
+    },
+    {
+      "Left Handed Spin": "Αριστερόστροφη περιστροφή"
+    },
+    {
+      "Display in Coins": "Εμφάνιση σε νομίσματα"
+    },
+    {
+      "Stop on any win": "Διακοπή σε οποιοδήποτε κέρδος"
+    },
+    {
+      "Stop on win of": "Διακοπή σε κέρδος ύψους"
+    },
+    {
+      "Stop if cash increases by": "Διακοπή εάν τα μετρητά αυξηθούν κατά"
+    },
+    {
+      "Stop if cash decreases by": "Διακοπή εάν τα μετρητά μειωθούν κατά"
+    },
+    {
+      "Stop when feature entered": "Διακοπή όταν εισέρχεστε στη λειτουργία"
+    },
+    {
+      "Don't show anymore": "Να μην εμφανίζεται πια"
+    },
+    {
+      "Continue": "Συνέχεια"
+    },
+    {
+      "COMPLETE": "ΟΛΟΚΛΗΡΩΜΕΝΟ"
+    },
+    {
+      "win": "Νίκη"
+    },
+    {"Congratulations":"Συγχαρητήρια"},
+    {"You've won a bonus round":"Κερδίσατε γύρο μπόνους"},
+    {"you won":"Κερδίσατε"},
+    {"bonus round":"γύρο μπόνους"},
+    {"Good luck!":"Καλή επιτυχία!"},
+    {"Multiplier":"Πολλαπλασιαστής"},
+    {"Total won":"Συνολικά κέρδη"},
+
+    {
+      "free rounds": "δωρεάν γύροι"
+    },
+    {
+      "Free Rounds:": "Δωρεάν Γύροι:"
+    },
+    {
+      "Free Rounds": "Δωρεάν γύροι"
+    },
+    {
+      "Loading images please wait...": "Φόρτωση εικόνων παρακαλώ περιμένετε..."
+    },
+
+    {
+      "freespins": "δωρεάν περιστροφές"
+    },
+    {
+      "Free Spin": "Δωρεάν Περιστροφή"
+    },
+    {
+      "swipe to activate full screen": "Σύρετε προς τα κάτω για λειτουργία πλήρους οθόνης"
+    },
+    {
+      "Show help screen on load": "Εμφάνιση της οθόνης βοήθειας στη φόρτωση"
+    },
+    {
+      "Status": "Κατάσταση"
+    },
+    {
+      "Channel": "Κανάλι"
+    },
+    {
+      "Placed": "Τοποθετήθηκαν"
+    },
+    {
+      "Settled": "Διευθετήθηκαν"
+    },
+    {
+      "GUI Descriptions": "περιγραφές των πλήκτρων που"
+    },
+    {
+      "Help Button": "κουμπί Βοήθεια"
+    },
+    {
+      "Bet Control": "Ποντάρισμα έλεγχος"
+    },
+    {
+      "Autoplay Button": "κουμπί αυτόματου παιχνιδιού "
+    },
+    {
+      "Autoplay Start Button": "αυτόματου κουμπί αρχή παιχνιδιού"
+    },
+    {
+      "Autoplay Stop Button": "Διακοπή αυτόματου κουμπί παιχνιδιού"
+    },
+    {
+      "Spin Button": "κουμπί περιστροφής"
+    },
+    {
+      "Stop Button": "Διακοπή κουμπί"
+    },
+    {
+      "You've won": "Κερδίσατε"
+    },
+    {
+      "You won": "Κερδίσατε"
+    },
+    {
+      "Free spins finished": "δωρεάν γύροι τελικού" 
+    },
+    {
+      "you've won": "Κερδίσατε"
+    },
+    {
+      "Free spins": "δωρεάν γύροι"
+    },
+    {
+      "Free Spins": "δωρεάν γύροι"
+    },
+    {
+      "Activate sounds?": "ενεργοποιήσετε το τους ήχους;"
+    },
+    {
+      "Spin No.": "Spin no."
+    },
+    {
+      "Must be set to a value": "Πρέπει να ρυθμιστεί σε μία τιμή"
+    },
+    {
+      "Game History only available when playing for real": "Ιστορία του παιχνιδιού διαθέσιμη μόνο όταν να παίζετε για πραγματικά"     
+    },
+    {
+      "You have unused Free Spins": "Έχετε αχρησιμοποίητες Δωρεάν Περιστροφές"
+    },
+    {
+      "They will be automatically started": "Θα ξεκινήσουν αυτόματα"
+    },
+    {
+      "You have an unfinished Bonus": "Έχετε ένα ανοιχτό Μπόνους"
+    },
+    {
+      "it will be automatically started": "θα ξεκινήσει αυτόματα"
+    },
+    {
+      "You have been using the slam stop feature":"  Χρησιμοποιείτε τη λειτουργία \rαυτόματης διακοπής (slam-stop)"
+    },
+    {
+      "would you like to enable Fast Play?\rThis can be adjusted in the settings menu.":"\r  Θέλετε να ενεργοποιήσετε τη λειτουργία Γρήγορου Παιχνιδιού;\r         Μπορείτε να την ενεργοποιήσετε στο μενού ρυθμίσεις."
+    },
+    {
+      "Fast Play":"Γρήγορο Παιχνίδι"
+    },
+    {
+      "Playing for fun": "Παιγνίδι χωρίς χρήματα"
+    },
+    {
+      "Free Spins Win":"Κερδίσατε δωρεάν περιστροφές"
+    },
+    {
+      "Bonus Win":"Μπόνους Νίκη"  
+    }
+  ]
+}

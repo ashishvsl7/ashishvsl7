@@ -1,0 +1,85 @@
+{
+   "Messages":[
+      {
+         "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "Դուք շահում եք շահող տողերի վրա սիմվոլների համընկնելու դեպքում։ Բոլոր սիմվոլները պետք է համընկնեն հերթական պտուտակների վրա ձախից աջ։ Վճարվում է միայն յուրաքանչյուր տողի վրա ամենաբարձր շահումը։ Խափանման դեպքում բոլոր վճարումներն ու խաղերը համարվում են անվավեր։ Լրացուցիչ մանրամասների համար տես խաղի կանոնները։"
+      },
+      {
+         "The neon glimmer turning into neon glow on a feature symbol\ror on a winning combination will activate that feature or multiply the winline x4.":"Նեոնային առկայծումը, շահող համադրության կամ հատուկ սիմվոլի վրա վերածվելով նեոնային փայլի \rակտիվացնում է համապատասխան հատկությունը կամ բազմապատկում է շահող տողը 4 անգամ։"
+      },
+      {
+         "Special Features - General Image":"Հատուկ առանձնահատկություններ - Ընդհանուր պատկեր"
+      },
+      {
+         "The neon glimmer turning into neon glow on a feature symbol or on a winning combination will activate that feature or multiply the winline x4.":"Նեոնային առկայծումը, շահող համադրության կամ հատուկ սիմվոլի վրա վերածվելով նեոնային փայլի, ակտիվացնում է համապատասխան հատկությունը կամ պարգևատրում է x4 Բազմապատկիչով։"
+      },
+      {
+         "Wild Symbol":"Վայրի սիմվոլ"
+      },
+      {
+         "Wild symbols can complete winning combinations.":"Վայրի սիմվոլները կարող են փոխարինել ցանկացած սիմվոլի, բացի 'Սքեթեր', 'Անվճար սփիներ' և 'Բոնուս' սիմվոլների։"
+      },
+      {
+         "X4 Multiplier":"X4 Բազմապատկիչ"
+      },
+      {
+         "Neon glow appearing on a winning combination awards a x4 multiplier.\rThis will apply to all active win lines using this symbol.":"Շահող համադրության վրա ակտիվացող նեոնային փայլը պարգևատրում է x4 բազմապատկիչով։\rԱյն կիրառվում է նաև այդ սիմվոլով բոլոր ակտիվ շահող տողերի համար։"
+      },
+      {
+         "Scatter":"Սքեթեր"
+      },
+      {
+         "Neon glow appearing round a scatter symbol on any position awards 250 coins.\rMultiple scatter symbols showing on the reels will not increase the pay out.":"'Սքեթեր' սիմվոլի շուրջը ցանկացած դիրքում ակտիվացող նեոնային փայլը պարգևատրում է 250 մետաղադրամով։\rՊտուտակների վրա բազմաթիվ սքեթեր սիմվոլների առկայությունը չի մեծացնում շահումի գումարը։"
+      },
+      {
+         "Neon glow appearing around a free spin symbol on any position will award 6 free spins.\rMultiple free spin symbols showing on the reels will not increase the free spins awarded.":"'Անվճար սփին' սիմվոլի շուրջը ցանկացած դիրքում ակտիվացող նեոնային փայլը պարգևատրում է 6 անվճար սփինով։ \r Պտուտակների վրա բազմաթիվ 'Անվճար սփին' սիմվոլների առկայությունը չի մեծացնում պարգևատրող անվճար սփիների քանակը։"
+      },
+      {
+         "Bonus":"Բոնուս"
+      },
+      {
+         "Neon glow appearing on a Bonus symbol in any position on the reels will activate the Keno light bonus round.":"Բոնուս սիմվոլի շուրջը ցանկացած դիրքում ակտիվացող նեոնային փայլը ակտիվացննում է Keno Light բոնուսային ռաունդը։"
+      },
+      {
+         "Bonus Game":"Բոնուսային խաղ"
+      },
+      {
+         "Manually select or randomly select 10 numbers from the available 28.\rThere will be 15 numbers drawn randomly after pressing start.":"Ձեռքով կամ պատահականությամբ ընտրեք հասանելի 28-ից 10 թիվ։\rՍտարտը սեղմելուց հետո կբացվի 28 թվերից պատահականության սկզբունքով ընտրված 15 թիվ։"
+      },
+      {
+         "Bonus Game Paytable":"Բոնուսային խաղի Վճարման աղյուսակ"
+      },
+      {
+         "The amount won is dependent on the amount of numbers drawn that match the selection chose.\rThe amount that will be paid can be seen on the paytable in the game.":"Շահած գումարի չափը կախված է ընտրված թվերի և բացված թվերի համընկման քանակից։\rՎճարելիք գումարի չափը կարելի է տեսնել Բոնուսային խաղի Վճարման աղյուսակում։"
+      },
+      {
+         "Neon Jungle Game Rules":"Neon Jungle խաղի կանոններ"
+      },
+      {
+         "Please select":"Խնդրում ենք ընտրել"
+      },
+      {
+         "numbers first, or hit Random button":"առաջինը թվերը, կամ սեղմեք Պատահական կոճակը"
+      },
+      {
+         "You can't select more than":"Դուք կարղ եք ընտրել ավելին, քան"
+      },
+      {
+         "Unselect some numbers first":"Սկզբում չեղարկեք որոշակի թվերի ընտրությունը"
+      },
+      {
+         "Still":"Դեռ"
+      },
+      {
+         "to pick or Hit Random button to automatically chose for You.":"ընտրեք կամ սեղմեք՝ Պատահական կոճակը ավտոմատ կերպով ընտրություն կատարելու համար։"
+      },
+      {
+         "Choice complete, you can now hit Start button.":"Ընտրությունն ավարտված է, դուք կարող եք սեղմել Ստարտ կոճակը։"
+      },
+      {
+         "Pick 10 Numbers or Hit Random button to automatically chose for You.":"Ընտրեք 10 թիվ կամ սեղմեք Պատահական կոճակը՝ ավտոմատ կերպով ընտրության համար։"
+      },
+    {
+        "No Winning Lines":"Շահումներ չկան"
+      }
+   ]
+}

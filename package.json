@@ -1,0 +1,25 @@
+{
+  "name": "premiumslots",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premium html5 slots project ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1x2gaming",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "1.0.1",
+    "grunt-contrib-concat": "1.0.1",
+    "grunt-contrib-copy": "1.0.0",
+    "grunt-contrib-qunit": "1.2.0",
+    "grunt-contrib-uglify": "1.0.1",
+    "grunt-contrib-watch": "1.0.0",
+    "grunt-newer": "1.2.0",
+    "grunt-notify": "0.4.5",
+    "load-grunt-tasks": "3.5.0"
+  },
+  "globalVars": {
+    "distributionFolder": "ironDog"
+  }
+}

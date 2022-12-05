@@ -1,0 +1,103 @@
+{
+  "Messages": [
+    {
+      "Win Up To": "最高"
+    },
+    {
+      "100,000 Coins": "100,000コイン獲得"
+    },
+    {
+      "Win scatters and multipliers during Free Spin": "フリースピン中スキャッターとマルチプライヤーを獲得"
+    },
+    {
+      "Replace all symbols.": "すべてのシンボルを置き換えます。"
+    },
+    {
+      "Appears only on 3th reel.": "3番目のリールにのみ現れます。"
+    },
+    {
+      "Awards 1 Free Spin.": "1回のフリースピンを獲得します。"
+    },
+    {
+      "Can appear during Free Spins.": "フリースピン中のみ現れます。"
+    },
+    {
+      "3 or more symbols starts Balloon Bonus": "3 +ボーナスシンボル、左から右へ連続リール、賞金ボーナス。"
+    },
+    {
+      "Appears only on 1st reel during Free spins.": "フリースピン中1番目のリールにのみ現れます。"
+    },
+    {
+      "Adds x1 to current multiplier.": "現在のマルチプライヤーにx1追加します。"
+    },
+    {
+      "Awards 10 Coins": "10コイン獲得"
+    },
+    {
+      "Appears only on 2nd reel during Free spins.": "フリースピン中2番目のリールにのみ現れます。"
+    },
+    {
+      "Adds x2 to current multiplier.": "現在のマルチプライヤーにx2追加します。"
+    },
+    {
+      "Awards 10 Coins": "10コイン獲得"
+    },
+    {
+      "Appears only on 4th reel during Free spins.": "フリースピン中4番目のリールにのみ現れます。"
+    },
+    {
+      "Adds x3 to current multiplier.": "現在のマルチプライヤーにx3追加します。"
+    },
+    {
+      "Awards 15 Coins": "15コイン獲得"
+    },
+    {
+      "Appears only on 5th reel during Free spins.": "フリースピン中5番目のリールにのみ現れます。"
+    },
+    {
+      "Adds x4 to current multiplier.": "現在のマルチプライヤーにx4追加します。"
+    },
+    {
+      "Awards 25 Coins": "25コイン獲得"
+    },
+    {
+      "Shoot as many ballons as you can, the word 'END' will terminate the bonus. The total bonus multiplier depends on the number of icons that triggered the bonus. See game guide for details.": "より多くのバルーンを撃ちます。'END'の文字が現れると、ボーナスは終了します。合計のボーナスマルチプライヤーは、ボーナスをトリガーしたコインの数によります。詳細は、ゲームガイドを参照してください。"
+    },
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "勝利ラインでシンボルをマッチさせると勝ちます。すべてのシンボルは左から右の連続するリール上で一致しなければなりません。各ラインで最も大きな賞金のみ支払われます。誤動作が発生すると、すべての支払いとプレーが無効になります。詳細については、ゲームルールを参照してください。"
+    },
+    {
+      "BubblePickBonus": "バルーンボーナス"
+    },
+    {
+      "You have unused Free Spins": "回転していないフリースピンがあります"
+    },
+    {
+      "They will be automatically started": "自動的に開始します"
+    },
+    {
+      "You have an unfinished Bonus": "終了していないボーナスがあります"
+    },
+    {
+      "it will be automatically started": "自動的に開始します"
+    },
+    {
+      "Replaces all symbols!": "すべてのシンボルを置き換えます！"
+    },
+    {
+      "*Except for Scatter and Free Spins": "*スキャッターとフリースピン以外"
+    },
+    {
+      "3. X1": "<br>3. - 乗数はない"
+    },
+    {
+      "4. X2": "<br>4. - x2乗数"
+    },
+    {
+      "5. X3": "<br>5. - x3乗数"
+    },
+       {
+        "No Winning Lines":"勝利なし"
+      }
+  ]
+}

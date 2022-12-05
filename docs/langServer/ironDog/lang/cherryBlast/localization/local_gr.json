@@ -1,0 +1,49 @@
+{
+  "Messages": [
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "Κερδίζετε αντιστοιχίζοντας σύμβολα σε γραμμές κέρδους. Όλα τα σύμβολα πρέπει να αντιστοιχιστούν σε διαδοχικούς κυλίνδρους από τα αριστερά προς τα δεξιά. Θα καταβληθεί μόνο το μεγαλύτερο κέρδος σε κάθε γραμμή. Οι τυχόν δυσλειτουργίες ακυρώνουν όλες τις πληρωμές και τα παιχνίδια. Ανατρέξτε στους κανόνες του παιχνιδιού για περισσότερες λεπτομέρειες."
+    },
+    {
+      "A bomb symbol can appear on the central position on the reels, which will explode outwards in a random direction revealing 3 scatters, Free Spin symbols, Bonus symbols, or up to 5 wild symbols.": "Στην κεντρική θέση κάποιου κυλίνδρου μπορεί να εμφανιστεί ένα σύμβολο βόμβα, το οποίο εκρήγνυται προς τα έξω σε τυχαία κατεύθυνση και αποκαλύπτει 3 scatter, σύμβολα δωρεάν περιστροφών, σύμβολα μπόνους ή και έως 5 σύμβολα μπαλαντέρ."
+    },
+    {
+      "2 cherry bombs can appear in free spins revealing super wild or super scatter symbols.": "Κατά τη διάρκεια των δωρεάν περιστροφών μπορεί να εμφανιστούν 2 σύμβολα βόμβες κεράσια , τα οποία αποκαλύπτουν σύμβολα σούπερ μπαλαντέρ ή σούπερ scatter."
+    },
+    {
+      "Substitutes for all non-scatter symbols.": "Υποκαθιστά όλα τα μη ειδικά σύμβολα."
+    },
+    {
+      "Pays 80 coins for 3 symbols.": "Πληρώνει 80 νομίσματα για 3 σύμβολα."
+    },
+    {
+      "Free Spin<br>Awards 9 free spin and 100 coins": "Σύμβολο δωρεάν περιστροφής<br>Απονέμει 9 δωρεάν περιστροφές και 100 νομίσματα."
+    },
+    {
+      "Can appear in the 3 central reels during free spins. Substitute for all regular symbols.": "Μπορεί να εμφανιστεί στους τρεις μεσαίους κυλίνδρους κατά τη διάρκεια των δωρεάν περιστροφών. Υποκαθιστά όλα τα μη ειδικά σύμβολα."
+    },
+    {
+      "1 to 9 symbols can appear in the 3 central reels during free spins. Coins Payout:": "1 έως 9 σύμβολα μπορούν να εμφανιστούν στους 3 κεντρικούς κυλίνδρους κατά τη διάρκεια των δωρεάν περιστροφών. Πληρωμή νομισμάτων:"
+    },
+    {
+      "The bonus symbol can appear in the 3 central reels. Choose from the 5 paths, the higher the number of the path , the higher the risk, but the higher the potential winnings.": "Το σύμβολο μπόνους μπορεί να εμφανιστεί στους 3 κεντρικούς κυλίνδρους. Επιλέξτε κάποιο από τα 5 μονοπάτια. Όσο μεγαλύτερος ο αριθμός, τόσο μεγαλύτερο και το ρίσκο, αλλά και τα δυνητικά κέρδη."
+    },
+    {
+      "Cherry Blast Game Rules": "Κανόνες του παιχνιδιού Cherry Blast"
+    },
+    {
+      "Select one from the 5 paths on the bottom": "Διαλέξτε ένα μονοπάτι επιλέγοντας έναν αριθμό από το 1 έως το 5"
+    },
+    {
+      "the lower the number the lower is the risk": "όσο μικρότερος ο αριθμός, τόσο μικρότερο και το ρίσκο"
+    },
+    {
+      "Special symbols can hide high prize or death": "Οι μοβ μονάδες μπορεί να κρύβουν μεγάλα έπαθλα ή να τερματίζουν τον γύρο μπόνους"
+    },
+    {
+      "Losing spins award a\nfree respin where\nwild reels stick": "ένα σύμβολο βόμβα, εκρήγνυται και αποκαλύπτει\n scatter, σύμβολα δωρεάν περιστροφών,\n σύμβολα μπόνους ή και σύμβολα μπαλαντέρ."
+    },
+    {
+        "No Winning Lines":"Δεν υπάρχουν κέρδη "
+      }
+  ]
+}

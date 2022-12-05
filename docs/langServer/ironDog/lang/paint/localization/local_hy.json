@@ -1,0 +1,51 @@
+{
+  "Messages": [
+    {"Win Up To":"Շահեք մինչև"},
+    {"100,000 Coins":"100,000 մետաղադրամ"},
+    {"Win scatters and multipliers during Free Spin":"Շահեք սքեթեր սիմվոլներ և բազմապատկիչներ Անվճար սփինի ժամանակ"},
+    {
+      "Replace all symbols.": "Փոխարինում է բոլոր սիմվոլներին, բացի Բոնուս կամ Paint առկայծում սիմվոլների։"
+    },
+    {"Appears only on 3th reel.":"Հայտնվում է միայն 3-րդ պտուտակի վրա։"},
+    {"Awards 1 Free Spin.":"Պարգևատրում է 1 Անվճար սփինով։"},
+    {"Can appear during Free Spins.":"Կարող է հայտնվել Անվճար սփիների ժամանակ։"},
+    {"3 or more symbols starts Balloon Bonus":"3+ Բոնուս սիմվոլները հերթական պտուտակների վրա, ձախից աջ, պարգևատրում են Բոնուսով։"},
+    {"Appears only on 1st reel during Free spins.":"Հայտնվում է միայն 1-ին պտուտակի վրա՝ Անվճար սփինի ժամանակ։"},
+    {"Adds x1 to current multiplier.":"Ավելացնում է x1 ընթացիկ բազմապատկիչին։"},
+    {"Awards 10 Coins":"Պարգևատրում է 10 մետաղադրամով"},
+    {"Appears only on 2nd reel during Free spins.":"Հայտնվում է միայն 2-րդ պտուտակի վրա՝ Անվճար սփինի ժամանակ։"},
+    {"Adds x2 to current multiplier.":"Ավելացնում է x2 ընթացիկ բազմապատկիչին։"},
+    {"Awards 10 Coins":"Պարգևատրում է 10 մետաղադրամով"},
+    {"Appears only on 4th reel during Free spins.":"Հայտնվում է միայն 4-րդ պտուտակի վրա՝ Անվճար սփինի ժամանակ։"},
+    {"Adds x3 to current multiplier.":"Ավելացնում է x3 ընթացիկ բազմապատկիչին։"},
+    {"Awards 15 Coins":"Պարգևատրում է 15 մետաղադրամով"},
+    {"Appears only on 5th reel during Free spins.":"Հայտնվում է միայն 5-րդ պտուտակի վրա՝ Անվճար սփինի ժամանակ։"},
+    {"Adds x4 to current multiplier.":"Ավելացնում է x4 ընթացիկ բազմապատկիչին։"},
+    {"Awards 25 Coins":"Պարգևատրում է 25 մետաղադրամով"},
+    {"Shoot as many ballons as you can, the word 'END' will terminate the bonus. The total bonus multiplier depends on the number of icons that triggered the bonus. See game guide for details.":"Շահեք որքան հնարավոր է շատ փուչիկներ, մինչև  'ԱՎԱՐՏ' բառը դադարեցնի բոնուսային խաղը։ Բոնուսի ընդհանուր բազմապատկիչը կախված է բոնուսը մեկնարկած նշանների քանակից։"},
+    {"You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.":"Դուք շահում եք շահող տողի վրա սիմվոլների համընկնելու դեպքում։ Բոլոր սիմվոլները պետք է համընկնեն հերթական պտուտակների վրա ձախից աջ։ Վճարվում է միայն յուրաքանչյուր տողի վրա ամենաբարձր շահումը։ Խափանման դեպքում բոլոր խաղերն ու վճարումերը համարվում են անվավեր։ Լրացուցիչ մանրամասների համար տես խաղի կանոնները ։"},
+    {"BubblePickBonus":"Փուչիկների բոնուս"},
+    {"You have unused Free Spins":"Դուք ունեք չօգտագործված Անվճար սփիներ"},
+    {"They will be automatically started":"Դրանք ավտոմատ կերպով կսկսեն"},
+    {"You have an unfinished Bonus":"Դուք ունեք չավարտված Բոնուս"},
+    {"it will be automatically started":"այն ավտոմատ կերպով կսկսի"},
+    {
+      "Replaces all symbols!": "Փոխարինում է բոլոր սիմվոլներին"
+    },
+    {
+      "*Except for Scatter and Free Spins": "*Բացառությամբ Սքեթեր և Անվճար սփիների"
+    },
+    {
+      "3. X1": "<br>3. - առանց բազային բազմապատկիչի"
+    },
+    {
+      "4. X2": "<br>4. - x2 բազային բազմապատկիչ"
+    },
+    {
+      "5. X3": "<br>5. - x3 բազային բազմապատկիչ"
+    },
+    {
+        "No Winning Lines":"Շահումներ չկան"
+      }
+  ]
+}

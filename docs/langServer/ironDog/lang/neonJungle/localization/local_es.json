@@ -1,0 +1,85 @@
+{
+  "Messages": [
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.":"Podrás ganar si obtienes símbolos idénticos en líneas ganadoras. Todos los símbolos que sean idénticos deben aparecer de izquierda a derecha y de forma consecutiva en los rodillos. Solo se pagará la ganancia más alta de cada línea. Si se produce un error de funcionamiento, se anularán todos los pagos y partidas. Consulta las reglas del juego para obtener más información."
+    },
+    {  
+      "The neon glimmer turning into neon glow on a feature symbol\ror on a winning combination will activate that feature or multiply the winline x4.": "Si la luz tenue de neón se activa y un brillo de neón \rse convierte en un símbolo de función o en una línea ganadora, \ractivará esa función o multiplicará la línea ganadora x4."
+    },
+    {
+      "Special Features - General Image": "Funciones especiales - Imagen general"
+    },
+    {
+      "The neon glimmer turning into neon glow on a feature symbol or on a winning combination will activate that feature or multiply the winline x4.": "Si la luz tenue de neón se activa y un brillo de neón se convierte en un símbolo de función o en una línea ganadora, activará esa función o multiplicará la línea ganadora x4."
+    },
+    {
+      "Wild Symbol": "Símbolo comodín"
+    },
+    {
+      "Wild symbols can complete winning combinations.": "Los símbolos comodín pueden sustituir a cualquier símbolo salvo a scatter, giros gratuitos y bonus."
+    },
+    {
+      "X4 Multiplier": "Multiplicador x4"
+    },
+    {
+      "Neon glow appearing on a winning combination awards a x4 multiplier.\rThis will apply to all active win lines using this symbol.": "El brillo de neón que se activa en una combinación ganadora concede un multiplicador x4.\rEsto ocurrirá en todas las líneas ganadoras activas que utilicen este símbolo."
+    },
+    {
+      "Scatter": "Scatter"
+    },
+    {
+      "Neon glow appearing round a scatter symbol on any position awards 250 coins.\rMultiple scatter symbols showing on the reels will not increase the pay out.": "El brillo de neón que se activa alrededor del símbolo scatter, en cualquier posición en los rodillos, concede 250 monedas.\rSi aparecen múltiples símbolos scatter en los rodillos, no se incrementará el pago."
+    },
+    {
+      "Neon glow appearing around a free spin symbol on any position will award 6 free spins.\rMultiple free spin symbols showing on the reels will not increase the free spins awarded.": "El brillo de neón que se activa alrededor del símbolo de giro gratuito, en cualquier posición en los rodillos, concede 6 giros gratuitos.\rMúltiples símbolos de giro gratuito en los rodillos no incrementarán el número de giros gratuitos concedidos."
+    },
+    {
+      "Bonus": "Bonus"
+    },
+    {
+      "Neon glow appearing on a Bonus symbol in any position on the reels will activate the Keno light bonus round.": "El brillo de neón que se activa alrededor del símbolo de bonus, en cualquier posición en los rodillos, activará el juego de bonificación Keno Light."
+    },
+    {
+      "Bonus Game": "Juego bonus"
+    },
+    {
+      "Manually select or randomly select 10 numbers from the available 28.\rThere will be 15 numbers drawn randomly after pressing start.": "Seleccione manualmente o al azar 10 números de los 28 disponibles.\rDespués de presionar Inicio, se extraerán 15 números al azar del conjunto de 28."
+    },
+    {
+      "Bonus Game Paytable": "Tabla de pagos del juego de bonificación"
+    },
+    {
+      "The amount won is dependent on the amount of numbers drawn that match the selection chose.\rThe amount that will be paid can be seen on the paytable in the game.": "La cantidad ganada dependerá de la cantidad de números extraídos que coincidan con los escogidos.\rLa cantidad que se pagará puede verse en la tabla de pagos del juego de bonificación."
+    },
+    {
+      "Neon Jungle Game Rules": "Reglas del juego Neon Jungle"
+    },
+    {
+      "Please select": "Seleccione"
+    },
+    {
+      "numbers first, or hit Random button": "los números primero o presione el botón Selección aleatoria."
+    },
+    {
+      "You can't select more than": "No puede seleccionar más de"
+    },
+    {
+      "Unselect some numbers first": "Primero quite la selección a algunos números"
+    },
+    {
+      "Still": "Fijo"
+    },
+    {
+      "to pick or Hit Random button to automatically chose for You.": "para escoger o el botón Selección aleatoria para que se escojan automáticamente."
+    },
+    {
+      "Choice complete, you can now hit Start button.": "Una vez completada la selección puede darle al botón de inicio."
+    },
+    {
+      "Pick 10 Numbers or Hit Random button to automatically chose for You.": "Escoja 10 números o presione el botón de selección aleatoria para que se escojan automáticamente."
+    },
+    {
+        "No Winning Lines":"Sin premios"
+      }
+  ]
+}

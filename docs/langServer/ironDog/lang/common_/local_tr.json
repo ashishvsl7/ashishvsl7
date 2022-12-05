@@ -1,0 +1,394 @@
+{
+  "Messages": [
+    {
+      "WIN": "KAZANÇ"
+    },
+    {
+      "BET": "BAHİS"
+    },
+    {
+      "Balance": "Bakiye"
+    },
+    {
+      "Bet:": "Bahis:"
+    },
+    {
+      "Good luck": "iyi şanslar"
+    },
+    {
+      "My Account": "Hesabım"
+    },
+    {
+      "Total won:": "Toplam kazanç:"
+    },
+    {
+      "Coins:": "Jeton:"
+    },
+    {
+      "Something went wrong!": "Bir hata oldu!"
+    },
+    {
+      "Bet over max stake": "Maks. bahisten yüksek bahis"
+    },
+    {
+      "Bet under min stake": "Min. bahisten düşük bahis"
+    },
+    {
+      "Insufficient funds. Please reduce stake.": "Yetersiz bakiye. Lütfen bahsi düşürün"
+    },
+    {
+      "Browser not supported": "Desteklenmeyen tarayıcı"
+    },
+    {
+      "Unfortunately we do not support your web browser. Please update in order to play the game.": "Maalesef tarayıcınızı desteklemiyoruz. Oynamak için lütfen güncelleyin."
+    },
+    {
+      "We could not load the latest results": "En son sonuçları yükleyemedik."
+    },
+    {
+      "Unable to contact game server": "Oyun sunucusuna bağlanılamıyor."
+    },
+    {
+      "Error placing bet": "Bahis koyarken hata"
+    },
+    {
+      "We could not load the language files": "Dil dosyalarını yükleyemedik."
+    },
+    {
+      "We could not load the game assets": "Oyun varlıklarını yükleyemedik."
+    },
+    {
+      "Unable to load setup xml": "Ayar xml dosyası yüklenemedi"
+    },
+    {
+      "We were unable to retrieve the game setup parameters": "Oyun ayar parametrelerini getiremedik"
+    },
+    {
+      "Error Loading Game Setup": "Oyun Ayarlarını Yükleme Hatası"
+    },
+    {
+      "We were unable to retrieve your account information": "Hesap bilgilerinizi getiremedik"
+    },
+    {
+      "Error Loading Account Info": "Hesap Bilgilerini Yükleme Hatası"
+    },
+    {
+      "We were unable to retrieve your bet history": "Bahis geçmişinizi getiremedik"
+    },
+    {
+      "Error Loading Bet History": "Bahis Geçmişi Yükleme Hatası"
+    },
+    {
+      "We were unable to retrieve the current currency symbol": "Geçerli para birimi sembolünü getiremedik"
+    },
+    {
+      "Error Loading Currency Symbol": "Para Birimi Sembolü Yükleme Hatası"
+    },
+    {
+      "Try Again": "Tekrar Deneyin"
+    },
+    {
+      "OK": "Tamam"
+    },
+    {
+      "Got it!": "Anladım!"
+    },
+    {
+      "Lobby": "Lobi"
+    },
+    {
+      "Apparently we’re having some trouble, please try again later.": "Şu an sorun yaşıyoruz, lütfen daha sonra tekrar deneyin."
+    },
+    {
+      "Whoooaaaaa": "Vaayyyy"
+    },
+    {
+      "You’ve been playing for a long time! Don’t you want to take a short break?": "Uzun süredir oyundasın! Biraz ara vermeye ne dersin?"
+    },
+    {
+      "Please rotate your device": "Lütfen cihazınızı döndürün"
+    },
+    {
+      "The time limit you have set has expired, we recommend that you take a short break before continuing. Would you like to continue?": "Belirlediğin süre sınırı sona erdi, devam etmeden önce biraz ara vermeni tavsiye ederiz. Ara vermek ister misin?"
+    },
+    {
+      "You have been playing for": "Şu kadar zamandır oynuyorsun:"
+    },
+    {
+      "Continue Playing": "Oynamaya Devam Et"
+    },
+    {
+      "Exit Game": "Oyundan Çık"
+    },
+    {
+      "Account History": "Hesap Geçmişi"
+    },
+    {
+      "Menu": "Menü"
+    },
+    {
+      "Settings": "Ayarlar"
+    },
+    {
+      "Game History": "Oyun Geçmişi"
+    },
+    {
+      "List of Bets Click One To See Spin": "Bahis Listesi. Döndürmeyi Görmek için Birini Tıkla"
+    },
+    {
+      "Bet": "Bahis"
+    },
+    {
+      "Lines": "Satır"
+    },
+    {
+      "Bet/Lines": "Bahis/Satır"
+    },
+    {
+      "Total Win": "Toplam Kazanç"
+    },
+    {
+      "Winning Lines - Total: ": "Kazanan Satırlar - Toplam:"
+    },
+    {
+      "Losing Lines": "Kaybeden Satırlar"
+    },
+    {
+      "Balance:": "Bakiye:"
+    },
+    {
+      "Playing for real": "Gerçek parayla oynuyorsun"
+    },
+    {
+      "Coins": "Jeton"
+    },
+    {
+      "Cash": "Nakit"
+    },
+    {
+      "Bet Max": "Maks. Bahis"
+    },
+    {
+      "Stop Autoplay": "Oto. Oyunu Durdur"
+    },
+    {
+      "On any win ": "Herhangi bir kazançta"
+    },
+    {
+      "On single win of ": "Şu kadar tekil kazançta:"
+    },
+    {
+      "If cash increase by ": "Nakit şu kadar artarsa:"
+    },
+    {
+      "If cash decrease by ": "Nakit şu kadar azalırsa:"
+    },
+    {
+      "When entering any feature": "Bir mini oyun başladığında"
+    },
+    {
+      "Sounds": "Sesler"
+    },
+    {
+      "Spin Settings": "Döndürme Ayarları"
+    },
+    {
+      "Stop Autoplay": "Oto. Oyunu Durdur"
+    },
+    {
+      "Bet Settings": "Bahis Ayarları"
+    },
+    {
+      "ACCEPTED": "KABUL EDİLDİ"
+    },
+    {
+      "COM FAILURE": "COM HATASI"
+    },
+    {
+      "COMPLETE": "TAMAMLANDI"
+    },
+    {
+      "DECLINED": "REDDEDİLDİ"
+    },
+    {
+      "F1x2SETTLED": "F1x2 SONUÇLANDI"
+    },
+    {
+      "MISSETTLED": "MIS SONUÇLANDI"
+    },
+    {
+      "NOT SETTLED": "SONUÇLANMADI"
+    },
+    {
+      "SUBMITTED": "GÖNDERİLDİ"
+    },
+    {
+      "normal": "normal"
+    },
+    {
+      "win": "kazanç"
+    },
+    {
+      "Date": "Tarih"
+    },
+    {
+      "Time": "Saat"
+    },
+    {
+      "Line": "Satır"
+    },
+    {
+      "Sound Effects": "Ses Efektleri"
+    },
+    {
+      "Background Music": "Arka Plan Müziği"
+    },
+    {
+      "Press Space to Spin": "Döndürmek için Boşluk Tuşuna Bas"
+    },
+    {
+      "Left Handed Spin": "Solak Döndürme"
+    },
+    {
+      "Display in Coins": "Jeton Olarak Göster"
+    },
+    {
+      "Stop on any win": "Herhangi bir kazançta dur"
+    },
+    {
+      "Stop on win of": "Şu kadar kazançta dur:"
+    },
+    {
+      "Stop if cash increases by": "Nakit şu kadar artarsa dur:"
+    },
+    {
+      "Stop if cash decreases by": "Nakit şu kadar azalırsa dur:"
+    },
+    {
+      "Stop when feature entered": "Mini oyuna girince dur"
+    },
+    {
+      "Don't show anymore": "Bir daha gösterme"
+    },
+    {
+      "Continue": "Devam"
+    },
+    {
+      "COMPLETE": "TAMAMLA"
+    },
+    {
+      "win": "kazanç"
+    },
+    {"Congratulations":"Tebrikler"},
+    {"You've won a bonus round":"Bir bonus tur kazandýn"},
+    {"you won":"kazandýn"},
+    {"bonus round":"bonus tur"},
+    {"Good luck!":"Ýyi þanslar!"},
+    {"Multiplier":"Çarpan"},
+    {"Total won":"Toplam kazanç"},
+
+    {
+      "free rounds": "ücretsiz tur"
+    },
+    {
+      "Free Rounds:": "Ücretsiz Tur:"
+    },
+    {
+      "Free Rounds": "Ücretsiz Tur"
+    },
+    {
+      "Loading images please wait...": "Görüntüler yükleniyor, lütfen bekleyin..."
+    },
+
+    {
+      "freespins": "ücretsiz döndürmeler"
+    },
+    {
+      "Free Spin": "Ücretsiz Döndürme"
+    },
+    {
+      "swipe to activate full screen": "Tam ekran için aþaðý kaydýr"
+    },
+    {
+      "Show help screen on load": "Yüklenirken yardým ekranýný göster"
+    },
+    {
+      "Status": "Durum"
+    },
+    {
+      "Channel": "Kanal"
+    },
+    {
+      "Placed": "Koydun"
+    },
+    {
+      "Settled": "Kesinleþti"
+    },
+    {
+      "GUI Descriptions": "Düğme açıklamaları"
+    },
+    {
+      "Help Button": "Yardım düğmesi"
+    },
+    {
+      "Bet Control": "Bahis kontrolü"
+    },
+    {
+      "Autoplay Button": "Oto. Oyunu düğmesi"
+    },
+    {
+      "Autoplay Start Button": "Oto. Oyunu başlama düğmesi"
+    },
+    {
+      "Autoplay Stop Button": "Oto. Oyunu Dur düğmesi"
+    },
+    {
+      "Spin Button": "Döndürme düğmesi"
+    },
+    {
+      "Stop Button": "Dur düğmesi"
+    },
+    {
+      "You've won": "Kazandýn"
+    },
+    {
+      "You won": "Kazandýn"
+    },
+    {
+      "Free spins finished": "Ücretsiz Döndürmeler Bitmiş" 
+    },
+    {
+      "you've won": "kazandýn"
+    },
+    {
+      "Free spins": "Ücretsiz Döndürmeler"
+    },
+    {
+      "Free Spins": "Ücretsiz Döndürmeler"
+    },
+    {
+      "\rActivate sounds?": "Sesler etkinleştirilsin mi?" 
+    },
+    {
+      "Spin No.": "Spin no."
+    },
+    {
+      "Must be set to a value": "Bir değere ayarlanmalıdır"  
+    },
+    {
+      "Game History only available when playing for real": "Oyun Geçmişi yalnızca, gerçek fonlar için oynarken"  
+    },
+    {
+      "You have unused Free Spins": "Kullanılmamış Ücretsiz Döndürmelerin var"
+    },
+    {
+      "They will be automatically started": "Bunlar otomatik olarak başlayacak"
+    },
+    {
+      "You have an unfinished Bonus": "Tamamlanmamış Bonusun var"
+    },
+    {
+      "it will be automatically started": "otomatik olarak başlayacak"
+    }
+  ]
+}

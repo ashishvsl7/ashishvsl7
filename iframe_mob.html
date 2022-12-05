@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-touch-fullscreen" content="yes" />
+<meta name="msapplication-tap-highlight" content="no" />
+<meta name="touch-event-mode" content="native" />
+<meta name="mobile-web-app-capable" content="yes">
+
+<head>
+    <style type="text/css">
+    body {
+        background: #eee;
+        font-family: arial;
+    }
+
+    #mainDiv{
+
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+    .game__icons{
+
+        margin-top: 50px;
+    }
+
+    .level3Params{
+        margin-top: 20px;
+    }
+
+    .standard__params select{
+
+        margin-left: 5px;
+        margin-bottom: 10px;
+    }
+
+    .game__icons a{
+        display: block;
+        margin-top: 10px;
+    }
+
+    iframe{
+       
+    }
+
+    </style>
+    <script type="text/javascript">
+
+    function openGame(gameid) {
+
+        var version = 1;
+        var lang = document.forms['searchOptions'].lang.value;
+        var user = document.forms['searchOptions'].acc_id.value;
+        var funreal = document.forms['searchOptions'].fun_real.value;
+        var installID = document.forms['searchOptions'].install.value;
+        var jurisdiction = document.forms['searchOptions'].jurisdiction.value;
+        var realitycheck_uk_elapsed = document.forms['searchOptions'].realitycheck_uk_elapsed.value;
+        var realitycheck_uk_limit = document.forms['searchOptions'].realitycheck_uk_limit.value;
+        var realitycheck_uk_proceed = document.forms['searchOptions'].realitycheck_uk_proceed.value;
+        var realitycheck_uk_exit = document.forms['searchOptions'].realitycheck_uk_exit.value;
+        var realitycheck_uk_history = document.forms['searchOptions'].realitycheck_uk_history.value;
+        var realitycheck_uk_autospin = document.forms['searchOptions'].realitycheck_uk_autospin.value;
+        var channel = document.forms['searchOptions'].channel.value;
+        var force= document.forms['searchOptions'].force.value;
+        var log= document.forms['searchOptions'].log.value;
+        var confType= document.forms['searchOptions'].launchType.value;
+        var lobbylocation = "http://81.168.64.203/premiumslots/";
+
+
+        var target = '../f1x2games/loadGame.jsp?';
+
+         var isMobile_ = false;//('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch;
+
+        if(isMobile_){
+            target = '../f1x2games/loadMobileGame.jsp?';
+            window.location.href = target + 'gameID=' + gameid + '&lang=' + lang + '&acc_id=' + user + '&playmode=' + funreal + '&lobbyurl=' + lobbylocation + '&installID=' + installID + '&channel=' + channel + '&jurisdiction=' + jurisdiction + '&realitycheck_uk_elapsed=' + realitycheck_uk_elapsed + '&realitycheck_uk_limit=' + realitycheck_uk_limit + '&realitycheck_uk_proceed=' + realitycheck_uk_proceed + '&realitycheck_uk_exit=' + realitycheck_uk_exit + '&realitycheck_uk_history=' + realitycheck_uk_history + '&realitycheck_uk_autospin=' + realitycheck_uk_autospin+'&force='+force+'&confType='+confType+'&log='+log;
+
+        }
+        else{
+            document.getElementById("gameFrame").src = target + 'gameID=' + gameid + '&lang=' + lang + '&acc_id=' + user + '&playmode=' + funreal + '&lobbyurl=' + lobbylocation + '&installID=' + installID + '&channel=' + channel + '&jurisdiction=' + jurisdiction + '&realitycheck_uk_elapsed=' + realitycheck_uk_elapsed + '&realitycheck_uk_limit=' + realitycheck_uk_limit + '&realitycheck_uk_proceed=' + realitycheck_uk_proceed + '&realitycheck_uk_exit=' + realitycheck_uk_exit + '&realitycheck_uk_history=' + realitycheck_uk_history + '&realitycheck_uk_autospin=' + realitycheck_uk_autospin+'&force='+force+'&confType='+confType+'&log='+log;
+        }
+
+        //window.open('loadMobileGame.jsp?gameID='+gameid+'&lang='+lang+'&acc_id='+user+'&network='+network);
+       
+
+
+    }
+    </script>
+</head>
+
+<body>
+    <div class="main__div">
+
+    <h2>Iron Dog</h2>
+
+        <form name="searchOptions">
+            <div id="optionsList" />
+            <div class="standard__params">
+            <select name="channel">
+                <option value="mobile">Mobile</option>
+                <option value="desktop" selected>Desktop</option>
+            </select>
+            <select name="fun_real">
+                <option value="real" selected>Real</option>
+                <option value="fun">Fun</option>
+            </select>
+            <select name="launchType">
+                <option value="1">High</option>
+                <option value="2" selected>Med</option>
+                <option value="3">Low</option>
+            </select>
+            <select name="lang">
+                <option value="en" selected>English</option>
+                <option value="de">German</option>
+                <option value="it">Italian</option>
+                <option value="es">Spanish</option>
+                <option value="ru">Russian</option>
+                <option value="bg">Bulgarian</option>
+                <option value="tr">Turkish</option>
+                <option value="se">Swedish</option>
+                <option value="pt">Portugese</option>
+                <option value="gr">Greek</option>
+                <option value="dk">Danish</option>
+                <option value="pl">Polish</option>
+                <option value="ro">Romanian</option>
+                <option value="cz">Czech</option>
+                <option value="no">Norwegian</option>
+                <option value="su">Finnish</option>
+                <option value="hr">Croat</option>
+                <option value="br">Brazilian</option>
+                <option value="nl">Dutch</option>
+                <option value="fr">French</option>
+                <option value="zs">Chinese (Simplified)</option>
+                <option value="zh">Chinese (Traditional)</option>
+                <option value="vn">Vietnamese</option>
+                <option value="ko">Korean</option>
+                <option value="jp">Japanese</option>
+                <option value="th">Thai</option>
+                <option value="rs">Serbian</option>
+                <option value="hu">Hungarian</option>
+                <option value="uk">Ukranian</option>
+                <option value="sk">Slovak</option>
+                <option value="sl">Slovenian</option>
+                <option value="at">German (at)</option>
+                <option value="us">English (us)</option>
+            </select>
+            <select name="acc_id" id="acc_id">
+                <option value="187346">GBP rich</option>
+                <option value="187347">GBP poor</option>
+                <option value="187348">EUR rich</option>
+                <option value="187349">EUR poor</option>
+                <option value="187350">USD rich</option>
+                <option value="187351">USD poor</option>
+                <option value="15">HKD</option>
+                <option value="SGD">SGD</option>
+                <option value="16">INR</option>
+                <option value="17">ILS</option>
+                <option value="18">JPY</option>
+                <option value="19">NPR</option>
+                <option value="20">KRW</option>
+                <option value="21">THB</option>
+                <option value="43">testTRY</option>
+                <option value="44">testBGN</option>
+                <option value="45">testCAD</option>
+                <option value="46">testCHF</option>
+                <option value="47">testBRL</option>
+                <option value="48">testMXN</option>
+                <option value="49">testRUB</option>
+                <option value="test_VND">testVND</option>
+                <option value="2">Tom</option>
+                <option value="4">Lee</option>
+                <option value="10">Adam</option>
+                <option value="7">Brian</option>
+                <option value="8">Kev</option>
+                <option value="9">Chris</option>
+                <option value="3">Jack</option>
+                <option value="5">Dave</option>
+                <option value="6">Luke</option>
+                <option value="1">Scott</option>
+		<option value="60">Sean</option>
+		<option value="53">Louis</option>
+		<option value="112">Ant</option>
+		<option value="54">Margarita</option>
+		<option value="56">Donnie</option>
+		<option value="52">Fabrizio</option>
+		<option value="58">Callan</option>
+		<option value="101">Sam</option>
+		<option value="102">Will</option>
+		<option value="103">Keely</option>
+		<option value="104">Rukmini</option>
+		<option value="105">Paolo</option>
+		<option value="106">Elisabetta</option>
+		<option value="107">Test1</option>
+		<option value="108">Test2</option>
+		<option value="109">Test3</option>
+		<option value="110">Test4</option>
+		<option value="111">Test5</option>
+
+                <option value="willSEK">willSEK</option>
+		<option value="testText">textText</option>
+            </select>
+            <select name="install">
+                <!--<option value="1">ladbrokes</option>
+                <option value="2">hills</option>
+                <option value="3">365</option>
+                <option value="4">nyx</option>
+                <option value="5">bwin</option>
+                <option value="6">rq</option>-->
+                <option value="7" selected>dev</option>
+                <!--<option value="8">"quick" fire</option>-->
+            </select>
+            <select name="force">
+                <option value="Enable">The Force will be with you. Always</option>
+                <option value="Disable" selected>The Force is weak on you</option>
+            </select>
+            <select name="log">
+                <option value="true">Log</option>
+                <option value="false" selected>No Log</option>
+            </select>
+            </div>
+            <table class="level3Params">
+                <tr>
+                    <td>Select jurisdiction
+                        <td>
+                            <select name="jurisdiction">
+                                <option value="uk">uk</option>
+                                <option value="it">it</option>
+                                <option value="sp">sp</option>
+                                <option value="none">rest of world</option>
+                            </select>
+                </tr>
+                <tr>
+                    <td>Select time elapsed
+                        <td>
+                            <input type="text" name="realitycheck_uk_elapsed" value="0">
+                </tr>
+                <tr>
+                    <td>Select time limit
+                        <td>
+                            <input type="text" name="realitycheck_uk_limit" value="0">
+                </tr>
+                <tr>
+                    <td>Select proceed URL
+                        <td>
+                            <input type="text" name="realitycheck_uk_proceed" value="">
+                </tr>
+                <tr>
+                    <td>Select exit URL
+                        <td>
+                            <input type="text" name="realitycheck_uk_exit" value="">
+                </tr>
+                <tr>
+                    <td>Select history URL
+                        <td>
+                            <input type="text" name="realitycheck_uk_history" value="">
+                </tr>
+                <tr>
+                    <td>Select autospin URL
+                        <td>
+                            <input type="text" name="realitycheck_uk_autospin" value="">
+                </tr>
+            </table>
+    </div>
+    </form>
+
+    <div class="game__icons">
+        <a href="javascript:openGame(7007)">Blood Queen</a>
+        <a href="javascript:openGame(7006)">Neon Jungle</a>
+        <a href="javascript:openGame(7005)">Treasure Of Horus</a>
+        <a href="javascript:openGame(7004)">Gift of Ostara</a>
+        <a href="javascript:openGame(7003)">Cherry Blast</a>
+        <a href="javascript:openGame(7002)">Paint</a>
+        <a href="javascript:openGame(7001)">Cosmic Crystals</a>
+    </div>
+    </div>
+    <iframe id="gameFrame" src="" width="100%" height="100%" scrolling="no" noresize="noresize"></iframe>
+</body>
+
+</html>

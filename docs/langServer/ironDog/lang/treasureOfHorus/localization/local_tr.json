@@ -1,0 +1,73 @@
+{
+  "Messages": [
+    {
+      "Good luck": "Bol şans"
+    },
+    {
+      "Free spins!": "Bedava dönüşler!"
+    },
+    {
+      "Balance : ": "Denge : "
+    },
+    {
+      "Must be greater than current stake": "Mevcut bahisten daha büyük olmalıdır"
+    },
+    {
+      "Awards 6 free spins": "6 bedava dönüş kazandırır"
+    },
+    {
+      "Treasure of Horus Game Rules": "Treasure of Horus Oyun Kuralları"
+    },
+    {
+      "Discover the 3 hidden chambers,\ryou'll find different Wild multipliers and a precious Scatter": "3 gizli bölmeyi keşfedin,\rfarklı Joker çarpanları ve bir kıymetli Saçılı bulacaksınız"
+    },
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "Kazanmak için kazanan hatlarda sembolleri eşleştirin. Tüm standart semboller, ardışık çarklarda solda sağa doğru eşleşmelidir. Sadece her hatta oluşan en yüksek kazanç ödenir. Arıza, tüm ödemeleri ve oyunları geçersiz kılar. Daha fazla ayrıntı için oyun kurallarına göz atın."
+    },
+    {
+      "Replaces and multiplies regular winning combinations.": "Normal kazanan kombinasyonların yerini alır ve mislini verir."
+    },
+    {
+      "Can appear in the regular game and in all free spins chambers.": "Normal oyunda ve tüm bedava dönüş bölmelerinde belirebilir."
+    },
+    {
+      "If more than one wild is displayed on the reels completing winning combinations, the higher multiplier is applied.": "Birden fazla joker kazanan kombinasyonları tamamlayan çarklarda görüntülenirse, daha yüksek bir çarpan uygulanır."
+    },
+    {
+      "Wild has its own paytable.": "Jokerin kendine ait bir ödeme tablosu vardır."
+    },
+    {
+      "Can only appear inside Weret and Horus chamber.": "Yalnızca Weret ve Horus bölmesi içerisinde belirebilir."
+    },
+    {
+      "Can only appear inside Horus chamber.": "Yalnızca Horus bölmesi içerisinde belirebilir."
+    },
+    {
+      "Can only appear in the central reel in the regular game.": "Normal oyunda yalnızca merkezi çarkta belirebilir."
+    },
+    {
+      "Awards 6 free spins.": "6 bedava dönüş kazandırır."
+    },
+    {
+      "Enters Anubis chamber.": "Anubis bölmesine girer."
+    },
+    {
+      "Can only appear in the central reel inside Anubis chamber.": "Anubis bölmesi içerisinde yalnızca merkezi çarkta belirebilir."
+    },
+    {
+      "Enters Weret chamber.": "Weret bölmesine girer."
+    },
+    {
+      "Can only appear in the central reel inside Weret chamber.": "Weret bölmesi içerisinde yalnızca merkezi çarkta belirebilir."
+    },
+    {
+      "Enters Horus chamber.": "Horus bölmesine girer."
+    },
+    {
+      "Explore the Pyramid in search of the 3 secret chambers, where ever bigger treasures are waiting for you.": "3 gizli bölme arayışıyla daha büyük hazinelerin sizi bekliyor olduğu Piramit'i keşfedin."
+    },
+       {
+        "No Winning Lines":"Kazanç Yok"
+      }
+  ]
+}

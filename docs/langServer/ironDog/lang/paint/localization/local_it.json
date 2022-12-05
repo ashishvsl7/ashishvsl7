@@ -1,0 +1,47 @@
+{
+  "Messages": [
+    {"Win Up To":"Vinci fino a"},
+    {"100,000 Coins":"100.000 Gettoni"},
+    {"Win scatters and multipliers during Free Spin":"Vinci Scatter e moltiplicatori durante il Giro Gratis"},
+    {
+      "Replace all symbols.": "Sostituisce tutti i simboli."
+    },
+    {"Appears only on 3th reel.":"Compare solo sul 3° rullo."},
+    {"Awards 1 Free Spin.":"Assegna 1 Giro Gratis."},
+    {"Can appear during Free Spins.":"Può comparire durante i Giri Gratis."},
+    {"3 or more symbols starts Balloon Bonus":"3+ simboli bonus su rulli consecutivi da sinistra a destra, avviano il Bonus Balloon"},
+    {"Appears only on 1st reel during Free spins.":"Appare solo sul 1° rullo durante i Giri Gratis."},
+    {"Adds x1 to current multiplier.":"Aggiunge x1 al moltiplicatore attuale."},
+    {"Awards 10 Coins":"Assegna 10 Gettoni"},
+    {"Appears only on 2nd reel during Free spins.":"Appare solo sul 2° rullo durante i Giri Gratis."},
+    {"Adds x2 to current multiplier.":"Aggiunge x2 al moltiplicatore attuale."},
+    {"Awards 10 Coins":"Assegna 10 Gettoni"},
+    {"Appears only on 4th reel during Free spins.":"Appare solo sul 4° rullo durante i Giri Gratis."},
+    {"Adds x3 to current multiplier.":"Aggiunge x3 al moltiplicatore attuale."},
+    {"Awards 15 Coins":"Assegna 15 Gettoni"},
+    {"Appears only on 5th reel during Free spins.":"Appare solo sul 5° rullo durante i Giri Gratis."},
+    {"Adds x4 to current multiplier.":"Aggiunge x4 al moltiplicatore attuale."},
+    {"Awards 25 Coins":"Assegna 25 Gettoni"},
+    {"Shoot as many ballons as you can, the word 'END' will terminate the bonus. The total bonus multiplier depends on the number of icons that triggered the bonus. See game guide for details.":"Colpisci più palloncini possibile. La parola ‘END’ terminerà il Bonus. Il moltiplicatore totale del Bonus dipende dal numero di icone che hanno attivato il Bonus. Per maggiori informazioni, consulta la guida del gioco."},
+    {"You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.":"Vinci abbinando simboli sulle linee di vincita. Tutti i simboli abbinati devono essere disposti su rulli consecutivi, da sinistra a destra. Viene pagata solo la vincita più alta per linea. I malfunzionamenti annullano puntate e vincite. Per maggiori informazioni, consulta le regole del gioco."},
+    {"You have unused Free Spins":"Hai Giri Gratis non utilizzati"},
+    {"They will be automatically started":"Saranno avviati automaticamente"},
+    {"You have an unfinished Bonus":"Hai un Bonus non completato"},
+    {"it will be automatically started":"Sarà avviato automaticamente"},
+    {
+      "Replaces all symbols!": "Sostituisce tutti i simboli!"
+    },
+    {
+      "*Except for Scatter and Free Spins": "*Tranne Scatter e Giri Gratis"
+    },
+    {
+      "3. X1": "<br>3. - senza moltiplicatore"
+    },
+    {
+      "4. X2": "<br>4. - x2 moltiplicatore"
+    },
+    {
+      "5. X3": "<br>5. - x3 moltiplicatore"
+    }
+  ]
+}

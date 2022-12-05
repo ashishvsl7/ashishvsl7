@@ -1,0 +1,85 @@
+{
+  "Messages": [
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.":"Κερδίζετε αντιστοιχίζοντας σύμβολα σε γραμμές κέρδους. Όλα τα σύμβολα πρέπει να αντιστοιχιστούν σε διαδοχικούς κυλίνδρους από τα αριστερά προς τα δεξιά. Θα καταβληθεί μόνο το μεγαλύτερο κέρδος σε κάθε γραμμή. Τυχόν δυσλειτουργία ακυρώνει όλες τις πληρωμές και τα παιχνίδια. Ανατρέξτε στους κανόνες του παιχνιδιού για περισσότερες λεπτομέρειες."
+    },
+    {  
+      "The neon glimmer turning into neon glow on a feature symbol\ror on a winning combination will activate that feature or multiply the winline x4.": "Αν η λάμψη που εκπέμπει το νέον μετατραπεί σε φως που εκπέμπει το νέον σε ένα \rσύμβολο λειτουργίας ή σε μια νικηφόρα γραμμή κέρδους θα ενεργοποιηθεί \rη εν λόγω λειτουργία ή θα πολλαπλασιαστεί η γραμμή κέρδους x4."
+    },
+    {
+      "Special Features - General Image": "Ειδικές Λειτουργίες - Γενική Εικόνα"
+    },
+    {
+      "The neon glimmer turning into neon glow on a feature symbol or on a winning combination will activate that feature or multiply the winline x4.": "Αν η λάμψη που εκπέμπει  το νέον σε ένα σύμβολο λειτουργίας ή σε έναν νικητήριο συνδυασμό θα ενεργοποιηθεί η εν λόγω λειτουργία ή το έπαθλο θα πολλαπλασιαστεί x4."
+    },
+    {
+      "Wild Symbol": "Σύμβολο Μπαλαντέρ"
+    },
+    {
+      "Wild symbols can complete winning combinations.": "Τα σύμβολα μπαλαντέρ μπορούν να υποκαθιστούν οποιοδήποτε σύμβολο εκτός από τα σύμβολα «Scatter», «Δωρεάν Περιστροφών» και «Μπόνους»."
+    },
+    {
+      "X4 Multiplier": "Πολλαπλασιαστής X4"
+    },
+    {
+      "Neon glow appearing on a winning combination awards a x4 multiplier.\rThis will apply to all active win lines using this symbol.": "Όταν το φως που εκπέμπει το νέον ενεργοποιείται γύρω σε έναν νικητήριο συνδυασμό χαρίζει έναν πολλαπλασιαστή x4.\rΑυτό θα ισχύει για όλες τις ενεργείς γραμμές κέρδους που χρησιμοποιούν αυτό το σύμβολο."
+    },
+    {
+      "Scatter": "Scatter"
+    },
+    {
+      "Neon glow appearing round a scatter symbol on any position awards 250 coins.\rMultiple scatter symbols showing on the reels will not increase the pay out.": "Όταν το φως που εκπέμπει το νέον ενεργοποιείται γύρω από ένα σύμβολο «Scatter», σε οποιαδήποτε θέση, χαρίζονται 250 νομίσματα.\rΣτην περίπτωση που εμφανίζονται πολλά σύμβολα scatter στους κυλίνδρους δεν θα αυξηθεί η πληρωμή."
+    },
+    {
+      "Neon glow appearing around a free spin symbol on any position will award 6 free spins.\rMultiple free spin symbols showing on the reels will not increase the free spins awarded.": "Όταν το φως που εκπέμπει το νέον ενεργοποιείται γύρω από ένα σύμβολο «Δωρεάν Περιστροφών» χαρίζονται 6 δωρεάν περιστροφές."
+    },
+    {
+      "Bonus": "Μπόνους"
+    },
+    {
+      "Neon glow appearing on a Bonus symbol in any position on the reels will activate the Keno light bonus round.": "Όταν το φως που εκπέμπει το νέον ενεργοποιείται γύρω από ένα σύμβολο μπόνους, σε οποιαδήποτε θέση στους κυλίνδρους, ενεργοποιείται το μπόνους παιχνίδι Keno Light."
+    },
+    {
+      "Bonus Game": "Μπόνους Παιχνίδι"
+    },
+    {
+      "Manually select or randomly select 10 numbers from the available 28.\rThere will be 15 numbers drawn randomly after pressing start.": "Επιλέξτε χειροκίνητα ή τυχαία 10 αριθμούς από τους συνολικά 28 που είναι διαθέσιμοι.\rΑφού πατήσετε εκκίνηση 15 αριθμοί θα κληρωθούν τυχαία από το σύνολο των 28."
+    },
+    {
+      "Bonus Game Paytable": "Πίνακας Πληρωμών Μπόνους Παιχνιδιού"
+    },
+    {
+      "The amount won is dependent on the amount of numbers drawn that match the selection chose.\rThe amount that will be paid can be seen on the paytable in the game.": "Το ποσό που κερδίζετε εξαρτάται από την ποσότητα των αριθμών που κληρώνονται και αντιστοιχούν στους αριθμούς που επιλέξατε.\rΜπορείτε να δείτε το ποσό που θα πληρωθεί στον Πίνακα Πληρωμών του Μπόνους Παιχνιδιού."
+    },
+    {
+      "Neon Jungle Game Rules": "Κανόνες Παιχνιδιού Neon Jungle"
+    },
+    {
+      "Please select": "Παρακαλούμε επιλέξτε"
+    },
+    {
+      "numbers first, or hit Random button": "πρώτα τους αριθμούς, ή πατήστε το κουμπί Τυχαία"
+    },
+    {
+      "You can't select more than": "Δεν μπορείτε να επιλέξετε πάνω από"
+    },
+    {
+      "Unselect some numbers first": "Πρώτα αποεπιλέξτε κάποιους αριθμούς"
+    },
+    {
+      "Still": "Ακόμα"
+    },
+    {
+      "to pick or Hit Random button to automatically chose for You.": "για να επιλέξετε ή πατήστε το κουμπί Τυχαία για να επιλέξει αυτόματα για σας."
+    },
+    {
+      "Choice complete, you can now hit Start button.": "Η επιλογή ολοκληρώθηκε, τώρα μπορείτε να πατήσετε το κουμπί Εκκίνηση."
+    },
+    {
+      "Pick 10 Numbers or Hit Random button to automatically chose for You.": "Επιλέξτε 10 αριθμούς ή πατήστε το κουμπί Τυχαία για να επιλέξει αυτόματα για σας."
+    },
+    {
+        "No Winning Lines":"Δεν υπάρχουν κέρδη "
+      }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "Messages": [
+    {
+      "Good luck": "Bol şans"
+    },
+    {
+      "Symbols": "Semboller"
+    },
+    {
+      "Egg Value": "Yumurta Değeri"
+    },
+    {
+      "Mltiplier won": "Kazanılan çarpan"
+    },
+    {
+      "Line won": "Hat kazançları"
+    },
+    {
+      "Free spins!": "Bedava dönüşler!"
+    },
+    {
+      "free re-spins": "bedava yeniden dönüşler"
+    },
+    {
+      "Swipe down To full screen": "Tam ekran için aşağı kaydırın"
+    },
+    {
+      "rotate to exit": "çıkmak için döndürün"
+    },
+    {
+      "Swipe to spin": "Döndürmek için kaydırın"
+    },
+    {
+      "Balance : ": "Denge : "
+    },
+    {
+      "Must be set to a value": "Bir değere ayarlanmalıdır"
+    },
+    {
+      "Must be greater than current stake": "Mevcut paydan daha fazla olmalıdır"
+    },
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "Kazanmak için kazanan hatlarda sembolleri eşleştirin. Tüm semboller, ardışık çarklarda solda sağa doğru eşleşmelidir. Sadece her hatta oluşan en yüksek kazanç ödenir. Arıza, tüm ödemeleri ve oyunları geçersiz kılar. Daha fazla ayrıntı için oyun kurallarına göz atın."
+    },
+    {
+      "Golden egg reveals special prize eggs": "Altın yumurta özel ödül yumurtaları ortaya çıkartır"
+    },
+    {
+      "X Multiplier<br>Awards a 2x, 4x, 6x, 8x, 10x bet multiplier": "X Çarpan<br>2x, 4x, 6x, 8x, 10x bahis çarpanı kazandırır"
+    },
+    {
+      "Re-Spin<br>Awards 1 free re-spin": "Gümüş Tavşan<br>1 bedava yeniden dönüş kazandırır"
+    },
+    {
+      "Scatter<br>Awards 30x bet multiplier": "Altın Tavşan<br>30x bahis çarpanı kazandırır"
+    },
+    {
+      "Wild<br>Completes winning combinations": "Joker<br>Çark 2,3,4 üzerinde standart sembollere karşılık gelerek açılan joker"
+    },
+    {
+      "Sticky Wild<br>Awards 3 free spins and completes winning combinations": "Yapışkan Joker<br>3 bedava dönüş ve çarklar 2,3,4 üzerinden herhangi birinde standart sembollere karşılık gelerek genişleyen bir joker kazandırır"
+    },
+    {
+      "Expanding Wild": "Genişleyen Joker"
+    },
+    {
+      "x1": "1x"
+    },
+    {
+      "x2": "2x"
+    },
+    {
+      "x3": "3x"
+    },
+    {
+      "x4": "4x"
+    },
+    {
+      "x5": "5x"
+    },
+    {
+      "3 egg symbols in a row of the same type award 10 free spins special symbol egg on the reel award special symbol multiplier": "Bir sırada aynı türden 3 yumurta sembolü 10 bedava dönüş kazandırır. Çarktaki özel sembol yumurtası özel sembol çarpanı kazandırır."
+    },
+    {
+      "Gifts of Ostara Game Rules": "Gifts of Ostara Oyun Kuralları"
+    },
+    {
+      "HOLD": "TUT"
+    },
+       {
+        "No Winning Lines":"Kazanç Yok"
+      }
+  ]
+}

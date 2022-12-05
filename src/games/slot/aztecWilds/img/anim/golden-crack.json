@@ -1,0 +1,620 @@
+{"frames": [
+
+{
+	"filename": "goldenCrack_00000.png",
+	"frame": {"x":1418,"y":0,"w":175,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":71,"w":175,"h":231},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00001.png",
+	"frame": {"x":1593,"y":0,"w":177,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":71,"w":177,"h":231},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00002.png",
+	"frame": {"x":1770,"y":0,"w":177,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":71,"w":177,"h":231},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00003.png",
+	"frame": {"x":178,"y":229,"w":177,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":71,"w":177,"h":232},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00004.png",
+	"frame": {"x":355,"y":229,"w":177,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":71,"w":177,"h":232},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00005.png",
+	"frame": {"x":532,"y":230,"w":178,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":70,"w":178,"h":233},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00006.png",
+	"frame": {"x":710,"y":230,"w":178,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":70,"w":178,"h":233},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00007.png",
+	"frame": {"x":888,"y":230,"w":178,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":70,"w":178,"h":233},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00008.png",
+	"frame": {"x":1066,"y":230,"w":178,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":70,"w":178,"h":233},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00009.png",
+	"frame": {"x":1422,"y":231,"w":178,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":69,"w":178,"h":234},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00010.png",
+	"frame": {"x":1600,"y":231,"w":178,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":69,"w":178,"h":234},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00011.png",
+	"frame": {"x":1778,"y":231,"w":178,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":69,"w":178,"h":234},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00012.png",
+	"frame": {"x":0,"y":460,"w":178,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":69,"w":178,"h":234},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00013.png",
+	"frame": {"x":714,"y":463,"w":179,"h":236},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":68,"w":179,"h":236},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00014.png",
+	"frame": {"x":893,"y":463,"w":179,"h":236},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":68,"w":179,"h":236},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00015.png",
+	"frame": {"x":1072,"y":464,"w":179,"h":236},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":68,"w":179,"h":236},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00016.png",
+	"frame": {"x":1789,"y":465,"w":180,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":68,"w":180,"h":237},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00017.png",
+	"frame": {"x":180,"y":698,"w":180,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":67,"w":180,"h":238},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00018.png",
+	"frame": {"x":900,"y":700,"w":181,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":67,"w":181,"h":239},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00019.png",
+	"frame": {"x":1081,"y":701,"w":181,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":67,"w":181,"h":239},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00020.png",
+	"frame": {"x":1262,"y":701,"w":181,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":67,"w":181,"h":239},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00021.png",
+	"frame": {"x":181,"y":936,"w":181,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":67,"w":181,"h":240},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00022.png",
+	"frame": {"x":362,"y":937,"w":182,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":67,"w":182,"h":240},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00023.png",
+	"frame": {"x":1274,"y":940,"w":182,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":66,"w":182,"h":241},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00024.png",
+	"frame": {"x":1822,"y":941,"w":181,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":65,"w":181,"h":242},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00025.png",
+	"frame": {"x":0,"y":1175,"w":181,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":65,"w":181,"h":242},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00026.png",
+	"frame": {"x":1096,"y":1181,"w":182,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":64,"w":182,"h":243},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00027.png",
+	"frame": {"x":1278,"y":1182,"w":182,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":64,"w":182,"h":243},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00028.png",
+	"frame": {"x":1460,"y":1182,"w":182,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":64,"w":182,"h":243},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00029.png",
+	"frame": {"x":181,"y":1177,"w":183,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":64,"w":183,"h":242},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00030.png",
+	"frame": {"x":1456,"y":941,"w":183,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":64,"w":183,"h":241},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00031.png",
+	"frame": {"x":1639,"y":941,"w":183,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":64,"w":183,"h":241},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00032.png",
+	"frame": {"x":364,"y":1177,"w":183,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":64,"w":183,"h":242},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00033.png",
+	"frame": {"x":1642,"y":1183,"w":183,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":64,"w":183,"h":243},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00034.png",
+	"frame": {"x":0,"y":1419,"w":184,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":64,"w":184,"h":243},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00035.png",
+	"frame": {"x":367,"y":1421,"w":185,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":64,"w":185,"h":244},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00036.png",
+	"frame": {"x":1662,"y":1426,"w":186,"h":246},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":63,"w":186,"h":246},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00037.png",
+	"frame": {"x":1290,"y":1425,"w":186,"h":245},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":64,"w":186,"h":245},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00038.png",
+	"frame": {"x":1476,"y":1426,"w":186,"h":245},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":64,"w":186,"h":245},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00039.png",
+	"frame": {"x":552,"y":1422,"w":185,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":64,"w":185,"h":244},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00040.png",
+	"frame": {"x":737,"y":1422,"w":184,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":64,"w":184,"h":244},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00041.png",
+	"frame": {"x":921,"y":1424,"w":185,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":64,"w":185,"h":244},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00042.png",
+	"frame": {"x":1106,"y":1425,"w":184,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":64,"w":184,"h":244},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00043.png",
+	"frame": {"x":1825,"y":1183,"w":183,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":65,"w":183,"h":243},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00044.png",
+	"frame": {"x":184,"y":1419,"w":183,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":65,"w":183,"h":243},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00045.png",
+	"frame": {"x":547,"y":1179,"w":183,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":65,"w":183,"h":242},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00046.png",
+	"frame": {"x":730,"y":1180,"w":183,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":65,"w":183,"h":242},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00047.png",
+	"frame": {"x":913,"y":1180,"w":183,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":65,"w":183,"h":242},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00048.png",
+	"frame": {"x":544,"y":937,"w":183,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":66,"w":183,"h":240},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00049.png",
+	"frame": {"x":727,"y":939,"w":183,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":66,"w":183,"h":240},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00050.png",
+	"frame": {"x":910,"y":940,"w":182,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":66,"w":182,"h":240},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00051.png",
+	"frame": {"x":1092,"y":940,"w":182,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":66,"w":182,"h":240},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00052.png",
+	"frame": {"x":1443,"y":701,"w":182,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":67,"w":182,"h":239},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00053.png",
+	"frame": {"x":1625,"y":702,"w":181,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":67,"w":181,"h":239},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00054.png",
+	"frame": {"x":1806,"y":702,"w":181,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":67,"w":181,"h":239},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00055.png",
+	"frame": {"x":0,"y":936,"w":181,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":67,"w":181,"h":239},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00056.png",
+	"frame": {"x":360,"y":698,"w":180,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":68,"w":180,"h":238},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00057.png",
+	"frame": {"x":540,"y":699,"w":180,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":68,"w":180,"h":238},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00058.png",
+	"frame": {"x":720,"y":699,"w":180,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":68,"w":180,"h":238},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00059.png",
+	"frame": {"x":0,"y":695,"w":180,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":69,"w":180,"h":237},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00060.png",
+	"frame": {"x":1251,"y":465,"w":180,"h":236},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":69,"w":180,"h":236},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00061.png",
+	"frame": {"x":1431,"y":465,"w":179,"h":236},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":69,"w":179,"h":236},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00062.png",
+	"frame": {"x":1610,"y":465,"w":179,"h":236},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":69,"w":179,"h":236},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00063.png",
+	"frame": {"x":356,"y":463,"w":179,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":69,"w":179,"h":235},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00064.png",
+	"frame": {"x":535,"y":463,"w":179,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":69,"w":179,"h":235},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00065.png",
+	"frame": {"x":178,"y":461,"w":178,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":69,"w":178,"h":234},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00066.png",
+	"frame": {"x":1244,"y":231,"w":178,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":69,"w":178,"h":233},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00067.png",
+	"frame": {"x":0,"y":229,"w":178,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":70,"w":178,"h":231},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00068.png",
+	"frame": {"x":533,"y":0,"w":178,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":70,"w":178,"h":230},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00069.png",
+	"frame": {"x":0,"y":0,"w":178,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":71,"w":178,"h":229},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00070.png",
+	"frame": {"x":178,"y":0,"w":178,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":71,"w":178,"h":229},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00071.png",
+	"frame": {"x":356,"y":0,"w":177,"h":229},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":71,"w":177,"h":229},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00072.png",
+	"frame": {"x":711,"y":0,"w":177,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":71,"w":177,"h":230},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00073.png",
+	"frame": {"x":888,"y":0,"w":177,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":71,"w":177,"h":230},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00074.png",
+	"frame": {"x":1065,"y":0,"w":177,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":71,"w":177,"h":230},
+	"sourceSize": {"w":375,"h":375}
+},
+{
+	"filename": "goldenCrack_00075.png",
+	"frame": {"x":1242,"y":0,"w":176,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":71,"w":176,"h":230},
+	"sourceSize": {"w":375,"h":375}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "golden-crack.png",
+	"format": "RGBA8888",
+	"size": {"w":2008,"h":1672},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:10dd0555a923cabd442ffdac8b92b99c:d2099e71b6a6f990db7c6b24bcf0567f:2f10bab13f5dc4833bbcfdc82bd8ac71$"
+}
+}

@@ -1,0 +1,49 @@
+{
+  "Messages": [
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "Необходимо собрать одинаковые символы на выигрышных линиях, чтобы выиграть. Символы должны совпадать на следующих друг за другом барабанах слева направо. Выплачивается только самый высокий выигрыш на каждой линии. При сбое все игры и выплаты аннулируются. С подробной информацией можно ознакомиться в правилах игры."
+    },
+    {
+      "A bomb symbol can appear on the central position on the reels, which will explode outwards in a random direction revealing 3 scatters, Free Spin symbols, Bonus symbols, or up to 5 wild symbols.": "В центральной позиции барабанов может выпасть символ бомбы, который взрывается в произвольном направлении и открывает или 3 разбрасываемых символа, или символы бесплатных вращений, или символы бонуса или до 5 символов-заменителей."
+    },
+    {
+      "2 cherry bombs can appear in free spins revealing super wild or super scatter symbols.": "Во время бесплатных вращений могут выпасть 2 символа бомбы с вишнями и открыть символы супер-заменители или супер разбрасываемые символы."
+    },
+    {
+      "Substitutes for all non-scatter symbols.": "Заменяет все обычные символы."
+    },
+    {
+      "Pays 80 coins for 3 symbols.": "За 3 символа выплачивается 80 монет."
+    },
+    {
+      "Free Spin<br>Awards 9 free spin and 100 coins": "Символ бесплатных вращений<br>Присуждает 9 бесплатных вращений а также 100 монет."
+    },
+    {
+      "Can appear in the 3 central reels during free spins. Substitute for all regular symbols.": "Может выпасть на трех средних барабанах во время бесплатных вращений. Заменяет все обычные символы."
+    },
+    {
+      "1 to 9 symbols can appear in the 3 central reels during free spins. Coins Payout:": "Во время бесплатных вращений на 3 центральных барабанах может выпасть от 1 до 9 символов. Выплаты в монетах:"
+    },
+    {
+      "The bonus symbol can appear in the 3 central reels. Choose from the 5 paths, the higher the number of the path , the higher the risk, but the higher the potential winnings.": "бонуса может выпасть на 3 центральных барабанах. Выберите один из 5 путей. Чем больше номер пути, тем выше риск, но и выше потенциальные выигрыши."
+    },
+    {
+      "Cherry Blast Game Rules": "Cherry Blast Правила игры"
+    },
+    {
+      "Select one from the 5 paths on the bottom": "Выберите путь, указав номер от 1 до 5."
+    },
+    {
+      "the lower the number the lower is the risk": "Чем меньше номер, тем меньше риск."
+    },
+    {
+      "Special symbols can hide high prize or death": "За фиолетовыми символами могут скрываться призы или конец бонусного раунда."
+    },
+    {
+      "Losing spins award a\nfree respin where\nwild reels stick": "символ бомбы, взрывается и открывает или\n разбрасываемых символа, или символы бесплатных вращений,\n или символы бонуса или символов-заменителей."
+    },
+       {
+        "No Winning Lines":"Nema dobitaka"
+      }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "Messages": [
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.":"Du vinner ved å matche symboler på gevinstlinjene. Alle symboler på matches på sammenhengende hjul fra venstre til høyre. Kun den høyest mulige gevinsten på hver linje betales. Funksjonsfeil annullerer alle utbetalinger og spill. Se spillereglene for flere opplysninger."
+    },
+    {  
+      "The neon glimmer turning into neon glow on a feature symbol\ror on a winning combination will activate that feature or multiply the winline x4.": "Dersom neonglitter aktiveres til neonglød på et \rfunksjonssymbol eller på en vinnende gevinstlinje, \rså vil den aktivere funksjonen som multipliserer gevinstlinjen 4x."
+    },
+    {
+      "Special Features - General Image": "Spesialfunksjoner – Generelt bilde"
+    },
+    {
+      "The neon glimmer turning into neon glow on a feature symbol or on a winning combination will activate that feature or multiply the winline x4.": "Neonglitter som endres til neonglød på et funksjonssymbol eller i en vinnerkombinasjon aktiverer den funksjonen eller gir 4x multiplikator."
+    },
+    {
+      "Wild Symbol": "Jokersymbol"
+    },
+    {
+      "Wild symbols can complete winning combinations.": "Jokersymboler kan erstatte for alle andre symboler unntatt ‘spredte’, ‘gratisspinn’ og ‘bonus’."
+    },
+    {
+      "X4 Multiplier": "4X multiplikator"
+    },
+    {
+      "Neon glow appearing on a winning combination awards a x4 multiplier.\rThis will apply to all active win lines using this symbol.": "Neonglød gitt på en vinnerkombinasjon gir en 4x multiplikator.\rDette gjelder for alle aktive gevinstlinjer som benytter dette symbolet."
+    },
+    {
+      "Scatter": "Spredte"
+    },
+    {
+      "Neon glow appearing round a scatter symbol on any position awards 250 coins.\rMultiple scatter symbols showing on the reels will not increase the pay out.": "Neonglød aktivert rundt ‘spredte’-symbolet i en vilkårlig posisjon gir 250 mynter.\rFlere spredte symboler som vises på hjulene øker ikke utbetalingen."
+    },
+    {
+      "Neon glow appearing around a free spin symbol on any position will award 6 free spins.\rMultiple free spin symbols showing on the reels will not increase the free spins awarded.": "Neonglød aktivert rundt et ‘gratisspinn’-symbol på en posisjon gir 6 gratisspinn.\rFlere ‘gratisspinn’-symboler som vises på hjulene øker ikke antallet tildelte gratisspinn."
+    },
+    {
+      "Bonus": "Bonus"
+    },
+    {
+      "Neon glow appearing on a Bonus symbol in any position on the reels will activate the Keno light bonus round.": "Neonglød aktivert rundt et bonussymbol på en vilkårlig posisjon på hjulene aktiverer kenolys-bonusrunden."
+    },
+    {
+      "Bonus Game": "Bonusspill"
+    },
+    {
+      "Manually select or randomly select 10 numbers from the available 28.\rThere will be 15 numbers drawn randomly after pressing start.": "Velg manuelt eller tilfeldig 10 tall fra 28 tilgjengelige.\rEtter å ha trykket start trekkes 15 tall tilfeldig fra det utvalg på 28."
+    },
+    {
+      "Bonus Game Paytable": "Bonusspillets utbetalingstabell"
+    },
+    {
+      "The amount won is dependent on the amount of numbers drawn that match the selection chose.\rThe amount that will be paid can be seen on the paytable in the game.": "Vinnerbeløpet avhenger av antall tall trukket som matcher de valgte tallene.\rBeløpet som utbetales vises i bonusspillets utbetalingstabell."
+    },
+    {
+      "Neon Jungle Game Rules": "Neon Jungle-spillregler"
+    },
+    {
+      "Please select": "Vennligst velg"
+    },
+    {
+      "numbers first, or hit Random button": "tallene først, eller trykk på tilfeldigknappen"
+    },
+    {
+      "You can't select more than": "Du kan ikke velge mer enn"
+    },
+    {
+      "Unselect some numbers first": "Avvelge noen tall først"
+    },
+    {
+      "Still": "Fortsatt"
+    },
+    {
+      "to pick or Hit Random button to automatically chose for You.": "må det velges eller trykkes på tilfeldigknappen så det velges automatisk for deg."
+    },
+    {
+      "Choice complete, you can now hit Start button.": "Valgene fullført, nå kan du trykke på startknappen."
+    },
+    {
+      "Pick 10 Numbers or Hit Random button to automatically chose for You.": "Velg 10 tall eller trykk på tilfeldigknappen så det velges automatisk for deg."
+    },
+       {
+        "No Winning Lines":"Ingen gevinst"
+      }
+  ]
+}

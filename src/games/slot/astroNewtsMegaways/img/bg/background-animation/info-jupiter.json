@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "info-jupiter_00048.png",
+	"frame": {"x":0,"y":0,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00049.png",
+	"frame": {"x":0,"y":85,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00050.png",
+	"frame": {"x":0,"y":170,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00051.png",
+	"frame": {"x":0,"y":255,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00052.png",
+	"frame": {"x":0,"y":340,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00053.png",
+	"frame": {"x":0,"y":425,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00054.png",
+	"frame": {"x":0,"y":510,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00055.png",
+	"frame": {"x":0,"y":595,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00056.png",
+	"frame": {"x":0,"y":680,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00057.png",
+	"frame": {"x":0,"y":765,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00058.png",
+	"frame": {"x":0,"y":850,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00059.png",
+	"frame": {"x":0,"y":935,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00060.png",
+	"frame": {"x":0,"y":1020,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00061.png",
+	"frame": {"x":0,"y":1105,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00062.png",
+	"frame": {"x":0,"y":1190,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00063.png",
+	"frame": {"x":0,"y":1275,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00064.png",
+	"frame": {"x":0,"y":1360,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00065.png",
+	"frame": {"x":0,"y":1445,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00066.png",
+	"frame": {"x":0,"y":1530,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00067.png",
+	"frame": {"x":0,"y":1615,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00068.png",
+	"frame": {"x":0,"y":1700,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00069.png",
+	"frame": {"x":0,"y":1785,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00070.png",
+	"frame": {"x":0,"y":1870,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "info-jupiter_00071.png",
+	"frame": {"x":0,"y":1955,"w":182,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":85},
+	"sourceSize": {"w":182,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "info-jupiter.png",
+	"format": "RGBA8888",
+	"size": {"w":182,"h":2040},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:721ab7ad4503c3d10365a0be347d03fb:43bbafd786a915f0ff694b5651493501:396f43afcc906837d341d35803560f19$"
+}
+}

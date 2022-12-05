@@ -1,0 +1,111 @@
+{"frames": [
+
+{
+	"filename": "multiplyer-rainbow_00001.png",
+	"frame": {"x":1,"y":1,"w":325,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":311},
+	"sourceSize": {"w":325,"h":311},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "multiplyer-rainbow_00002.png",
+	"frame": {"x":328,"y":1,"w":325,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":311},
+	"sourceSize": {"w":325,"h":311},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "multiplyer-rainbow_00003.png",
+	"frame": {"x":655,"y":1,"w":325,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":311},
+	"sourceSize": {"w":325,"h":311},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "multiplyer-rainbow_00004.png",
+	"frame": {"x":982,"y":1,"w":325,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":311},
+	"sourceSize": {"w":325,"h":311},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "multiplyer-rainbow_00005.png",
+	"frame": {"x":1309,"y":1,"w":325,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":311},
+	"sourceSize": {"w":325,"h":311},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "multiplyer-rainbow_00006.png",
+	"frame": {"x":1636,"y":1,"w":325,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":311},
+	"sourceSize": {"w":325,"h":311},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "multiplyer-rainbow_00007.png",
+	"frame": {"x":1,"y":314,"w":325,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":311},
+	"sourceSize": {"w":325,"h":311},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "multiplyer-rainbow_00008.png",
+	"frame": {"x":328,"y":314,"w":325,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":311},
+	"sourceSize": {"w":325,"h":311},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "multiplyer-rainbow_00009.png",
+	"frame": {"x":655,"y":314,"w":325,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":311},
+	"sourceSize": {"w":325,"h":311},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "multiplyer-rainbow_00010.png",
+	"frame": {"x":982,"y":314,"w":325,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":311},
+	"sourceSize": {"w":325,"h":311},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "multiplyer-rainbow_00011.png",
+	"frame": {"x":1309,"y":314,"w":325,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":311},
+	"sourceSize": {"w":325,"h":311},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "multiplyer-rainbow.png",
+	"format": "RGBA8888",
+	"size": {"w":1962,"h":626},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7dd2cb33aaa175deb7d05516c4fc313b:5f20b4fee6c31e219705f1d634f0796e:39026f1af6c2cee8b7874701a817b91a$"
+}
+}

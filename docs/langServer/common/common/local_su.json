@@ -1,0 +1,386 @@
+{
+  "Messages": [
+    {
+      "WIN": "VOITTO"
+    },
+    {
+      "BET": "PANOS"
+    },
+    {
+      "Balance": "Saldo"
+    },
+    {
+      "Bet:": "Panos:"
+    },
+    {
+      "Good luck": "onnea"
+    },
+    {
+      "My Account": "Oma tili"
+    },
+    {
+      "Total won:": "Voitto yhteensä:"
+    },
+    {
+      "Coins:": "Kolikot:"
+    },
+    {
+      "Something went wrong!": "Jotakin meni pieleen!"
+    },
+    {
+      "Bet over max stake": "Veto yli enimmäispanoksen"
+    },
+    {
+      "Bet under min stake": "Veto alle vähimmäispanoksen"
+    },
+    {
+      "Insufficient funds. Please reduce stake.": "Saldo ei riitä. Pienennä panosta."
+    },
+    {
+      "Browser not supported": "Selainta ei tueta"
+    },
+    {
+      "Unfortunately we do not support your web browser. Please update in order to play the game.": "Valitettavasti selaintasi ei tueta. Päivitä voidaksesi pelata peliä."
+    },
+    {
+      "We could not load the latest results": "Emme löytäneet viimeisiä tuloksia"
+    },
+    {
+      "Unable to contact game server": "Ei yhteyttä pelipalvelimeen"
+    },
+    {
+      "Error placing bet": "Virhe vetoa asettaessa"
+    },
+    {
+      "We could not load the language files": "Emme kyenneet lataamaan kielitiedostoja"
+    },
+    {
+      "We could not load the game assets": "Emme löytäneet peliresursseja"
+    },
+    {
+      "Unable to load setup xml": "Asetus xml -tiedoston lataaminen epäonnistui"
+    },
+    {
+      "We were unable to retrieve the game setup parameters": "Pelin asetusparametrien noutaminen ei onnistunut"
+    },
+    {
+      "Error Loading Game Setup": "Virhe peliasetusten lataamisessa"
+    },
+    {
+      "We were unable to retrieve your account information": "Emme löytäneet tilitietojasi"
+    },
+    {
+      "Error Loading Account Info": "Virhe tilitietojen lataamisessa"
+    },
+    {
+      "We were unable to retrieve your bet history": "Emme löytäneet vetohistoriaasi"
+    },
+    {
+      "Error Loading Bet History": "Virhe panoshistorian lataamisessa"
+    },
+    {
+      "We were unable to retrieve the current currency symbol": "Valitun valuutan symbolin noutaminen ei onnistunut"
+    },
+    {
+      "Error Loading Currency Symbol": "Virhe valuuttasymbolin lataamisessa"
+    },
+    {
+      "Try Again": "Kokeile uudelleen"
+    },
+    {
+      "OK": "OK"
+    },
+    {
+      "Got it!": "Selvä!"
+    },
+    {
+      "Lobby": "Aula"
+    },
+    {
+      "Apparently we’re having some trouble, please try again later.": "Meillä on ilmeisesti teknisiä ongelmia, yritä uudelleen myöhemmin."
+    },
+    {
+      "Whoooaaaaa": "Wooouuuuuuuu"
+    },
+    {
+      "You’ve been playing for a long time! Don’t you want to take a short break?": "Olet pelannut pitkään! Etkö pitäisi pikku taukoa?"
+    },
+    {
+      "Please rotate your device": "Käännä laitettasi"
+    },
+    {
+      "The time limit you have set has expired, we recommend that you take a short break before continuing. Would you like to continue?": "Asettamasi aikaraja on ylittynyt. Suosittelemme, että pidät lyhyen tauon ennen jatkamista. Haluatko jatkaa?"
+    },
+    {
+      "You have been playing for": "Olet pelannut nyt"
+    },
+    {
+      "Continue Playing": "Jatka pelaamista"
+    },
+    {
+      "Exit Game": "Poistu"
+    },
+    {
+      "Account History": "Tilihistoria"
+    },
+    {
+      "Menu": "Valikko"
+    },
+    {
+      "Settings": "Asetukset"
+    },
+    {
+      "Game History": "Pelihistoria"
+    },
+    {
+      "List of Bets Click One To See Spin": "Vetoluettelo klikkaa jotakin nähdäksesi kierroksen"
+    },
+    {
+      "Bet": "Veto"
+    },
+    {
+      "Lines": "Linjat"
+    },
+    {
+      "Bet/Lines": "Panos/linjat"
+    },
+    {
+      "Total Win": "Voitto yhteensä"
+    },
+    {
+      "Winning Lines - Total: ": "Voittolinjat - yhteensä:"
+    },
+    {
+      "Losing Lines": "Häviävät linjat"
+    },
+    {
+      "Balance:": "Saldo:"
+    },
+    {
+      "Playing for real": "Pelataan rahasta"
+    },
+    {
+      "Coins": "Kolikot"
+    },
+    {
+      "Cash": "Raha"
+    },
+    {
+      "Bet Max": "Suurin panos"
+    },
+    {
+      "Stop Autoplay": "Pysäytä automaattipeli"
+    },
+    {
+      "On any win ": "Voittoon"
+    },
+    {
+      "On single win of ": "Voittosummaan"
+    },
+    {
+      "If cash increase by ": "Jos saldo kasvaa"
+    },
+    {
+      "If cash decrease by ": "Jos saldo vähenee"
+    },
+    {
+      "When entering any feature": "Kun toiminto alkaa"
+    },
+    {
+      "Sounds": "Äänet"
+    },
+    {
+      "Spin Settings": "Pyöräytysasetukset"
+    },
+    {
+      "Stop Autoplay": "Pysäytä automaattipeli"
+    },
+    {
+      "Bet Settings": "Panosasetukset"
+    },
+    {
+      "ACCEPTED": "HYVÄKSYTTY"
+    },
+    {
+      "COM FAILURE": "COM-VIRHE"
+    },
+    {
+      "COMPLETE": "VALMIS"
+    },
+    {
+      "DECLINED": "HYLÄTTY"
+    },
+    {
+      "F1x2SETTLED": "F1x2RATKAISTU"
+    },
+    {
+      "MISSETTLED": "RATKAISTU VÄÄRIN"
+    },
+    {
+      "NOT SETTLED": "EI RATKAISTU"
+    },
+    {
+      "SUBMITTED": "LÄHETETTY"
+    },
+    {
+      "normal": "normaali"
+    },
+    {
+      "win": "voitto"
+    },
+    {
+      "Date": "Päiväys"
+    },
+    {
+      "Time": "Aika"
+    },
+    {
+      "Line": "Linja"
+    },
+    {
+      "Sound Effects": "Äänitehosteet"
+    },
+    {
+      "Background Music": "Taustamusiikki"
+    },
+    {
+      "Press Space to Spin": "Pyöräytä painamalla välilyöntiä"
+    },
+    {
+      "Left Handed Spin": "Vasenkätinen pyöräytys"
+    },
+    {
+      "Display in Coins": "Näytä kolikkoina"
+    },
+    {
+      "Stop on any win": "Pysäytä voittoon"
+    },
+    {
+      "Stop on win of": "Pysäytä voittosummaan"
+    },
+    {
+      "Stop if cash increases by": "Pysäytä, jos saldo kasvaa"
+    },
+    {
+      "Stop if cash decreases by": "Pysäytä, jos saldo vähenee"
+    },
+    {
+      "Stop when feature entered": "Pysäytä toimintoon"
+    },
+    {
+      "Don't show anymore": "Älä näytä uudestaan"
+    },
+    {
+      "Continue": "Jatka"
+    },
+    {
+      "COMPLETE": "VALMIS"
+    },
+    {
+      "win": "voitto"
+    },
+    {"Congratulations":"Onnittelut"},
+    {"You've won a bonus round":"Voitit bnonuskierroksen"},
+    {"you won":"voitit"},
+    {"bonus round":"bonuskierroksen"},
+    {"Good luck!":"Onnea!"},
+    {"Multiplier":"Kerroin"},
+    {"Total won":"Voitot yhteensä"},
+
+    {
+      "free rounds": "ilmaiskierroksia"
+    },
+    {
+      "Free Rounds:": "Ilmaiskierroksia:"
+    },
+    {
+      "Free Rounds": "Ilmaiskierrokset"
+    },
+    {
+      "Loading images please wait...": "Ladataan kuvia, odota hetki..."
+    },
+
+    {
+      "freespins": "ilmaiskierrokset"
+    },
+    {
+      "Free Spin": "Ilmaiskierrokset"
+    },
+    {
+      "swipe to activate full screen": "Pyyhkäise alas kokoruutunäkymään"
+    },
+    {
+      "Show help screen on load": "Näytä ohjeet aloitettaessa"
+    },
+    {
+      "Status": "Tila"
+    },
+    {
+      "Channel": "Kanava"
+    },
+    {
+      "Placed": "Asetettu"
+    },
+    {
+      "Settled": "Ratkennut"
+    },
+    {
+      "GUI Descriptions": "Button kuvaukset"
+    },
+    {
+      "Help Button": "Ohje-painike"
+    },
+    {
+      "Bet Control": "Panos ohjaus"
+    },
+    {
+      "Autoplay Button": "Automaattipeli-painike"
+    },
+    {
+      "Autoplay Start Button": "Automaattipeli käynnistyspainike"
+    },
+    {
+      "Autoplay Stop Button": "Automaattipeli pysäytyspainike"
+    },
+    {
+      "Spin Button": "Pyöräyttää-painiketta"
+    },
+    {
+      "Stop Button": "Stop-painike"
+    },
+    {
+      "You've won": "Voitit"
+    },
+    {
+      "You won": "Voitit"
+    },
+    {
+      "Free spins finished": "Ilmaiskierrokset päättynyt" 
+    },
+    {
+      "you've won": "Voitit"
+    },
+    {
+      "Free spins": "Ilmaiskierrokset"
+    },
+    {
+      "Free Spins": "Ilmaiskierrokset"
+    },
+    {
+      "Activate sounds?": "Aktivoi äänet?"
+    },
+    {
+      "Spin No.": "Spin no."
+    },
+    {
+      "Must be set to a value": "On asetettava eli arvo"
+    },
+    {
+      "Game History only available when playing for real": "Game History käytettävissä vain, kun pelaamalla oikealla"    
+    },
+    {"You have unused Free Spins":"You have unused Free Spins"},
+    {"They will be automatically started":"They will be automatically started"},
+    {"You have an unfinished Bonus":"You have an unfinished Bonus"},
+    {"it will be automatically started":"it will be automatically started"}
+  ]
+}

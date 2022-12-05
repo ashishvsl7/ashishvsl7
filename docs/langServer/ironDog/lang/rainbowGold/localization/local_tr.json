@@ -1,0 +1,133 @@
+{
+  "Messages": [
+    {
+      "Wins are calculated by counting consecutive reels with matching symbols and multiplying by the total number of matching symbols on those reels.": "Kazançlar, eşleşen sembol bulunan ardışık çarkların sayısının bu çarkların her birindeki eşleşen sembollerin toplam sayısıyla çarpımı şeklinde hesaplanır."
+    },
+    {
+      "Wild appears on the 2nd, 3rd, 4th and 5th reels. It substitutes for all symbols. Wilds have a higher chance of appearing on tumbles.": "Wild Yıldızlar 2, 3, 4 ve 5. çarklarda çıkar.Aynı zamanda wild olmayan her sembol yerine geçer.Wild Yıldızların salınmalarda çıkma şansı daha yüksektir."
+    },
+    {
+      "It substitutes all the icons.": "Aynı zamanda wild olmayan her sembol yerine geçer."
+    },
+    {
+      "The sticky wild will only appear on the middle reel and will not disappear when it is part of a winning combination. It will still fall down if symbols below it are part of a winning combination.": "Yapışkan Wild sadece 3. çarkta çıkar ve kazanan bir kombinasyonda kullanıldığında yok olmaz.Altındaki semboller yok olursa aşağı salınır, aksi halde Wild Yıldız ile aynı işlevi görür."
+    },
+    {
+      "The expanding wild has a random chance to appear on the 2nd, 3rd, 4th and 5th reels. They substitute for all symbols and multiple of them can appear simultaneously.": "Genişleyen Wild, rastgele olarak 2, 3, 4 ve 5. çarklarda çıkabilir.Her sembolün yerine geçer ve aynı anda birden fazla çarkta çıkabilir."
+    },
+    {
+      "Freespins are reached by having multiple successive tumbles. A minimum of 4 tumbles is required to trigger free spins. The base free spin game is 14 free spins with no starting multiplier. Each extra successive win after 4 awards extra freespins or multipliers, up to a maximum of 20 freespins and 5 starting multiplier": "Ücretsiz Döndürmelere, ardışık birden fazla salınma ile ulaşırsınız.Ücretsiz Döndürmelerin başlaması için, en az 4 salınma gerçekleşmelidir.Temel Ücretsiz Döndürme oyunu, Başlangıç Çarpansız 14 Ücretsiz Döndürmedir.Dördüncüden sonraki her ardışık ek kazanç ile maksimum 20 Ücretsiz Döndürme ve 6 Başlangıç Çarpanına kadar ekstra Ücretsiz Döndürme veya çarpan kazanırsınız"
+    },
+    {
+      "Inside free spins the game is similar to the base game except that each tumble increments the multiplier by 1. The multiplier applies to the current spin win. There is no sticky wild or expanding wild inside free spins.": "Ücretsiz Döndürmeler sırasında, her salınımın çarpanı 1 artırması dışında oyun temel oyunla aynı şekilde ilerler.Çarpan, geçerli döndürme kazancına uygulanır.Ücretsiz Döndürmelerde yapışkan wild veya genişleyen wild yoktur."
+    },
+    {
+      "Red berry: Appears once on each 5 reels (including wild). So the payout is the flat value for 5x red berry, 10 coins": "<br> Kırmızı böğürtlen:5 ardışık çarkın her birinde birer defa çıkar (wild dâhil).Bu durumda, kazanç 5 Kırmızı Böğürtlenin normal değerinin 10 jetonla hesaplanması, yani 10 * 1 * 1 * 1 * 1 * 1 = 10 jeton şeklinde olur."
+    },
+    {
+      "Orange berry: Appears on each 5 reels. Appears twice on 2nd, 3rd (including wild) and 5th reel, so payout is the value for 5x multiplied twice by 2. 15 * 2 * 2 * 2 = 120 coins.": "Turuncu Böğürtlen:5 ardışık çarkın her birinde çıkar.5 Turuncu Böğürtlenin ödülü, 15'tir.Turuncu Böğürtlen 1. çarkta bir, 2. çarkta iki, 3. çarkta iki (wild dâhil), 4. çarkta bir ve 5. çarkta iki defa çıkar,<br>böylece kazanç 15 * 1 * 2 * 2 * 1 * 2 = 120 jeton olur."
+    },
+    {
+      "More than one wild reel can be displayed on the reels at the same time.": "Çarklarda aynı anda birden fazla Genişleyen Wild çıkabilir."
+    },
+    {
+      "Rainbow Wilds Game Rules": "Gökkuşağı Wild'lar Oyun Kuralları"
+    },
+    {
+      "A free tumble has been interrupted": "Bir serbest salınma kesintiye uğradı"
+    },
+    {
+      "Press Spin to continue": "Devam etmek için Döndür'e bas"
+    },
+    {
+      "Successive Winnings": "Ardışık Salınma kazançları"
+    },
+    {
+      "Successive Winnings trigger Free Spins": "4 veya daha fazla Ardışık Salınma Kazancı, Ücretsiz Döndürmeleri başlatır"
+    },
+    {
+      "Win up to 20 FS with x5 multiplier": "6 kat Başlangıç Çarpanlı 20 Ücretsiz Döndürme kazanın"
+    },
+    {
+      "4 Successive Winnings Trigger 14 FS": "4 Ardışık Salınma Kazancı 14 Ücretsiz\n Döndürme kazandırır"
+    },
+    {
+      "5 Successive Winnings Trigger 16 FS": "5 Ardışık Salınma Kazancı\n16 Ücretsiz Döndürme kazandırır"
+    },
+    {
+      "6 Successive Winnings Trigger 16 FS\n+x2 Starting multiplier": "6 Ardışık Salınma Kazancı 16 Ücretsiz\n Döndürme + 3 kat Başlangıç Çarpanı kazandırır"
+    },
+    {
+      "7 Successive Winnings Trigger 20 FS\n+x2 Starting multiplier": "7 Ardışık Salınma Kazancı \n20 Ücretsiz Döndürme\n+ 3 kat Başlangıç Çarpanı kazandırır"
+    },
+    {
+      "6 Successive Winnings Trigger 20 FS\n+x5 Starting multiplier": "8 Ardışık Salınma Kazancı \n20 Ücretsiz Döndürme\n+ 6 kat Başlangıç Çarpanı kazandırır"
+    },
+    {
+      "4 Successive Winnings Triggers 14 FS": "4 Ardışık Salınma Kazancı 14 Ücretsiz Döndürme"
+    },
+    {
+      "5 Successive Winnings Triggers 16 FS": "5 Ardışık Salınma Kazancı 16 Ücretsiz Döndürme"
+    },
+    {
+      "6 Successive Winnings Triggers 16 FS + 2x Starting Multiplier": "6 Ardışık Salınma Kazancı 16 Ücretsiz Döndürme + 3 kat Başlangıç Çarpanı kazandırır"
+    },
+    {
+      "7 Successive Winnings Triggers 20 FS + 2x Starting Multiplier": "7 Ardışık Salınma Kazancı 20 Ücretsiz Döndürme + 3 kat Başlangıç Çarpanı kazandırır"
+    },
+    {
+      "8 Successive Winnings Triggers 20 FS + 5x Starting Multiplier": "8 Ardışık Salınma Kazancı 20 Ücretsiz Döndürme + 6 kat Başlangıç Çarpanı kazandırır"
+    },
+    {
+      "Game Features": "Oyun Özellikleri"
+    },
+    {
+      "Expanding Wild On Reel 2,3,4,5": "Genişleyen Wild 2, 3, 4 ve 5. çarklarda çıkar"
+    },
+    {
+      "Different Wilds On Reel 2,3,4,5": "Wild 2, 3, 4 ve 5. çarklarda çıkar"
+    },
+    {
+      "Sticky Wild On Successive Tumbling": "Ardışık Salınmada Yapışkan Wild"
+    },
+    {
+      "Wild": "Wild Yıldızlar"
+    },
+    {
+      "Free Spin": "Ücretsiz Döndürme"
+    },
+    {
+      "Win Ways": "1024 Kazanç Yönü"
+    },
+    {
+      "Free Spin Features": "Ücretsiz Döndürme Mini Oyunları"
+    },
+    {
+      "Wild Increasing Hand Multiplier (it increments by 1 on each win)": "Ücretsiz Döndürme Artan Kazanç Çarpanı (her kazançla 1 artar)"
+    },
+    {
+      "Free Tumble": "Ücretsiz Salınma"
+    },
+    {
+      "Tumble WIN": "Ücretsiz Salınma"
+    },
+    {
+      "Whenever a win way pays out the symbols are destroyed and all remaining symbols tumble down.": "Bir Kazanç Yönü her kazandırdığında, semboller yok olur ve kalan tüm semboller aşağı salınır."
+    },
+    {
+      "All destroyed symbols are replaced with symbols from higher up on the reels with a high chance of extra Wild Stars appearing.": "Yok olan tüm sembollerin yerini çarkların üstündeki semboller inerek alır ve Wild Yıldız çıkma ihtimali artar."
+    },
+    {
+      "If the new symbols also form a win way they too will pay out and more symbols will tumble in to replace them, this will continue until no more Win Ways can be made.": "Yeni semboller de bir Kazanç Yönü oluşturursa, bu kazanç da ödenir ve daha fazla sembol salınır; bu eylem, daha fazla Kazanç Yönü oluşmayana kadar devam eder."
+    },
+    {
+      "Sticky Wild":"Yapışkan Wild"
+    },
+    {
+      "Expanding Wild":"Genişleyen Wild"
+    },
+       {
+        "No Winning Lines":"Kazanç Yok"
+      }
+  ]
+}

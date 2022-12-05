@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "game-btn-down.png",
+	"frame": {"x":0,"y":0,"w":175,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":63},
+	"sourceSize": {"w":175,"h":63}
+},
+{
+	"filename": "game-btn-over.png",
+	"frame": {"x":175,"y":0,"w":175,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":63},
+	"sourceSize": {"w":175,"h":63}
+},
+{
+	"filename": "game-btn-up.png",
+	"frame": {"x":350,"y":0,"w":175,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":63},
+	"sourceSize": {"w":175,"h":63}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "generic-game-btns.png",
+	"format": "RGBA8888",
+	"size": {"w":525,"h":63},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:84e0775b3e4cd02a78d80024d55d6270:6033f489880d516bf57e3360b0155ee7:1d193049050576e5bf2681e077849ace$"
+}
+}

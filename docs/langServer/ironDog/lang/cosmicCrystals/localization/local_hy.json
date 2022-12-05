@@ -1,0 +1,76 @@
+{
+  "Messages": [
+    {
+      "You have an unused Free re-spin": "Դուք ունեք չօգտագործված Անվճար ռե-սփին"
+    },
+    {
+      "it will be automatically started": "այն ավտոմատ կերպով կմեկնարկի"
+    },
+    {
+      "No win? free re-spin!": " Անվճար ռե-սփին չե՞ք շահել։"
+    },
+    {
+      "free re-spins": "Անվճար ռե-սփիներ"
+    },
+    {
+      "free rounds": "Անվճար ռաունդներ"
+    },
+    {
+      "Free Rounds:": "Անվճար ռաունդներ՝"
+    },
+    {
+      "Free Rounds": "Անվճար ռաունդներ"
+    },
+    {
+      "Loading images please wait...": "Պատկերների բեռնում՝ խնդրում ենք սպասել..."
+    },
+    {
+      "Replaces all symbols!": "Փոխարինում է բոլոր սիմվոլներին"
+    },
+    {
+      "*Except for Scatter and Free Spins": "*Բացառությամբ Սքեթեր և Անվճար Սփիների սիմվոլների"
+    },
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "Դուք շահում եք շահող տողի վրա սիմվոլների համընկնելու դեպքում։ Բոլոր սիմվոլները պետք է համընկնեն հերթական պտուտակների վրա ձախից աջ։ Անսարքության դեպքում բոլոր վճարումներն ու խաղերը համարվում են անվավեր։ Լրացուցիչ մանրամասների համար տես խաղի կանոնները"
+    },
+    {
+      "freespins": "ֆրիսփիներ"
+    },
+    {
+      "Free Spin": "Անվճար սփին"
+    },
+    {
+      "Losing spins award a\nfree respin where\nwild reels stick": "Պարտված սփիները պարգևատրում են \nանվճար ռե-սփինով, եթե \nբացվում են վայրի պտուտակներ"
+    },
+    {
+      "When a non winning hand occurs FREE re-spin rounds start until the first winning combination takes place. Wilds reel are sticky during FREE re-spins.": "Չշահող սփինի դեպքում ԱՆՎՃԱՐ ռե-սփինի ռաունդները սկսվում են մինչև առաջին շահող համադրություն հայտնվելը։ Վայրի պտուտակները հայտնվում են ԱՆՎՃԱՐ ռե-սփինների ժամանակ։"
+    },
+    {
+      "Expands over the reel.": "Տարածվում է ողջ պտուտակով։"
+    },
+    {
+      "wild reel...": "վայրի պտուտակ..."
+    },
+    {
+      "...sticky wild reel...": "...կպչուն վայրի պտուտակ..."
+    },
+    {
+      "respin": "ռեսփին"
+    },
+    {
+    "Press Space to Spin" : "Պտույտ կատարելու համար սեղմեք միջակայք ստեղնը "
+    },
+    {
+      "Show help screen on load": "Ցույց տալ օգնության էկրանը բեռնելու ժամանակ"
+    },
+    {
+      "Swipe to spin": "Պտույտ սկսելու համար մատը սահեցրեք էկրանի վրա "
+     },
+    {
+    "swipe to activate full screen": "Ամբողջական էկրանն ակտիվացնելու համար մատը էկրանի վրա սահեցրեք" 
+    },
+    {
+    "Cosmic Crystals<sup>TM</sup> Game Rules": "Cosmic Crystals<sup>TM</sup> խաղի կանոններ"
+    }
+  ]
+}

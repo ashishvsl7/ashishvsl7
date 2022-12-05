@@ -1,0 +1,85 @@
+{
+  "Messages": [
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.":"当たりのラインで絵柄が揃うと当たりです。左から右に連続で全ての絵柄が揃っている必要があります。各ライン当たり最高の組み合わせの配当のみが支払われます。不具合が生じた場合、すべての支払いとプレイが無効になります。詳細についてはゲームルールをご覧ください。"
+    },
+    {  
+      "The neon glimmer turning into neon glow on a feature symbol\ror on a winning combination will activate that feature or multiply the winline x4.": "フィーチャー絵柄、または配当のあるラインのネオンの点滅が、点灯になると、\rそのフィーチャーが発動、またはそのラインの配当がX4に倍増します。"
+    },
+    {
+      "Special Features - General Image": "特別フィーチャー - 全体的なイメージ"
+    },
+    {
+      "The neon glimmer turning into neon glow on a feature symbol or on a winning combination will activate that feature or multiply the winline x4.": "フィーチャー絵柄、または配当のあるラインのネオンの点滅が、点灯になると、そのフィーチャーが発動、またはX4のマルチプライヤーが付与されます。"
+    },
+    {
+      "Wild Symbol": "ワイルド絵柄"
+    },
+    {
+      "Wild symbols can complete winning combinations.": "ワイルド絵柄は、「スキャッター」、「フリースピン」「ボーナス」以外のすべての絵柄に代用できます。"
+    },
+    {
+      "X4 Multiplier": "X4マルチプライヤー"
+    },
+    {
+      "Neon glow appearing on a winning combination awards a x4 multiplier.\rThis will apply to all active win lines using this symbol.": "配当のある組み合わせ上でネオンが点灯すると、X4マルチプライヤーが付与されます。\rこれはこの絵柄を含む、すべてのアクティブな配当のあるラインに適用されます。"
+    },
+    {
+      "Scatter": "スキャッター"
+    },
+    {
+      "Neon glow appearing round a scatter symbol on any position awards 250 coins.\rMultiple scatter symbols showing on the reels will not increase the pay out.": "いずれかの場所の「スキャッター」絵柄でネオンが点灯すると、コイン250枚が付与されます。\r複数のスキャッター絵柄がリール上に出ても、ペイアウトは変わりません。"
+    },
+    {
+      "Neon glow appearing around a free spin symbol on any position will award 6 free spins.\rMultiple free spin symbols showing on the reels will not increase the free spins awarded.": "いずれかの場所の「フリースピン」絵柄でネオンが点灯すると、フリースピン6回が付与されます。\rリール上に複数の「フリースピン」絵柄が出ても、付与されたフリースピンの回数は増加しません。"
+    },
+    {
+      "Bonus": "ボーナス"
+    },
+    {
+      "Neon glow appearing on a Bonus symbol in any position on the reels will activate the Keno light bonus round.": "リールのいずれかの場所のボーナス絵柄でネオンが点灯すると、ケノライトボーナスラウンドが発動します。"
+    },
+    {
+      "Bonus Game": "ボーナスゲーム"
+    },
+    {
+      "Manually select or randomly select 10 numbers from the available 28.\rThere will be 15 numbers drawn randomly after pressing start.": "選択可能な28個の数字から手動で、またはランダムに10個の数字を選択します。\rスタートを押すと、28個の数字からランダムに15個の数字が引かれます。"
+    },
+    {
+      "Bonus Game Paytable": "ボーナスゲーム配当表"
+    },
+    {
+      "The amount won is dependent on the amount of numbers drawn that match the selection chose.\rThe amount that will be paid can be seen on the paytable in the game.": "配当は、選ばれた数字と引かれた数字がどの程度一致したかで決まります。\r配当は、ボーナスゲーム配当表に表示されます。"
+    },
+    {
+      "Neon Jungle Game Rules": "ネオンジャングル・ゲームルール"
+    },
+    {
+      "Please select": "最初に"
+    },
+    {
+      "numbers first, or hit Random button": "個の数字を選択するか、ランダムボタンを押してください"
+    },
+    {
+      "You can't select more than": "選択上限："
+    },
+    {
+      "Unselect some numbers first": "最初にいくつかの数字の選択を外してください"
+    },
+    {
+      "Still": "あと"
+    },
+    {
+      "to pick or Hit Random button to automatically chose for You.": "個を手動で選択、またはランダムボタンを押して自動的に選択します。"
+    },
+    {
+      "Choice complete, you can now hit Start button.": "選択完了。スタートボタンを押してください。"
+    },
+    {
+      "Pick 10 Numbers or Hit Random button to automatically chose for You.": "数字10個を手動で選択、またはランダムボタンを押して自動的に選択します。"
+    },
+       {
+        "No Winning Lines":"勝利なし"
+      }
+  ]
+}

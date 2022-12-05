@@ -1,0 +1,103 @@
+{
+  "Messages": [
+    {
+      "Win Up To": "Wygraj do"
+    },
+    {
+      "100,000 Coins": "100 000 monet"
+    },
+    {
+      "Win scatters and multipliers during Free Spin": "Wygrywaj symbole scatter i mnożniki podczas darmowego obrotu"
+    },
+    {
+      "Replace all symbols.": "Zastępuje wszystkie symbole."
+    },
+    {
+      "Appears only on 3th reel.": "Pojawia się tylko na 3. bębnie."
+    },
+    {
+      "Awards 1 Free Spin.": "Daje 1 darmowy obrót."
+    },
+    {
+      "Can appear during Free Spins.": "Może pojawić się podczas darmowych obrotów."
+    },
+    {
+      "3 or more symbols starts Balloon Bonus": "3+ symbole w kolejnych bębnach od lewej do prawej, rozpoczyna rundę bonusową"
+    },
+    {
+      "Appears only on 1st reel during Free spins.": "Pojawia się tylko na 1. bębnie podczas darmowych obrotów."
+    },
+    {
+      "Adds x1 to current multiplier.": "Dodaje x1 do bieżącego mnożnika."
+    },
+    {
+      "Awards 10 Coins": "Daje 10 monet"
+    },
+    {
+      "Appears only on 2nd reel during Free spins.": "Pojawia się tylko na 2. bębnie podczas darmowych obrotów."
+    },
+    {
+      "Adds x2 to current multiplier.": "Dodaje x2 do bieżącego mnożnika."
+    },
+    {
+      "Awards 10 Coins": "Daje 10 monet"
+    },
+    {
+      "Appears only on 4th reel during Free spins.": "Pojawia się tylko na 4. bębnie podczas darmowych obrotów."
+    },
+    {
+      "Adds x3 to current multiplier.": "Dodaje x3 do bieżącego mnożnika."
+    },
+    {
+      "Awards 15 Coins": "Daje 15 monet"
+    },
+    {
+      "Appears only on 5th reel during Free spins.": "Pojawia się tylko na 5. bębnie podczas darmowych obrotów."
+    },
+    {
+      "Adds x4 to current multiplier.": "Dodaje x4 do bieżącego mnożnika."
+    },
+    {
+      "Awards 25 Coins": "Daje 25 monet"
+    },
+    {
+      "Shoot as many ballons as you can, the word 'END' will terminate the bonus. The total bonus multiplier depends on the number of icons that triggered the bonus. See game guide for details.": "Zestrzel najwięcej balonów, wyraz „END” zakończy bonus. Łączny mnożnik bonusowy zależy od liczby ikon, które uruchomiły bonus. Szczegóły znajdziesz w instrukcjach gry."
+    },
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "Wygrywasz przez zebranie jednakowych symboli na linii premiowanej. Wszystkie symbole muszą być ułożone na kolejnych bębnach od lewej do prawej. Z każdej linii wypłaca się tylko najwyższa wygraną. Awaria powoduje anulowanie wszystkich wypłat i gier. Więcej szczegółów znajdziesz w zasadach gry."
+    },
+    {
+      "BubblePickBonus": "Bonus Balloon"
+    },
+    {
+      "You have unused Free Spins": "Masz niewykorzystane darmowe obroty"
+    },
+    {
+      "They will be automatically started": "Zostaną uruchomione automatycznie"
+    },
+    {
+      "You have an unfinished Bonus": "Masz nieskończony bonus"
+    },
+    {
+      "it will be automatically started": "zostanie on automatycznie uruchomiony"
+    },
+    {
+      "Replaces all symbols!": "Zastępuje wszystkie symbole!"
+    },
+    {
+      "*Except for Scatter and Free Spins": "*z wyjątkiem Scatter i Free Spins"
+    },
+    {
+      "3. X1": "<br>3. - no mnożnik"
+    },
+    {
+      "4. X2": "<br>4. - x2 mnożnik"
+    },
+    {
+      "5. X3": "<br>5. - x3 mnożnik" 
+    },
+       {
+        "No Winning Lines":"Brak wygranych"
+      }
+  ]
+}

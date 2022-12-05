@@ -1,0 +1,94 @@
+{
+  "Messages": [
+    {
+      "Good luck": "グッドラック"
+    },
+    {
+      "Symbols": "絵柄"
+    },
+    {
+      "Egg Value": "エッグの値"
+    },
+    {
+      "Mltiplier won": "マルチプライヤー獲得"
+    },
+    {
+      "Line won": "ライン配当"
+    },
+    {
+      "Free spins!": "フリースピン！"
+    },
+    {
+      "free re-spins": "フリーリスピン"
+    },
+    {
+      "Swipe down To full screen": "下にスワイプで全画面表示"
+    },
+    {
+      "rotate to exit": "回転で終了"
+    },
+    {
+      "Swipe to spin": "スワイプでスピン"
+    },
+    {
+      "Balance : ": "残高： "
+    },
+    {
+      "Must be set to a value": "値を設定してください"
+    },
+    {
+      "Must be greater than current stake": "現在の賭け金より大きくしてください"
+    },
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "当たりのラインで絵柄が揃うと当たりです。左から右に連続で全ての絵柄が揃っている必要があります。各ライン当たり最高の組み合わせの配当のみが支払われます。不具合が生じた場合、すべての支払いとプレイが無効になります。詳細についてはゲームルールをご覧ください。"
+    },
+    {
+      "Golden egg reveals special prize eggs": "ゴールドエッグから特殊な賞品エッグが出た場合"
+    },
+    {
+      "X Multiplier<br>Awards a 2x, 4x, 6x, 8x, 10x bet multiplier": "Xマルチプライヤー<br>x2、x4、x6、x8、x10ベットマルチプライヤーを付与"
+    },
+    {
+      "Re-Spin<br>Awards 1 free re-spin": "銀のバニー<br>1回のフリーリスピンが付与されます"
+    },
+    {
+      "Scatter<br>Awards 30x bet multiplier": "金のバニー<br>x30ベットマルチプライヤーを付与"
+    },
+    {
+      "Wild<br>Completes winning combinations": "ワイルド<br>リール2、3、4のいずれかに出る、通常絵柄を置き換える拡散ワイルド"
+    },
+    {
+      "Sticky Wild<br>Awards 3 free spins and completes winning combinations": "スティッキーワイルド<br>フリースピン3回とリール2、3、4のいずれかに出る、通常絵柄を置き換える拡散ワイルドを付与"
+    },
+    {
+      "Expanding Wild": "拡散ワイルド"
+    },
+    {
+      "x1": "x1"
+    },
+    {
+      "x2": "x2"
+    },
+    {
+      "x3": "x3"
+    },
+    {
+      "x4": "x4"
+    },
+    {
+      "x5": "x5"
+    },
+    {
+      "3 egg symbols in a row of the same type award 10 free spins special symbol egg on the reel award special symbol multiplier": "同じタイプのエッグの絵柄が3個並ぶとフリースピン10個が付与されます。リール上に特殊絵柄のエッグが出ると、特殊絵柄マルチプライヤーが付与されます。"
+    },
+    {
+      "Gifts of Ostara Game Rules": "オスタラのギフト ゲームルール"
+    },
+    {
+      "HOLD": "一時停止"
+    },
+       {
+        "No Winning Lines":"勝利なし"
+      }
+  ]
+}

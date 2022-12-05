@@ -1,0 +1,412 @@
+{
+  "Messages": [
+    {
+      "WIN": "VINST"
+    },
+    {
+      "BET": "INSATS"
+    },
+    {
+      "Balance": "Saldo"
+    },
+    {
+      "Bet:": "Insats:"
+    },
+    {
+      "Good luck": "lycka till"
+    },
+    {
+      "My Account": "Mitt konto"
+    },
+    {
+      "Total won:": "Totalvinst:"
+    },
+    {
+      "Coins:": "Mynt:"
+    },
+    {
+      "Something went wrong!": "Något gick snett!"
+    },
+    {
+      "Bet over max stake": "Insats över maxgränsen"
+    },
+    {
+      "Bet under min stake": "Insats mindre än minimigränsen"
+    },
+    {
+      "Insufficient funds. Please reduce stake.": "Otillräckligt saldo. Var vänlig minska insatsen"
+    },
+    {
+      "Browser not supported": "Webbläsaren stöds inte"
+    },
+    {
+      "Unfortunately we do not support your web browser. Please update in order to play the game.": "Tyvärr stöder vi inte din webbläsare. Var vänlig uppdatera för att spela spelet."
+    },
+    {
+      "We could not load the latest results": "Vi kunde inte ladda de senaste resultaten"
+    },
+    {
+      "Unable to contact game server": "Kan inte kontakta spelserver"
+    },
+    {
+      "Error placing bet": "Spelet kunde inte placeras"
+    },
+    {
+      "We could not load the language files": "Vi kunde inte ladda språkfilerna"
+    },
+    {
+      "We could not load the game assets": "Vi kunde inte ladda speltillgångar"
+    },
+    {
+      "Unable to load setup xml": "Kunde inte ladda setup.xml"
+    },
+    {
+      "We were unable to retrieve the game setup parameters": "Vi kunde inte hämta spelets installationsparametrar"
+    },
+    {
+      "Error Loading Game Setup": "Fel vid laddning av spelinstallation"
+    },
+    {
+      "We were unable to retrieve your account information": "Vi kunde inte hämta din kontoinformation."
+    },
+    {
+      "Error Loading Account Info": "Fel vid laddning av kontoinformation"
+    },
+    {
+      "We were unable to retrieve your bet history": "Vi kunde inte hämta din spelhistorik"
+    },
+    {
+      "Error Loading Bet History": "Fel vid laddning av spelhistorik"
+    },
+    {
+      "We were unable to retrieve the current currency symbol": "Vi kunde inte hämta aktuell valutasymbol"
+    },
+    {
+      "Error Loading Currency Symbol": "Fel vid laddning av valutasymbol"
+    },
+    {
+      "Try Again": "Försök igen"
+    },
+    {
+      "OK": "OK"
+    },
+    {
+      "Got it!": "Klart!"
+    },
+    {
+      "Lobby": "Lobby"
+    },
+    {
+      "Apparently we’re having some trouble, please try again later.": "Uppenbarligen har vi problem, var vänlig försök igen senare."
+    },
+    {
+      "Whoooaaaaa": "Psst!"
+    },
+    {
+      "You’ve been playing for a long time! Don’t you want to take a short break?": "Du har spelat under en lång tid! Vill du inte ta en kort paus?"
+    },
+    {
+      "Please rotate your device": "Vänligen rotera din enhet"
+    },
+    {
+      "The time limit you have set has expired, we recommend that you take a short break before continuing. Would you like to continue?": "Inställd tidsgräns har gått ut, vi rekommenderar att du tar en kort paus innan du fortsätter. Vill du fortsätta?"
+    },
+    {
+      "You have been playing for": "Du har spelat i"
+    },
+    {
+      "Continue Playing": "Fortsätt spela"
+    },
+    {
+      "Exit Game": "Avsluta spel"
+    },
+    {
+      "Account History": "Kontohistorik"
+    },
+    {
+      "Menu": "Meny"
+    },
+    {
+      "Settings": "Inställningar"
+    },
+    {
+      "Game History": "Spelhistorik"
+    },
+    {
+      "List of Bets Click One To See Spin": "Förteckning över insatser: klicka på en för att se snurr"
+    },
+    {
+      "Bet": "Spel"
+    },
+    {
+      "Lines": "Linjer"
+    },
+    {
+      "Bet/Lines": "Insats/linjer"
+    },
+    {
+      "Total Win": "Totalvinst"
+    },
+    {
+      "Winning Lines - Total: ": "Vinstlinjer - totalt:"
+    },
+    {
+      "Losing Lines": "Förlorande linjer"
+    },
+    {
+      "Balance:": "Saldo:"
+    },
+    {
+      "Playing for real": "Spela på riktigt"
+    },
+    {
+      "Coins": "Mynt"
+    },
+    {
+      "Cash": "Kontanter"
+    },
+    {
+      "Bet Max": "Maxinsats"
+    },
+    {
+      "Stop Autoplay": "Stoppa autospel"
+    },
+    {
+      "On any win ": "Vid en vinst"
+    },
+    {
+      "On single win of ": "Vid en enskild vinst om"
+    },
+    {
+      "If cash increase by ": "Om kontanter ökar med"
+    },
+    {
+      "If cash decrease by ": "Om kontanter minskar med"
+    },
+    {
+      "When entering any feature": "Vid öppnande av funktion"
+    },
+    {
+      "Sounds": "Ljud"
+    },
+    {
+      "Spin Settings": "Snurrinställningar"
+    },
+    {
+      "Stop Autoplay": "Stoppa autospel"
+    },
+    {
+      "Bet Settings": "Spelinställningar"
+    },
+    {
+      "ACCEPTED": "GODKÄNT"
+    },
+    {
+      "COM FAILURE": "COM-FEL"
+    },
+    {
+      "COMPLETE": "FULLBORDAD"
+    },
+    {
+      "DECLINED": "NEKAD"
+    },
+    {
+      "F1x2SETTLED": "F1x2RÄTTAD"
+    },
+    {
+      "MISSETTLED": "FELRÄTTAD"
+    },
+    {
+      "NOT SETTLED": "INTE RÄTTAD"
+    },
+    {
+      "SUBMITTED": "SKICKAD"
+    },
+    {
+      "normal": "normal"
+    },
+    {
+      "win": "vinst"
+    },
+    {
+      "Date": "Datum"
+    },
+    {
+      "Time": "Tid"
+    },
+    {
+      "Line": "Linje"
+    },
+    {
+      "Sound Effects": "Ljudeffekter"
+    },
+    {
+      "Background Music": "Bakgrundsmusik"
+    },
+    {
+      "Press Space to Spin": "Tryck på mellanslag för att snurra"
+    },
+    {
+      "Left Handed Spin": "Vänsterhandssnurr"
+    },
+    {
+      "Display in Coins": "Visa i mynt"
+    },
+    {
+      "Stop on any win": "Stoppa vid vinst"
+    },
+    {
+      "Stop on win of": "Stoppa vid vinst på"
+    },
+    {
+      "Stop if cash increases by": "Stoppa om kontanter ökar med"
+    },
+    {
+      "Stop if cash decreases by": "Stoppa om kontanter minskar med"
+    },
+    {
+      "Stop when feature entered": "Stoppa när funktion nås"
+    },
+    {
+      "Don't show anymore": "Visa inte längre"
+    },
+    {
+      "Continue": "Fortsätt"
+    },
+    {
+      "COMPLETE": "KLART"
+    },
+    {
+      "win": "vinst"
+    },
+    {"Congratulations":"Grattis"},
+    {"You've won a bonus round":"Du har vunnit en bonusrunda"},
+    {"you won":"du vann"},
+    {"bonus round":"bonusrunda"},
+    {"Good luck!":"Lycka till!"},
+    {"Multiplier":"Multiplikator"},
+    {"Total won":"Vunnet totalt"},
+
+    {
+      "free rounds": "gratisrundor"
+    },
+    {
+      "Free Rounds:": "Gratisrundor:"
+    },
+    {
+      "Free Rounds": "Gratisrundor"
+    },
+    {
+      "Loading images please wait...": "Laddar bilder, vänligen vänta..."
+    },
+
+    {
+      "freespins": "freespins"
+    },
+    {
+      "Free Spin": "Free Spin"
+    },
+    {
+      "swipe to activate full screen": "Svep nedåt för fullskärm"
+    },
+    {
+      "Show help screen on load": "Visa hjälpskärm vid start"
+    },
+    {
+      "Status": "Status"
+    },
+    {
+      "Channel": "Kanal"
+    },
+    {
+      "Placed": "Placerad"
+    },
+    {
+      "Settled": "Avgjord"
+    },
+    {
+      "GUI Descriptions": "Beskrivningar av knappar som"
+    },
+    {
+      "Help Button": "Hjälpknappen"
+    },
+    {
+      "Bet Control": "Insats-kontroll"
+    },
+    {
+      "Autoplay Button": "Autospel knapp"
+    },
+    {
+      "Autoplay Start Button": "Autospel Start knapp"
+    },
+    {
+      "Autoplay Stop Button": "Autospel Stop knapp"
+    },
+    {
+      "Spin Button": "Snurra knapp"
+    },
+    {
+      "Stop Button": "Stop knapp"
+    },
+    {
+      "You've won": "Du vann"
+    },
+    {
+      "You won": "Du vann"
+    },
+    {
+      "Free spins finished": "Free spins färdig" 
+    },
+    {
+      "you've won": "Du vann"
+    },
+    {
+      "Free Spins": "Free Spins"
+    },
+    {
+      "Free Spins": "Free Spins"
+    },
+    {
+      "Activate sounds?": "Aktivera ljud?"
+    },
+    {
+      "Spin No.": "Spin no."
+    },
+    {
+      "Must be set to a value": "Måste ställas in till ett värde" 
+    },
+    {
+      "Game History only available when playing for real": "Spelhistorik endast tillgängliga när du spelar på riktigtl"   
+    },
+    {
+      "You have unused Free Spins": "Du har oanvända free spins"
+    },
+    {
+      "They will be automatically started": "De kommer att starta automatiskt"
+    },
+    {
+      "You have an unfinished Bonus": "Du har en oavslutad bonus"
+    },
+    {
+      "it will be automatically started": "den kommer påbörjas automatiskt"
+    },
+    {
+      "You have been using the slam stop feature":"Du har använt slam-stopp"
+    },
+    {
+      "would you like to enable Fast Play?\rThis can be adjusted in the settings menu.":"          Vill du aktivera snabbspel?\r\r  Det här kan ändras i inställningarna."
+    },
+    {
+      "Fast Play":"Snabbspel"
+    },
+    {
+      "Playing for fun": "Spela på skoj"
+    },
+    {
+      "Free Spins Win":"Gratisspinn-vinst"
+    },
+    {
+      "Bonus Win":"Bonus-vinst"   
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{"frames": [
+
+{
+	"filename": "scatter-reel-anim_00000.png",
+	"frame": {"x":1,"y":1,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00001.png",
+	"frame": {"x":207,"y":1,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00002.png",
+	"frame": {"x":413,"y":1,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00003.png",
+	"frame": {"x":619,"y":1,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00004.png",
+	"frame": {"x":825,"y":1,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00005.png",
+	"frame": {"x":1031,"y":1,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00006.png",
+	"frame": {"x":1237,"y":1,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00007.png",
+	"frame": {"x":1,"y":557,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00008.png",
+	"frame": {"x":207,"y":557,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00009.png",
+	"frame": {"x":413,"y":557,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00010.png",
+	"frame": {"x":619,"y":557,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00011.png",
+	"frame": {"x":825,"y":557,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00012.png",
+	"frame": {"x":1031,"y":557,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00013.png",
+	"frame": {"x":1237,"y":557,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00014.png",
+	"frame": {"x":413,"y":1,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00015.png",
+	"frame": {"x":619,"y":1,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00016.png",
+	"frame": {"x":825,"y":1,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00017.png",
+	"frame": {"x":1031,"y":1,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00018.png",
+	"frame": {"x":1237,"y":1,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00019.png",
+	"frame": {"x":1,"y":557,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00020.png",
+	"frame": {"x":207,"y":557,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00021.png",
+	"frame": {"x":413,"y":557,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00022.png",
+	"frame": {"x":619,"y":557,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "scatter-reel-anim_00023.png",
+	"frame": {"x":825,"y":557,"w":204,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":554},
+	"sourceSize": {"w":204,"h":554},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "reel-flames-part1.png",
+	"format": "RGBA8888",
+	"size": {"w":1442,"h":1112},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7074871dc6c07aaac37d3ed8329a7dfb:79a65d063416d55bf794ad3d8f886d13:469f521cc93d1e1e21fe701728817b90$"
+}
+}

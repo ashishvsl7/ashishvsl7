@@ -1,0 +1,73 @@
+{
+  "Messages": [
+    {
+         "Good luck":"Հաջողություն"
+      },
+      {
+         "Free spins!":"Անվճար սփիներ"
+      },
+      {  
+         "Balance : ":"Հաշվեկշիռ՝"
+      },
+      {
+         "Must be greater than current stake":"Պետք է լինի ընթացիկ խաղադրույքից ավելի"
+      },
+      {
+         "Awards 6 free spins":"Պարգևատրում է 6 անվճար սփինով"
+      },
+      {
+         "Treasure of Horus Game Rules":"Treasure of Horus Խաղի կանոններ"
+     },
+     {
+         "Discover the 3 hidden chambers,\ryou'll find different Wild multipliers and a precious Scatter":"Բացահայտեք 3 թաքնված պալատները,\rև կգտնեք տարբեր Վայրի բազմապատկիչներ և թանքարժեք Սքեթեր սիմվոլ"
+      },
+      {
+         "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.":"Դուք շահում եք շահող տողերի վրա սիմվոլների համընկնելու դեպքում։ Բոլոր ստանդարտ սիմվոլները պետք է համընկնեն հերթական պտուտակների վրա՝ ձախից աջ։ Վճարվում է միայն յուրաքանչյուր տողի վրա ամենամեծ շահումը։ Խափանման դեպքում բոլոր վճարումներն ու խաղերը համարվում են անվավեր։ Լրացուցիչ մանրամասները տես խաղի կանոններում ։"
+      },
+      {
+         "Replaces and multiplies regular winning combinations.":"Փոխարինում և բազմապատկում է սովորական շահող համադրությունները։"
+      },
+      {
+         "Can appear in the regular game and in all free spins chambers.":"Կարող է հայտնվել սովորական խաղում և անվճար սփիների բոլոր պալատներում։"
+      },
+      {
+         "If more than one wild is displayed on the reels completing winning combinations, the higher multiplier is applied.":"Եթե պտուտակի վրա հայտնվում է մեկ կամ ավելի վայրի սիմվոլ՝ ավարտելով շահող համադրությունները, ապա կիրառվում է ավելի մեծ բազմապատկիչ։"
+      },
+      {
+         "Wild has its own paytable.":"Վայրի սիմվոլն ունի վճարման իր աղյուսակը։"
+      },
+      {
+         "Can only appear inside Weret and Horus chamber.":"Կարող է հայտնվել միայն Weret-ի և Horus-ի պալատներում։"
+      },
+      {
+         "Can only appear inside Horus chamber.":"Կարող է հայտնվել միայն Horus-ի պալատներում։"
+      },
+      {
+         "Can only appear in the central reel in the regular game.":"Կարող է հայտնվել միայն սովորական խաղի կենտրանական պտուտակի վրա։"
+      },
+      {
+         "Awards 6 free spins.":"Պարգևատրում է 6 անվճար սփինով։"
+      },
+      {
+         "Enters Anubis chamber.":"Մուտք է գործում Anubis-ի պալատ։"
+      },
+      {
+         "Can only appear in the central reel inside Anubis chamber.":"Կարող է հայտնվել Anubis-ի պալատում՝ կենտրոնական պտուտակի վրա։"
+      },
+      {
+         "Enters Weret chamber.":"Մուտք է գործում Weret-ի պալատ։"
+      },
+      {
+         "Can only appear in the central reel inside Weret chamber.":"Կարող է հայտնվոլ միայն Weret-ի պալատում՝ կենտրոնական պտուտակի վրա։"
+      },
+      {
+         "Enters Horus chamber.":"Մուտք է գործում Horus պալատ։"
+      },
+      {
+         "Explore the Pyramid in search of the 3 secret chambers, where ever bigger treasures are waiting for you.":" 3 գաղտնի պալատները գտնելու համար ուսումնասիրեք Պիրամիդան, որտեղ սպասվում են էլ ավելի մեծ շահումներ։"
+      },
+    {
+        "No Winning Lines":"Շահումներ չկան"
+      }
+  ]
+}

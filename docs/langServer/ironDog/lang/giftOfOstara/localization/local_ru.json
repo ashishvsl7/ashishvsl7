@@ -1,0 +1,94 @@
+{
+  "Messages": [
+    {
+      "Good luck": "Удачи"
+    },
+    {
+      "Symbols": "Символы"
+    },
+    {
+      "Egg Value": "Значение яйца"
+    },
+    {
+      "Mltiplier won": "Выигранный множитель"
+    },
+    {
+      "Line won": "Выигрыш по линии"
+    },
+    {
+      "Free spins!": "Бесплатные вращения!"
+    },
+    {
+      "free re-spins": "бесплатные повторные вращения"
+    },
+    {
+      "Swipe down To full screen": "Сдвиньте вниз, чтобы включить полноэкранный режим"
+    },
+    {
+      "rotate to exit": "поверните, чтобы выйти"
+    },
+    {
+      "Swipe to spin": "Коснитесь, чтобы начать вращение"
+    },
+    {
+      "Balance : ": "Баланс: "
+    },
+    {
+      "Must be set to a value": "Должно быть установлено значение"
+    },
+    {
+      "Must be greater than current stake": "Должно быть выше текущей ставки"
+    },
+    {
+      "You win by matching symbols on win lines. All symbols must be matched on consecutive reels from left to right. Only the highest win on each line will be paid. Malfunction voids all pays and plays. See game rules for more details.": "Необходимо собрать одинаковые символы на выигрышных линиях, чтобы выиграть. Символы должны совпадать на следующих друг за другом барабанах слева направо. Выплачивается только самый высокий выигрыш на каждой линии. При сбое все игры и выплаты аннулируются. С подробной информацией можно ознакомиться в правилах игры."
+    },
+    {
+      "Golden egg reveals special prize eggs": "Золотое яйцо открывает яйца специальных призов"
+    },
+    {
+      "X Multiplier<br>Awards a 2x, 4x, 6x, 8x, 10x bet multiplier": "Х множитель<br>Присуждает множитель Х2, Х4, Х6, Х8, Х10"
+    },
+    {
+      "Re-Spin<br>Awards 1 free re-spin": "Серебряный заяц<br>Присуждает 1 бесплатное повторное вращение"
+    },
+    {
+      "Scatter<br>Awards 30x bet multiplier": "Золотой заяц<br>Присуждает множитель ставки Х30"
+    },
+    {
+      "Wild<br>Completes winning combinations": "Заменитель<br>Расширяющий заменитель на барабане 2, 3 или 4, который заменяет стандартные символы"
+    },
+    {
+      "Sticky Wild<br>Awards 3 free spins and completes winning combinations": "Липкий заменитель<br>Присуждает 3 бесплатных вращения с расширяющимся заменителем на одном из барабанов 2, 3 или 4, который заменяет стандартные символы"
+    },
+    {
+      "Expanding Wild": "Расширяющийся заменитель"
+    },
+    {
+      "x1": "x1"
+    },
+    {
+      "x2": "x2"
+    },
+    {
+      "x3": "x3"
+    },
+    {
+      "x4": "x4"
+    },
+    {
+      "x5": "x5"
+    },
+    {
+      "3 egg symbols in a row of the same type award 10 free spins special symbol egg on the reel award special symbol multiplier": "3 символа яйца одного типа подряд присуждают 10 бесплатных вращений. Специальный символ яйца на барабане присуждает множитель специальных символов."
+    },
+    {
+      "Gifts of Ostara Game Rules": "«Gifts of Ostara» – правила игры"
+    },
+    {
+      "HOLD": "УДЕРЖАТЬ"
+    },
+       {
+        "No Winning Lines":"Nema dobitaka"
+      }
+  ]
+}

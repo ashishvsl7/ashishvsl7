@@ -1,0 +1,133 @@
+{
+  "Messages": [
+    {
+      "Wins are calculated by counting consecutive reels with matching symbols and multiplying by the total number of matching symbols on those reels.": "Vinster beräknas genom att multiplicera antalet konsekutiva hjul som har matchande symboler med det totala antalet matchande symboler på vart och ett av dessa hjul."
+    },
+    {
+      "Wild appears on the 2nd, 3rd, 4th and 5th reels. It substitutes for all symbols. Wilds have a higher chance of appearing on tumbles.": "Wildstjärnor visas på hjul nummer 2, 3, 4 och 5.De räknas som alla icke-wildsymboler samtidigt.Wildstjärnor har stor chans att dyka upp när symboler faller ner."
+    },
+    {
+      "It substitutes all the icons.": "De räknas som alla icke-wildsymboler samtidigt"
+    },
+    {
+      "The sticky wild will only appear on the middle reel and will not disappear when it is part of a winning combination. It will still fall down if symbols below it are part of a winning combination.": "Den klibbiga wildsymbolen kan bara dyka upp på hjul 3 och försvinner inte när den ingår i en vinnande kombination.Den faller ner om symboler under den försvinner, annars fungerar den som en wildstjärna"
+    },
+    {
+      "The expanding wild has a random chance to appear on the 2nd, 3rd, 4th and 5th reels. They substitute for all symbols and multiple of them can appear simultaneously.": "Expanderande wildsymboler har en slumpmässig chans att dyka upp på hjul 2, 3, 4, 5.De fungerar som alla symboler och kan visas på flera hjul samtidigt."
+    },
+    {
+      "Freespins are reached by having multiple successive tumbles. A minimum of 4 tumbles is required to trigger free spins. The base free spin game is 14 free spins with no starting multiplier. Each extra successive win after 4 awards extra freespins or multipliers, up to a maximum of 20 freespins and 5 starting multiplier": "När flera symboler faller ner i följd får du gratissnurr.Minst 4 symbolfall måste inträffa för att aktivera gratissnurr.Det grundläggande gratissnurrspelet består av 14 gratissnurr utan startmultiplikator.För varje ytterligare successiv vinst efter den fjärde får du extra gratissnurr eller multiplikatorer upp till maximalt 20 gratissnurr respektive en sexdubbel startmultiplikator"
+    },
+    {
+      "Inside free spins the game is similar to the base game except that each tumble increments the multiplier by 1. The multiplier applies to the current spin win. There is no sticky wild or expanding wild inside free spins.": "Gratissnurr utspelas på ungefär samma sätt som grundspelet förutom att multiplikatorn ökar med 1 varje gång ett symbolfall inträffar.Multiplikatorn tillämpas på den aktuella snurrvinsten.Det finns ingen klibbig wild eller expanderande wild i gratissnurromgången."
+    },
+    {
+      "Red berry: Appears once on each 5 reels (including wild). So the payout is the flat value for 5x red berry, 10 coins": "<br> Rött bär:Visas en gång på alla 5 konsekutiva hjul (inklusive wild).Utbetalningen är alltså det platta värdet för 5 röda bär och 10 mynt, det vill säga: 10 * 1 * 1 * 1 * 1 * 1 = 10 mynt."
+    },
+    {
+      "Orange berry: Appears on each 5 reels. Appears twice on 2nd, 3rd (including wild) and 5th reel, so payout is the value for 5x multiplied twice by 2. 15 * 2 * 2 * 2 = 120 coins.": "Brandgult bär:Visas på alla 5 konsekutiva hjul.Priset för 5 brandgula bär är 15.Brandgula bär visas en gång på hjul 1, två gånger på hjul 2, två gånger på hjul 3 (inklusive wild), en gång på hjul 4 och två gånger på hjul 5.<br>Utbetalningen är alltså 15 * 1 * 2 * 2 * 1 * 2 = 120 mynt."
+    },
+    {
+      "More than one wild reel can be displayed on the reels at the same time.": "Fler än en expanderande wild kan visas på hjulen samtidigt."
+    },
+    {
+      "Rainbow Wilds Game Rules": "Spelregler för Rainbow Wilds"
+    },
+    {
+      "A free tumble has been interrupted": "Ett fritt symbolfall har avbrutits"
+    },
+    {
+      "Press Spin to continue": "Tryck på Snurra för att fortsätta"
+    },
+    {
+      "Successive Winnings": "Symbolfallsvinster i följd"
+    },
+    {
+      "Successive Winnings trigger Free Spins": "När minst 4 symbolfallsvinster inträffar i följd aktiveras gratissnurr"
+    },
+    {
+      "Win up to 20 FS with x5 multiplier": "Du kan vinna upp till 20 gratissnurr med en x6-startmultiplikator"
+    },
+    {
+      "4 Successive Winnings Trigger 14 FS": "4 symbolfallsvinster i följd aktiverar\n14 gratissnurr"
+    },
+    {
+      "5 Successive Winnings Trigger 16 FS": "5 symbolfallsvinster i följd aktiverar\n16 gratissnurr"
+    },
+    {
+      "6 Successive Winnings Trigger 16 FS\n+x2 Starting multiplier": "6 symbolfallsvinster i följd aktiverar\n16 gratissnurr + x3-startmultiplikator"
+    },
+    {
+      "7 Successive Winnings Trigger 20 FS\n+x2 Starting multiplier": "7 symbolfallsvinster i följd aktiverar\n20 gratissnurr + x3-startmultiplikator"
+    },
+    {
+      "6 Successive Winnings Trigger 20 FS\n+x5 Starting multiplier": "8 symbolfallsvinster i följd aktiverar\n20 gratissnurr + x6-startmultiplikator"
+    },
+    {
+      "4 Successive Winnings Triggers 14 FS": "4 symbolfallsvinster i följd aktiverar 14 gratissnurr"
+    },
+    {
+      "5 Successive Winnings Triggers 16 FS": "5 symbolfallsvinster i följd aktiverar 16 gratissnurr"
+    },
+    {
+      "6 Successive Winnings Triggers 16 FS + 2x Starting Multiplier": "6 symbolfallsvinster i följd aktiverar 16 gratissnurr + x3-startmultiplikator"
+    },
+    {
+      "7 Successive Winnings Triggers 20 FS + 2x Starting Multiplier": "7 symbolfallsvinster i följd aktiverar 20 gratissnurr + x3-startmultiplikator"
+    },
+    {
+      "8 Successive Winnings Triggers 20 FS + 5x Starting Multiplier": "8 symbolfallsvinster i följd aktiverar 20 gratissnurr + x6-startmultiplikator"
+    },
+    {
+      "Game Features": "Spelfunktioner"
+    },
+    {
+      "Expanding Wild On Reel 2,3,4,5": "Expanderande wild visas på hjul 2, 3, 4, 5"
+    },
+    {
+      "Different Wilds On Reel 2,3,4,5": "Wild visas på hjul 2, 3, 4, 5"
+    },
+    {
+      "Sticky Wild On Successive Tumbling": "Klibbig wild ges vid flera symbolfall i följd"
+    },
+    {
+      "Wild": "Wildstjärnor"
+    },
+    {
+      "Free Spin": "Gratissnurr"
+    },
+    {
+      "Win Ways": "1 024 vinstsätt"
+    },
+    {
+      "Free Spin Features": "Gratissnurrfunktioner"
+    },
+    {
+      "Wild Increasing Hand Multiplier (it increments by 1 on each win)": "Ökande vinstmultiplikator vid gratissnurr (ökar med 1 för varje vinst)"
+    },
+    {
+      "Free Tumble": "Fria symbolfall"
+    },
+    {
+      "Tumble WIN": "Fria symbolfall"
+    },
+    {
+      "Whenever a win way pays out the symbols are destroyed and all remaining symbols tumble down.": "När ett vinstsätt ger vinst förstörs symbolerna och alla återstående symboler faller ner."
+    },
+    {
+      "All destroyed symbols are replaced with symbols from higher up on the reels with a high chance of extra Wild Stars appearing.": "Alla förstörda symboler ersätts med symboler ovanifrån på hjulen med stor chans till extra wildstjärnor."
+    },
+    {
+      "If the new symbols also form a win way they too will pay out and more symbols will tumble in to replace them, this will continue until no more Win Ways can be made.": "Om de nya symbolerna också bildar ett vinstsätt kommer även de att ge vinst och fler symboler kommer att falla ner och ersätta dem. Detta fortsätter tills inga fler vinstsätt kan uppnås."
+    },
+    {
+       "Sticky Wild":"Klibbig Wild"
+    },
+    {
+      "Expanding Wild":"Expanderande Wilds"
+     },
+       {
+        "No Winning Lines":"Inga vinster"
+      }
+  ]
+}

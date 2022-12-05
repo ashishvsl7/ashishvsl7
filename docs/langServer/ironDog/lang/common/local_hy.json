@@ -1,0 +1,452 @@
+{
+    "Messages": [{
+            "WIN": "ՇԱՀՈՒՄ"
+        },
+        {
+            "BET": "ԽԱՂԱԴՐՈՒՅՔ ԿԱՏԱՐԵԼ"
+        },
+        {
+            "Balance": "Հաշվեկշիռ"
+        },
+        {
+            "Bet:": "Խաղադրույք"
+        },
+        {
+            "good luck": "Հաջողություն"
+        },
+        {
+            "Good luck": "Հաջողություն"
+        },
+        {
+            "My Account": "Իմ հաշիվը"
+        },
+        {
+            "Total won:": "Ընդհանուր շահում՝"
+        },
+        {
+            "Total WIN": "Ընդհանուր շահում՝"
+        },
+        {
+            "Coins:": "Մետաղադրամներ՝"
+        },
+        {
+            "Something went wrong!": "Ինչ-որ բան սխալ է։"
+        },
+        {
+            "Bet over max stake": "Խաղադրույքը գերազանցում է առավելագույն խաղադրույքի շեմը"
+        },
+        {
+            "Bet under min stake": "Խաղադրույքը ցածր է նվազագույն խաղադրույքի շեմից"
+        },
+        {
+            "Insufficient funds. Please reduce stake.": "Անբավարար միջոցներ։ Խնդրում ենք  նվազեցնել խաղադրույքը։"
+        },
+        {
+            "Browser not supported": "Բրաուզերը չի սպասարկվում"
+        },
+        {
+            "Unfortunately we do not support your web browser. Please update in order to play the game.": "Ցավոք սրտի մենք չենք սպասարկում ձեր վեբ բրաուզերը։ Խնդրում ենք թարմացնել այն՝ խաղը սկսելու համար։ "
+        },
+        {
+            "We could not load the latest results": "Մենք չկարողացանք բեռնել վերջին արդյունքները"
+        },
+        {
+            "Unable to contact game server": "Հնարավոր չէ կապ հաստատել խաղի սերվերի հետ"
+        },
+        {
+            "Error placing bet": "Խաղադրույք կատարելու սխալ"
+        },
+        {
+            "We could not load the language files": "Մենք չկարողացանք բեռնել լեզվի հետ կապված ֆայլերը"
+        },
+        {
+            "We could not load the game assets": "Մենք չկարողացանք բեռնել խաղի ֆայլերը"
+        },
+        {
+            "Unable to load setup xml": "Հնարավոր չէ բեռնել setup xml-ը"
+        },
+        {
+            "We were unable to retrieve the game setup parameters": "Մենք չկարողացանք վերականգնել խաղի տեղադրման չափանիշերը"
+        },
+        {
+            "Error Loading Game Setup": "Խաղի տեղադրման ծրագրի բեռնման սխալ"
+        },
+        {
+            "We were unable to retrieve your account information": "Մենք չկարողացանք վերականգնել ձեր հաշվի տեղեկատվությունը"
+        },
+        {
+            "Error Loading Account Info": "Հաշվի տեղեկատվությունը բեռնելու սխալ"
+        },
+        {
+            "We were unable to retrieve your bet history": "Մենք չկարողացանք վերականգնել ձեր խաղադրույքների պատմությունը"
+        },
+        {
+            "Error Loading Bet History": "Խաղադրույքի պատմությունը բեռնելու սխալ"
+        },
+        {
+            "We were unable to retrieve the current currency symbol": "Մենք չկարողացանք վերականգնել ընթացիկ փոխարժեքի սիմվոլը"
+        },
+        {
+            "Error Loading Currency Symbol": "Փոխարժեքի սիմվոլը բեռնելու սխալ"
+        },
+        {
+            "Try Again": "Կրկին փորձեք"
+        },
+        {
+            "OK": "OK"
+        },
+        {
+            "Got it!": "Հասկանալի է"
+        },
+        {
+            "Lobby": "Լոբբի"
+        },
+        {
+            "Apparently we’re having some trouble, please try again later.": "Հավանաբար խնդիր կա, խնդրում ենք կրկին փորձել մի փոքր ուշ։"
+        },
+        {
+            "Whoooaaaaa": "Ուռաաաաաաաաաա"
+        },
+        {
+            "You’ve been playing for a long time! Don’t you want to take a short break?": "Դուք արդեն երկար ժամանակ եք խաղում։ Չէ՞ք ուզում մի փոքր ընդմիջել։"
+        },
+        {
+            "Please rotate your device": "Խնդրում ենք պտտել ձեր սարքը"
+        },
+        {
+            "The time limit you have set has expired, we recommend that you take a short break before continuing. Would you like to continue?": "Ձեր ընտրած ժամանակային սահմանափակումն ավարտվել է, մենք խորհուրդ ենք տալիս խաղը շարունակելուց առաջ ընդմիջում կատարել։ Ցանկանու՞մ եք շարունակել։"
+        },
+        {
+            "You have been playing for": "Դուք արդեն խաղում եք"
+        },
+        {
+            "Continue Playing": "Շարունակել խաղալ"
+        },
+        {
+            "Exit Game": "Ավարտել խաղը"
+        },
+        {
+            "Account History": "Հաշվի պատմություն"
+        },
+        {
+            "Menu": "Մենյու"
+        },
+        {
+            "Settings": "Կարգավորումներ"
+        },
+        {
+            "Game History": "Խաղի պատմություն"
+        },
+        {
+            "List of Bets Click One To See Spin": "Խաղադրույքների ցանկ։ Սեղմեք որևէ սփին տեսնելու համար"
+        },
+        {
+            "Bet": "Խաղադրույք"
+        },
+        {
+            "Lines": "Տողեր"
+        },
+        {
+            "Bet/Lines": "Խաղադրույք/Տողեր"
+        },
+        {
+            "Total Win": "Ընդհանուր շահում"
+        },
+        {
+            "Winning Lines - Total:": "Շահող տողեր - Ընդհանուր՝"
+        },
+        {
+            "Losing Lines": "Պարտված տողեր"
+        },
+        {
+            "Balance:": "Հաշվեկշիռ՝"
+        },
+        {
+            "Playing for real": "Խաղալ Իրական խաղ"
+        },
+        {
+            "Coins": "Մետաղադրամներ"
+        },
+        {
+            "Cash": "Կանխիկ"
+        },
+        {
+            "Bet Max": "Առավելագույն խաղադրույք"
+        },
+        {
+            "Stop Autoplay": "Դադարեցնել Ավտոխաղը"
+        },
+        {
+            "On any win ": "Ցանկացած շահումի վրա"
+        },
+        {
+            "On single win of ": "---- մեկանգամյա շահումի վրա"
+        },
+        {
+            "If cash increase by ": "Եթե գումարը ավելանում է ----ով"
+        },
+        {
+            "If cash decrease by ": "Եթե գումարը նվազում է ----ով"
+        },
+        {
+            "When entering any feature": "Որևէ հատկություն բացելիս"
+        },
+        {
+            "Sounds": "Ձայներ"
+        },
+        {
+            "Spin Settings": "Սփինի կարգավորումներ"
+        },
+        {
+            "Stop Autoplay": "Դադարեցնել Ավտոխաղը"
+        },
+        {
+            "Bet Settings": "Խաղադրույքի կարգավորումներ"
+        },
+        {
+            "ACCEPTED": "ԸՆԴՈՒՆՎԱԾ Է"
+        },
+        {
+            "COM FAILURE": "ԿԱՊԻ ԽԱՓԱՆՈՒՄ"
+        },
+        {
+            "COMPLETE": "ԱՎԱՐՏՎԱԾ"
+        },
+        {
+            "DECLINED": "ՄԵՐԺՎԱԾ"
+        },
+        {
+            "F1x2SETTLED": "F1x2 ԿԱՐԳԱՎՈՐՎԱԾ"
+        },
+        {
+            "MISSETTLED": "ՍԽԱԼ ԿԱՐԳԱՎՈՐՎԱԾ"
+        },
+        {
+            "NOT SETTLED": "ՉԿԱՐԳԱՎՈՐՎԱԾ"
+        },
+        {
+            "SUBMITTED": "ՆԵՐԿԱՅԱՑՎԱԾ"
+        },
+        {
+            "normal": "սովորական"
+        },
+        {
+            "win": "շահում"
+        },
+        {
+            "Date": "Ամիս, ամսաթիվ"
+        },
+        {
+            "Time": "Ժամ"
+        },
+        {
+            "Line": "Տող"
+        },
+        {
+            "Sound Effects": "Ձայնային էֆեկտներ"
+        },
+        {
+            "Background Music": "Ֆոնային երաժշտություն"
+        },
+        {
+            "Press Space to Spin": "Սեղմեք միջակայք ստեղնը պտույտ կատարելու համար"
+        },
+        {
+            "Left Handed Spin": "Պտույտ ձախ ձեռքով"
+        },
+        {
+            "Display in Coins": "Ցուցադրել մետաղադրամներով"
+        },
+        {
+            "Stop on any win": "Դադարեցնել ցանկացած շահման դեպքում"
+        },
+        {
+            "Stop on win of": "Դադարեցնել ---- շահման դեպքում"
+        },
+        {
+            "Stop if cash increases by": "Դադարեցնել, եթե կանխիկն ավելանում է -------ով"
+        },
+        {
+            "Stop if cash decreases by": "Դադարեցնել, եթե կանխիկը նվազում է -------ով"
+        },
+        {
+            "Stop when feature entered": "Դադարեցնել հատկությունը բացելիս"
+        },
+        {
+            "Don't show anymore": "Այլևս չցուցադրել"
+        },
+        {
+            "Continue": "Շարունակել"
+        },
+        {
+            "COMPLETE": "ԱՎԱՐՏՎԱԾ"
+        },
+        {
+            "win": "շահում"
+        },
+        {
+            "Congratulation": "Շնորհավորում ենք"
+        },
+        {
+            "You've won a bonus round": "Դուք շահել եք բոնուսային ռաունդ"
+        },
+        {
+            "you won": "դուք շահել եք"
+        },
+        {
+            "bonus round": "բոնուսային ռաունդ"
+        },
+        {
+            "Good luck!": "Հաջողություն"
+        },
+        {
+            "Multiplier": "Բազմապատկիչ"
+        },
+        {
+            "Total won": "Ընդհանուր շահում"
+        },
+
+        {
+            "free rounds": "Անվճար ռաունդներ"
+        },
+        {
+            "Free Rounds:": "Անվճար ռաունդներ՝"
+        },
+        {
+            "Free Rounds": "Անվճար ռաունդներ"
+        },
+        {
+            "Loading images please wait...": "Պատկերների բեռնում, խնդրում ենք սպասել..."
+        },
+
+        {
+            "freespins": "ֆրիսփիներ"
+        },
+        {
+            "Free Spin": "Անվճար սփին"
+        },
+        {
+            "free Spin": "Անվճար սփին"
+        },
+        {
+            "swipe to activate full screen": "մատը սահեցրեք էկրանի վրա՝ ամբողջական էկրանն ակտիվացնելու համար"
+        },
+        {
+            "Show help screen on load": "Ցույց տալ օգնության էկրանը բեռնման ժամանակ"
+        },
+        {
+            "Status": "Կարգավիճակ"
+        },
+        {
+            "Channel": "Ալիք"
+        },
+        {
+            "Placed": "Կատարված"
+        },
+        {
+            "Settled": "Կարգավորված"
+        },
+        {
+            "GUI Descriptions": "Կոճակների նկարագրություններ"
+        },
+        {
+            "Help Button": "Օգնության կոճակ"
+        },
+        {
+            "Bet Control": "Խաղադրույքի կառավարում"
+        },
+        {
+            "Autoplay Button": "Ավտոխաղի կոճակ"
+        },
+        {
+            "Autoplay Start Button": "Ավտոխաղի մեկնարկի կոճակ"
+        },
+        {
+            "Autoplay Stop Button": "Ավտոխաղի դադարեցման կոճակ"
+        },
+        {
+            "Spin Button": "Սփին կոճակ"
+        },
+        {
+            "Stop Button": "Ստոպ կոճակ"
+        },
+        {
+            "You've won": "Դուք շահել եք"
+        },
+        {
+            "You won": "Դուք շահեցիք"
+        },
+        {
+            "Free spins finished": "Անվճար սփիներն ավարտվել են"
+        },
+        {
+            "you've won": "դուք շահել եք"
+        },
+        {
+            "Free Spins": "Անվճար սփիներ"
+        },
+        {
+            "Free Spins": "Անվճար սփիներ"
+        },
+        {
+            "free re-spins": "Անվճար սփիներ"
+        },
+        {
+            "Activate sounds?": "Ակտիվացնե՞լ ձայնը։"
+        },
+        {
+            "Spin No.": "Սփինի համար՝"
+        },
+        {
+            "Must be set to a value": "Պետք է տեղադրվի արժեքով"
+        },
+        {
+            "Game History only available when playing for real": "Խաղի պատմությունը հասանելի է միայն իրակական խաղ խաղալիս"
+        },
+        {
+            "You have unused Free Spins": "Դուք ունեք չօգտագործված Անվճար սփիներ"
+        },
+        {
+            "They will be automatically started": "Դրանք ավտոմատ կերպով կմեկնարկեն"
+        },
+        {
+            "You have an unfinished Bonus": "Դուք ունեք չավարտված Բոնուս"
+        },
+        {
+            "it will be automatically started": "այն ավտոմատ կերպով կմեկնարկի"
+        },
+        {
+            "You have been using the slam stop feature": "Դուք օգտագործում եք ուժային դադարեցման \nհատկությունը"
+        },
+        {
+            "would you like to enable Fast Play?\rThis can be adjusted in the settings menu.": "\nՑանկանու՞մ եք ակտիվացնել Արագ Խաղը\rԴա կարող է կատարվել կարգավորումների մենյույում։"
+        },
+        {
+            "Fast Play": "Արագ խաղ"
+        },
+        {
+            "Playing for fun": "Խաղալ հաճույքի համար"
+        },
+        {
+            "Free Spins Win": "Անվճար սփիների շահում"
+        },
+        {
+          "You have unused Re-Spin": "Դուք ունեք չօգտագործված Անվճար Սփինի"
+        },
+        {
+          "re-spin":"Անվճար Սփին"
+        },
+        {
+            "Scatter Win":"Scatter շահում"
+        },
+        {
+            "It will be automatically started": "այն ավտոմատ կերպով կմեկնարկի"
+        },
+        {
+            "Bonus Win": "Բոնուսային շահում"
+        },
+        {
+            "Must be greater than current stake": "Պետք է լինի ընթացիկ խաղադրույքից ավելի"
+        }
+    ]
+}
